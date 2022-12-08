@@ -12,7 +12,7 @@ The next release should include:
 * https://schnitzler-briefe.acdh.oeaw.ac.at
 * https://schnitzler-cmif.acdh.oeaw.ac.at printed correspondences of Schnitzlers
 
-Contributions from https://www.schnitzler-edition.net are in planning
+Contributions from https://www.schnitzler-edition.net are in preparation
 
 The general idea is to be able to look up any given day in Arthur Schnitzler’s life and get a listing of his diary entry, letters and manuscripts from that very day.
 
