@@ -14,6 +14,7 @@
     
     <xsl:template match="tei:listEvent[not(child::*)]"/>
    
+   
     
     <xsl:template match="tei:body/tei:list/tei:item">
         <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">
@@ -23,7 +24,7 @@
                 <xsl:when test="tei:listEvent[not(child::*)] and not(key('nachschlagen', @sortKey, $einzuarbeitendeListe))"/>
                 <xsl:otherwise>
                     <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:copy-of select="tei:listEvent/tei:event[not(tei:idno/@type=$einzuarbeitenderTyp)]"/>
+                        <xsl:copy-of select="tei:listEvent/tei:event[not(tei:idno[@type=$einzuarbeitenderTyp])]"/>
                         <xsl:copy-of select="key('nachschlagen', @sortKey, $einzuarbeitendeListe)"/>
                     </xsl:element>
                 </xsl:otherwise>
