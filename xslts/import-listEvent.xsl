@@ -5,7 +5,7 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:param name="einzuarbeitendeListe" select="document('../individual-lists/orte-tage.xml')"/>
+    <xsl:param name="einzuarbeitendeListe" select="document('../individual-lists/bahr-tage.xml')"/>
     <xsl:key name="nachschlagen" match="tei:event" use="@when-iso"/>
     
     <xsl:param name="threshold" select="xs:date('1931-10-21')"/>
