@@ -30,7 +30,7 @@ items with asterix are not mandatory. if @from and @to are given "iso-date" can 
 
 the basic TEI-outline of the file is an item with the iso-date as sortKey and a listEvent with as much events as available, giving the source project in the idno-type:
 
-```
+```xml
 <list>
 <item sortKey="1930-04-21">
                <listEvent>
