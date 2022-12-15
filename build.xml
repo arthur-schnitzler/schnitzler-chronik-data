@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+    <property name="target" value="./final-list"/>
+    <delete>
+        <fileset dir="${target}" includes="schnitzler-tage.xml"/>
+    </delete>
+   <xslt style="./xslts/import-listEvent.xsl.xsl"  basedir="./individual-lists" destdir="${target}" includes="tagesliste.xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <replace dir="${target}" value="">
+        <include name="*.xml"/>
+        <replacetoken> xmlns=""</replacetoken>
+    </replace>
+    <copy todir="${target}" flatten="true">
+        <fileset dir="./final-list/">
+            <include name="**/*.xml"/>
+        </fileset>
+    </copy>
+</project>
