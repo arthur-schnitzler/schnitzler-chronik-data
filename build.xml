@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="tei2html">
-    <property name="target" value="./final-list"/>
-    <delete>
-        <fileset dir="${target}" includes="schnitzler-tage.xml"/>
-    </delete>
-   <xslt style="./xslts/import-listEvent.xsl.xsl"  basedir="./individual-lists" destdir="${target}" includes="tagesliste.xml">
+    <property name="tmpDir" value="./tmp"/>
+    <property name="final-list" value="./final-list"/>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+    <xslt style="./xslts/1_alle-events-zusammenkopieren.xsl"  basedir="./final-list" destdir="${tmpDir}" includes="schnitzler-tage.xml" extension=".xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <replace dir="${target}" value="">
-        <include name="*.xml"/>
-        <replacetoken> xmlns=""</replacetoken>
-    </replace>
-    <copy todir="${target}" flatten="true">
-        <fileset dir="./final-list/">
-            <include name="**/*.xml"/>
-        </fileset>
-    </copy>
+    <move todir="${final-list}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <xslt style="./xslts/2_nach-daten-gruppieren.xsl"  basedir="./final-list" destdir="${tmpDir}" includes="schnitzler-tage.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <move todir="${final-list}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
 </project>
