@@ -16,9 +16,9 @@ jobs:
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
         ./dl_saxon.sh
-    - name: run xsl
+    - name: use XSLTs
       run: |
-        ./ant
+        ./run_ant.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Updated schnitzler-tage.xml
