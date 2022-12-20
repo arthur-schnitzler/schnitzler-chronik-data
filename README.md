@@ -1,4 +1,5 @@
 # schnitzler-tage
+# Arthur Schnitzer – Tag für Tag
 A TEI-listEvent with entries for every day of Arthur Schnitzler’s adult life
 
 This repository collects links to different biographical sources on Arthur Schnitzler:
@@ -11,7 +12,7 @@ The next release should include:
 
 * https://schnitzler-briefe.acdh.oeaw.ac.at
 * https://schnitzler-cmif.acdh.oeaw.ac.at printed correspondences of Schnitzlers
-*  Contributions from https://www.schnitzler-edition.net 
+* Contributions from https://www.schnitzler-edition.net 
 
 The general idea is to be able to look up any given day in Arthur Schnitzler’s life and get a listing of his diary entry, letters and manuscripts from that very day.
 
