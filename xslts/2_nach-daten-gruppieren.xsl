@@ -4,22 +4,25 @@
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    
+ 
     <xsl:template match="tei:listEvent">
         <xsl:element name="list" namespace="http://www.tei-c.org/ns/1.0">
-       <xsl:for-each-group select="child::tei:event" group-by="@when-iso">
-           <xsl:sort select="@when-iso"/>
-           <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">
-               <xsl:attribute name="sortKey">
-                   <xsl:value-of select="@when-iso"/>
-               </xsl:attribute>
-           <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-               <xsl:for-each select="fn:current-group()">
-                   <xsl:copy-of select="."/>
-               </xsl:for-each>
-           </xsl:element>
-           </xsl:element>
-       </xsl:for-each-group>
+            <xsl:for-each-group select="tei:event" group-by="@when-iso">
+                <xsl:sort select="@when-iso"></xsl:sort>
+                <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="sortKey">
+                        <xsl:value-of select="@when-iso"/>
+                    </xsl:attribute>
+                <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:copy-of select="fn:current-group()"/>
+                </xsl:element>
+                </xsl:element>
+            </xsl:for-each-group>
         </xsl:element>
+        
+        
+        
     </xsl:template>
+    
+  
 </xsl:stylesheet>
