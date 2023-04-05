@@ -29,5 +29,5 @@
     <move todir="${data}">
         <fileset dir="${tmpDir}"/>
     </move>
-    <<delete dir="${tmpDir}"/>
+    <delete dir="${tmpDir}"/>
 </project>
