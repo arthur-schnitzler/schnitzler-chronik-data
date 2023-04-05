@@ -12,6 +12,7 @@
                         <title level="s">Arthur Schnitzler – Tag für Tag</title>
                         <respStmt>
                             <resp>providing the content</resp>
+                            <name>Kristina Fink</name>
                             <name>Martin Anton Müller</name>
                             <name>Laura Untner</name>
                         </respStmt>
