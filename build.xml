@@ -21,6 +21,7 @@
     <move todir="${editions}">
         <fileset dir="${tmpDir}"/>
     </move>
+    <mkdir dir="${tmpDir}"/>
     <xslt in="${editions}/schnitzler-tage.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
         style="./xslts/3_einzeldateien.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
