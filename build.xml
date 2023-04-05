@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="tei2html">
-    <property name="tmpDir" value="./data/tmp"/>
-    <property name="editions" value="./data/editions"/>
+    <property name="tmpDir" value="./tmp"/>
+    <property name="editions" value="./editions/complete-list"/>
     <delete dir="${tmpDir}"/>
     <mkdir dir="${tmpDir}"/>
-    <xslt in="./editions/indices/tagesliste.xml" out=".editions/data/schnitzler-tage.xml" style="./xslts/1_alle-events-zusammenkopieren.xsl">
+    <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-tage.xml"
+        style="./xslts/1_alle-events-zusammenkopieren.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
     <move todir="${editions}">
         <fileset dir="${tmpDir}"/>
     </move>
-    
+    <xslt in="${editions}/schnitzler-tage.xml" out="${tmpDir}/schnitzler-tage.xml"
+        style="./xslts/2_nach-daten-gruppieren.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <move todir="${editions}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
 </project>

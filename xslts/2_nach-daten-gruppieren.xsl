@@ -7,7 +7,6 @@
     
     <xsl:template match="tei:listEvent">
         <xsl:element name="list" namespace="http://www.tei-c.org/ns/1.0">
-        <xsl:variable name="distinct-dates" select="fn:distinct-values(child::tei:event/@when-iso)"/>
        <xsl:for-each-group select="child::tei:event" group-by="@when-iso">
            <xsl:sort select="@when-iso"/>
            <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">

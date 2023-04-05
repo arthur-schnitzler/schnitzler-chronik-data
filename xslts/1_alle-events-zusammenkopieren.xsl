@@ -74,7 +74,8 @@
         <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:variable name="folderURI" select="resolve-uri('.', base-uri())"/>
             <xsl:for-each
-                select="collection(concat($folderURI, '../individual-lists/?select=*_tage.xml;recurse=yes'))/descendant::tei:listEvent/node()">
+                select="collection(concat($folderURI, '../../import-lists/?select=*_tage.xml;recurse=yes'))/descendant::tei:listEvent/node()">
+                <xsl:sort select="@when-iso"></xsl:sort>
                 <xsl:copy-of select="." copy-namespaces="no"/>
             </xsl:for-each>
         </xsl:element>
