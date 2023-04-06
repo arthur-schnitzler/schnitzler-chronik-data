@@ -10,7 +10,8 @@
         </empty>
     </xsl:template>
     <xsl:template match="tei:item">
-        <xsl:result-document href="{normalize-space(@sortKey),'.xml'}">
+        <xsl:variable name="dateiname" as="xs:string" select="concat(normalize-space(@sortKey),'.xml')"/>
+        <xsl:result-document href="{$dateiname}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
                 <teiHeader>
                     <fileDesc>
