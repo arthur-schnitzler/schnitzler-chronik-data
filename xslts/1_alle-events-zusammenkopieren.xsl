@@ -66,18 +66,18 @@
             <text>
                 <body>
                     <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:apply-templates mode="rootcopy"/>
+                        <xsl:call-template name="events-einfuegen"/>
                     </xsl:element>
                 </body>
             </text>
         </TEI>
     </xsl:template>
-    <xsl:template match="node()" mode="rootcopy">
+    <xsl:template name="events-einfuegen" >
         <xsl:variable name="folderURI" select="resolve-uri('.', base-uri())"/>
         <xsl:for-each
-            select="collection(concat($folderURI, '../../import-lists/?select=*_tage.xml;recurse=yes'))/descendant::tei:listEvent/tei:event">
+            select="collection(concat($folderURI, '../../import-lists/?select=*_tage.xml'))/descendant::tei:listEvent">
             <xsl:sort select="@when-iso"/>
-            <xsl:copy-of select="." copy-namespaces="no"/>
+            <xsl:copy-of select="child::tei:event" copy-namespaces="no"/>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>

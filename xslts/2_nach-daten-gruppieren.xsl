@@ -13,13 +13,13 @@
     </xsl:template>
     <xsl:template match="tei:listEvent">
         <xsl:for-each-group select="tei:event" group-by="@when-iso">
-            <xsl:sort select="@when-iso"/>
+            <xsl:sort select="current-grouping-key()"/>
             <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="sortKey">
                     <xsl:value-of select="@when-iso"/>
                 </xsl:attribute>
                 <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:copy-of select="fn:current-group()"/>
+                    <xsl:apply-templates select="current-group()"/>
                 </xsl:element>
             </xsl:element>
         </xsl:for-each-group>
