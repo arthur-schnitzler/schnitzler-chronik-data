@@ -32,7 +32,7 @@
                                 <xsl:variable name="monat"
                                     select="df:germanNames(fn:format-date(@sortKey, '[MNn]'))"/>
                                 <xsl:value-of
-                                    select="concat($wochentag, ', ', tokenize(@sortkey, '-')[3], '. ', $monat, ' ', tokenize(@sortkey, '-')[1])"
+                                    select="concat($wochentag, ', ', fn:format-date(@sortKey, '[D]'), '. ', $monat, ' ', fn:format-date(@sortKey, '[Y]'))"
                                 />
                             </xsl:element>
                             <respStmt>
