@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions"
-    xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
+    xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:df="http://example.com/df"
+    version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
+    <xsl:import href="germandate.xsl"/>
     <xsl:template match="tei:TEI">
         <empty>
-        <xsl:apply-templates select="tei:text/tei:body/tei:list/tei:item"/>
+            <xsl:apply-templates select="tei:text/tei:body/tei:list/tei:item"/>
         </empty>
     </xsl:template>
     <xsl:template match="tei:item">
-        <xsl:variable name="dateiname" as="xs:string" select="concat(normalize-space(@sortKey),'.xml')"/>
+        <xsl:variable name="dateiname" as="xs:string"
+            select="concat(normalize-space(@sortKey), '.xml')"/>
         <xsl:result-document href="{$dateiname}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
                 <teiHeader>
@@ -24,8 +27,12 @@
                                 <xsl:attribute name="when-iso">
                                     <xsl:value-of select="@sortKey"/>
                                 </xsl:attribute>
+                                <xsl:variable name="wochentag"
+                                    select="df:germanNames(fn:format-date(@sortKey, '[FNn]'))"/>
+                                <xsl:variable name="monat"
+                                    select="df:germanNames(fn:format-date(@sortKey, '[MNn]'))"/>
                                 <xsl:value-of
-                                    select="fn:format-date(@sortKey, '[FNn], [D1o] [MNn] [Y]', 'de', (), ())"
+                                    select="concat($wochentag, ', ', tokenize(@sortkey, '-')[3], '. ', $monat, ' ', tokenize(@sortkey, '-')[1])"
                                 />
                             </xsl:element>
                             <respStmt>
