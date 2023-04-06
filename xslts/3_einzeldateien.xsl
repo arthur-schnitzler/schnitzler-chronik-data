@@ -25,7 +25,7 @@
                                     <xsl:value-of select="@sortKey"/>
                                 </xsl:attribute>
                                 <xsl:value-of
-                                    select="format-date(@sortKey, '[Fn], [D]. [MNn] [Y0001]', 'de', (), ())"
+                                    select="fn:format-date(@sortKey, '[FNn], [D1o] [MNn] [Y]', 'de', (), ())"
                                 />
                             </xsl:element>
                             <respStmt>
