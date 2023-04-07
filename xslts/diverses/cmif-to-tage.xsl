@@ -230,7 +230,7 @@
                                     <xsl:text>nach </xsl:text>
                                     <xsl:value-of
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
-                                    <xsl:text>und vor </xsl:text>
+                                    <xsl:text> und vor </xsl:text>
                                     <xsl:value-of
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
                                     />
