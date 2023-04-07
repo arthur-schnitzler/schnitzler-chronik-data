@@ -74,6 +74,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1921-12-28">
+               <head>Arthur Schnitzler an Georg Brandes, 28. 12. 1921</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb32093">Wolfgang Goethe</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32159">William Shakespeare</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02372.html</idno>
+            </event>
+            <event when-iso="1921-12-28">
                <head>Arthur Schnitzler an Gustaf Linden, 28.12.1921</head>
                <desc>
                   <listPerson>

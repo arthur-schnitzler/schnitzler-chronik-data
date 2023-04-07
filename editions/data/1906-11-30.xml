@@ -74,6 +74,51 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1906-11-30">
+               <head>Albert Ehrenstein an Arthur Schnitzler, 30. 11. 1906</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4107">
+                  Euripides
+               </persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33398">Helena</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01640.html</idno>
+            </event>
+            <event when-iso="1906-11-30">
+               <head>Arthur Schnitzler an Albert Ehrenstein, 30. 11. 1906</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb133">Edmund-Weiß-Gasse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01641.html</idno>
+            </event>
+            <event when-iso="1906-11-30">
                <head>Tagebuch, 30. November 1906</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-11-30.html</idno>

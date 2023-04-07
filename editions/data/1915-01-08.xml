@@ -74,6 +74,48 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1915-01-08">
+               <head>Arthur Schnitzler an Georg Brandes, 8. 1. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb32093">Wolfgang Goethe</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32159">William Shakespeare</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33263">Tilstande i russisk Polen</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb150">Sternwartestraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb313">Polen</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02202.html</idno>
+            </event>
+            <event when-iso="1915-01-08">
                <head>Tagebuch, 8. Januar 1915</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-01-08.html</idno>

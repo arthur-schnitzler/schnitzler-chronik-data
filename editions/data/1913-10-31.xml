@@ -74,6 +74,28 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1913-10-31">
+               <head>Arthur Schnitzler an Bertha von Suttner, 31. 10. 1913</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12906">Bertha von Suttner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb150">Sternwartestraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02155.html</idno>
+            </event>
+            <event when-iso="1913-10-31">
                <head>Tagebuch, 31. Oktober 1913</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-10-31.html</idno>

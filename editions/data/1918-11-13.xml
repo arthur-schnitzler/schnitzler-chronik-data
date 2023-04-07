@@ -74,6 +74,42 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1918-11-13">
+               <head>Arthur Schnitzler an Robert Adam, 13. 11. 1918</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33604">Yppl. Idylle in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33606">Der Fremde</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb150">Sternwartestraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb62">XII., Meidling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1239">Meidlinger Hauptstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb20">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02310.html</idno>
+            </event>
+            <event when-iso="1918-11-13">
                <head>Tagebuch, 13. November 1918</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-11-13.html</idno>

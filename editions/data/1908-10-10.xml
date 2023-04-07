@@ -74,6 +74,33 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1908-10-10">
+               <head>Albert Ehrenstein an Arthur Schnitzler, 10. 10. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33452">Tubutsch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33504">Seltene Gäste</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb300">Ottakringerstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01792.html</idno>
+            </event>
+            <event when-iso="1908-10-10">
                <head>Tagebuch, 10. Oktober 1908</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-10-10.html</idno>

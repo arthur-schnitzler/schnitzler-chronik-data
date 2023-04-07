@@ -73,6 +73,42 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1901-09-21">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 21. 9. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb43143">Wiener Schachclub</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb338">Wollzeile</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50825">Tiefer Graben</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01175.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

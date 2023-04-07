@@ -74,6 +74,36 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/91800/</idno>
             </event>
             <event when-iso="1901-07-03">
+               <head>Arthur Schnitzler an Hermann Bahr, 3. 7. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29959">Erotisch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb212">St. Anton am Arlberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb220">Veitlissengasse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01139.html</idno>
+            </event>
+            <event when-iso="1901-07-03">
                <head>Schnitzler an Bahr, 3. 7. 1901</head>
                <desc/>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041037.html</idno>

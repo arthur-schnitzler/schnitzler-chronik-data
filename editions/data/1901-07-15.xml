@@ -79,6 +79,28 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/43040/</idno>
             </event>
             <event when-iso="1901-07-15">
+               <head>Edith Brandes an Arthur Schnitzler, 15. 7. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb4395">Edith Philipp</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb958">Skodsborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1126">Hotel Øresund</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01147.html</idno>
+            </event>
+            <event when-iso="1901-07-15">
                <head>Tagebuch, 15. Juli 1901</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-07-15.html</idno>

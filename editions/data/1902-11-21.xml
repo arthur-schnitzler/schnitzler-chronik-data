@@ -74,6 +74,36 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1902-11-21">
+               <head>Adalbert Seligmann an Arthur Schnitzler, 21. 11. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12769">Adalbert Franz Seligmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11933">Heinrich von Kleist</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01250.html</idno>
+            </event>
+            <event when-iso="1902-11-21">
                <head>Tagebuch, 21. November 1902</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-11-21.html</idno>

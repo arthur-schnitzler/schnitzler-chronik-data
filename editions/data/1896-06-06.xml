@@ -74,6 +74,30 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1896-06-06">
+               <head>Alfred Polgar an Arthur Schnitzler, 6. 6. [1896?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2989">Alfred Polgar</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11406">Julius von Gans-Ludassy</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00550.html</idno>
+            </event>
+            <event when-iso="1896-06-06">
                <head>Tagebuch, 6. Juni 1896</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-06-06.html</idno>

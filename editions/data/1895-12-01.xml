@@ -74,6 +74,28 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1895-12-01">
+               <head>Lou Andreas-Salomé an Arthur Schnitzler, [1. 12. 1895]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10762">Lou Andreas-Salomé</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1101">Hotel Royal</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34">Café Griensteidl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00519.html</idno>
+            </event>
+            <event when-iso="1895-12-01">
                <head>Tagebuch, 1. Dezember 1895</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-12-01.html</idno>

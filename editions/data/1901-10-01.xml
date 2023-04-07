@@ -74,6 +74,36 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1901-10-01">
+               <head>Adalbert Seligmann an Arthur Schnitzler, 1. 10. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12769">Adalbert Franz Seligmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb50556">Ludwig Michalek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb50560">H. Roth</persName>
+                     </person>
+                  </listPerson>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb50552">Wiener Frauenakademie</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb790">Tuchlauben</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01179.html</idno>
+            </event>
+            <event when-iso="1901-10-01">
                <head>Tagebuch, 1. Oktober 1901</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-10-01.html</idno>

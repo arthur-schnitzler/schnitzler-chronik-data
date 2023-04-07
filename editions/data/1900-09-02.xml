@@ -74,6 +74,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1900-09-02">
+               <head>Paul Goldmann an Arthur Schnitzler, 2. 9. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb91918">Trafoi</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb397">Frankgasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb141802">Zum Weissen Knott</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb585">Hotel Hammerand</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02929.html</idno>
+            </event>
+            <event when-iso="1900-09-02">
                <head>Tagebuch, 2. September 1900</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-09-02.html</idno>

@@ -74,6 +74,37 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/445/</idno>
             </event>
             <event when-iso="1901-04-01">
+               <head>Arthur Schnitzler, Jakob Wassermann an Richard Beer-Hofmann, 1. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb338">Wollzeile</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50766">Sankt Paul vor den Mauern</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01104.html</idno>
+            </event>
+            <event when-iso="1901-04-01">
                <head>Arthur Schnitzler an Olga Schnitzler, 1. 4. 1901</head>
                <desc>
                   <listPerson>

@@ -79,6 +79,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/790/</idno>
             </event>
             <event when-iso="1899-12-13">
+               <head>Paul Goldmann an Arthur Schnitzler, 13. 12. [1899]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11640">Heinrich Heine</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb36344">Frankfurter Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb140924">Heine</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02899.html</idno>
+            </event>
+            <event when-iso="1899-12-13">
                <head>Tagebuch, 13. Dezember 1899</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-12-13.html</idno>

@@ -74,6 +74,44 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1890-09-17">
+               <head>Wilhelm Bölsche an Arthur Schnitzler, 17. 9. 1890</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11061">Wilhelm Bölsche</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb36149">Freie Bühne für modernes Leben</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33688">Aus der Kaffeehausecke</title>
+                     </bibl>
+                  </listBibl>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1272">Linkstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00004.html</idno>
+            </event>
+            <event when-iso="1890-09-17">
                <head>Tagebuch, 17. September 1890</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-09-17.html</idno>

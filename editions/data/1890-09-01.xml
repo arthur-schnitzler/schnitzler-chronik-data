@@ -74,6 +74,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1890-09-01">
+               <head>Arthur Schnitzler an Wilhelm Bölsche, [Anfang September] 1890</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb3227">Martha Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11061">Wilhelm Bölsche</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33688">Aus der Kaffeehausecke</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36149">Freie Bühne für modernes Leben</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb542">Bösendorferstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00005.html</idno>
+            </event>
+            <event when-iso="1890-09-01">
                <head>Tagebuch, 1. September 1890</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-09-01.html</idno>

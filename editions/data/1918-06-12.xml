@@ -74,6 +74,28 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1918-06-12">
+               <head>Robert Adam an Arthur Schnitzler, 12. 6. 1918</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb29173">Emil Pollak</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb29176">Sidonie Pollak</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02287.html</idno>
+            </event>
+            <event when-iso="1918-06-12">
                <head>Tagebuch, 12. Juni 1918</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-06-12.html</idno>

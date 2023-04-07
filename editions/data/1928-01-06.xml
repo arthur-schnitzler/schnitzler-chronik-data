@@ -74,6 +74,30 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1928-01-06">
+               <head>Therese Rie an Arthur Schnitzler, 6. 1. 1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb4836">Therese Rie</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30051">Der Geist im Wort und der Geist in der Tat</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb52498">Schönburgstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02577.html</idno>
+            </event>
+            <event when-iso="1928-01-06">
                <head>Tagebuch, 6. Januar 1928</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-01-06.html</idno>

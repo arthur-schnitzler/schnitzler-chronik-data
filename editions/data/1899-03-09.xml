@@ -74,6 +74,71 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1899-03-09">
+               <head>Arthur Schnitzler an Hermann Bahr, 9. 3. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb239">Landesgerichtsstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00903.html</idno>
+            </event>
+            <event when-iso="1899-03-09">
+               <head>Julius Rodenberg an Arthur Schnitzler, 9. 3. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9550">Julius Rodenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb34939">Elwin Paetel</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                  </listBibl>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb34931">Deutsche Rundschau</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29660">Gebrüder Paetel Verlag</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34933">Margaretenstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34943">Lützowstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00904.html</idno>
+            </event>
+            <event when-iso="1899-03-09">
                <head>Tagebuch, 9. März 1899</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-03-09.html</idno>

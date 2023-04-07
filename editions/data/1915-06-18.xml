@@ -74,6 +74,33 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1915-06-18">
+               <head>Arthur Schnitzler an Robert Adam, 18. 6. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33606">Der Fremde</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44400">Zistersdorf</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb150">Sternwartestraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02208.html</idno>
+            </event>
+            <event when-iso="1915-06-18">
                <head>Tagebuch, 18. Juni 1915</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-06-18.html</idno>

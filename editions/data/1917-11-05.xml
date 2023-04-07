@@ -74,6 +74,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1917-11-05">
+               <head>Robert Adam an Arthur Schnitzler, 5. 11. 1917</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5781">Titus Livius</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33608">Das Ende des Judas</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1247">Ostia Antica</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44293">Griechenland</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02279.html</idno>
+            </event>
+            <event when-iso="1917-11-05">
                <head>Tagebuch, 5. November 1917</head>
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-11-05.html</idno>
