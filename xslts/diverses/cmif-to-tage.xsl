@@ -6,7 +6,9 @@
     <xsl:mode on-no-match="shallow-skip"/>
     <!-- Diese Datei, angewandt auf schnitzler-ohne-dubletten
     holt alle gedruckten Briefe raus, schnitzler-briefe wird
-    ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet-->
+    ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet.
+    Wenn die Zeile 70 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif
+    -->
     <xsl:template match="tei:profileDesc">
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
             <teiHeader>
@@ -66,7 +68,8 @@
             <xsl:value-of select="foo:loop-string($current-number + 1, $duration)"/>
         </xsl:if>
     </xsl:function>
-    <xsl:template match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">
+    <xsl:template match="tei:correspDesc">
+    <!--<xsl:template match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">-->
         <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
         <xsl:variable name="entry" select="."/>
         <xsl:variable name="unsicheres-absendedatum" as="xs:boolean">
@@ -113,6 +116,11 @@
                         </xsl:element>
                     </xsl:for-each>
                 </xsl:element>
+            </xsl:if>
+        </xsl:variable>
+        <xsl:variable name="beteiligte-entitaeten" as="node()?">
+            <xsl:if test="descendant::tei:ab[@type='entitaeten']">
+                <xsl:copy-of select="descendant::tei:ab[@type='entitaeten']"/>
             </xsl:if>
         </xsl:variable>
         <!-- 1) Alle Briefe -->
@@ -258,15 +266,24 @@
                     </xsl:if>
                 </xsl:element>
                 <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:if test="$beteiligte-personen//tei:person">
-                        <xsl:copy-of select="$beteiligte-personen"/>
+                    <xsl:choose>
+                        <xsl:when test="$beteiligte-entitaeten//tei:persName">
+                            <xsl:copy-of select="$beteiligte-entitaeten/*"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:if test="$beteiligte-personen//tei:person">
+                                <xsl:copy-of select="$beteiligte-personen"/>
+                            </xsl:if>
+                            <xsl:if test="$beteiligte-organisationen//tei:org">
+                                <xsl:copy-of select="$beteiligte-organisationen"/>
+                            </xsl:if>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:if test="$werk-inhalt and not($werk-inhalt='')">
+                        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:value-of select="$werk-inhalt"/>
+                        </xsl:element>
                     </xsl:if>
-                    <xsl:if test="$beteiligte-organisationen//tei:org">
-                        <xsl:copy-of select="$beteiligte-organisationen"/>
-                    </xsl:if>
-                    <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:value-of select="$werk-inhalt"/>
-                    </xsl:element>
                 </xsl:element>
                 <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:attribute name="type">
