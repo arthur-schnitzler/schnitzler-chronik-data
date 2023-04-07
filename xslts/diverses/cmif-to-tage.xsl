@@ -286,12 +286,23 @@
                     </xsl:if>
                 </xsl:element>
                 <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:attribute name="type">
+                <xsl:choose>
+                    <xsl:when test="contains($entry/@ref, 'schnitzler-briefe')">
+                        <xsl:attribute name="type">
+                        <xsl:text>schnitzler-briefe</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="$entry/@ref"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:attribute name="type">
                         <xsl:text>schnitzler-cmif</xsl:text>
-                    </xsl:attribute>
-                    <xsl:attribute name="subtype">
-                        <xsl:value-of select="$entry/@source"/>
-                    </xsl:attribute>
+                        </xsl:attribute>
+                        <xsl:attribute name="subtype">
+                            <xsl:value-of select="$entry/@source"/>
+                        </xsl:attribute>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
                 </xsl:element>
             </xsl:element>
         </xsl:for-each>
