@@ -66,14 +66,12 @@
             <xsl:value-of select="foo:loop-string($current-number + 1, $duration)"/>
         </xsl:if>
     </xsl:function>
-  
-    <xsl:template
-        match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">
+    <xsl:template match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">
         <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
         <xsl:variable name="entry" select="."/>
         <xsl:variable name="unsicheres-absendedatum" as="xs:boolean">
             <xsl:choose>
-                <xsl:when test="$entry/tei:correspAction[1]/tei:date[@cert='low']">
+                <xsl:when test="$entry/tei:correspAction[1]/tei:date[@cert = 'low']">
                     <xsl:value-of select="true()"/>
                 </xsl:when>
                 <xsl:otherwise>
@@ -83,7 +81,7 @@
         </xsl:variable>
         <xsl:variable name="unsicheres-empfangsdatum" as="xs:boolean">
             <xsl:choose>
-                <xsl:when test="$entry/tei:correspAction[last()]/tei:date[@cert='low']">
+                <xsl:when test="$entry/tei:correspAction[last()]/tei:date[@cert = 'low']">
                     <xsl:value-of select="true()"/>
                 </xsl:when>
                 <xsl:otherwise>
@@ -94,6 +92,29 @@
         <xsl:variable name="werk" select="replace(@source, '#', '')"/>
         <xsl:variable name="werk-inhalt"
             select="ancestor::tei:TEI/descendant::tei:sourceDesc[1]/tei:listBibl/tei:bibl[@xml:id = $werk]/text()"/>
+        <xsl:variable name="beteiligte-personen" as="node()?">
+            <xsl:if test="descendant::tei:persName[not(@ref = 'https://d-nb.info/gnd/118609807')]">
+                <xsl:element name="listPerson" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:for-each
+                        select="descendant::tei:persName[not(@ref = 'https://d-nb.info/gnd/118609807')]">
+                        <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:copy-of select="."/>
+                        </xsl:element>
+                    </xsl:for-each>
+                </xsl:element>
+            </xsl:if>
+        </xsl:variable>
+        <xsl:variable name="beteiligte-organisationen" as="node()?">
+            <xsl:if test="descendant::tei:orgName">
+                <xsl:element name="listOrg" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:for-each select="descendant::tei:orgName">
+                        <xsl:element name="org" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:copy-of select="."/>
+                        </xsl:element>
+                    </xsl:for-each>
+                </xsl:element>
+            </xsl:if>
+        </xsl:variable>
         <!-- 1) Alle Briefe -->
         <xsl:variable name="zeitraum" as="node()">
             <xsl:element name="dates">
@@ -152,10 +173,11 @@
                 </xsl:choose>
             </xsl:element>
         </xsl:variable>
-
         <xsl:for-each select="$zeitraum/date">
             <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:attribute name="when-iso"><xsl:value-of select="@when"/></xsl:attribute>
+                <xsl:attribute name="when-iso">
+                    <xsl:value-of select="@when"/>
+                </xsl:attribute>
                 <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:for-each select="$entry/tei:correspAction[1]/tei:persName">
                         <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
@@ -163,6 +185,9 @@
                             <xsl:text>, </xsl:text>
                         </xsl:if>
                     </xsl:for-each>
+                    <xsl:if test="$entry/tei:correspAction[1]/tei:orgName">
+                        <xsl:value-of select="$entry/tei:correspAction[1]/tei:orgName"/>
+                    </xsl:if>
                     <xsl:text> an </xsl:text>
                     <xsl:for-each select="$entry/tei:correspAction[last()]/tei:persName">
                         <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
@@ -170,6 +195,9 @@
                             <xsl:text>, </xsl:text>
                         </xsl:if>
                     </xsl:for-each>
+                    <xsl:if test="$entry/tei:correspAction[last()]/tei:orgName">
+                        <xsl:value-of select="$entry/tei:correspAction[last()]/tei:orgName"/>
+                    </xsl:if>
                     <xsl:text>, </xsl:text>
                     <xsl:choose>
                         <xsl:when test="$entry/tei:correspAction[1]/tei:date[1]/text() != ''">
@@ -182,11 +210,11 @@
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@when, '[D1o][M1o][Y]', 'de', (), ())"
                                     />
                                 </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
+                                <xsl:when
+                                    test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
                                     <xsl:text>zwischen </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
+                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"/>
                                     <xsl:text> und </xsl:text>
                                     <xsl:value-of
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
@@ -197,11 +225,11 @@
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
                                     />
                                 </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
+                                <xsl:when
+                                    test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
                                     <xsl:text>nach </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
+                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
                                     <xsl:text>und vor </xsl:text>
                                     <xsl:value-of
                                         select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
@@ -223,7 +251,6 @@
                                     />
                                 </xsl:when>
                             </xsl:choose>
-                            
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:if test="$unsicheres-absendedatum">
@@ -231,157 +258,15 @@
                     </xsl:if>
                 </xsl:element>
                 <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:value-of select="$werk-inhalt"/>
-                </xsl:element>
-                <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:attribute name="type">
-                        <xsl:text>schnitzler-cmif</xsl:text>
-                    </xsl:attribute>
-                    <xsl:attribute name="subtype">
-                        <xsl:value-of select="$entry/@source"/>
-                    </xsl:attribute>
-                </xsl:element>
-            </xsl:element>
-        </xsl:for-each>
-    <!-- 2. Schnitzler erhält Briefe -->
-        <xsl:if test="tei:correspAction[last()]/tei:persName[contains(@ref,'118609807')]">
-        <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
-        <xsl:variable name="zeitraum-erhalt" as="node()">
-            <xsl:element name="dates">
-                <xsl:choose>
-                    <xsl:when test="child::tei:correspAction[last()]/tei:date/@when">
-                        <xsl:element name="date">
-                            <xsl:attribute name="when">
-                                <xsl:value-of select="child::tei:correspAction[last()]/tei:date/@when"/>
-                            </xsl:attribute>
-                        </xsl:element>
-                    </xsl:when>
-                    <xsl:when test="child::tei:correspAction[last()]/tei:date[@from and @to]">
-                        <xsl:variable name="from"
-                            select="child::tei:correspAction[last()]/tei:date/xs:date(@from)"/>
-                        <xsl:variable name="to"
-                            select="child::tei:correspAction[last()]/tei:date/xs:date(@to)"/>
-                        <xsl:variable name="duration" select="fn:days-from-duration($to - $from)"/>
-                        <xsl:if test="$duration &lt; 9">
-                            <xsl:variable name="loopstring">
-                                <xsl:sequence select="foo:loop-string(1, $duration)"/>
-                            </xsl:variable>
-                            <xsl:for-each select="tokenize($loopstring, ',')">
-                                <xsl:variable name="i" select="position() - 1"/>
-                                <xsl:element name="date">
-                                    <xsl:attribute name="when">
-                                        <xsl:value-of
-                                            select="$from + xs:dayTimeDuration(concat('P', $i, 'D'))"
-                                        />
-                                    </xsl:attribute>
-                                </xsl:element>
-                            </xsl:for-each>
-                        </xsl:if>
-                    </xsl:when>
-                    <xsl:when test="child::tei:correspAction[last()]/tei:date[@notBefore and @notAfter]">
-                        <xsl:variable name="from"
-                            select="child::tei:correspAction[last()]/tei:date/xs:date(@notBefore)"/>
-                        <xsl:variable name="to"
-                            select="child::tei:correspAction[last()]/tei:date/xs:date(@notAfter)"/>
-                        <xsl:variable name="duration" select="fn:days-from-duration($to - $from)"/>
-                        <xsl:if test="$duration &lt; 9">
-                            <xsl:variable name="loopstring">
-                                <xsl:sequence select="foo:loop-string(1, $duration)"/>
-                            </xsl:variable>
-                            <xsl:for-each select="tokenize($loopstring, ',')">
-                                <xsl:variable name="i" select="position() - 1"/>
-                                <xsl:element name="date">
-                                    <xsl:attribute name="when">
-                                        <xsl:value-of
-                                            select="$from + xs:dayTimeDuration(concat('P', $i, 'D'))"
-                                        />
-                                    </xsl:attribute>
-                                </xsl:element>
-                            </xsl:for-each>
-                        </xsl:if>
-                    </xsl:when>
-                </xsl:choose>
-            </xsl:element>
-        </xsl:variable>
-        <xsl:for-each select="$zeitraum-erhalt/date">
-            <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:attribute name="when-iso"><xsl:value-of select="@when"/></xsl:attribute>
-                <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:text>Erhalt von </xsl:text>
-                    <xsl:for-each select="$entry/tei:correspAction[1]/tei:persName">
-                        <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
-                        <xsl:if test="not(position() = last())">
-                            <xsl:text>, </xsl:text>
-                        </xsl:if>
-                    </xsl:for-each>
-                    <xsl:text> an </xsl:text>
-                    <xsl:for-each select="$entry/tei:correspAction[last()]/tei:persName">
-                        <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
-                        <xsl:if test="not(position() = last())">
-                            <xsl:text>, </xsl:text>
-                        </xsl:if>
-                    </xsl:for-each>
-                    <xsl:text>, </xsl:text>
-                    <xsl:choose>
-                        <xsl:when test="$entry/tei:correspAction[1]/tei:date[1]/text() != ''">
-                            <xsl:value-of select="$entry/tei:correspAction[1]/tei:date[1]/text()"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:choose>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@when">
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@when, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
-                                    <xsl:text>zwischen </xsl:text>
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                    <xsl:text> und </xsl:text>
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from">
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
-                                    <xsl:text>nach </xsl:text>
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                    <xsl:text>und vor </xsl:text>
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore">
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@to">
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                                <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notAfter">
-                                    <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
-                                    />
-                                </xsl:when>
-                            </xsl:choose>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                    <xsl:if test="$unsicheres-empfangsdatum">
-                        <xsl:text>?</xsl:text>
+                    <xsl:if test="$beteiligte-personen//tei:person">
+                        <xsl:copy-of select="$beteiligte-personen"/>
                     </xsl:if>
-                </xsl:element>
-                <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:value-of select="$werk-inhalt"/>
+                    <xsl:if test="$beteiligte-organisationen//tei:org">
+                        <xsl:copy-of select="$beteiligte-organisationen"/>
+                    </xsl:if>
+                    <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:value-of select="$werk-inhalt"/>
+                    </xsl:element>
                 </xsl:element>
                 <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:attribute name="type">
@@ -393,11 +278,179 @@
                 </xsl:element>
             </xsl:element>
         </xsl:for-each>
+        <!-- 2. Schnitzler erhält Briefe -->
+        <xsl:if test="tei:correspAction[last()]/tei:persName[contains(@ref, '118609807')]">
+            <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
+            <xsl:variable name="zeitraum-erhalt" as="node()">
+                <xsl:element name="dates">
+                    <xsl:choose>
+                        <xsl:when test="child::tei:correspAction[last()]/tei:date/@when">
+                            <xsl:element name="date">
+                                <xsl:attribute name="when">
+                                    <xsl:value-of
+                                        select="child::tei:correspAction[last()]/tei:date/@when"/>
+                                </xsl:attribute>
+                            </xsl:element>
+                        </xsl:when>
+                        <xsl:when test="child::tei:correspAction[last()]/tei:date[@from and @to]">
+                            <xsl:variable name="from"
+                                select="child::tei:correspAction[last()]/tei:date/xs:date(@from)"/>
+                            <xsl:variable name="to"
+                                select="child::tei:correspAction[last()]/tei:date/xs:date(@to)"/>
+                            <xsl:variable name="duration"
+                                select="fn:days-from-duration($to - $from)"/>
+                            <xsl:if test="$duration &lt; 9">
+                                <xsl:variable name="loopstring">
+                                    <xsl:sequence select="foo:loop-string(1, $duration)"/>
+                                </xsl:variable>
+                                <xsl:for-each select="tokenize($loopstring, ',')">
+                                    <xsl:variable name="i" select="position() - 1"/>
+                                    <xsl:element name="date">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of
+                                                select="$from + xs:dayTimeDuration(concat('P', $i, 'D'))"
+                                            />
+                                        </xsl:attribute>
+                                    </xsl:element>
+                                </xsl:for-each>
+                            </xsl:if>
+                        </xsl:when>
+                        <xsl:when
+                            test="child::tei:correspAction[last()]/tei:date[@notBefore and @notAfter]">
+                            <xsl:variable name="from"
+                                select="child::tei:correspAction[last()]/tei:date/xs:date(@notBefore)"/>
+                            <xsl:variable name="to"
+                                select="child::tei:correspAction[last()]/tei:date/xs:date(@notAfter)"/>
+                            <xsl:variable name="duration"
+                                select="fn:days-from-duration($to - $from)"/>
+                            <xsl:if test="$duration &lt; 9">
+                                <xsl:variable name="loopstring">
+                                    <xsl:sequence select="foo:loop-string(1, $duration)"/>
+                                </xsl:variable>
+                                <xsl:for-each select="tokenize($loopstring, ',')">
+                                    <xsl:variable name="i" select="position() - 1"/>
+                                    <xsl:element name="date">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of
+                                                select="$from + xs:dayTimeDuration(concat('P', $i, 'D'))"
+                                            />
+                                        </xsl:attribute>
+                                    </xsl:element>
+                                </xsl:for-each>
+                            </xsl:if>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:element>
+            </xsl:variable>
+            <xsl:for-each select="$zeitraum-erhalt/date">
+                <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="when-iso">
+                        <xsl:value-of select="@when"/>
+                    </xsl:attribute>
+                    <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:text>Erhalt von </xsl:text>
+                        <xsl:for-each select="$entry/tei:correspAction[1]/tei:persName">
+                            <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
+                            <xsl:if test="not(position() = last())">
+                                <xsl:text>, </xsl:text>
+                            </xsl:if>
+                        </xsl:for-each>
+                        <xsl:if test="$entry/tei:correspAction[1]/tei:orgName">
+                            <xsl:value-of select="$entry/tei:correspAction[1]/tei:orgName"/>
+                        </xsl:if>
+                        <xsl:text> an </xsl:text>
+                        <xsl:for-each select="$entry/tei:correspAction[last()]/tei:persName">
+                            <xsl:value-of select="foo:nameUmreihenBeimKomma(.)"/>
+                            <xsl:if test="not(position() = last())">
+                                <xsl:text>, </xsl:text>
+                            </xsl:if>
+                        </xsl:for-each>
+                        <xsl:if test="$entry/tei:correspAction[last()]/tei:orgName">
+                            <xsl:value-of select="$entry/tei:correspAction[last()]/tei:orgName"/>
+                        </xsl:if>
+                        <xsl:text>, </xsl:text>
+                        <xsl:choose>
+                            <xsl:when test="$entry/tei:correspAction[1]/tei:date[1]/text() != ''">
+                                <xsl:value-of
+                                    select="$entry/tei:correspAction[1]/tei:date[1]/text()"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:choose>
+                                    <xsl:when test="$entry/tei:correspAction[1]/tei:date/@when">
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@when, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when
+                                        test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
+                                        <xsl:text>zwischen </xsl:text>
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                        <xsl:text> und </xsl:text>
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from">
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when
+                                        test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
+                                        <xsl:text>nach </xsl:text>
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                        <xsl:text>und vor </xsl:text>
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore">
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when test="$entry/tei:correspAction[1]/tei:date/@to">
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                    <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notAfter">
+                                        <xsl:value-of
+                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                        />
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:if test="$unsicheres-empfangsdatum">
+                            <xsl:text>?</xsl:text>
+                        </xsl:if>
+                    </xsl:element>
+                    <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:if test="$beteiligte-personen//tei:person">
+                            <xsl:copy-of select="$beteiligte-personen"/>
+                        </xsl:if>
+                        <xsl:if test="$beteiligte-organisationen//tei:org">
+                            <xsl:copy-of select="$beteiligte-organisationen"/>
+                        </xsl:if>
+                        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:value-of select="$werk-inhalt"/>
+                        </xsl:element>
+                    </xsl:element>
+                    <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:attribute name="type">
+                            <xsl:text>schnitzler-cmif</xsl:text>
+                        </xsl:attribute>
+                        <xsl:attribute name="subtype">
+                            <xsl:value-of select="$entry/@source"/>
+                        </xsl:attribute>
+                    </xsl:element>
+                </xsl:element>
+            </xsl:for-each>
         </xsl:if>
     </xsl:template>
-    
-    
-  
     <xsl:function name="foo:nameUmreihenBeimKomma">
         <xsl:param name="eingangsString" as="xs:string?"/>
         <xsl:choose>
