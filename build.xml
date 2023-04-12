@@ -23,7 +23,7 @@
     </move>
     <mkdir dir="${tmpDir}"/>
     <xslt in="${editions}/schnitzler-tage.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
-        style="./xslts/3_einzeldateien.xsl">
+        style="./xslts/3_einzeldateien-xml.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
