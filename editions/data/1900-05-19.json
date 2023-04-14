@@ -2,16 +2,20 @@
  "type":
  "schnitzler-orte",
  "color":
- "",
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
- "Wien"
-}, {
+ "Wien", 
+}{
  "type":
  "schnitzler-briefe",
  "color":
- "",
+ "#A63437",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L01037.html",
  "head":
@@ -62,13 +66,15 @@
  "Jordangasse",
  "ref":
  "pmb444"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-briefe",
  "color":
- "",
+ "#A63437",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L01038.html",
  "head":
@@ -101,13 +107,15 @@
  "Wien",
  "ref":
  "pmb50"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-tagebuch",
  "color":
- "",
+ "#037a33",
+ "caption":
+ "Tagebuch",
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-05-19.html",
  "head":
@@ -119,13 +127,15 @@
  "persName":
  "Olga Schnitzler",
  "ref":
- "person_19832"}]}
-
-}, {
+ "person_19832"}]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/L041228.html",
  "head":
@@ -181,13 +191,15 @@
  "Neues Wiener Tagblatt",
  "ref":
  "pmb29414"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/L041028.html",
  "head":
@@ -220,6 +232,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ]}
-
+ ]
+}
 }] 
