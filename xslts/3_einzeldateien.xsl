@@ -156,9 +156,6 @@
                 <xsl:text>&#10;}</xsl:text>
             </xsl:when>
         </xsl:choose>
-        <xsl:if test="not(fn:position() = last())">
-            <xsl:text>, </xsl:text>
-        </xsl:if>
         <xsl:text>&#10;}</xsl:text>
     </xsl:template>
     <xsl:template mode="jsonlist" match="tei:listPerson">
