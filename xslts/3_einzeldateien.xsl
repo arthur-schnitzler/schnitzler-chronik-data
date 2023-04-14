@@ -108,24 +108,9 @@
         <xsl:variable name="dateiname-json" as="xs:string"
             select="concat(normalize-space(@sortKey), '.json')"/>
         <xsl:result-document href="{$dateiname-json}" encoding="utf8" omit-xml-declaration="true">
-        <xsl:text>{&#10; "date":&#10; {&#10; "when-iso":&#10; "</xsl:text>
-        <xsl:value-of select="@sortKey"/>
-        <xsl:value-of select="descendant::tei:titleStmt/tei:title/@when-iso"/>
-        <xsl:text>",&#10; "written":&#10; "</xsl:text>
-            <xsl:variable name="wochentag"
-                select="df:germanNames(fn:format-date(@sortKey, '[FNn]'))"/>
-            <xsl:variable name="monat"
-                select="df:germanNames(fn:format-date(@sortKey, '[MNn]'))"/>
-            <xsl:value-of
-                select="concat($wochentag, ', ', fn:format-date(@sortKey, '[D]'), '. ', $monat, ' ', fn:format-date(@sortKey, '[Y]'))"
-            />
-        <xsl:text>"&#10;},&#10;</xsl:text>
-        <xsl:if test="descendant::tei:listEvent">
-            <xsl:text>"listEvent":&#10; [</xsl:text>
+            <xsl:text>[</xsl:text>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event" mode="jsonlist"/>
             <xsl:text>] </xsl:text>
-        </xsl:if>
-        <xsl:text>&#10;}</xsl:text>
         </xsl:result-document>
     </xsl:template>
     
