@@ -6,7 +6,12 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:import href="germandate.xsl"/>
+    <xsl:param name="relevant-uris" select="document('../../editions/indices/list-of-relevant-uris.xml')"/>
+    <xsl:key name="only-relevant-uris" match="item" use="abbr"/>
+    
+    
     <xsl:template match="tei:TEI">
+        
         <empty>
             <xsl:apply-templates select="tei:text/tei:body/tei:list/tei:item"/>
         </empty>
@@ -122,6 +127,8 @@
             <xsl:text>",&#10; "subtype":&#10; "</xsl:text>
             <xsl:value-of select="tei:idno/@subtype"/>
         </xsl:if>
+        <xsl:text>",&#10; "color":&#10; "</xsl:text>
+        <xsl:value-of select="key('only-relevant-uris', @type, $relevant-uris)/color"/>
         <xsl:if test="tei:idno[not(normalize-space(.) = '')]">
             <xsl:text>",&#10; "idno":&#10; "</xsl:text>
             <xsl:value-of select="tei:idno"/>
