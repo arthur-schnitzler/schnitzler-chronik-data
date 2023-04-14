@@ -2,16 +2,20 @@
  "type":
  "schnitzler-orte",
  "color":
- "",
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
- "Wien"
-}, {
+ "Wien", 
+}{
  "type":
  "schnitzler-tagebuch",
  "color":
- "",
+ "#037a33",
+ "caption":
+ "Tagebuch",
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-04-01.html",
  "head":
@@ -71,13 +75,15 @@
  "Prater",
  "ref":
  "pmb91530"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/D041100.html",
  "head":
@@ -142,13 +148,15 @@
  "Zum Paradiesgarten (Inh. Joh. Hauswirth)",
  "ref":
  "pmb79"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/D041583.html",
  "head":
@@ -183,13 +191,15 @@
  "Wurstelprater",
  "ref":
  "pmb685"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/I041000.html",
  "head":
@@ -216,6 +226,6 @@
  "persName":
  "Hugo von Hofmannsthal",
  "ref":
- "pmb11740"}]}
-
+ "pmb11740"}]
+}
 }] 

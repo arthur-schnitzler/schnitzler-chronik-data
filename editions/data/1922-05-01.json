@@ -2,25 +2,31 @@
  "type":
  "schnitzler-orte",
  "color":
- "",
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/44313/",
  "head":
- "Scheveningen"
-}, {
+ "Scheveningen", 
+}{
  "type":
  "schnitzler-orte",
  "color":
- "",
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/91129/",
  "head":
- "Leiden"
-}, {
+ "Leiden", 
+}{
  "type":
  "schnitzler-tagebuch",
  "color":
- "",
+ "#037a33",
+ "caption":
+ "Tagebuch",
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-05-01.html",
  "head":
@@ -88,13 +94,15 @@
  "Leiden",
  "ref":
  "pmb91129"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/T030032.html",
  "head":
@@ -190,13 +198,15 @@
  "Neues Wiener Journal",
  "ref":
  "pmb29320"}
- ]}
-
-}, {
+ ]
+}, 
+}{
  "type":
  "schnitzler-bahr",
  "color":
- "",
+ "#F9BD63",
+ "caption":
+ "Schnitzler/Bahr",
  "idno":
  "https://schnitzler-bahr.acdh.oeaw.ac.at/T030030.html",
  "head":
@@ -607,6 +617,6 @@
  "Deutsche Zeitung",
  "ref":
  "pmb29424"}
- ]}
-
+ ]
+}
 }] 
