@@ -6,12 +6,10 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:import href="germandate.xsl"/>
-    <xsl:param name="relevant-uris" select="document('../editions/indices/list-of-relevant-uris.xml')"/>
+    <xsl:param name="relevant-uris"
+        select="document('../editions/indices/list-of-relevant-uris.xml')"/>
     <xsl:key name="only-relevant-uris" match="item" use="abbr"/>
-    
-    
     <xsl:template match="tei:TEI">
-        
         <empty>
             <xsl:apply-templates select="tei:text/tei:body/tei:list/tei:item"/>
         </empty>
@@ -118,8 +116,6 @@
             <xsl:text>] </xsl:text>
         </xsl:result-document>
     </xsl:template>
-    
-    
     <xsl:template mode="jsonlist" match="tei:event">
         <xsl:text>{&#10; "type":&#10; "</xsl:text>
         <xsl:value-of select="tei:idno/@type"/>
@@ -128,7 +124,11 @@
             <xsl:value-of select="tei:idno/@subtype"/>
         </xsl:if>
         <xsl:text>",&#10; "color":&#10; "</xsl:text>
-        <xsl:value-of select="key('only-relevant-uris', @type, $relevant-uris)/color"/>
+        <xsl:value-of
+            select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/color/text()"/>
+        <xsl:text>",&#10; "caption":&#10; "</xsl:text>
+        <xsl:value-of
+            select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/caption/text()"/>
         <xsl:if test="tei:idno[not(normalize-space(.) = '')]">
             <xsl:text>",&#10; "idno":&#10; "</xsl:text>
             <xsl:value-of select="tei:idno"/>
@@ -136,31 +136,30 @@
         <xsl:text>",&#10; "head":&#10; "</xsl:text>
         <xsl:value-of select="tei:head"/>
         <xsl:text>"</xsl:text>
-        <xsl:if test="tei:desc[not(fn:normalize-space(.) = '')]">
-            <xsl:text>,&#10; "desc":&#10;{</xsl:text>
-            <xsl:for-each select="tei:desc/child::*">
+        <xsl:choose>
+            <xsl:when test="tei:desc[not(child::*) and not(normalize-space(.) = '')]">
+                <xsl:text>",&#10; "text":&#10; "</xsl:text>
+                <xsl:value-of select="tei:desc"/>
                 <xsl:text>"</xsl:text>
-                <xsl:value-of select="name()"/>
-                <xsl:text>":&#10; </xsl:text>
-                <xsl:apply-templates mode="jsonlist" select="."/>
-                <xsl:if test="not(position() = last())">
-                    <xsl:text>,&#10; </xsl:text>
-                </xsl:if>
-            </xsl:for-each>
-            <xsl:if test="text()[not(fn:normalize-space(.) = '')]">
-                <xsl:if test="child::*">
-                    <xsl:text>,&#10; </xsl:text>
-                </xsl:if>
-                <xsl:text> "text":&#10; "</xsl:text>
-                <xsl:value-of select="text()[not(fn:normalize-space(.) = '')]"/>
-                <xsl:text>" </xsl:text>
-            </xsl:if>
-            <xsl:text>}&#10;</xsl:text>
-        </xsl:if>
-        <xsl:text>&#10;}</xsl:text>
+            </xsl:when>
+            <xsl:when test="tei:desc[not(normalize-space(.) = '')]">
+                <xsl:text>,&#10; "desc":&#10;{</xsl:text>
+                <xsl:for-each select="tei:desc/child::*">
+                    <xsl:text>"</xsl:text>
+                    <xsl:value-of select="name()"/>
+                    <xsl:text>":&#10; </xsl:text>
+                    <xsl:apply-templates mode="jsonlist" select="."/>
+                    <xsl:if test="not(position() = last())">
+                        <xsl:text>,&#10; </xsl:text>
+                    </xsl:if>
+                </xsl:for-each>
+                <xsl:text>&#10;}</xsl:text>
+            </xsl:when>
+        </xsl:choose>
         <xsl:if test="not(fn:position() = last())">
             <xsl:text>, </xsl:text>
         </xsl:if>
+        <xsl:text>&#10;}</xsl:text>
     </xsl:template>
     <xsl:template mode="jsonlist" match="tei:listPerson">
         <xsl:text> [&#10;</xsl:text>
