@@ -6,7 +6,7 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:import href="germandate.xsl"/>
-    <xsl:param name="relevant-uris" select="document('../../editions/indices/list-of-relevant-uris.xml')"/>
+    <xsl:param name="relevant-uris" select="document('../editions/indices/list-of-relevant-uris.xml')"/>
     <xsl:key name="only-relevant-uris" match="item" use="abbr"/>
     
     
