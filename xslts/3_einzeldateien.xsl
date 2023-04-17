@@ -138,7 +138,7 @@
         <xsl:text>"</xsl:text>
         <xsl:choose>
             <xsl:when test="tei:desc[not(child::*) and not(normalize-space(.) = '')]">
-                <xsl:text>",&#10; "text":&#10; "</xsl:text>
+                <xsl:text>,&#10; "text":&#10; "</xsl:text>
                 <xsl:value-of select="tei:desc"/>
                 <xsl:text>"</xsl:text>
             </xsl:when>
