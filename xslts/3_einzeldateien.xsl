@@ -127,10 +127,10 @@
         <xsl:value-of
             select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/color/text()"/>
         <xsl:choose>
-            <xsl:when test="contains(tei:idno, '.acdh.oeaw.ac.at/')">
+            <xsl:when test="contains(tei:idno[1], '.acdh.oeaw.ac.at/')">
                 <xsl:text>",&#10; "filename":&#10; "</xsl:text>
                 <xsl:value-of
-                    select="replace(replace(substring-after(tei:idno, '.acdh.oeaw.ac.at/'), '.xml', ''), '.html', '')"
+                    select="replace(replace(substring-after(tei:idno[1], '.acdh.oeaw.ac.at/'), '.xml', ''), '.html', '')"
                 />
             </xsl:when>
         </xsl:choose>
