@@ -157,6 +157,9 @@
             </xsl:when>
         </xsl:choose>
         <xsl:text>&#10;}</xsl:text>
+        <xsl:if test="following-sibling::tei:event">
+            <xsl:text>, </xsl:text>
+        </xsl:if>
     </xsl:template>
     <xsl:template mode="jsonlist" match="tei:listPerson">
         <xsl:text> [&#10;</xsl:text>
