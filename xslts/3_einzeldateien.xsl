@@ -126,6 +126,14 @@
         <xsl:text>",&#10; "color":&#10; "</xsl:text>
         <xsl:value-of
             select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/color/text()"/>
+        <xsl:choose>
+            <xsl:when test="contains(tei:idno, '.acdh.oeaw.ac.at/')">
+                <xsl:text>",&#10; "filename":&#10; "</xsl:text>
+                <xsl:value-of
+                    select="replace(replace(substring-after(tei:idno, '.acdh.oeaw.ac.at/'), '.xml', ''), '.html', '')"
+                />
+            </xsl:when>
+        </xsl:choose>
         <xsl:text>",&#10; "caption":&#10; "</xsl:text>
         <xsl:value-of
             select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/caption/text()"/>
@@ -165,7 +173,14 @@
         <xsl:text> [&#10;</xsl:text>
         <xsl:for-each select="tei:person">
             <xsl:text>{&#10; "persName":&#10; "</xsl:text>
-            <xsl:value-of select="normalize-space(tei:persName)"/>
+            <xsl:choose><!-- hier nochmals vorname vor nachname -->
+                <xsl:when test="tokenize(tei:persName, ', ')[2] and not(tokenize(tei:persName, ', ')[3])">
+                    <xsl:value-of select="concat(tokenize(tei:persName, ', ')[2], ' ', tokenize(tei:persName, ', ')[1])"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="normalize-space(tei:persName)"/>
+                </xsl:otherwise>
+            </xsl:choose>
             <xsl:text>",&#10; "ref":&#10; "</xsl:text>
             <xsl:value-of select="tei:persName/@ref"/>
             <xsl:text>"}</xsl:text>
