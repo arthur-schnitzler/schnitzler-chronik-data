@@ -21,9 +21,17 @@
     <move todir="${editions}">
         <fileset dir="${tmpDir}"/>
     </move>
+    <xslt in="${editions}/schnitzler-tage.xml" out="${tmpDir}/schnitzler-tage.xml"
+        style="./xslts/3_nach-typen-gruppieren.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <move todir="${editions}">
+        <fileset dir="${tmpDir}"/>
+    </move>
     <mkdir dir="${tmpDir}"/>
     <xslt in="${editions}/schnitzler-tage.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
-        style="./xslts/3_einzeldateien.xsl">
+        style="./xslts/4_einzeldateien.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>

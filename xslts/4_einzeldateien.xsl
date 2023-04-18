@@ -110,18 +110,25 @@
         </xsl:result-document>
         <xsl:variable name="dateiname-json" as="xs:string"
             select="concat(normalize-space(@sortKey), '.json')"/>
+        
+        
         <xsl:result-document href="{$dateiname-json}" encoding="utf8" omit-xml-declaration="true">
             <xsl:text>[</xsl:text>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='Arthur-Schnitzler-digital']" mode="jsonlist"/>
+            <xsl:apply-templates select="descendant::tei:listEvent/tei:event" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-tagebuch']" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-tagebuch']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-briefe']" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-briefe']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='pollaczek']" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='pollaczek']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-bahr']" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-bahr']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-orte']" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-orte']"><xsl:text>, </xsl:text></xsl:if>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-cmif']" mode="jsonlist"/>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[not(tei:idno/@type='schnitzler-bahr') and not(tei:idno/@type='schnitzler-cmif') and
-                not(tei:idno/@type='schnitzler-orte') and not(tei:idno/@type='pollaczek') and not(tei:idno/@type='schnitzler-briefe') and not(tei:idno/@type='schnitzler-tagebuch') and
-                not(tei:idno/@type='Arthur-Schnitzler-digital')]" mode="jsonlist"/>
+            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-cmif']"><xsl:text>, </xsl:text></xsl:if>
+            
             <xsl:text>] </xsl:text>
         </xsl:result-document>
     </xsl:template>
