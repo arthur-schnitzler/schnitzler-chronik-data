@@ -110,25 +110,9 @@
         </xsl:result-document>
         <xsl:variable name="dateiname-json" as="xs:string"
             select="concat(normalize-space(@sortKey), '.json')"/>
-        
-        
         <xsl:result-document href="{$dateiname-json}" encoding="utf8" omit-xml-declaration="true">
             <xsl:text>[</xsl:text>
             <xsl:apply-templates select="descendant::tei:listEvent/tei:event" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-tagebuch']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-tagebuch']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-briefe']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-briefe']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='pollaczek']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='pollaczek']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-bahr']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-bahr']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-orte']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-orte']"><xsl:text>, </xsl:text></xsl:if>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-cmif']" mode="jsonlist"/>
-            <xsl:if test="descendant::tei:listEvent/tei:event[tei:idno/@type='schnitzler-cmif']"><xsl:text>, </xsl:text></xsl:if>
-            
             <xsl:text>] </xsl:text>
         </xsl:result-document>
     </xsl:template>
@@ -189,9 +173,13 @@
         <xsl:text> [&#10;</xsl:text>
         <xsl:for-each select="tei:person">
             <xsl:text>{&#10; "persName":&#10; "</xsl:text>
-            <xsl:choose><!-- hier nochmals vorname vor nachname -->
-                <xsl:when test="tokenize(tei:persName, ', ')[2] and not(tokenize(tei:persName, ', ')[3])">
-                    <xsl:value-of select="concat(tokenize(tei:persName, ', ')[2], ' ', tokenize(tei:persName, ', ')[1])"/>
+            <xsl:choose>
+                <!-- hier nochmals vorname vor nachname -->
+                <xsl:when
+                    test="tokenize(tei:persName, ', ')[2] and not(tokenize(tei:persName, ', ')[3])">
+                    <xsl:value-of
+                        select="concat(tokenize(tei:persName, ', ')[2], ' ', tokenize(tei:persName, ', ')[1])"
+                    />
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of select="normalize-space(tei:persName)"/>
