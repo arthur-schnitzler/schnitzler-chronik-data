@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions"
-    xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:df="http://example.com/df"
+    xmlns:mam="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:df="http://example.com/df"
     version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
@@ -118,43 +118,47 @@
             <xsl:text>] </xsl:text>
         </xsl:result-document>
     </xsl:template>
-    <xsl:template mode="jsonlist" match="tei:event">
-        <xsl:text>{&#10; "type":&#10; "</xsl:text>
-        <xsl:value-of select="tei:idno/@type"/>
-        <xsl:if test="tei:idno/@subtype">
-            <xsl:text>",&#10; "subtype":&#10; "</xsl:text>
-            <xsl:value-of select="tei:idno/@subtype"/>
+    <xsl:function name="mam:keyUndValue">
+        <xsl:param name="key" as="xs:string"/>
+        <xsl:param name="value" as="xs:string"/>
+        <xsl:param name="komma" as="xs:boolean"/>
+        <xsl:if test="normalize-space($key) != '' and normalize-space($value) != ''">
+            <xsl:if test="$komma">
+                <xsl:text>,</xsl:text>
+            </xsl:if>
+            <xsl:text>&#10; "</xsl:text>
+            <xsl:value-of select="$key"/>
+            <xsl:text>":&#10; "</xsl:text>
+            <xsl:value-of select="$value"/>
+            <xsl:text>"</xsl:text>
         </xsl:if>
-        <xsl:text>",&#10; "color":&#10; "</xsl:text>
+    </xsl:function>
+    <xsl:template mode="jsonlist" match="tei:listEvent/tei:event">
+        <xsl:text>{</xsl:text>
+        <xsl:value-of select="mam:keyUndValue('type', tei:idno[1]/@type, false())"/>
+        <xsl:value-of select="mam:keyUndValue('subtype', tei:idno[1]/@subtype, true())"/>
         <xsl:value-of
-            select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/color/text()"/>
+            select="mam:keyUndValue('color', key('only-relevant-uris', tei:idno/@type, $relevant-uris)/color/text(), true())"/>
         <xsl:choose>
-            <xsl:when test="contains(tei:idno[1], '.acdh.oeaw.ac.at/')">
-                <xsl:text>",&#10; "filename":&#10; "</xsl:text>
+            <xsl:when
+                test="contains(tei:idno[1], '.acdh.oeaw.ac.at/') and not(contains(tei:idno[1], 'schnitzler-orte/'))">
                 <xsl:value-of
-                    select="replace(replace(substring-after(tei:idno[1], '.acdh.oeaw.ac.at/'), '.xml', ''), '.html', '')"
+                    select="mam:keyUndValue('filename', replace(replace(substring-after(tei:idno[1], '.acdh.oeaw.ac.at/'), '.xml', ''), '.html', ''), true())"
                 />
             </xsl:when>
         </xsl:choose>
-        <xsl:text>",&#10; "caption":&#10; "</xsl:text>
         <xsl:value-of
-            select="key('only-relevant-uris', tei:idno/@type, $relevant-uris)/caption/text()"/>
-        <xsl:if test="tei:idno[not(normalize-space(.) = '')]">
-            <xsl:text>",&#10; "idno":&#10; "</xsl:text>
-            <xsl:value-of select="tei:idno"/>
-        </xsl:if>
-        <xsl:text>",&#10; "head":&#10; "</xsl:text>
-        <xsl:value-of select="tei:head"/>
-        <xsl:text>"</xsl:text>
+            select="mam:keyUndValue('caption', key('only-relevant-uris', tei:idno/@type, $relevant-uris)/caption/text(), true())"/>
+        <xsl:value-of select="mam:keyUndValue('idno', tei:idno, true())"/>
+        <xsl:value-of select="mam:keyUndValue('head', tei:head, true())"/>
+        <xsl:value-of select="mam:keyUndValue('text', tei:desc/text(), true())"/>
         <xsl:choose>
-            <xsl:when test="tei:desc[not(child::*) and not(normalize-space(.) = '')]">
-                <xsl:text>,&#10; "text":&#10; "</xsl:text>
-                <xsl:value-of select="tei:desc"/>
-                <xsl:text>"</xsl:text>
+            <xsl:when test="tei:desc/tei:bibl">
+                <xsl:value-of select="mam:keyUndValue('source', tei:desc/tei:bibl/text(), true())"/>
             </xsl:when>
             <xsl:when test="tei:desc">
                 <xsl:text>,&#10; "desc":&#10;{</xsl:text>
-                <xsl:for-each select="tei:desc/child::*[not(name()='bibl')]">
+                <xsl:for-each select="tei:desc/child::*[not(name() = 'bibl')]">
                     <xsl:text>"</xsl:text>
                     <xsl:value-of select="name()"/>
                     <xsl:text>":&#10; </xsl:text>
@@ -167,7 +171,7 @@
             </xsl:when>
         </xsl:choose>
         <xsl:text>&#10;}</xsl:text>
-        <xsl:if test="not(position()=last())">
+        <xsl:if test="following-sibling::tei:event">
             <xsl:text>, </xsl:text>
         </xsl:if>
     </xsl:template>
