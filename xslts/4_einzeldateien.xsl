@@ -112,7 +112,9 @@
             select="concat(normalize-space(@sortKey), '.json')"/>
         <xsl:result-document href="{$dateiname-json}" encoding="utf8" omit-xml-declaration="true">
             <xsl:text>[</xsl:text>
-            <xsl:apply-templates select="descendant::tei:listEvent/tei:event" mode="jsonlist"/>
+            <xsl:apply-templates select="descendant::tei:listEvent/tei:event" mode="jsonlist">
+                <xsl:sort select="tei:idno/@type"/>
+            </xsl:apply-templates>
             <xsl:text>] </xsl:text>
         </xsl:result-document>
     </xsl:template>
@@ -152,7 +154,7 @@
             </xsl:when>
             <xsl:when test="tei:desc">
                 <xsl:text>,&#10; "desc":&#10;{</xsl:text>
-                <xsl:for-each select="tei:desc/child::*">
+                <xsl:for-each select="tei:desc/child::*[not(name()='bibl')]">
                     <xsl:text>"</xsl:text>
                     <xsl:value-of select="name()"/>
                     <xsl:text>":&#10; </xsl:text>
