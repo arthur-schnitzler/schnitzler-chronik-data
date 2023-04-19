@@ -4,6 +4,9 @@
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
+    <xsl:param name="csv-url"
+        select="'https://docs.google.com/spreadsheets/d/1D7DOS22f-j5o6BfCANtqTdRebi8Q4_cAsqqMcrNbRxw/gviz/tq?tqx=out:csv&amp;sheet=schnitzler-tage-manual'"/>
+    <xsl:param name="csv-content" select="unparsed-text($csv-url)"/>
     <xsl:template match="/">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <teiHeader>
@@ -67,6 +70,34 @@
                 <body>
                     <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:call-template name="events-einfuegen"/>
+                    </xsl:element>
+                    <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0"> <!-- Hier der Import von Google Sheets -->
+                        <xsl:for-each select="tokenize($csv-content, '&#10;')[not(position()=1)]">
+                            <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0" inherit-namespaces="true">
+                                <xsl:attribute name="when-iso">
+                                    <xsl:value-of select="replace(tokenize(., '&#34;,&#34;')[1], '&#34;', '')"/>
+                                </xsl:attribute>
+                                <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:value-of select="tokenize(., '&#34;,&#34;')[2]"/>
+                                </xsl:element>
+                                <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:value-of select="tokenize(., '&#34;,&#34;')[3]"/>
+                                </xsl:element>
+                                <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:attribute name="type">
+                                        <xsl:text>schnitzler-tage-manuell</xsl:text>
+                                    </xsl:attribute>
+                                    <xsl:choose>
+                                        <xsl:when test="normalize-space(tokenize(., '&#34;,&#34;')[4])=''">
+                                            <xsl:value-of select="concat('schnitzler-manuell_', position())"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="normalize-space(tokenize(., '&#34;,&#34;')[4])"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:element>
+                            </xsl:element>
+                        </xsl:for-each>
                     </xsl:element>
                 </body>
             </text>
