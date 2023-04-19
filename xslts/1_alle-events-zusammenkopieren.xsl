@@ -91,7 +91,7 @@
                                             <xsl:value-of select="concat('schnitzler-manuell_', position())"/>
                                         </xsl:when>
                                         <xsl:otherwise>
-                                            <xsl:value-of select="normalize-space(tokenize(., '&#34;,&#34;')[4])"/>
+                                            <xsl:value-of select="replace(normalize-space(tokenize(., '&#34;,&#34;')[4]), '&#34;', '')"/>
                                         </xsl:otherwise>
                                     </xsl:choose>
                                 </xsl:element>
