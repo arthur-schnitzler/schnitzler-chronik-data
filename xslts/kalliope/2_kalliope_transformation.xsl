@@ -29,7 +29,7 @@
                     <xsl:value-of select="@when-iso"/>
                 </xsl:attribute>
                 <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:value-of select="$eintrag/descendant::ns0:titleInfo/ns0:title"/>
+                    <xsl:value-of select="normalize-space($eintrag/ns0:titleInfo/ns0:title)"/>
                 </xsl:element>
                 
                 <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
@@ -49,14 +49,14 @@
                                 </xsl:when>
                                 <xsl:when test="normalize-space($eintrag/ns0:abstract)=''"/>
                                 <xsl:otherwise>
-                                    <xsl:value-of select="$eintrag/ns0:abstract"/><xsl:text>. </xsl:text>
+                                    <xsl:value-of select="normalize-space($eintrag/ns0:abstract)"/><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                             </xsl:choose>                            
-                            <xsl:value-of select="$eintrag/ns0:physicalDescription"/>
+                            <xsl:value-of select="normalize-space($eintrag/ns0:physicalDescription)"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select="$eintrag/ns0:abstract"/><xsl:text>. </xsl:text>
-                            <xsl:value-of select="$eintrag/ns0:physicalDescription"/>
+                            <xsl:value-of select="normalize-space($eintrag/ns0:abstract)"/><xsl:text>. </xsl:text>
+                            <xsl:value-of select="normalize-space($eintrag/ns0:physicalDescription)"/>
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:if test="$eintrag/ns0:name[@authority='GND' and not(contains(@valueURI, 'gnd/118609807'))]">
@@ -68,7 +68,7 @@
                                     <xsl:attribute name="ref">
                                         <xsl:value-of select="@valueURI"/>
                                     </xsl:attribute>
-                                    <xsl:value-of select="ns0:namePart"/>
+                                        <xsl:value-of select="normalize-space(ns0:namePart)"/>
                                 </xsl:element>
                                 </xsl:element>
                             </xsl:for-each>
@@ -80,7 +80,7 @@
                     <xsl:attribute name="type">
                         <xsl:text>kalliope-verbund</xsl:text>
                     </xsl:attribute>
-                    <xsl:value-of select="$eintrag/ns0:identifier[@type='uri']"/>
+                    <xsl:value-of select="normalize-space($eintrag/ns0:identifier[@type='uri'])"/>
                 </xsl:element>
                 
             </xsl:element>
