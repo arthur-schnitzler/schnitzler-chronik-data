@@ -127,7 +127,9 @@
             <xsl:text>&#10; "</xsl:text>
             <xsl:value-of select="$key"/>
             <xsl:text>":&#10; "</xsl:text>
-            <xsl:value-of select="replace($value, '^\s+|\s+$', '')"/>
+            <xsl:variable name="pPat">"</xsl:variable>
+            <xsl:variable name="pRep">'</xsl:variable>
+            <xsl:value-of select="replace(replace($value, '^\s+|\s+$', ''), $pPat, $pRep)"/>
             <xsl:text>"</xsl:text>
         </xsl:if>
     </xsl:function>
