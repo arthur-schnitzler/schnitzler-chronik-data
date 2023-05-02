@@ -19,16 +19,24 @@
                     <xsl:value-of select="@when-iso"/>
                 </xsl:attribute>
                 <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='Arthur-Schnitzler-digital']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='schnitzler-tagebuch']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='schnitzler-briefe']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='schnitzler-orte']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='pollaczek']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='schnitzler-bahr']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type='schnitzler-cmif']"/>
-                    <xsl:apply-templates select="current-group()[not(tei:idno/@type='schnitzler-bahr') and not(tei:idno/@type='schnitzler-cmif') and
-                        not(tei:idno/@type='schnitzler-orte') and not(tei:idno/@type='pollaczek') and not(tei:idno/@type='schnitzler-briefe') and not(tei:idno/@type='schnitzler-tagebuch') and
-                        not(tei:idno/@type='Arthur-Schnitzler-digital')]"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'Arthur-Schnitzler-digital']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-tagebuch']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-briefe']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-orte']"/>
+                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pollaczek']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-cmif']"/>
+                    <xsl:apply-templates select="
+                            current-group()[not(tei:idno/@type = 'schnitzler-bahr') and not(tei:idno/@type = 'schnitzler-cmif') and
+                            not(tei:idno/@type = 'schnitzler-orte') and not(tei:idno/@type = 'pollaczek') and not(tei:idno/@type = 'schnitzler-briefe') and not(tei:idno/@type = 'schnitzler-tagebuch') and
+                            not(tei:idno/@type = 'Arthur-Schnitzler-digital')]"
+                    />
                 </xsl:element>
             </xsl:element>
         </xsl:for-each-group>
