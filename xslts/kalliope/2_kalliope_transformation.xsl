@@ -45,7 +45,14 @@
                         <xsl:when test="$eintrag/ns0:abstract and $eintrag/ns0:physicalDescription">
                             <xsl:choose>
                                 <xsl:when test="ends-with(normalize-space($eintrag/ns0:abstract), '.')">
-                                    <xsl:value-of select="$eintrag/ns0:abstract"/>
+                                    <xsl:choose>
+                                        <xsl:when test="starts-with($eintrag/ns0:abstract, '. ')">
+                                            <xsl:value-of select="replace(substring($eintrag/ns0:abstract, 3), '. . ', '. ')"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="replace($eintrag/ns0:abstract, '. . ', '. ')"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
                                 </xsl:when>
                                 <xsl:when test="normalize-space($eintrag/ns0:abstract)=''"/>
                                 <xsl:otherwise>
