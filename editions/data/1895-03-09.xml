@@ -132,6 +132,22 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1895-03-09">
+               <head>Aufführung von Julius Cäsar, 9.3.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31417" type="auffuhrung-von">Julius Caesar</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb14" type="veranstaltet-in">Burgtheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42285/</idno>
+            </event>
+            <event when-iso="1895-03-09">
                <head>Adele Sandrock an Arthur Schnitzler, 9.3.1895</head>
                <desc>
                   <listPerson>
@@ -158,22 +174,6 @@
                     Main: S. Fischer 1981.</bibl>
                </desc>
                <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
-            </event>
-            <event when-iso="1895-03-09">
-               <head>Aufführung von Julius Cäsar, 9.3.1895</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb31417" type="auffuhrung-von">Julius Caesar</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb14" type="veranstaltet-in">Burgtheater</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42285/</idno>
             </event>
          </listEvent>
       </body>

@@ -199,6 +199,36 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/58094/</idno>
             </event>
             <event when-iso="1923-05-12">
+               <head>Vorlesung von Dreifache Warnung, Letzte Masken, Weg ins Freie, Zum großen Wurstl, 12.5.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33061" type="vortragvorlesung-von">Die dreifache Warnung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29877" type="vortragvorlesung-von">Die letzten Masken</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29923" type="vortragvorlesung-von">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb36300" type="veranstaltet-in">Kopenhagen</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29482" type="veranstaltet-von">Studentersamfundet</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/62177/</idno>
+            </event>
+            <event when-iso="1923-05-12">
                <head>Gustaf Linden an Arthur Schnitzler, 12.5.1923</head>
                <desc>
                   <listPerson>
@@ -234,43 +264,6 @@
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>
                </desc>
                <idno type="schnitzler-traeume" subtype="#ISBN978-3-8353-1029-2"/>
-            </event>
-            <event when-iso="1923-05-12">
-               <head>Traum vom 12. Mai 1923</head>
-               <desc>
-                  <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>
-               </desc>
-               <idno type="schnitzler-traeume" subtype="#ISBN978-3-8353-1029-2"/>
-            </event>
-            <event when-iso="1923-05-12">
-               <head>Vorlesung von Dreifache Warnung, Letzte Masken, Weg ins Freie, Zum großen Wurstl, 12.5.1923</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33061" type="vortragvorlesung-von">Die dreifache Warnung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29877" type="vortragvorlesung-von">Die letzten Masken</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29923" type="vortragvorlesung-von">Der Weg ins Freie. Roman</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb36300" type="veranstaltet-in">Kopenhagen</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29482" type="veranstaltet-von">Studentersamfundet</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/62177/</idno>
             </event>
          </listEvent>
       </body>

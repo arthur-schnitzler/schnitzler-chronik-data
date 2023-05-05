@@ -96,16 +96,6 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1891-04-14">
-               <head>Glümer, Marie an Schnitzler, Arthur [Briefe]</head>
-               <desc>Erstes Objekt aus der Mappe. 31 Br., 1 Tel. 62 Bl.<listPerson>
-                     <person>
-                        <persName ref="http://d-nb.info/gnd/128385022">Glümer, Marie (1873-1925)</persName>
-                     </person>
-                  </listPerson>
-               </desc>
-               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00034792</idno>
-            </event>
-            <event when-iso="1891-04-14">
                <head>Zusammenkunft Jung Wien, 14. 4. 1891</head>
                <desc>
                   <listBibl>
@@ -133,6 +123,16 @@
                   </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/89182/</idno>
+            </event>
+            <event when-iso="1891-04-14">
+               <head>Glümer, Marie an Schnitzler, Arthur [Briefe]</head>
+               <desc>Erstes Objekt aus der Mappe. 31 Br., 1 Tel. 62 Bl.<listPerson>
+                     <person>
+                        <persName ref="http://d-nb.info/gnd/128385022">Glümer, Marie (1873-1925)</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00034792</idno>
             </event>
          </listEvent>
       </body>
