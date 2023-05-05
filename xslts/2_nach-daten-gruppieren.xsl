@@ -32,9 +32,12 @@
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-cmif']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-traeume']"/>
                     <xsl:apply-templates select="
                             current-group()[not(tei:idno/@type = 'schnitzler-bahr') and not(tei:idno/@type = 'schnitzler-cmif') and
-                            not(tei:idno/@type = 'schnitzler-orte') and not(tei:idno/@type = 'pollaczek') and not(tei:idno/@type = 'schnitzler-briefe') and not(tei:idno/@type = 'schnitzler-tagebuch') and
+                            not(tei:idno/@type = 'schnitzler-orte') and not(tei:idno/@type = 'pollaczek') and not(tei:idno/@type = 'schnitzler-briefe') 
+                            and not(tei:idno/@type = 'schnitzler-traeume') and not(tei:idno/@type = 'schnitzler-tagebuch') and
                             not(tei:idno/@type = 'Arthur-Schnitzler-digital')]"
                     />
                 </xsl:element>
