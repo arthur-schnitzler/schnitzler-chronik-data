@@ -5,7 +5,7 @@
     <property name="data" value="./editions/data"/>
     <delete dir="${tmpDir}"/>
     <mkdir dir="${tmpDir}"/>
-    <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-tage.xml"
+    <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-chronik.xml"
         style="./xslts/1_alle-events-zusammenkopieren.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
@@ -13,7 +13,7 @@
     <move todir="${editions}">
         <fileset dir="${tmpDir}"/>
     </move>
-    <xslt in="${editions}/schnitzler-tage.xml" out="${tmpDir}/schnitzler-tage.xml"
+    <xslt in="${editions}/schnitzler-chronik.xml" out="${tmpDir}/schnitzler-chronik.xml"
         style="./xslts/2_nach-daten-gruppieren.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
@@ -22,7 +22,7 @@
         <fileset dir="${tmpDir}"/>
     </move>
     <mkdir dir="${tmpDir}"/>
-    <xslt in="${editions}/schnitzler-tage.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
+    <xslt in="${editions}/schnitzler-chronik.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
         style="./xslts/3_einzeldateien.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>

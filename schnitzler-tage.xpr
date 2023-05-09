@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <meta>
-        <filters directoryPatterns="" filePatterns="\Qschnitzler-tage.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="\Qschnitzler-chronik.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>editions/complete-list/schnitzler-tage.xml</String>
+                                    <String>editions/complete-list/schnitzler-chronik.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,7 +70,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>final-list/schnitzler-tage.xml</String>
+                                    <String>final-list/schnitzler-chronik.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -157,7 +157,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/editions/complete-list/schnitzler-tage.xml</String>
+                                    <String>${pd}/editions/complete-list/schnitzler-chronik.xml</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -204,7 +204,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="schnitzler-tage.xpr">
+    <projectTree name="schnitzler-chronik.xpr">
         <folder path="."/>
     </projectTree>
 </project>
