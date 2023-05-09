@@ -1,15 +1,12 @@
-# schnitzler-tage
-# Arthur Schnitzer – Tag für Tag
+# schnitzler-chronik
+# Arthur Schnitzer – Chronik
 A TEI-listEvent with entries for every day of Arthur Schnitzler’s adult life
 
-This repository collects links to different biographical sources on Arthur Schnitzler:
+This repository collects links to different biographical sources on Arthur Schnitzler, most of all
 * schnitzler-tagebuch https://schnitzler-tagebuch.acdh.oeaw.ac.at
 * pollaczek https://pollaczek.acdh.oeaw.ac.at Clara Katharina Pollaczek: Arthur Schnitzler und ich
 * schnitzler-orte https://schnitzler-orte.acdh.oeaw.ac.at
 * https://schnitzler-bahr.acdh.oeaw.ac.at
-
-The next release should include:
-
 * https://schnitzler-briefe.acdh.oeaw.ac.at
 * https://schnitzler-cmif.acdh.oeaw.ac.at printed correspondences of Schnitzlers
 * Contributions from https://www.schnitzler-edition.net 
