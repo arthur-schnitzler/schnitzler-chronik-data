@@ -69,7 +69,7 @@
             <text>
                 <body>
                     <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:call-template name="events-einfuegen"/>
+                       <xsl:call-template name="events-einfuegen"/>
                      <!-- Hier der Import von Google Sheets -->
                         <xsl:for-each select="tokenize($csv-content, '&#10;')[not(position()=1)]">
                             <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0" inherit-namespaces="true">
