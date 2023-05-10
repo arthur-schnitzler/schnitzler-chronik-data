@@ -23,7 +23,7 @@
     
     <xsl:template match="ns0:mods">
         <xsl:variable name="eintrag" select="." as="node()"/>        
-        <xsl:for-each select="descendant::ns0:dateCreated/date[format-date(@when-iso, '[Y0001]-[M01]-[D01]') &lt; '1931-12-31']">
+        <xsl:for-each select="descendant::ns0:dateCreated/date[format-date(@when-iso, '[Y0001]-[M01]-[D01]') &lt; '1931-12-31' and format-date(@when-iso, '[Y0001]-[M01]-[D01]') &gt; '1862-05-14']">
             <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="when-iso">
                     <xsl:value-of select="@when-iso"/>
