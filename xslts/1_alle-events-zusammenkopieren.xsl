@@ -5,14 +5,14 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:param name="csv-url"
-        select="'https://docs.google.com/spreadsheets/d/1D7DOS22f-j5o6BfCANtqTdRebi8Q4_cAsqqMcrNbRxw/gviz/tq?tqx=out:csv&amp;sheet=schnitzler-tage-manual'"/>
+        select="'https://docs.google.com/spreadsheets/d/1D7DOS22f-j5o6BfCANtqTdRebi8Q4_cAsqqMcrNbRxw/gviz/tq?tqx=out:csv&amp;sheet=schnitzler-chronik-manual'"/>
     <xsl:param name="csv-content" select="unparsed-text($csv-url)"/>
     <xsl:template match="/">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title level="s">Arthur Schnitzler – Tag für Tag</title>
+                        <title level="s">Arthur Schnitzler – Chronik</title>
                         <respStmt>
                             <resp>providing the content</resp>
                             <name>Kristina Fink</name>
@@ -84,7 +84,7 @@
                                 </xsl:element>
                                 <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                                     <xsl:attribute name="type">
-                                        <xsl:text>schnitzler-tage-manuell</xsl:text>
+                                        <xsl:text>schnitzler-chronik-manuell</xsl:text>
                                     </xsl:attribute>
                                     <xsl:choose>
                                         <xsl:when test="normalize-space(tokenize(., '&#34;,&#34;')[4])=''">

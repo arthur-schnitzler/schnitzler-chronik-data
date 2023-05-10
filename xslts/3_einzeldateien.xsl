@@ -22,7 +22,7 @@
                 <teiHeader>
                     <fileDesc>
                         <titleStmt>
-                            <title level="s">Arthur Schnitzler – Tag für Tag</title>
+                            <title level="s">Arthur Schnitzler – Chronik</title>
                             <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
                                 <xsl:attribute name="level">
                                     <xsl:text>a</xsl:text>
