@@ -27,12 +27,14 @@
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-briefe']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-orte']"/>
+                    <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-interviews']"/>
                     <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pollaczek']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr']"/>
+                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pmb']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'pmb']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'schnitzler-chronik-manuell']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-chronik-manuell']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-cmif']"/>
                     <xsl:apply-templates
