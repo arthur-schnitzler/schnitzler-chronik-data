@@ -40,6 +40,8 @@
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-traeume']"/>
                     <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-kino']"/>
+                    <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'kalliope-verbund']"/>
                 </xsl:element>
             </xsl:element>
