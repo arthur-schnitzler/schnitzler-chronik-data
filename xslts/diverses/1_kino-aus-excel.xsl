@@ -96,6 +96,10 @@
                         <xsl:text>Pollaczek</xsl:text>
                     </xsl:when>
                 </xsl:choose>
+                
+                <xsl:if test="Filmtitel = '' and Kino = ''">
+                    <xsl:text> geht ins Kino</xsl:text>
+                </xsl:if>
                 <xsl:if test="not(fn:normalize-space(Filmtitel) = '')">
                     <xsl:text> </xsl:text>
                     <xsl:choose>
