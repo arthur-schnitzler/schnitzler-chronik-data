@@ -107,7 +107,7 @@
                     <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:text>Hedy Kempny, Tagebucheintrag vom </xsl:text>
                         <xsl:value-of select="
-                                format-date($datum, '[D01]. [MNn] [Y0001]',
+                                format-date($datum, '[D]. [MNn] [Y0001]',
                                 'de',
                                 'AD',
                                 'DE')"/>
