@@ -63,7 +63,7 @@
                         <p>»A. ist
                             manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino.
                             Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit
-                            von Daniel Schopper. Wien, Köln, Wismar: Böhlau Verlag 2012.</p>
+                            von Daniel Schopper. Wien, Köln, Weimar: Böhlau Verlag 2012.</p>
                     </sourceDesc>
                 </fileDesc>
             </teiHeader>
@@ -142,7 +142,7 @@
             <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:element name="bibl">
                     <xsl:text>»A. ist
-                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino. Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit von Daniel Schopper. Wien, Köln, Wismar: Böhlau Verlag 2012.</xsl:text>
+                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino. Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit von Daniel Schopper. Wien, Köln, Weimar: Böhlau Verlag 2012.</xsl:text>
                 </xsl:element>
             </xsl:element>
             <xsl:element name="idno">
