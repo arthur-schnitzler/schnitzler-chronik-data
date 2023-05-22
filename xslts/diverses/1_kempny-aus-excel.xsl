@@ -9,14 +9,10 @@
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title level="s">Arthur Schnitzler, Clara Katharina Pollaczek: »A. ist
-                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur
-                            Schnitzler gehen ins Kino</title>
+                        <title level="s">Hedy Kempny, Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen</title>
                         <respStmt>
                             <resp>providing the content</resp>
-                            <name>Stephan Kurz</name>
-                            <name>Michael Rohrwasser</name>
-                            <name>Daniel Schopper</name>
+                            <name>Heinz Adamek</name>
                         </respStmt>
                         <respStmt>
                             <resp>converted to XML encoding</resp>
@@ -60,10 +56,11 @@
                         </availability>
                     </publicationStmt>
                     <sourceDesc>
-                        <p>»A. ist
-                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino.
-                            Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit
-                            von Daniel Schopper. Wien, Köln, Weimar: Böhlau Verlag 2012.</p>
+                        <p>Hedy Kempny und
+                            Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz
+                            ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                            Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt
+                            1984. (Neue Frau)</p>
                     </sourceDesc>
                 </fileDesc>
             </teiHeader>
@@ -77,86 +74,63 @@
         </TEI>
     </xsl:template>
     <xsl:template match="*:row">
-        <xsl:variable name="datum" as="xs:date">
-            <xsl:value-of select="substring-after(Datum, '.xml')"/>
-        </xsl:variable>
-        <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:attribute name="when-iso">
-                <xsl:value-of select="$datum"/>
-            </xsl:attribute>
-            <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+        <xsl:variable name="jahr" select="Jahr"/>
+        <xsl:for-each select="child::*[not(name() = 'Jahr')]">
+            <xsl:variable name="monat" as="xs:string">
                 <xsl:choose>
-                    <xsl:when test="contains(Aufzeichnungen, ' und ')">
-                        <xsl:text>Schnitzler und Pollaczek</xsl:text>
+                    <xsl:when test="position() &lt; 10">
+                        <xsl:value-of select="concat('0', position())"/>
                     </xsl:when>
-                    <xsl:when test="contains(Aufzeichnungen, 'Schnitzler')">
-                        <xsl:text>Schnitzler</xsl:text>
-                    </xsl:when>
-                    <xsl:when test="contains(Aufzeichnungen, 'Pollaczek')">
-                        <xsl:text>Pollaczek</xsl:text>
-                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="fn:position()"/>
+                    </xsl:otherwise>
                 </xsl:choose>
-                
-                <xsl:if test="Filmtitel = '' and Kino = ''">
-                    <xsl:text> geht ins Kino</xsl:text>
-                </xsl:if>
-                <xsl:if test="not(fn:normalize-space(Filmtitel) = '')">
-                    <xsl:text> </xsl:text>
+            </xsl:variable>
+            <xsl:for-each select="tokenize(text(), ',')">
+                <xsl:variable name="tag" as="xs:string">
                     <xsl:choose>
-                        <xsl:when test="contains(Aufzeichnungen, ' und ')">
-                            <xsl:text>sehen </xsl:text>
+                        <xsl:when test="number(normalize-space(.)) &lt; 10">
+                            <xsl:value-of select="concat('0', normalize-space(.))"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>sieht </xsl:text>
+                            <xsl:value-of select="normalize-space(.)"/>
                         </xsl:otherwise>
                     </xsl:choose>
-                    <xsl:value-of select="Filmtitel"/>
-                </xsl:if>
-                <xsl:if test="not(fn:normalize-space(Kino) = '')">
-                    <xsl:text> </xsl:text>
-                    <xsl:choose>
-                        <xsl:when test="contains(Aufzeichnungen, ' und ')">
-                            <xsl:text>im </xsl:text>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:text>im </xsl:text>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                    <xsl:value-of select="Kino"/>
-                </xsl:if>
-                <xsl:if test="not(fn:normalize-space(Ort) = '') and not(Ort = 'Wien')">
-                    <xsl:text> </xsl:text>
-                    <xsl:choose>
-                        <xsl:when test="contains(Aufzeichnungen, ' und ')">
-                            <xsl:text>in </xsl:text>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:text>in </xsl:text>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                    <xsl:value-of select="Ort"/>
-                </xsl:if>
-                <xsl:text>, </xsl:text>
-                <xsl:value-of select="
-                        format-date($datum, '[D]. [MNn] [Y0001]',
-                        'de',
-                        'AD',
-                        'DE')"/>
-            </xsl:element>
-            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:element name="bibl">
-                    <xsl:text>»A. ist
-                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino. Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit von Daniel Schopper. Wien, Köln, Weimar: Böhlau Verlag 2012.</xsl:text>
+                </xsl:variable>
+                <xsl:variable name="datum" as="xs:date">
+                    <xsl:value-of select="concat($jahr, '-', $monat, '-', $tag)"/>
+                </xsl:variable>
+                <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="when-iso">
+                        <xsl:value-of select="$datum"/>
+                    </xsl:attribute>
+                    <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:text>Hedy Kempny, Tagebucheintrag vom </xsl:text>
+                        <xsl:value-of select="
+                                format-date($datum, '[D01]. [MNn] [Y0001]',
+                                'de',
+                                'AD',
+                                'DE')"/>
+                    </xsl:element>
+                    <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:element name="bibl">
+                            <xsl:text>Hedy Kempny und
+                    Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz
+                    ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                    Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt
+                    1984. (Neue Frau)</xsl:text>
+                        </xsl:element>
+                    </xsl:element>
+                    <xsl:element name="idno">
+                        <xsl:attribute name="type">
+                            <xsl:text>schnitzler-kempny-buch</xsl:text>
+                        </xsl:attribute>
+                        <xsl:attribute name="subtype">
+                            <xsl:text>#ISBN3-499-154-57-9</xsl:text>
+                        </xsl:attribute>
+                    </xsl:element>
                 </xsl:element>
-            </xsl:element>
-            <xsl:element name="idno">
-                <xsl:attribute name="type">
-                    <xsl:text>schnitzler-kino-buch</xsl:text>
-                </xsl:attribute>
-                <xsl:attribute name="subtype">
-                    <xsl:text>#ISBN978-3205787464</xsl:text>
-                </xsl:attribute>
-            </xsl:element>
-        </xsl:element>
+            </xsl:for-each>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
