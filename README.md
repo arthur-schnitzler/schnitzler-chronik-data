@@ -26,6 +26,14 @@ The basic information includes
 
 items with asterix are not mandatory. if @from and @to are given "iso-date" can be omitted.
 
+desc can have child-elements:
+* listPerson
+* listBibl
+* listPlace
+* listOrg
+and if there is a printed source:
+* bibl
+
 the basic TEI-outline of the file is an item with the iso-date as sortKey and a listEvent with as much events as available, giving the source project in the idno-type:
 
 ```xml
