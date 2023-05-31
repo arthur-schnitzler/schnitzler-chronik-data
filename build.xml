@@ -4,7 +4,9 @@
     <property name="editions" value="./editions/complete-list"/>
     <property name="data" value="./editions/data"/>
     <delete dir="${tmpDir}"/>
+    <delete dir="${data}"/>
     <mkdir dir="${tmpDir}"/>
+    <mkdir dir="${data}"/>
     <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-chronik.xml"
         style="./xslts/1_alle-events-zusammenkopieren.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
