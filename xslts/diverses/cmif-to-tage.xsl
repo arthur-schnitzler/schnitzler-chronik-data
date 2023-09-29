@@ -4,7 +4,10 @@
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
-    <!-- Diese Datei, angewandt auf schnitzler-ohne-dubletten
+    <!-- Diese Datei, angewandt auf 
+        schnitzler-ohne-dubletten
+        oder
+        schnitzler-briefe_cmif.xml d
     holt alle gedruckten Briefe raus, schnitzler-briefe wird
     ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet.
     Wenn die Zeile 70 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif
