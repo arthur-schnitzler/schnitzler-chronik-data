@@ -103,7 +103,7 @@
                 </teiHeader>
                 <text>
                     <body>
-                        <xsl:copy-of select="child::*"/>
+                        <xsl:copy-of select="child::*" copy-namespaces="no"/>
                     </body>
                 </text>
             </TEI>
