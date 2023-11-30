@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und
+                        Autoren</title>
             <title level="a">Verzeichnis der Ereignisse</title>
             <respStmt>
                <resp>providing the content</resp>
@@ -18,10 +19,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage
-                    (ACDH-CH)</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
             <pubPlace>Vienna, Austria</pubPlace>
-            <date>2023-04-19+02:00</date>
+            <date>2023-11-30+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listEvent</idno>
             <idno type="handle">XXXX</idno>
          </publicationStmt>
@@ -174,13 +174,19 @@
                         <title ref="pmb29857" type="auffuhrung-von-urauffuhrung-von">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb142599" type="wird-rezensiert-in">Theater- und Kunstnachrichten [Uraufführung von Schleier der Beatrice]</title>
+                        <title ref="pmb142599" type="wird-rezensiert-in">[Man telegraphirt uns aus Breslau…]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb142604" type="wird-rezensiert-in">Theater und Musik [Schleier der Beatrice]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb142663" type="wird-rezensiert-in">[Rezension von Erich Freund über Schleier der Beatrice]</title>
+                        <title ref="pmb142663" type="wird-rezensiert-in">[Unser Correspondent schreibt uns aus Breslau][Uraufführung Der Schleier der Beatrice]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb143992" type="wird-rezensiert-in">Echo der Bühnen. Breslau [Der Schleier der Beatrice]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb143996" type="wird-rezensiert-in">»Der Schleier der Beatrice«. (Zum erstenmale aufgeführt im Lobe-Theater zu Breslau)</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -195,6 +201,9 @@
                      </person>
                      <person>
                         <persName ref="pmb2161" type="hat-als-teilnehmerin">Emerich von Bukovics</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14953" type="hat-als-teilnehmerin">Marie Glümer</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -219,6 +228,12 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb88513" type="wird-rezensiert-in">[Im Deutschen Theater soll »Der Schleier der Beatrice«]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144082" type="wird-rezensiert-in">Aus Berlin wird uns berichtet [Der Schleier der Beatrice]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144087" type="wird-rezensiert-in">Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -285,6 +300,11 @@
                         <placeName ref="pmb3" type="veranstaltet-in">Deutsches Theater Berlin</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35098/</idno>
             </event>
@@ -294,6 +314,12 @@
                   <listBibl>
                      <bibl>
                         <title ref="pmb29863" type="auffuhrung-von-urauffuhrung-von">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144122" type="wird-rezensiert-in">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144562" type="wird-rezensiert-in">Theater- und Kunstnachrichten [Uraufführung von Lebendige Stunden]</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -305,6 +331,24 @@
                      </person>
                      <person>
                         <persName ref="pmb24423" type="hat-als-teilnehmerin">Helene Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12977" type="hat-als-arbeitskraft">Irene Triesch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10844" type="hat-als-arbeitskraft">Albert Bassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12504" type="hat-als-arbeitskraft">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12530" type="hat-als-arbeitskraft">Rudolf Rittner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb16275" type="hat-als-arbeitskraft">Hanns Friedrich Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485" type="hat-als-teilnehmerin">Paul Goldmann</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -622,12 +666,74 @@
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35170/</idno>
             </event>
+            <event when-iso="1905-11-25">
+               <head>Premiere von Zwischenspiel, 25.11.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29903" type="auffuhrung-von-premiere-von">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12977" type="hat-als-arbeitskraft">Irene Triesch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10844" type="hat-als-arbeitskraft">Albert Bassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617" type="hat-als-teilnehmerin">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11621" type="hat-als-teilnehmerin">Margarete Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2537" type="hat-als-teilnehmerin">Ida d’Albert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918" type="hat-als-teilnehmerin">Ottilie Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986" type="hat-als-teilnehmerin">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11246" type="hat-als-teilnehmerin">Julius Elias</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4532" type="hat-als-teilnehmerin">Paul Jonas</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18900" type="hat-als-teilnehmerin">Clara Jonas</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4370" type="hat-als-teilnehmerin">Julie Elias</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12968" type="hat-als-teilnehmerin">Siegfried Trebitsch</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb18" type="veranstaltet-in">Lessing-Theater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35053" type="veranstaltet-von">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35176/</idno>
+            </event>
             <event when-iso="1906-02-24">
                <head>Premiere von Der Ruf des Lebens, 24.2.1906</head>
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29905" type="auffuhrung-von-urauffuhrung-von">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                        <title ref="pmb29905" type="auffuhrung-von-premiere-von">Der Ruf des Lebens. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33352" type="wird-rezensiert-in">»Der Ruf des Lebens.« Schauspiel von Artur Schnitzler. Erste Aufführung im Lessingtheater</title>
@@ -679,12 +785,35 @@
                      <person>
                         <persName ref="pmb10844" type="hat-als-arbeitskraft">Albert Bassermann</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12977" type="hat-als-arbeitskraft">Irene Triesch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12491" type="hat-als-arbeitskraft">Emanuel Reicher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21647" type="hat-als-arbeitskraft">Paul Marx</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2865" type="hat-als-arbeitskraft">Else Lehmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10733" type="hat-als-arbeitskraft">Kurt Stieler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb143371" type="hat-als-arbeitskraft">Grete Hofmann</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
                         <placeName ref="pmb18" type="veranstaltet-in">Lessing-Theater</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35053" type="veranstaltet-von">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35179/</idno>
             </event>
@@ -969,7 +1098,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29931" type="auffuhrung-von-urauffuhrung-von">Komtesse Mizzi oder Der Familientag</title>
+                        <title ref="pmb29931" type="auffuhrung-von-urauffuhrung-von">Komtesse Mizzi oder: Der Familientag</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29917" type="auffuhrung-von-premiere-von">Liebelei. Schauspiel in drei Akten</title>
@@ -1172,6 +1301,9 @@
                      <bibl>
                         <title ref="pmb29985" type="auffuhrung-von-urauffuhrung-von">Der einsame Weg. Schauspiel in fünf Akten</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb31281" type="wird-rezensiert-in">Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</title>
+                     </bibl>
                   </listBibl>
                   <listPerson>
                      <person>
@@ -1266,6 +1398,11 @@
                         <placeName ref="pmb1179" type="veranstaltet-in">Stadttheater (Bad Ischl)</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb42649" type="veranstaltet-von">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35284/</idno>
             </event>
@@ -1289,6 +1426,32 @@
                   </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35312/</idno>
+            </event>
+            <event when-iso="1897-12-23">
+               <head>Uraufführung von Josephine, 23.12.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30137" type="auffuhrung-von-urauffuhrung-von">Josephine. Ein Spiel in vier Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11988" type="hat-als-teilnehmerin">Karl Kraus</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430" type="veranstaltet-von">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35331/</idno>
             </event>
             <event when-iso="1912-11-28">
                <head>Uraufführung von Professor Bernhardi, 28.11.1912</head>
@@ -1602,7 +1765,7 @@
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35406/</idno>
             </event>
-             <event when-iso="1915-10-12">
+            <event when-iso="1915-10-12">
                <head>Uraufführung von Komödie der Worte, 12.10.1915</head>
                <desc>
                   <listBibl>
@@ -1988,7 +2151,7 @@
                         <persName ref="pmb19923" type="hat-als-arbeitskraft">Bruno Richard Köhler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb28671" type="hat-als-arbeitskraft">Hanns Fischer</persName>
+                        <persName ref="pmb16275" type="hat-als-arbeitskraft">Hanns Friedrich Fischer</persName>
                      </person>
                      <person>
                         <persName ref="pmb11195" type="hat-als-arbeitskraft">Louise Dumont</persName>
@@ -2105,12 +2268,20 @@
                      <person>
                         <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12504" type="hat-als-arbeitskraft">Max Reinhardt</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb39" type="veranstaltet-in">Volkstheater in Rudolphsheim</placeName>
+                        <placeName ref="pmb39" type="veranstaltet-in">Volkstheater in Rudolfsheim</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb146087" type="veranstaltet-von">Volkstheater in Rudolfsheim</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/40436/</idno>
             </event>
@@ -2173,6 +2344,27 @@
                   </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/40995/</idno>
+            </event>
+            <event when-iso="1892-11-12">
+               <head>Premiere von Musotte, 12.11.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31971" type="auffuhrung-von">Musotte</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430" type="veranstaltet-von">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/41110/</idno>
             </event>
             <event when-iso="1895-09-21">
                <head>Uraufführung von Die Doppelhochzeit, 21.9.1895</head>
@@ -2326,6 +2518,21 @@
                      </person>
                      <person>
                         <persName ref="pmb12692" type="hat-als-teilnehmerin">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4040" type="hat-als-arbeitskraft">Alfred Bernau</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18489" type="hat-als-arbeitskraft">Hans Homma</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11224" type="hat-als-arbeitskraft">Anton Edthofer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4431" type="hat-als-arbeitskraft">Karl Forest</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8246" type="hat-als-arbeitskraft">Wilhelm Klitsch</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -2657,6 +2864,32 @@
                         <title ref="pmb30455" type="auffuhrung-von-urauffuhrung-von">Das Glück im Winkel</title>
                      </bibl>
                   </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12618" type="hat-als-arbeitskraft">Adele Sandrock</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12809" type="hat-als-arbeitskraft">Adolf von Sonnenthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4200" type="hat-als-arbeitskraft">Babette Reinhold</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12265" type="hat-als-arbeitskraft">Friedrich Mitterwurzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11860" type="hat-als-arbeitskraft">Anna Kallina</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12061" type="hat-als-arbeitskraft">Josef Lewinsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2868" type="hat-als-arbeitskraft">Victor Kutschera</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13031" type="hat-als-arbeitskraft">Fanny Walbeck</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
                      <place>
                         <placeName ref="pmb14" type="veranstaltet-in">Burgtheater</placeName>
@@ -2697,13 +2930,24 @@
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42446/</idno>
             </event>
             <event when-iso="1895-11-15">
-               <head>Aufführung Jabuka, 15.11.1895</head>
+               <head>Aufführung von Jabuka, 15.11.1895</head>
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb42459" type="auffuhrung-von">Jabuka (Das Apfelfest)</title>
+                        <title ref="pmb42459" type="auffuhrung-von">Jabuka</title>
                      </bibl>
                   </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740" type="hat-als-teilnehmerin">Hugo von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
                      <place>
                         <placeName ref="pmb37" type="veranstaltet-in">Theater an der Wien</placeName>
@@ -2775,6 +3019,16 @@
                         <persName ref="pmb11701" type="hat-als-teilnehmerin">Georg Hirschfeld</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb3" type="veranstaltet-in">Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42740/</idno>
             </event>
@@ -3913,7 +4167,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb19" type="veranstaltet-in">Etablissement Ronacher</placeName>
+                        <placeName ref="pmb19" type="veranstaltet-in">Ronacher</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -4315,19 +4569,29 @@
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/47072/</idno>
             </event>
             <event when-iso="1910-12-10">
-               <head>Premiere von Die letzten Masken, Komtesse Mizzi, Literatur, 10.12.1910</head>
+               <head>Aufführung von Die letzten Masken, Komtesse Mizzi, Premiere von Literatur, 10.12.1910</head>
                <desc>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29869" type="auffuhrung-von-premiere-von">Literatur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29931" type="auffuhrung-von">Komtesse Mizzi oder Der Familientag</title>
+                        <title ref="pmb29931" type="auffuhrung-von">Komtesse Mizzi oder: Der Familientag</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29877" type="auffuhrung-von">Die letzten Masken</title>
                      </bibl>
                   </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb11" type="veranstaltet-in">Münchner Schauspielhaus</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb47085" type="veranstaltet-von">Münchner Schauspielhaus</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/47078/</idno>
             </event>
@@ -4877,7 +5141,7 @@
                         <persName ref="pmb11740" type="hat-als-arbeitskraft">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12160" type="hat-als-teilnehmerin">Alma Maria Mahler</persName>
+                        <persName ref="pmb12160" type="hat-als-teilnehmerin">Alma Maria Mahler-Werfel</persName>
                      </person>
                      <person>
                         <persName ref="pmb8463" type="hat-als-teilnehmerin">Erwin Lang</persName>
@@ -5441,7 +5705,7 @@
                         <persName ref="pmb12163" type="hat-als-teilnehmerin">Gustav Mahler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12160" type="hat-als-teilnehmerin">Alma Maria Mahler</persName>
+                        <persName ref="pmb12160" type="hat-als-teilnehmerin">Alma Maria Mahler-Werfel</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
@@ -5886,7 +6150,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb32101" type="auffuhrung-von">Es ist mein Wille!</title>
+                        <title ref="pmb32101" type="auffuhrung-von">Es ist mein Wille! Eine unwahrscheinliche Begebenheit aus dem 18. Jahrhundert in einem Akt</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32119" type="auffuhrung-von">Amphitryon</title>
@@ -6239,6 +6503,9 @@
                      <person>
                         <persName ref="pmb10815" type="hat-als-teilnehmerin">Hermann Bahr</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb17629" type="hat-als-teilnehmerin">Herbert Ginsberg</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -6247,7 +6514,7 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                        <orgName ref="pmb35053" type="veranstaltet-von">Lessing-Theater</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -6304,7 +6571,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb59338" type="auffuhrung-von">Onkel Wanja</title>
+                        <title ref="pmb59338" type="auffuhrung-von">Onkel Wanja. Szenen aus dem Landleben in vier Akten</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -6354,7 +6621,7 @@
                         <title ref="pmb29923" type="vortragvorlesung-von">Der Weg ins Freie. Roman</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel</title>
+                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel. Burleske in einem Akt</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -6501,7 +6768,7 @@
                         <title ref="pmb30163" type="vortragvorlesung-von">Weihnachts-Einkäufe</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel</title>
+                        <title ref="pmb29951" type="vortragvorlesung-von">Zum großen Wurstel. Burleske in einem Akt</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -6678,7 +6945,7 @@
                         <title ref="pmb29843" type="auffuhrung-von-premiere-von">Der grüne Kakadu. Groteske in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29931" type="auffuhrung-von-premiere-von">Komtesse Mizzi oder Der Familientag</title>
+                        <title ref="pmb29931" type="auffuhrung-von-premiere-von">Komtesse Mizzi oder: Der Familientag</title>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -6929,7 +7196,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb31213" type="auffuhrung-von">Romeo und Julia</title>
+                        <title ref="pmb31213" type="auffuhrung-von">Romeo and Juliet</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb88941" type="wird-rezensiert-in">?? [Rezension des Gastspiels von Anna Hochenburger, 7.1.1891]</title>
@@ -7471,7 +7738,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb39" type="veranstaltet-in">Volkstheater in Rudolphsheim</placeName>
+                        <placeName ref="pmb39" type="veranstaltet-in">Volkstheater in Rudolfsheim</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -7657,7 +7924,7 @@
                         <persName ref="pmb14953" type="hat-als-teilnehmerin">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb14948" type="hat-als-teilnehmerin">Auguste Chlum</persName>
+                        <persName ref="pmb14948" type="hat-als-teilnehmerin">Auguste Glümer</persName>
                      </person>
                      <person>
                         <persName ref="pmb16672" type="hat-als-teilnehmerin">Theodor Friedmann</persName>
@@ -7825,6 +8092,11 @@
                         <placeName ref="pmb50" type="veranstaltet-in">Wien</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29781" type="veranstaltet-von">»Freie Bühne« Verein für moderne Literatur</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/93462/</idno>
             </event>
@@ -9005,6 +9277,14 @@
             <event when-iso="1901-11-16">
                <head>Generalprobe Jung-Wiener Theater zum Lieben Augustin, 16.11.1901</head>
                <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb145076" type="auffuhrung-von">Des Sängers Fluch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb145824" type="auffuhrung-von">Hafisa</title>
+                     </bibl>
+                  </listBibl>
                   <listPerson>
                      <person>
                         <persName ref="pmb2167" type="hat-als-arbeitskraft">Felix Salten</persName>
@@ -9019,7 +9299,7 @@
                         <persName ref="pmb10815" type="hat-als-teilnehmerin">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13068" type="hat-als-teilnehmerin">Frank Wedekind</persName>
+                        <persName ref="pmb13068" type="hat-als-arbeitskraft">Frank Wedekind</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -9034,6 +9314,982 @@
                   </listOrg>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143202/</idno>
+            </event>
+            <event when-iso="1907-10-23">
+               <head>Aufführung von Ein Walzertraum, 23.10.1907</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb56883" type="auffuhrung-von">Ein Walzertraum. Operette in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb61347" type="hat-als-arbeitskraft">Carl Blasel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb100084" type="hat-als-arbeitskraft">Viktoria Modl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb107241" type="hat-als-arbeitskraft">Richard Waldemar</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb118" type="veranstaltet-in">Carl-Theater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb63031" type="veranstaltet-von">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143439/</idno>
+            </event>
+            <event when-iso="1900-04-15">
+               <head>Bankett für Ludwig Speidel, 15.4.1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12816" type="hat-als-teilnehmerin">Ludwig Speidel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2618" type="hat-als-teilnehmerin">Hugo Ganz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25968" type="hat-als-teilnehmerin">Karl von Thaler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25196" type="hat-als-teilnehmerin">Edgar von Spiegl-Thurnsee</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18093" type="hat-als-teilnehmerin">Josef Hellmesberger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809" type="hat-als-teilnehmerin">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875" type="hat-als-teilnehmerin">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12903" type="hat-als-teilnehmerin">Eduard Suess</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12258" type="hat-als-teilnehmerin">Jakob Minor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11497" type="hat-als-teilnehmerin">Theodor Gomperz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8030" type="hat-als-teilnehmerin">Friedrich Jodl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb115095" type="hat-als-teilnehmerin">Laurenz Müllner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28054" type="hat-als-teilnehmerin">Marcell von Frydmann-Prawy</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10883" type="hat-als-teilnehmerin">Alfred von Berger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11036" type="hat-als-teilnehmerin">Max Eugen Burckhard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671" type="hat-als-teilnehmerin">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12163" type="hat-als-teilnehmerin">Gustav Mahler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2161" type="hat-als-teilnehmerin">Emerich von Bukovics</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2601" type="hat-als-teilnehmerin">Josef Jarno</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb17172" type="hat-als-teilnehmerin">Karl Goldmark</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb43768" type="hat-als-teilnehmerin">Ludwig Bösendorfer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11441" type="hat-als-teilnehmerin">Alexander Girardi</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12099" type="hat-als-teilnehmerin">Konrad Loewe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13132" type="hat-als-teilnehmerin">Jakob von Winternitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb113398" type="hat-als-teilnehmerin">Georg Granitsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb87963" type="hat-als-teilnehmerin">Ludwig Schwitzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb112587" type="hat-als-teilnehmerin">Adolf Werthner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb114328" type="hat-als-teilnehmerin">Gustav Steinbach</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2150" type="hat-als-teilnehmerin">Julius Bauer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb95552" type="hat-als-teilnehmerin">Sigmund Ehrlich</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb117552" type="hat-als-teilnehmerin">Gustav Kolmer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3021" type="hat-als-teilnehmerin">Julian Sternberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2154" type="hat-als-teilnehmerin">Vincenz Chiavacci</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2947" type="hat-als-teilnehmerin">Moritz Epstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28238" type="hat-als-teilnehmerin">Hans Koppel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2577" type="hat-als-teilnehmerin">Alexander Landesberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3162" type="hat-als-teilnehmerin">Julius Stern</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2334" type="hat-als-teilnehmerin">Philipp Langmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2416" type="hat-als-teilnehmerin">Jakob Julius David</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13071" type="hat-als-teilnehmerin">Alexander von Weilen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2570" type="hat-als-teilnehmerin">Rudolf Lothar</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2157" type="hat-als-teilnehmerin">Leo Ebermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8133" type="hat-als-teilnehmerin">Albert Kauders</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2425" type="hat-als-teilnehmerin">Felix Dörmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28523" type="hat-als-teilnehmerin">Moriz Necker</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18283" type="hat-als-teilnehmerin">Adolf Hink</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2646" type="hat-als-teilnehmerin">Felix Speidel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb7908" type="hat-als-teilnehmerin">Hans von Hopfen</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb446" type="veranstaltet-in">Hotel Continental (Wien)</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29351" type="veranstaltet-von">Neue Freie Presse</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143820/</idno>
+            </event>
+            <event when-iso="1906-01-22">
+               <head>Vorlesung von Die Weissagung, Weihnachts-Einkäufe und Excentric, 22.1.1906</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29893" type="vortragvorlesung-von">Excentric</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30163" type="vortragvorlesung-von">Weihnachts-Einkäufe</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30683" type="vortragvorlesung-von">Die Weissagung</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb3554" type="hat-als-teilnehmerin">Erich Freund</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9931" type="hat-als-teilnehmerin">Werner Sombart</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4061" type="hat-als-teilnehmerin">Maria Mayer</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb677" type="veranstaltet-in">Breslau</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143939/</idno>
+            </event>
+            <event when-iso="1925-05-23">
+               <head>Premiere von Der Schleier der Beatrice, 23.5.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857" type="auffuhrung-von-premiere-von">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2238" type="hat-als-teilnehmerin">Lili Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2743" type="hat-als-arbeitskraft">Albert Heine</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12698" type="hat-als-teilnehmerin">Julius Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24423" type="hat-als-teilnehmerin">Helene Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb15430" type="hat-als-teilnehmerin">Anna Donath</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10886" type="hat-als-teilnehmerin">Elisabeth Bergner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10833" type="hat-als-teilnehmerin">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26551" type="hat-als-arbeitskraft">Hilde Wagener</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10780" type="hat-als-arbeitskraft">Raoul Aslan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13387" type="hat-als-arbeitskraft">Ludwig Andersen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11659" type="hat-als-teilnehmerin">Franz Herterich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb14" type="veranstaltet-in">Burgtheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36247" type="veranstaltet-von">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
+            </event>
+            <event when-iso="1911-11-07">
+               <head>Aufführung von Der Schleier der Beatrice, 7.11.1911</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857" type="auffuhrung-von">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12698" type="hat-als-teilnehmerin">Julius Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24423" type="hat-als-teilnehmerin">Helene Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21578" type="hat-als-arbeitskraft">Max Montor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26381" type="hat-als-arbeitskraft">Elsa Valéry</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb645" type="veranstaltet-in">Deutsches Schauspielhaus in Hamburg</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb45530" type="veranstaltet-von">Deutsches Schauspielhaus in Hamburg</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143981/</idno>
+            </event>
+            <event when-iso="1895-12-12">
+               <head>Gastspiel Paulus, 12.12.1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb22404" type="hat-als-arbeitskraft">Paulus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb19" type="veranstaltet-in">Ronacher</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144072/</idno>
+            </event>
+            <event when-iso="1892-05-27">
+               <head>Private Lesung von Muza, 27.5.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb144337" type="vortragvorlesung-von">Muza</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-arbeitskraft">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-arbeitskraft">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144340/</idno>
+            </event>
+            <event when-iso="1892-12-09">
+               <head>Aufführung von Narciss, 9.12.1892</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb144393" type="hat-als-arbeitskraft">Andor</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb39" type="veranstaltet-in">Volkstheater in Rudolfsheim</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144389/</idno>
+            </event>
+            <event when-iso="1901-09-04">
+               <head>Private Vorlesung von Lebendige Stunden, 4.9.1901</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29863" type="vortragvorlesung-von">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740" type="hat-als-teilnehmerin">Gustav Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144566/</idno>
+            </event>
+            <event when-iso="1901-12-14">
+               <head>Private Vorlesung von Lebendige Stunden, 14.12.1901</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29863" type="vortragvorlesung-von">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740" type="hat-als-teilnehmerin">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144571/</idno>
+            </event>
+            <event when-iso="1894-06-16">
+               <head>Premiere von Therese Krones, 16.6.1894</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb80652" type="auffuhrung-von-premiere-von">Therese Krones. Genrebild mit Gesang und Tanz in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2589" type="hat-als-teilnehmerin">Johanna Simonetta Sandrock</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12618" type="hat-als-teilnehmerin">Adele Sandrock</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430" type="veranstaltet-von">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144628/</idno>
+            </event>
+            <event when-iso="1895-12-12">
+               <head>Konzert Eugen Gura, 12.12.1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb7605" type="hat-als-arbeitskraft">Eugen Gura</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb4" type="veranstaltet-in">Bösendorfer-Saal</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144827/</idno>
+            </event>
+            <event when-iso="1896-02-17">
+               <head>Vorlesung Literarische Vereinigung, 17.2.1896</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33806" type="vortragvorlesung-von">Ein Abschied</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb34361" type="vortragvorlesung-von">Begräbnis</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12614" type="hat-als-arbeitskraft">Marcell Salzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb19061" type="hat-als-teilnehmerin">Natalie Kanitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2378" type="hat-als-teilnehmerin">Marie Reinhard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50" type="veranstaltet-in">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb144839" type="veranstaltet-von">Literarische Vereinigung in Wien</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/144831/</idno>
+            </event>
+            <event when-iso="1902-01-02">
+               <head>Aufführung von Die Jüdin von Toledo, 2. 1. 1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb34284" type="auffuhrung-von">Die Jüdin von Toledo</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb3" type="veranstaltet-in">Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145135/</idno>
+            </event>
+            <event when-iso="1902-10-14">
+               <head>Aufführung von Monna Vanna. 14.10.1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb143236" type="auffuhrung-von">Monna Vanna. Schauspiel in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb3" type="veranstaltet-in">Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145148/</idno>
+            </event>
+            <event when-iso="1905-12-27">
+               <head>Private Lesung von Clarissa Mirabel, 27.12.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76936" type="vortragvorlesung-von">Clarissa Mirabel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13055" type="hat-als-arbeitskraft">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26392" type="hat-als-teilnehmerin">Leo Van-Jung</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740" type="hat-als-teilnehmerin">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2496" type="hat-als-teilnehmerin">Arthur Kaufmann</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145177/</idno>
+            </event>
+            <event when-iso="1907-11-09">
+               <head>Premiere Vom andern Ufer, 9.11.1907</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76527" type="auffuhrung-von-premiere-von">Vom andern Ufer. Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2273" type="hat-als-teilnehmerin">Margarethe Kainz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701" type="hat-als-teilnehmerin">Louise Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3058" type="hat-als-teilnehmerin">Georg von Seybel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3223" type="hat-als-teilnehmerin">Irene Auernheimer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10788" type="hat-als-teilnehmerin">Raoul Auernheimer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292" type="hat-als-teilnehmerin">Gertrude von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740" type="hat-als-teilnehmerin">Hugo von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430" type="veranstaltet-von">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145196/</idno>
+            </event>
+            <event when-iso="1901-09-04">
+               <head>Private Lesung von Frau mit dem Dolche, Lebendige Stunden, 4.9.1901</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29865" type="vortragvorlesung-von">Die Frau mit dem Dolche</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29957" type="vortragvorlesung-von">Lebendige Stunden</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740" type="hat-als-teilnehmerin">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb397" type="veranstaltet-in">Frankgasse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145542/</idno>
+            </event>
+            <event when-iso="1901-12-14">
+               <head>Private Lesung von Lebendige Stunden (Zyklus), Der Puppenspieler, 14.12.1901</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29863" type="vortragvorlesung-von">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29873" type="vortragvorlesung-von">Der Puppenspieler</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740" type="hat-als-teilnehmerin">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50" type="veranstaltet-in">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145549/</idno>
+            </event>
+            <event when-iso="1905-11-26">
+               <head>Aufführung von Zwischenspiel, 26.11.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29903" type="auffuhrung-von">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10986" type="hat-als-teilnehmerin">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14328" type="hat-als-teilnehmerin">Oskar Blumenthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb18" type="veranstaltet-in">Lessing-Theater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35053" type="veranstaltet-von">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145637/</idno>
+            </event>
+            <event when-iso="1902-10-13">
+               <head>Premiere von Rausch, 13. 10. 1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30597" type="auffuhrung-von">Rausch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485" type="hat-als-teilnehmerin">Paul Goldmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb128" type="veranstaltet-in">Schall und Rauch</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb118599" type="veranstaltet-von">Schall und Rauch</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145675/</idno>
+            </event>
+            <event when-iso="1900-01-31">
+               <head>Premiere von Das dritte Kind, Boubouroche, Der Herr Gegencandidat, 31.1.1900</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb145754" type="auffuhrung-von-premiere-von">Boubouroche. Tragische Posse in zwei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb145763" type="auffuhrung-von-urauffuhrung-von">Der Herr Gegencandidat. Schwank in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb145766" type="auffuhrung-von-premiere-von">Das dritte Kind. Lustspiel in einem Akt</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb77" type="veranstaltet-in">Raimund-Theater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb39666" type="veranstaltet-von">Raimund-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145758/</idno>
+            </event>
+            <event when-iso="1902-03-24">
+               <head>Aufführung von Das vierte Gebot, 24.3.1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76757" type="auffuhrung-von">Das vierte Gebot. Volksstück in vier Acten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918" type="hat-als-teilnehmerin">Ottilie Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430" type="veranstaltet-von">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/145884/</idno>
+            </event>
+            <event when-iso="1896-10-20">
+               <head>Private Lesung von Die Gefährtin (Der Witwer), 20.10.1896</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29845" type="vortragvorlesung-von">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863" type="hat-als-teilnehmerin">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb397" type="veranstaltet-in">Frankgasse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/146808/</idno>
+            </event>
+            <event when-iso="1894-03-31">
+               <head>Uraufführung von Rausch, 31.3.1894</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76675" type="auffuhrung-von-urauffuhrung-von">Rausch. Drama in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12618" type="hat-als-arbeitskraft">Adele Sandrock</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2868" type="hat-als-arbeitskraft">Victor Kutschera</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb20" type="veranstaltet-in">Volkstheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/146985/</idno>
+            </event>
+            <event when-iso="1904-12-22">
+               <head>Aufführung von Symphonie Nr. 3 in d-Moll, 22.12.1904</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76606" type="auffuhrung-von">Symphonie Nr. 3 d-Moll WAB 103</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167" type="hat-als-teilnehmerin">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918" type="hat-als-teilnehmerin">Ottilie Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb516" type="veranstaltet-in">Musikverein</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/147234/</idno>
+            </event>
+            <event when-iso="1905-05-20">
+               <head>Aufführung von Ein Sommernachtstraum, 20.5.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb147280" type="auffuhrung-von">Ein Sommernachtstraum. Komödie in fünf Aufzügen</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2173" type="hat-als-teilnehmerin">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12504" type="hat-als-arbeitskraft">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb19404" type="hat-als-arbeitskraft">Josef Klein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18228" type="hat-als-arbeitskraft">Guido Herzfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13138" type="hat-als-arbeitskraft">Eduard von Winterstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb17876" type="hat-als-arbeitskraft">Ludwig Hartau</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11895" type="hat-als-arbeitskraft">Friedrich Kayssler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb37" type="veranstaltet-in">Theater an der Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb45430" type="veranstaltet-von">Kleines Theater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb45434" type="veranstaltet-von">Neues Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/147278/</idno>
+            </event>
+            <event when-iso="1905-12-29">
+               <head>Premiere von Boule de suif, Schöne Seelen, 29.12.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb77961" type="auffuhrung-von-premiere-von">Boule de suif</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31659" type="auffuhrung-von-premiere-von">Schöne Seelen. Komödie in einem Akt</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1209" type="veranstaltet-in">Lustspieltheater (Wien)</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb37242" type="veranstaltet-von">Lustspieltheater (Wien)</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/147534/</idno>
+            </event>
+            <event when-iso="1905-01-29">
+               <head>Uraufführung Kindertotenlieder, 29.1.1905</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb147688" type="auffuhrung-von-urauffuhrung-von">Kindertotenlieder</title>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb3956" type="hat-als-arbeitskraft">Friedrich Weidemann</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/147690/</idno>
+            </event>
+            <event when-iso="1903-02-27">
+               <head>Probe von Der Schleier der Beatrice, 27.2.1903</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857" type="auffuhrung-von-probe">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb3" type="veranstaltet-in">Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597" type="veranstaltet-von">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/147984/</idno>
             </event>
          </listEvent>
       </body>
