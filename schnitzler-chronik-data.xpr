@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>einzeldateien</String>
+                                        <String>tagesliste</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -270,10 +270,7 @@
                                     <list/>
                                 </field>
                                 <field name="cascadingStylesheets">
-                                    <String-array>
-                                        <String>${pdu}/xslts/2_nach-daten-gruppieren.xsl</String>
-                                        <String>${pdu}/xslts/3_einzeldateien.xsl</String>
-                                    </String-array>
+                                    <String-array/>
                                 </field>
                                 <field name="xslTransformer">
                                     <String>Saxon-PE</String>

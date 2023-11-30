@@ -7,10 +7,10 @@
     <!-- Diese Datei, angewandt auf 
         schnitzler-ohne-dubletten
         oder
-        schnitzler-briefe_cmif.xml d
+        schnitzler-briefe_cmif.xml 
     holt alle gedruckten Briefe raus, schnitzler-briefe wird
     ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet.
-    Wenn die Zeile 70 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif
+    Wenn die Zeile 75 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif
     -->
     <xsl:template match="tei:profileDesc">
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -71,7 +71,9 @@
             <xsl:value-of select="foo:loop-string($current-number + 1, $duration)"/>
         </xsl:if>
     </xsl:function>
+    <!-- Variante für schnitzler-briefe: -->
     <xsl:template match="tei:correspDesc">
+    <!-- Variante für cmif -->
     <!--<xsl:template match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">-->
         <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
         <xsl:variable name="entry" select="."/>
