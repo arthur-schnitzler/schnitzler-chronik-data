@@ -102,11 +102,16 @@
             <xsl:attribute name="when-iso">
                 <xsl:value-of select="@when-iso"/>
             </xsl:attribute>
-            <xsl:apply-templates select="tei:head"/>
+            <xsl:apply-templates select="tei:eventName"/>
             <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:apply-templates select="tei:listPerson|tei:listPlace|tei:listBibl[not(child::tei:bibl/@type='collections')]|tei:note[@type='listorg']/tei:listOrg"/>
             </xsl:element>
             <xsl:apply-templates select="tei:idno"/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="tei:eventName">
+        <xsl:element name="head">
+            <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     <xsl:template match="tei:event[not(descendant::tei:persName/@key='pmb2121')]"/>
