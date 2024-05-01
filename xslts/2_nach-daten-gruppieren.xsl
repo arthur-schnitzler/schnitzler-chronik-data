@@ -20,23 +20,23 @@
                 </xsl:attribute>
                 <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'Arthur-Schnitzler-digital']"/>
+                        select="current-group()[tei:idno[1]/@type = 'Arthur-Schnitzler-digital' or tei:idno[1]/@subtype = 'Arthur-Schnitzler-digital']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-tagebuch']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-tagebuch' or tei:idno[1]/@subtype = 'schnitzler-tagebuch']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-briefe']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-briefe' or tei:idno[1]/@subtype = 'schnitzler-briefe']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-orte']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-orte' or tei:idno[1]/@subtype = 'schnitzler-orte']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-interviews']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pollaczek']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-interviews' or tei:idno[1]/@subtype = 'schnitzler-interviews']"/>
+                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pollaczek' or tei:idno[1]/@subtype = 'pollaczek']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr']"/>
-                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pmb']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr' or tei:idno[1]/@subtype = 'schnitzler-bahr']"/>
+                    <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pmb' or tei:idno[1]/@subtype = 'pmb']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-chronik-manuell']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-chronik-manuell' or tei:idno[1]/@subtype = 'schnitzler-chronik-manuell']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'schnitzler-cmif']"/>
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-cmif' or tei:idno[1]/@subtype = 'schnitzler-cmif']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-traeume']"/>
                     <xsl:apply-templates
@@ -44,7 +44,7 @@
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-kempny-buch']"/>
                     <xsl:apply-templates
-                        select="current-group()[tei:idno[1]/@type = 'kalliope-verbund']"/>
+                        select="current-group()[tei:idno[1]/@type = 'kalliope-verbund' or tei:idno[1]/@subtype = 'kalliope-verbund']"/>
                 </xsl:element>
             </xsl:element>
         </xsl:for-each-group>
