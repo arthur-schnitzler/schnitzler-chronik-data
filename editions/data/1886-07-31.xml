@@ -67,7 +67,16 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1886-07-31">
+               <desc>Thalhof</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/796/</idno>
+            </event>
+            <event when-iso="1886-07-31">
+               <desc>Reichenau im Mühlkreis</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/91574/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

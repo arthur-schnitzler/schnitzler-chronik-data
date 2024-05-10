@@ -67,7 +67,12 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1879-09-08">
+               <desc>Amsterdam</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/40709/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

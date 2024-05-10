@@ -67,7 +67,16 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1881-07-23">
+               <desc>Pörtschach</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/1200/</idno>
+            </event>
+            <event when-iso="1881-07-23">
+               <desc>Wien</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

@@ -67,7 +67,12 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1885-06-30">
+               <desc>Budapest</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/9867/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

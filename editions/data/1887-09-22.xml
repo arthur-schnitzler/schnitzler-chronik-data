@@ -67,7 +67,12 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1887-09-22">
+               <desc>München</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/38129/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

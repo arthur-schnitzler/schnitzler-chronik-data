@@ -67,7 +67,16 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1884-04-12">
+               <desc>Rijeka</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/902/</idno>
+            </event>
+            <event when-iso="1884-04-12">
+               <desc>Opatija</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/38096/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

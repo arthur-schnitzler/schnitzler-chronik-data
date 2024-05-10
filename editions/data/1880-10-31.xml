@@ -67,7 +67,12 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1880-10-31">
+               <desc>Wien</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>

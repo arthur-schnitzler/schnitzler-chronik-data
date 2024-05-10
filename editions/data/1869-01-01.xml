@@ -67,7 +67,12 @@
    </teiHeader>
    <text>
       <body>
-         <listEvent/>
+         <listEvent>
+            <event when-iso="1869-01-01">
+               <desc>Thalhof</desc>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/796/</idno>
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>
