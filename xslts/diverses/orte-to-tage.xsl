@@ -24,7 +24,13 @@
             <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:value-of select="child::tei:placeName[1]"/>
             </xsl:element>
-            <xsl:copy-of select="tei:idno[@type='pmb']"/>
+            <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
+                <xsl:attribute name="type">
+                    <xsl:text>schnitzler-orte</xsl:text>
+                </xsl:attribute>
+                <xsl:value-of select="tei:idno[@type='pmb' or @subtype='pmb'][1]"/>
+            </xsl:element>
+            
         </xsl:element>
     </xsl:template>
     
