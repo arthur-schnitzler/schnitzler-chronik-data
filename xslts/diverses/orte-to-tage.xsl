@@ -10,13 +10,13 @@
     
     <xsl:template match="tei:listEvent">
         <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:apply-templates select="tei:event/tei:desc/tei:listPlace/tei:place"/>
+            <xsl:apply-templates select="tei:event/tei:listPlace/tei:place"/>
         </xsl:element>
         
     </xsl:template>
     
     
-    <xsl:template match="tei:event/tei:desc/tei:listPlace/tei:place">
+    <xsl:template match="tei:event/tei:listPlace/tei:place">
         <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="when-iso">
                 <xsl:value-of select="ancestor::tei:event/@when"/>
