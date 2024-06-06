@@ -21,9 +21,10 @@
             <xsl:attribute name="when-iso">
                 <xsl:value-of select="ancestor::tei:event/@when"/>
             </xsl:attribute>
-            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:value-of select="child::tei:placeName[1]"/>
             </xsl:element>
+            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0"/>
             <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="type">
                     <xsl:text>schnitzler-orte</xsl:text>
