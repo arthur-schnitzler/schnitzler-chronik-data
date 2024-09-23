@@ -72,6 +72,7 @@
                        <xsl:call-template name="events-einfuegen"/>
                      <!-- Hier der Import von Google Sheets -->
                         <xsl:for-each select="tokenize($csv-content, '&#10;')[not(position()=1)]">
+                            <xsl:if test="matches(replace(tokenize(., '&#34;,&#34;')[1], '&#34;', ''), '^\d{4}-\d{2}-\d{2}$')">
                             <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0" inherit-namespaces="true">
                                 <xsl:attribute name="when-iso">
                                     <xsl:value-of select="replace(tokenize(., '&#34;,&#34;')[1], '&#34;', '')"/>
@@ -96,6 +97,7 @@
                                     </xsl:choose>
                                 </xsl:element>
                             </xsl:element>
+                            </xsl:if>
                         </xsl:for-each>
                     </xsl:element>
                 </body>
