@@ -35,4 +35,59 @@
         </xsl:element>
     </xsl:template>
     
+    <xsl:template match="tei:TEI">
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>Arthur Schnitzlers Reisen</title>
+                        <respStmt>
+                            <resp>providing the content</resp>
+                            <name>Arthur Schnitzler</name>
+                            <name>Martin Anton Müller</name>
+                            <name>Laura Puntigam</name>
+                            <name>Laura Untner</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences </orgName>
+                            <address>
+                                <addrLine>Sonnenfelsgasse 19</addrLine>
+                                <addrLine>1010 Vienna</addrLine>
+                            </address>
+                        </publisher>
+                        <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                        <date when="2022">2022</date>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
+                                    to this text.</p>
+                                <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                            </licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <p>The idea was to digitize the list of travels by Arthur Schnitzler that survives in
+                            his papers stored in the Cambridge University Library, folder A 175. The goal was not
+                            an edition of that list but to extract the information from the list and connect the
+                            timespans with geonames-IDs and locations. Therefore errors and mistakes of the list
+                            were changed without keeping track of the deleted information. Sometimes the diary
+                            was used to correct entries.</p>
+                    </sourceDesc>
+                </fileDesc>
+            </teiHeader>
+            <text>
+                <body>
+                    <div>
+                        <xsl:apply-templates select="descendant::tei:text/tei:body/tei:div/tei:listEvent"/>
+                    </div>
+                </body>
+            </text>
+        </TEI>
+        
+        
+    </xsl:template>
+    
+    
 </xsl:stylesheet>
