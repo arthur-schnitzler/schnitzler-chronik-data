@@ -8,6 +8,12 @@
     <xsl:param name="threshold" select="xs:date('1931-10-21')"/>
     <!-- kein Datum nach Schnitzlers Tod -->
     
+    <xsl:param name="wiener-schnitzler" select="document('https://raw.githubusercontent.com/wiener-moderne-verein/wienerschnitzler-data/refs/heads/main/editions/xml/wienerschnitzler_complete.xml')"></xsl:param>
+    
+    
+    
+    
+    
     <xsl:template match="tei:listEvent">
         <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:apply-templates select="tei:event/tei:listPlace/tei:place"/>
@@ -40,12 +46,11 @@
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title>Arthur Schnitzlers Reisen</title>
+                        <title>Arthur Schnitzlers Aufenthaltsorte</title>
                         <respStmt>
                             <resp>providing the content</resp>
                             <name>Arthur Schnitzler</name>
                             <name>Martin Anton Müller</name>
-                            <name>Laura Puntigam</name>
                             <name>Laura Untner</name>
                         </respStmt>
                     </titleStmt>
@@ -53,12 +58,12 @@
                         <publisher>
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences </orgName>
                             <address>
-                                <addrLine>Sonnenfelsgasse 19</addrLine>
+                                <addrLine>Bäckerstraße 13</addrLine>
                                 <addrLine>1010 Vienna</addrLine>
                             </address>
                         </publisher>
                         <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-                        <date when="2022">2022</date>
+                        <date when="2024">2024</date>
                         <availability>
                             <licence target="https://creativecommons.org/licenses/by/4.0/">
                                 <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
@@ -73,14 +78,16 @@
                             an edition of that list but to extract the information from the list and connect the
                             timespans with geonames-IDs and locations. Therefore errors and mistakes of the list
                             were changed without keeping track of the deleted information. Sometimes the diary
-                            was used to correct entries.</p>
+                            was used to correct entries.
+                            The groundwork was done by Laura Puntigam in an internship in 2022, but the data
+                            has been severly revised and expanded since. </p>
                     </sourceDesc>
                 </fileDesc>
             </teiHeader>
             <text>
                 <body>
                     <div>
-                        <xsl:apply-templates select="descendant::tei:text/tei:body/tei:div/tei:listEvent"/>
+                        <xsl:apply-templates select="$wiener-schnitzler/descendant::tei:text/tei:body/tei:div/tei:listEvent"/>
                     </div>
                 </body>
             </text>
