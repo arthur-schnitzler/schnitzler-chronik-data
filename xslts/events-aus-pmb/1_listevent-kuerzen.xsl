@@ -6,11 +6,14 @@
     xmlns:fn="http://www.w3.org/2005/xpath-functions">
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
-    <!-- Dieses XSLT wird auf den automatischen Export listevent.xml aus
-        der PMB angewandt: 
+    <!-- Dieses XSLT wird auf die bestehende Datei
+        pmb-event_tage.xml angewandt und ersetzt sie durch
+        die neuesten Daten aus der PMB: 
         https://pmb.acdh.oeaw.ac.at/media/listevent.xml
-        und erstellt das fertige pmb-event-tage.xml (anpassung eventName -> head, alles in desc)
+        (anpassung eventName -> head, alles in desc)
     -->
+    
+    <xsl:param name="listEvent" select="document('https://pmb.acdh.oeaw.ac.at/media/listevent.xml')"/>
    
   <xsl:template match="/">
       <xsl:element name="TEI" namespace="http://www.tei-c.org/ns/1.0">
@@ -90,7 +93,7 @@
       </xsl:element>
       <xsl:element name="text">
           <xsl:element name="body">
-              <xsl:apply-templates select="descendant::tei:body/tei:listEvent"/>
+              <xsl:apply-templates select="$listEvent/descendant::tei:body/tei:listEvent"/>
           </xsl:element>
       </xsl:element>
       
