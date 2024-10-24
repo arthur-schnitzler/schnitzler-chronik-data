@@ -131,12 +131,12 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/414/</idno>
             </event>
             <event when-iso="1899-08-31">
-               <head>Private Vorlesung von Das Bergwerk zu Falun, 31. 8. 1899</head>
+               <head>Private Lesung von Das Bergwerk zu Falun, 31. 8. 1899</head>
                <desc>
                   <listBibl>
                      <bibl>
                         <title key="pmb32432">Das Bergwerk zu Falun</title>
-                        <note type="relation-type">Vortrag/Vorlesung von</note>
+                        <note type="relation-type">Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -156,7 +156,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/167925/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167925/</idno>
             </event>
          </listEvent>
       </body>

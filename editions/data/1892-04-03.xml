@@ -101,6 +101,34 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1892-04-03">
+               <head>Aufführung von Vor dem Balle, 3.4.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80595">Vor dem Balle</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb17194">Goldschmidt, Camilla</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190971/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

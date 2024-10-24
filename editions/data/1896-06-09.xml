@@ -163,42 +163,6 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1896-06-09">
-               <head>Aufführung von Liebelei, 9.6.1896</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb36247">Burgtheater</orgName>
-                     </org>
-                  </listOrg>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                        <note type="relation-type">Aufführung von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2378">Reinhard, Marie</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                        <location>
-                           <geo>48,210333 16,361139</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/143168/</idno>
-            </event>
-            <event when-iso="1896-06-09">
                <head>Aufführung von Rechte der Seele, Liebelei, 9.6.1896</head>
                <desc>
                   <listOrg>
@@ -269,7 +233,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/168391/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168391/</idno>
             </event>
             <event when-iso="1896-06-09">
                <head>Olga Waissnix an Arthur Schnitzler, 9.6.1896</head>

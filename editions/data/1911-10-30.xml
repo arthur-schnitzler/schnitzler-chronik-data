@@ -322,12 +322,6 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb652">Prag</placeName>
-                        <location>
-                           <geo>50,08333 14,46667</geo>
-                        </location>
-                     </place>
-                     <place>
                         <placeName role="veranstaltet in" key="pmb27">Ständetheater</placeName>
                         <location>
                            <geo>50,086122 14,423933</geo>
@@ -335,7 +329,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/88630/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88630/</idno>
             </event>
             <event when-iso="1911-10-30">
                <head>Arthur Schnitzler an Olga Schnitzler, 30.10.1911</head>

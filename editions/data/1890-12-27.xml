@@ -94,6 +94,36 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/92180/</idno>
             </event>
+            <event when-iso="1890-12-27">
+               <head>Aufführung von Eine Partie Klabrias, 27.12.1890</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29774">Budapester Orpheumgesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31269">Eine Partie Klabrias im Café Spitzer</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb295">Hotel zum Schwarzer Adler</placeName>
+                        <location>
+                           <geo>48,21363 16,37945</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190415/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

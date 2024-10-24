@@ -73,17 +73,15 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/144566/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/144566/",
  "head":
- "Private Vorlesung von Lebendige Stunden, 4.9.1901",
+ "Private Lesung von Lebendige Stunden, 4.9.1901",
  "desc":
 {"listBibl":
   [
@@ -113,13 +111,11 @@
 }
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/145542/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/145542/",
  "head":
@@ -159,7 +155,58 @@
   [
  {
  "placeName":
- "Frankgasse",
+ "Frankgasse 1",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "URL",
+ "subtype":
+ "pmb",
+ "filename":
+ "entity/183959/",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/183959/",
+ "head":
+ "Private Lesung von Die Frau mit dem Dolche, Lebendige Stunden, 4.9.1901",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "Lebendige Stunden",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
  "ref":
  ""}
  ]

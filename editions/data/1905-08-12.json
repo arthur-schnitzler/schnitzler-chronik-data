@@ -66,17 +66,15 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
- "entity/59956/",
- "caption":
- "PMB",
+ "entity/184006/",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/59956/",
+ "https://pmb.acdh.oeaw.ac.at/entity/184006/",
  "head":
- "Private Lesung von Zwischenspiel und Der Ruf des Lebens, 12.8.1905",
+ "Private Lesung von Zwischenspiel, 12.8.1905",
  "desc":
 {"listBibl":
   [
@@ -85,7 +83,48 @@
  "Zwischenspiel. Komödie in drei Akten",
  "ref":
  ""}
- ,  {
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Leo Van-Jung",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "URL",
+ "subtype":
+ "pmb",
+ "filename":
+ "entity/184012/",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/184012/",
+ "head":
+ "Private Lesung von Der Ruf des Lebens, 12.8.1905",
+ "desc":
+{"listBibl":
+  [
+ {
  "title":
  "Der Ruf des Lebens. Schauspiel in drei Akten",
  "ref":
@@ -112,6 +151,19 @@
  "persName":
  "Gustav Schwarzkopf",
  "ref":
- ""}]
+ ""},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ ""}
+ ]
 }
 }] 

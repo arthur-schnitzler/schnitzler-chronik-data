@@ -160,6 +160,36 @@
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041091.html</idno>
             </event>
+            <event when-iso="1893-10-18">
+               <head>Vereinstreffen Saubermänner, 18.10.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29794">Die Saubermänner. Tischgesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11978">Krakauer, Alexander</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2577">Landesberg, Alexander</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb205">Hotel Bristol Wien</placeName>
+                        <location>
+                           <geo>48,202791 16,370064</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184444/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

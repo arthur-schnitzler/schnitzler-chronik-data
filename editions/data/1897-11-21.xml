@@ -148,6 +148,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/104/</idno>
             </event>
             <event when-iso="1897-11-21">
+               <head>Private Lesung von Das Vermächtnis, 21.11.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2378">Reinhard, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200430/</idno>
+            </event>
+            <event when-iso="1897-11-21">
                <head>Arthur Schnitzler an Eugen Deimel, 21.11.1897</head>
                <desc>
                   <listPerson>

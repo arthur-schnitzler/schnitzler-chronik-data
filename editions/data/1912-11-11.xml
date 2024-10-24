@@ -139,6 +139,31 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1912-11-11">
+               <head>Private Lesung von Professor Bernhardi, 11.11.1912</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb208">Kleines Theater</placeName>
+                        <location>
+                           <geo>52,517222 13,389167</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184100/</idno>
+            </event>
+            <event when-iso="1912-11-11">
                <head>Erhalt von Isabella Vengerova an Arthur Schnitzler, 7. 11. [1912]</head>
                <desc>
                   <listPerson>

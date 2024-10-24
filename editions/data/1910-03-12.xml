@@ -112,6 +112,43 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1910-03-12">
+               <head>Lesung von Das neue Lied, Der Weg ins Freie (3. Kapitel), Die letzten Masken, Excentric, 12.3.1910</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30655">Das neue Lied</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29923">Der Weg ins Freie. Roman</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29893">Excentric</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb44176">Olomouc</placeName>
+                        <location>
+                           <geo>49,59552 17,25175</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183290/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

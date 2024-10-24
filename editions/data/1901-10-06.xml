@@ -161,6 +161,40 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1901-10-06">
+               <head>Lesung von Lieutenant Gustl, Lebendige Stunden, 6.10.1901</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183246">Verein jugendlicher Arbeiter</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29957">Lebendige Stunden</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183243">Annasaal</placeName>
+                        <location>
+                           <geo>48,204616 16,371297</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183239/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

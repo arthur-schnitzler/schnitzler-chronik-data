@@ -153,6 +153,11 @@
             <event when-iso="1918-12-21">
                <head>Premiere von Professor Bernhardi, 21.12.1918</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
@@ -197,7 +202,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/41620/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41620/</idno>
             </event>
             <event when-iso="1918-12-21">
                <head>Schnitzler, Arthur an Beuttenmüller, Hermann [Briefe]</head>

@@ -116,6 +116,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1915-03-30">
+               <head>Lesung von Der blinde Geronimo, Die letzten Masken, Der Schleier der Beatrice (Schluss), 30.3.1915</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30649">Der blinde Geronimo und sein Bruder</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183372/</idno>
+            </event>
+            <event when-iso="1915-03-30">
                <head>Mappe A20 – Datierte Abschrift aus einer Zeitung in Kritik und Antikritik</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589058_0252.html</idno>

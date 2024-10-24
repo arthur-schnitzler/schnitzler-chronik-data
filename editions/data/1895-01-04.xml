@@ -97,6 +97,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1895-01-04">
+               <head>Vereinstreffen Saubermänner, 4.1.1895</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29794">Die Saubermänner. Tischgesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10574">Wittels, Fritz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb3167">Felix, Hugo</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11533">Grünfeld, Alfred</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb205">Hotel Bristol Wien</placeName>
+                        <location>
+                           <geo>48,202791 16,370064</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184561/</idno>
+            </event>
+            <event when-iso="1895-01-04">
                <head>Theodor Herzl an Arthur Schnitzler, 4.1.1895</head>
                <desc>
                   <listPerson>

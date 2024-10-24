@@ -78,6 +78,34 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/35/</idno>
             </event>
+            <event when-iso="1884-03-11">
+               <head>Privataufführung Eine Tasse Tee, 11.3.1884</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80368">Eine Tasse Tee</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb18069">Heller, Charlotte</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb35">Rudolfsplatz</placeName>
+                        <location>
+                           <geo>48,21429 16,37192</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183193/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

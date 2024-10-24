@@ -222,7 +222,7 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/42626/</idno>
             </event>
             <event when-iso="1896-10-31">
-               <head>Generalprobe Freiwild, 31.10.1896</head>
+               <head>1. Generalprobe von Freiwild, 31.10.1896</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -248,15 +248,14 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater
-                           Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater Berlin</placeName>
                         <location>
                            <geo>52,524444 13,382222</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42740/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42740/</idno>
             </event>
          </listEvent>
       </body>

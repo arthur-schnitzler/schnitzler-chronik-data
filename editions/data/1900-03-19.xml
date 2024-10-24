@@ -100,6 +100,49 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/44/</idno>
             </event>
+            <event when-iso="1900-03-19">
+               <head>Lesung von Der Ehrentag, Der verflogene Ruf, 19.3.1900</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183217">Vereinigung österreichischer Hochschuldozenten</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29831">Der Ehrentag</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb183221">Der verflogene Ruf</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2334">Langmann, Philipp</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10198">Tezner, Friedrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10992">Brandes, Georg</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183224">Anatomisches Institut</placeName>
+                        <location>
+                           <geo>48,217654 16,358541</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183209/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

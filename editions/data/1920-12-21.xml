@@ -135,6 +135,51 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/92488/</idno>
             </event>
+            <event when-iso="1920-12-21">
+               <head>Aufführung von Weihnachts-Einkäufe, 21.12.1920</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb186402">Rolandbühne</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30163">Weihnachts-Einkäufe</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb24413">Schnitzler, Karl</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb24420">Schnitzler, Hans</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb3694">Marberg, Lili</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb23518">Romberg, Hermann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92488">Rolandbühne</placeName>
+                        <location>
+                           <geo>48,214368 16,383547</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186407/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

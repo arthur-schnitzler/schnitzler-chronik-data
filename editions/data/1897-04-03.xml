@@ -110,6 +110,25 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/19/</idno>
             </event>
+            <event when-iso="1897-04-03">
+               <head>Theaterverein Bühnengenossenschaft, 3.4.1897</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200065/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

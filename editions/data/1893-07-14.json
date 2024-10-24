@@ -61,18 +61,15 @@
  "Hotel und Pension Rudolfshöhe (Leopold Petter)"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/35284/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/35284/",
  "head":
- "Uraufführung von Abschiedssouper, Aufführung von Fräulein Frau,
-                  14.7.1893",
+ "Uraufführung von Abschiedssouper, Aufführung von Fräulein Frau, 14.7.1893",
  "desc":
 {"listOrg":
   [
@@ -156,7 +153,51 @@
   [
  {
  "placeName":
- "Stadttheater (Bad Ischl)",
+ "Stadttheater [Bad Ischl]",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "URL",
+ "subtype":
+ "pmb",
+ "filename":
+ "entity/192798/",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/192798/",
+ "head":
+ "Probe von Abschiedssouper, 14.7.1893",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Saisontheater Ischl",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Abschiedssouper",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bad Ischl",
  "ref":
  ""}
  ]

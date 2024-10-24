@@ -129,6 +129,31 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/401/</idno>
             </event>
             <event when-iso="1914-01-26">
+               <head>Konzert Olga Schnitzler und Vera Schapira, 26.1.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9667">Schapira, Vera</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb45258">München</placeName>
+                        <location>
+                           <geo>48,13743 11,57549</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183650/</idno>
+            </event>
+            <event when-iso="1914-01-26">
                <head>Eugen Deimel an Arthur Schnitzler, 26.1.1914</head>
                <desc>
                   <listPerson>

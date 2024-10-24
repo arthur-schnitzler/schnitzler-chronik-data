@@ -123,6 +123,34 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/756/</idno>
             </event>
+            <event when-iso="1893-03-10">
+               <head>Private Lesung von Die drei Elixire, 10.3.1893</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31965">Die drei Elixire</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb20489">Link, Sophie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb38096">Opatija</placeName>
+                        <location>
+                           <geo>45,33771 14,30515</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192671/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

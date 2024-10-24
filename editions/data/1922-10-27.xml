@@ -145,6 +145,48 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/652/</idno>
             </event>
+            <event when-iso="1922-10-27">
+               <head>Lesung von Die dreifache Warnung, Die letzten Masken, Der Weg ins Freie, Zum großen Wurstel, 27.10.1922</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb57445">Urania Prag</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33061">Die dreifache Warnung</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29923">Der Weg ins Freie. Roman</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29951">Zum großen Wurstel. Burleske in einem Akt</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183469">Urania Prag</placeName>
+                        <location>
+                           <geo>50,091467 14,428587</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183462/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -132,7 +132,7 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
-                        <note type="relation-type">Vortrag/Vorlesung von</note>
+                        <note type="relation-type">Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -152,8 +152,16 @@
                         <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/142802/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142802/</idno>
             </event>
          </listEvent>
       </body>

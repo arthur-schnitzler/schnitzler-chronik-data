@@ -141,17 +141,15 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/48222/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/48222/",
  "head":
- "Private Vorlesung von Das weite Land, 29.6.1910",
+ "Private Lesung von Das weite Land, 29.6.1910",
  "desc":
 {"listBibl":
   [
@@ -192,7 +190,15 @@
  "persName":
  "Gustav Schwarzkopf",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

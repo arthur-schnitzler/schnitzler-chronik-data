@@ -141,6 +141,43 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1894-03-22">
+               <head>Private Lesung von Die überspannte Person, Blumen, Die Rute, 22.3.1894</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30391">Die überspannte Person</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30453">Blumen</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb76972">Die Rute</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183869/</idno>
+            </event>
+            <event when-iso="1894-03-22">
                <head>Zasche, Theo an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.<listPerson>
                      <person>

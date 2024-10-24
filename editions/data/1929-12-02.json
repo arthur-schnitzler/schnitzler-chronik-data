@@ -83,13 +83,11 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/43870/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/43870/",
  "head":
@@ -142,7 +140,15 @@
  "persName":
  "Julius Bauer",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

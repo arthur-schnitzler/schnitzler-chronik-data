@@ -117,12 +117,16 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/58/</idno>
             </event>
             <event when-iso="1891-05-13">
-               <head>Aufführung von Das Abenteuer seines Lebens u.a., 13.5.1891</head>
+               <head>Aufführung von Das Abenteuer seines Lebens u.a.,  13.5.1891</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb186167">Schauspielschule Friedrich</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb30143">Das Abenteuer seines Lebens. Ein einaktiges
-                           Lustspiel</title>
+                        <title key="pmb30143">Das Abenteuer seines Lebens. Ein einaktiges Lustspiel</title>
                         <note type="relation-type">Aufführung von</note>
                      </bibl>
                      <bibl>
@@ -134,7 +138,7 @@
                         <note type="relation-type">Aufführung von</note>
                      </bibl>
                      <bibl>
-                        <title key="pmb32844">Faust. Opéra en cinq actes</title>
+                        <title key="pmb32844">Faust.  Opéra en cinq actes</title>
                         <note type="relation-type">Aufführung von</note>
                      </bibl>
                      <bibl>
@@ -178,15 +182,14 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb40">Theater in der
-                           Josefstadt</placeName>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der Josefstadt</placeName>
                         <location>
                            <geo>48,209583 16,351111</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/89901/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89901/</idno>
             </event>
          </listEvent>
       </body>

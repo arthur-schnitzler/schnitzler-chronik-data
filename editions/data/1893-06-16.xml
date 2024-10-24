@@ -116,7 +116,7 @@
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
-                        <orgName key="pmb29794">Saubermänner</orgName>
+                        <orgName key="pmb29794">Die Saubermänner. Tischgesellschaft</orgName>
                      </org>
                   </listOrg>
                   <listPerson>
@@ -133,8 +133,16 @@
                         <persName key="pmb17480">Grünfeld, Ludwig</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb69">XIX., Döbling</placeName>
+                        <location>
+                           <geo>48,25 16,33306</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/112524/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/112524/</idno>
             </event>
          </listEvent>
       </body>

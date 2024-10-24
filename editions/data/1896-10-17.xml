@@ -284,8 +284,16 @@
                         <persName key="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/43387/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43387/</idno>
             </event>
          </listEvent>
       </body>

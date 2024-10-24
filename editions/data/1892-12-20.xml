@@ -127,6 +127,52 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/40772/</idno>
             </event>
+            <event when-iso="1892-12-20">
+               <head>Private Lesung von Episode, 20.12.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31357">Episode</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb18523">Horn, Paul</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb16381">Foges, Max</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2456">Specht, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2450">Fels, Friedrich Michael</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192651/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

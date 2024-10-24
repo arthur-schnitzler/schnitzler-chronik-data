@@ -124,6 +124,32 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1926-10-07">
+               <head>Private Lesung von Der Geist im Wort und der Geist in der Tat, 7.10.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30051">Der Geist im Wort und der Geist in der Tat</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb54787">Zuckerkandl, Victor</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2496">Kaufmann, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb26392">Van-Jung, Leo</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184359/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

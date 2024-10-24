@@ -102,6 +102,30 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1908-12-22">
+               <head>Treffen Union dramatischer Autoren und Komponisten, 22.12.1908</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb192474">Union dramatischer Autoren und Komponisten</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192570/</idno>
+            </event>
+            <event when-iso="1908-12-22">
                <head>Mappe A91 – Datierte Notiz in Der junge Medardus</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428190_0367.html</idno>

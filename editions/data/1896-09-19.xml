@@ -239,9 +239,14 @@
             <event when-iso="1896-09-19">
                <head>Uraufführung von Die Athenerin, 19.9.1896</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb30417">Die Athenerin</title>
+                        <title key="pmb30417">Die Athenerin. Drama in drei Aufzügen</title>
                         <note type="relation-type">Uraufführung von</note>
                      </bibl>
                   </listBibl>
@@ -262,7 +267,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42019/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42019/</idno>
             </event>
          </listEvent>
       </body>

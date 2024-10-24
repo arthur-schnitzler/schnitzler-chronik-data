@@ -110,13 +110,11 @@
  "Opernring 19"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/38885/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/38885/",
  "head":
@@ -134,7 +132,7 @@
   [
  {
  "title":
- "Tata-Toto",
+ "Tata-Toto. Vaudeville in drei Akten",
  "ref":
  ""}
  ],
@@ -148,6 +146,50 @@
  {
  "persName":
  "Victor Léon",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Theater in der Josefstadt",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "URL",
+ "subtype":
+ "pmb",
+ "filename":
+ "entity/195169/",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/195169/",
+ "head":
+ "Aufführung von Toto-Tata, 28.9.1894",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Theater in der Josefstadt",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Tata-Toto. Vaudeville in drei Akten",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
  "ref":
  ""}],
  "listPlace":

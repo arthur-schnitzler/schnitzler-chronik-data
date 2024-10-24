@@ -130,6 +130,43 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/8622/</idno>
             </event>
+            <event when-iso="1922-11-02">
+               <head>Lesung von Die dreifache Warnung, Die letzten Masken, Weihnachts-Einkäufe, Excentric, 2.11.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33061">Die dreifache Warnung</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30163">Weihnachts-Einkäufe</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29893">Excentric</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183490">Lesní divadlo Lidové sady</placeName>
+                        <location>
+                           <geo>50,78066666666667 15,08238888888889</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183482/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

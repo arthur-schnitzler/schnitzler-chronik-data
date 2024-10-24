@@ -143,12 +143,12 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1925-12-16">
-               <head>Private Vorlesung von Der Gang zum Weiher, 16.12.1925</head>
+               <head>Private Lesung von Der Gang zum Weiher, 16.12.1925</head>
                <desc>
                   <listBibl>
                      <bibl>
                         <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
-                        <note type="relation-type">Vortrag/Vorlesung von</note>
+                        <note type="relation-type">Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -173,15 +173,14 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb168815">Sternwartestraße
-                           71</placeName>
+                        <placeName role="veranstaltet in" key="pmb168815">Sternwartestraße 71</placeName>
                         <location>
                            <geo>48,23188 16,33716</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/48259/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48259/</idno>
             </event>
          </listEvent>
       </body>

@@ -91,18 +91,15 @@
  "Künstlerhaus"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/62339/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/62339/",
  "head":
- "Private Lesung von Der grüne Kakadu, Die Gefährtin, Paracelus,
-                  26.10.1898",
+ "Private Lesung von Der grüne Kakadu, Die Gefährtin, Paracelus, 26.10.1898",
  "desc":
 {"listBibl":
   [
@@ -153,6 +150,14 @@
  "persName":
  "Gustav Schwarzkopf",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ ""}
+ ]
 }
 }] 

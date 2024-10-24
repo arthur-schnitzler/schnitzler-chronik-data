@@ -104,6 +104,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/192844/</idno>
             </event>
             <event when-iso="1894-12-01">
+               <head>Private Lesung von Liebelei, 1.12.1894</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12618">Sandrock, Adele</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195443/</idno>
+            </event>
+            <event when-iso="1894-12-01">
                <head>Crelinger, Ludwig an Glümer, Marie [Briefe]</head>
                <desc>1 Tel. 1 Bl.<listPerson>
                      <person>

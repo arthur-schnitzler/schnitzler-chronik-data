@@ -147,6 +147,11 @@
             <event when-iso="1897-10-03">
                <head>Aufführung von Der Stellvertreter, 3.10.1897</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63031">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb42786">Der Stellvertreter. Schwank in 3 Acten</title>
@@ -161,8 +166,16 @@
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42789/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42789/</idno>
             </event>
             <event when-iso="1897-10-03">
                <head>Finkelburg, ... an Schnitzler, Arthur [Briefe]</head>

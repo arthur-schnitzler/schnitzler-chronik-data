@@ -100,6 +100,17 @@
             <event when-iso="1897-09-26">
                <head>Aufführung von Morte Civile, 26.9.1897</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb200360">Ermete Zacconi mit Gesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80584">La morte civile. Dramma in 4 atti</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
                   <listPerson>
                      <person role="hat als Teilnehmer:in">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -117,7 +128,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/45821/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45821/</idno>
             </event>
          </listEvent>
       </body>

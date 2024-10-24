@@ -147,6 +147,48 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
+            <event when-iso="1907-11-12">
+               <head>Vorstandstreffen Union dramatischer Autoren und Komponisten, 12.11.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb192474">Union dramatischer Autoren und Komponisten</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb26806">Weinberger, Charles</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11999">Krenn, Leopold</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb7048">Eysler, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2984">Reinhardt, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12926">Telmann, Fritz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10592">Wolff, Franz</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192521/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

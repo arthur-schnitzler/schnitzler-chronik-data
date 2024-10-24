@@ -238,6 +238,39 @@
                </desc>
                <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/P064.html</idno>
             </event>
+            <event when-iso="1921-01-30">
+               <head>2. Generalprobe von Reigen, 30.1.1921</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37179">Kammerspiele Wien</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29855">Reigen. Zehn Dialoge</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11454">Glücksmann, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb43303">Kammerspiele des Deutschen Volkstheaters</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186426/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

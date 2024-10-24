@@ -103,6 +103,42 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/412/</idno>
             </event>
+            <event when-iso="1893-10-28">
+               <head>Vereinstreffen Wiener Akademische Vereinigung, 28.10.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29614">Wiener Akademische Vereinigung</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb13088">Wengraf, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb22349">Pap, Julius</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192851/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

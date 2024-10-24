@@ -176,6 +176,39 @@
                </desc>
                <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/M162.html</idno>
             </event>
+            <event when-iso="1925-01-09">
+               <head>Lesung von Die dreifache Warnung, Das Schicksal des Freiherrn von Leisenbohg, Große Szene, 9.1.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33061">Die dreifache Warnung</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30057">Das Schicksal des Freiherrn von Leisenbohg. Novellette</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb31429">Große Szene</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb872">Stuttgart</placeName>
+                        <location>
+                           <geo>48,78232 9,17702</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183497/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

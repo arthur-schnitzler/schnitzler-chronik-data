@@ -93,6 +93,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1891-02-01">
+               <head>Private Lesung von Alkandi’s Lied, 1.2.1891</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31637">Alkandi’s Lied</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb730">Seidlgasse</placeName>
+                        <location>
+                           <geo>48,206786325191 16,389660949005</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190422/</idno>
+            </event>
+            <event when-iso="1891-02-01">
                <head>Glümer, Marie an Schnitzler, Arthur [Briefe]</head>
                <desc>Erstes Objekt aus der Mappe. 25 Br. 52 Bl.<listPerson>
                      <person>

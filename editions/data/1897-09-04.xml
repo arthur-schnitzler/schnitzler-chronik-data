@@ -154,6 +154,34 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/185870/</idno>
             </event>
+            <event when-iso="1897-09-04">
+               <head>Private Lesung von Reigen (Szene 1–6), 4.9.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29855">Reigen. Zehn Dialoge</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb16560">Freudenthal, Rosa</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185870">Hotel Metropole [Wien]</placeName>
+                        <location>
+                           <geo>48,213056 16,374167</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200307/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

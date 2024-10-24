@@ -119,6 +119,36 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/182720/</idno>
             </event>
+            <event when-iso="1916-04-29">
+               <head>Gesangskonzert von Olga Schnitzler, 29.4.1916</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb41367">Allgemeine Poliklinik</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb16284">Fischer, Jacob</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb182710">Allgemeine Poliklinik (neues Gebäude)</placeName>
+                        <location>
+                           <geo>48,216139 16,349167</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183752/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

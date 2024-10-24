@@ -146,13 +146,11 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/89342/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/89342/",
  "head":
@@ -166,9 +164,27 @@
  "ref":
  ""}
  ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Der Einschleicher",
+ "ref":
+ ""}
+ ],
  "listPerson":
   [
 {
+ "persName":
+ "Felix Salten",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Franz Xaver Chlum",
+ "ref":
+ ""},
+ {
  "persName":
  "Hermann Bahr",
  "ref":
@@ -181,16 +197,6 @@
  {
  "persName":
  "Marie Glümer",
- "ref":
- ""},
- {
- "persName":
- "Felix Salten",
- "ref":
- ""},
- {
- "persName":
- "Franz Chlum",
  "ref":
  ""}],
  "listPlace":

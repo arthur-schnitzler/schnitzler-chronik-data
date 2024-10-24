@@ -148,6 +148,11 @@
             <event when-iso="1917-11-14">
                <head>Uraufführung von Fink und Fliederbusch, 14.11.1917</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb30881">Fink und Fliederbusch. Komödie in drei Akten</title>
@@ -189,7 +194,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35427/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35427/</idno>
             </event>
             <event when-iso="1917-11-14">
                <head>Goldschmidt, Jo. an Schnitzler, Arthur [Briefe]</head>

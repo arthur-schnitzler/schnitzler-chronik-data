@@ -135,6 +135,11 @@
             <event when-iso="1894-11-11">
                <head>Premiere von Der Buckelhans, 11.11.1894</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb39689">Theater in der Josefstadt</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb30411">Der Buckelhans</title>
@@ -151,15 +156,14 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb40">Theater in der
-                           Josefstadt</placeName>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der Josefstadt</placeName>
                         <location>
                            <geo>48,209583 16,351111</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/42195/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42195/</idno>
             </event>
          </listEvent>
       </body>

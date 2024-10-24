@@ -142,19 +142,25 @@
  "Zirkusgasse"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/42789/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/42789/",
  "head":
  "Aufführung von Der Stellvertreter, 3.10.1897",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Carl-Theater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
@@ -173,7 +179,15 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Carl-Theater",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

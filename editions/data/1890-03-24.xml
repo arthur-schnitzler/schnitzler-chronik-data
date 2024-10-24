@@ -93,6 +93,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1890-03-24">
+               <head>Private Lesung von Alkandi’s Lied, 24.3.1890</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31637">Alkandi’s Lied</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb14953">Glümer, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,2066 16,37341</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186943/</idno>
+            </event>
+            <event when-iso="1890-03-24">
                <head>Olga Waissnix an Arthur Schnitzler, nach 23.3.1890 und vor 26.3.1890</head>
                <desc>
                   <listPerson>

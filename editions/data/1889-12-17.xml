@@ -107,6 +107,34 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/55832/</idno>
             </event>
             <event when-iso="1889-12-17">
+               <head>Private Lesung von Alkandi’s Lied, 17.12.1889</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31637">Alkandi’s Lied</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb21766">Mütter, Franziska</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb55832">Renngasse</placeName>
+                        <location>
+                           <geo>48,2128689619094 16,36715738471531</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186755/</idno>
+            </event>
+            <event when-iso="1889-12-17">
                <head>Olga Waissnix an Arthur Schnitzler, 17.12.1889?</head>
                <desc>
                   <listPerson>

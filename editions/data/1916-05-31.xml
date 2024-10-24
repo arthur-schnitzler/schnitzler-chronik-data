@@ -95,6 +95,40 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/34401/</idno>
             </event>
+            <event when-iso="1916-05-31">
+               <head>Private Lesung von Dr. Gräsler, 31.5.1916</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30201">Doktor Gräsler, Badearzt</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb13644">Bachrach, Eugenie</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb13653">Bachrach, Stefanie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb34401">Altaussee</placeName>
+                        <location>
+                           <geo>47,6698 13,78453</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184136/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

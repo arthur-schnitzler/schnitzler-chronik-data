@@ -187,6 +187,35 @@
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041581.html</idno>
             </event>
             <event when-iso="1911-11-01">
+               <head>Lesung von Der Mörder, Lieutenant Gustl, 1.11.1911</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33754">Der Mörder. Novelle</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb866">Dresden</placeName>
+                        <location>
+                           <geo>51,0833 13,7666</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183325/</idno>
+            </event>
+            <event when-iso="1911-11-01">
                <head>Mappe A117 – Datumsangabe auf Blatt von Professor Bernhardi: »In drei Akten.«</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428583_0085.html</idno>

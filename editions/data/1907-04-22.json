@@ -88,19 +88,25 @@
  "Wien"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/143159/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/143159/",
  "head":
  "Aufführung von Liebelei, Endlich allein, 22.4.1907",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Burgtheater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
@@ -144,6 +150,14 @@
  "persName":
  "Gertrude von Hofmannsthal",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ ""}
+ ]
 }
 }] 

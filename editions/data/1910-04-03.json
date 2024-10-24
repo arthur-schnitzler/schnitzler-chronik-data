@@ -164,20 +164,25 @@
  "Schwarzenbergpark"
 }, {
  "type":
+ "URL",
+ "subtype":
  "pmb",
- "color":
- "#9B5F98",
  "filename":
  "entity/46098/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/46098/",
  "head":
- "Premiere von Frage an das Schicksal, Die letzten Masken, Literatur,
-                  3.4.1910",
+ "Premiere von Frage an das Schicksal, Die letzten Masken, Literatur, 3.4.1910",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Wiener Freie Volksbühne",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
@@ -231,7 +236,15 @@
  "persName":
  "Hans Ziegler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Neue Wiener Bühne",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

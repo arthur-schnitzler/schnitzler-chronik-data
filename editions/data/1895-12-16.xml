@@ -187,6 +187,39 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/43/</idno>
             </event>
             <event when-iso="1895-12-16">
+               <head>Vortrag über Moderne Dramatik von Max Halbe, 16.12.1895</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29801">Wiener Musik- und Theatergesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77409">Fertig</title>
+                        <note type="relation-type">Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11565">Halbe, Max</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb199430">Canovagasse 3</placeName>
+                        <location>
+                           <geo>48,200517 16,373424</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199426/</idno>
+            </event>
+            <event when-iso="1895-12-16">
                <head>Olga Waissnix an Arthur Schnitzler, 16.12.1895</head>
                <desc>
                   <listPerson>

@@ -220,7 +220,7 @@
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
-                        <orgName key="pmb45430">Kleines Theater</orgName>
+                        <orgName key="pmb35053">Lessing-Theater</orgName>
                      </org>
                   </listOrg>
                   <listBibl>
@@ -239,24 +239,20 @@
                      <person role="hat als Arbeitskraft">
                         <persName key="pmb20041">Landa, Max</persName>
                      </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10833">Barnowsky, Victor</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb43471">Budapest</placeName>
-                        <location>
-                           <geo>47,49835 19,04045</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb56521">Ungarisches
-                           Theater</placeName>
+                        <placeName role="veranstaltet in" key="pmb56521">Ungarisches Theater</placeName>
                         <location>
                            <geo>47,5035412619 19,072559007</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/46014/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46014/</idno>
             </event>
          </listEvent>
       </body>

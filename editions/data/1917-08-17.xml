@@ -132,6 +132,55 @@
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/1106/</idno>
             </event>
+            <event when-iso="1917-08-17">
+               <head>Aufführung von Liebelei, Abschiedssouper, 17.8.1917</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30005">Abschiedssouper</title>
+                        <note type="relation-type">Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb24423">Schnitzler, Helene</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb24430">Schnitzler, Karl</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb5799">Rosenthal, Friedrich</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19250">Keller, Hedwig</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186338/</idno>
+            </event>
          </listEvent>
       </body>
    </text>

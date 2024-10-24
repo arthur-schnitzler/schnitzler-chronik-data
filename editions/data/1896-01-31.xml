@@ -213,7 +213,7 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/88/</idno>
             </event>
             <event when-iso="1896-01-31">
-               <head>Probe Liebelei, 31.1.1896</head>
+               <head>Probe von Liebelei, 31.1.1896</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -236,15 +236,14 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater
-                           Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater Berlin</placeName>
                         <location>
                            <geo>52,524444 13,382222</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/43326/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43326/</idno>
             </event>
             <event when-iso="1896-01-31">
                <head>Aufführung von König Chilperich, 31.1.1896</head>
@@ -266,7 +265,7 @@
                      </person>
                   </listPerson>
                </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/43358/</idno>
+               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43358/</idno>
             </event>
          </listEvent>
       </body>
