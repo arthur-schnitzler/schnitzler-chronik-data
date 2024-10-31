@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>import-lists/pmb-event_tage.xml</String>
+                                    <String>import-lists/schnitzler-orte_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>UPDATE pmb-event_tage</String>
+                                        <String>schnitzler-orte_tage</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>import-lists/schnitzler-orte_tage.xml</String>
+                                    <String>import-lists/pmb-event_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Dublettentest schnitzler-orte_tage</String>
+                                        <String>UPDATE pmb-event_tage</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
