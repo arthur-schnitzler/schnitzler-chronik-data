@@ -166,6 +166,19 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/2/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/2/",
+ "head":
+ "Konservatorium der Gesellschaft der Musikfreunde"
+}, {
+ "type":
  "schnitzler-bahr",
  "color":
  "#639FF9",
@@ -282,6 +295,36 @@
  "ref":
  ""}
  ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/209179/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/209179/",
+ "head":
+ "Konservatoriums-Vorstellung, 21.12.1900",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Konservatorium der Gesellschaft der Musikfreunde",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}]
 }
 }, {
  "type":

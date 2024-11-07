@@ -81,6 +81,49 @@
  "Knödelhütte"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/539/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/539/",
+ "head":
+ "Sophienalpe"
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/210454/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/210454/",
+ "head":
+ "Filmvorführung, 30.7.1904",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
  "schnitzler-kino-buch",
  "subtype":
  "#ISBN978-3205787464",

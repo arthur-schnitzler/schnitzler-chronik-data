@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,6 +110,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1915-01-31">
+               <head>Volkshochschule Stöbergasse</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/1023/</idno>
+            </event>
+            <event when-iso="1915-01-31">
                <head>Lesung von Der blinde Geronimo, Der grüne Kakadu, 31.1.1915</head>
                <desc>
                   <listOrg>
@@ -120,11 +125,11 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb30649">Der blinde Geronimo und sein Bruder</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>

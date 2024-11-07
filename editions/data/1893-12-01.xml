@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -138,6 +138,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
             </event>
             <event when-iso="1893-12-01">
+               <head>Volkstheater</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/20/</idno>
+            </event>
+            <event when-iso="1893-12-01">
                <head>Uraufführung von Das Märchen, 1.12.1893</head>
                <desc>
                   <listOrg>
@@ -148,7 +153,7 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
-                        <note type="relation-type">Uraufführung von</note>
+                        <note type="relation-type">ist Uraufführung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb93146">»Das Märchen.« (Schauspiel in 3 Aufzügen von Arthur Schnitzler. Zum erstenmale im Deutschen Volkstheater aufgeführt am 1. Dezember.)</title>

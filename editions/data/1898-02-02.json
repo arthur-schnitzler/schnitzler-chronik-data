@@ -102,6 +102,19 @@
  "Residenzhotel"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/200410/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/200410/",
+ "head":
+ "Heinestraße 36"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -236,6 +249,52 @@
  {
  "placeName":
  "Hotel Sacher",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/208998/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/208998/",
+ "head":
+ "Aufführung von Adrienne Lecouvreur, 2.2.1898",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Burgtheater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Adrienne Lecouvreur",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Burgtheater",
  "ref":
  ""}
  ]

@@ -165,6 +165,19 @@
  "Opernring 19"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/168934/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/168934/",
+ "head":
+ "Frankgasse 1"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -207,6 +220,52 @@
  {
  "placeName":
  "Frankgasse 1",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/208691/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/208691/",
+ "head":
+ "Aufführung von Die Walküre, 26.9.1894",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "K.K. Hof-Oper",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die Walküre",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Oper",
  "ref":
  ""}
  ]

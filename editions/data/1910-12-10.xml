@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -137,6 +137,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/38129/</idno>
             </event>
             <event when-iso="1910-12-10">
+               <head>Münchner Schauspielhaus</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/11/</idno>
+            </event>
+            <event when-iso="1910-12-10">
                <head>Aufführung von Die letzten Masken, Komtesse Mizzi, Premiere von Literatur, 10.12.1910</head>
                <desc>
                   <listOrg>
@@ -147,15 +152,15 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb29869">Literatur</title>
-                        <note type="relation-type">Premiere von</note>
+                        <note type="relation-type">ist Premiere von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29931">Komtesse Mizzi oder: Der Familientag</title>
-                        <note type="relation-type">Aufführung von</note>
+                        <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29877">Die letzten Masken</title>
-                        <note type="relation-type">Aufführung von</note>
+                        <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -180,15 +185,15 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb29931">Komtesse Mizzi oder: Der Familientag</title>
-                        <note type="relation-type">Aufführung von</note>
+                        <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29869">Literatur</title>
-                        <note type="relation-type">Aufführung von</note>
+                        <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29877">Die letzten Masken</title>
-                        <note type="relation-type">Aufführung von</note>
+                        <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>

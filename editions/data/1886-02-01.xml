@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -247,6 +247,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/42/</idno>
             </event>
             <event when-iso="1886-02-01">
+               <head>Kolingasse 13</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/199530/</idno>
+            </event>
+            <event when-iso="1886-02-01">
                <head>Ball bei Strisower, Februar 1886</head>
                <desc>
                   <listPerson>
@@ -261,7 +266,13 @@
                      <place>
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
-                           <geo>48,2066 16,37341</geo>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                        <location>
+                           <geo>48,216542 16,363548</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -280,7 +291,7 @@
                      <place>
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
-                           <geo>48,2066 16,37341</geo>
+                           <geo>48,208333 16,373056</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -299,7 +310,7 @@
                      <place>
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
-                           <geo>48,2066 16,37341</geo>
+                           <geo>48,208333 16,373056</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -321,7 +332,7 @@
                      <place>
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
-                           <geo>48,2066 16,37341</geo>
+                           <geo>48,208333 16,373056</geo>
                         </location>
                      </place>
                   </listPlace>

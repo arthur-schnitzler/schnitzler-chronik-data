@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -138,6 +138,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/199492/</idno>
             </event>
             <event when-iso="1896-11-03">
+               <head>Breslau</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/677/</idno>
+            </event>
+            <event when-iso="1896-11-03">
                <head>Uraufführung von Freiwild, 3.11.1896</head>
                <desc>
                   <listOrg>
@@ -148,7 +153,7 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
-                        <note type="relation-type">Uraufführung von</note>
+                        <note type="relation-type">ist Uraufführung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb118011">Courrier des Théâtres [Freiwild in Berlin und Liebelei]</title>

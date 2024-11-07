@@ -147,6 +147,19 @@
  "Hebbel-Theater"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/334/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/334/",
+ "head":
+ "Schiller-Theater"
+}, {
+ "type":
  "pollaczek",
  "color":
  "#1e81b0",
@@ -238,6 +251,44 @@
  {
  "placeName":
  "Schiller-Theater",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/210351/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/210351/",
+ "head":
+ "Aufführung von Don Juan und Faust, 13.10.1925",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Don Juan und Faust",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Hebbel-Theater",
  "ref":
  ""}
  ]

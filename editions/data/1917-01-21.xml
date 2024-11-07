@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -144,20 +144,25 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/285/</idno>
             </event>
             <event when-iso="1917-01-21">
+               <head>Volkshochschule Ottakring</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/599/</idno>
+            </event>
+            <event when-iso="1917-01-21">
                <head>Lesung von Der grüne Kakadu, Das Tagebuch der Redegonda, Der Schleier der Beatrice (Schluss), 21.1.1917</head>
                <desc>
                   <listBibl>
                      <bibl>
                         <title key="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb30349">Das Tagebuch der Redegonda</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>

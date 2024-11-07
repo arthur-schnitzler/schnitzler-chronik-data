@@ -132,6 +132,19 @@
  "Hütteldorf"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/1023/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/1023/",
+ "head":
+ "Volkshochschule Stöbergasse"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -214,6 +227,41 @@
  {
  "placeName":
  "Volkshochschule Stöbergasse",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/209745/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/209745/",
+ "head":
+ "Gesangsabend im Stöbergasse, 14.2.1915",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Stöbergasse",
  "ref":
  ""}
  ]

@@ -107,6 +107,19 @@
  "Lustspieltheater [Wien]"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/168815/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/168815/",
+ "head":
+ "Sternwartestraße 71"
+}, {
+ "type":
  "pollaczek",
  "color":
  "#1e81b0",
@@ -157,6 +170,49 @@
  {
  "placeName":
  "Sternwartestraße 71",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/211194/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/211194/",
+ "head":
+ "Filmvorführung von Sous les toits de Paris, 8.11.1930",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Sous les toits de Paris",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Clara Katharina Pollaczek",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Lustspieltheater [Wien]",
  "ref":
  ""}
  ]

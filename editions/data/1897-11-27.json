@@ -94,6 +94,19 @@
  "Concordia Prag"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/91/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/91/",
+ "head":
+ "Neues Deutsches Theater"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -134,6 +147,44 @@
  {
  "placeName":
  "Neues Deutsches Theater",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/208981/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/208981/",
+ "head":
+ "Premiere von Freiwild, 27.11.1897",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Prag",
  "ref":
  ""}
  ]

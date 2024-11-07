@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-04.">04.11.2024</date>
+            <date when-iso="2024-11-07.">07.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,6 +99,11 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/168581/</idno>
             </event>
             <event when-iso="1897-01-19">
+               <head>Österreichischer Ingenieur- und Architektenverein</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/168900/</idno>
+            </event>
+            <event when-iso="1897-01-19">
                <head>Lesung von Marx Burckhard, 19.1.1897</head>
                <desc>
                   <listOrg>
@@ -109,11 +114,11 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb168892">In der Schule des Lebens</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
                         <title key="pmb168896">Dulfein. Ein Liebesmärchen</title>
-                        <note type="relation-type">Lesung von</note>
+                        <note type="relation-type">ist Lesung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
@@ -128,7 +133,7 @@
                      <place>
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
-                           <geo>48,2066 16,37341</geo>
+                           <geo>48,208333 16,373056</geo>
                         </location>
                      </place>
                      <place>

@@ -187,6 +187,19 @@
  "Carl-Theater"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/14/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/14/",
+ "head":
+ "Burgtheater"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -227,6 +240,52 @@
  {
  "placeName":
  "Burgtheater",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/209043/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/209043/",
+ "head":
+ "Aufführung von Die blonde Kathrein. Ein Märchenspiel, 19.11.1898",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Carl-Theater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die blonde Kathrein. Ein Märchenspiel",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Carl-Theater",
  "ref":
  ""}
  ]

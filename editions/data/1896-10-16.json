@@ -81,6 +81,19 @@
  "Raimund-Theater"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/20/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/20/",
+ "head":
+ "Volkstheater"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -121,6 +134,52 @@
  {
  "placeName":
  "Volkstheater",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/208861/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/208861/",
+ "head":
+ "Premiere von Sein Sohn, 16.10.1896",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Raimund-Theater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Sein Sohn",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Raimund-Theater",
  "ref":
  ""}
  ]

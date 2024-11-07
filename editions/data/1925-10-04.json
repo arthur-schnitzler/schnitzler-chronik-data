@@ -94,6 +94,62 @@
  "Josef Pohl"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/539/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/539/",
+ "head":
+ "Sophienalpe"
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/210766/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/210766/",
+ "head":
+ "Filmvorführung von Großstadtkavaliere, 4.10.1925",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Großstadtkavaliere",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Clara Katharina Pollaczek",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
  "schnitzler-cmif",
  "subtype":
  "#m5ca120f-450d-4a59-9a44-d5822a34aee9",
