@@ -290,27 +290,19 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/43326/",
+ "entity/208820/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/43326/",
+ "https://pmb.acdh.oeaw.ac.at/entity/208820/",
  "head":
- "Probe von Liebelei, 31.1.1896",
+ "Aufführung von König Chilperich, 31.1.1896",
  "desc":
-{"listOrg":
-  [
- {
- "orgName":
- "Deutsches Theater Berlin",
- "ref":
- ""}
- ],
- "listBibl":
+{"listBibl":
   [
  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "König Chilperich",
  "ref":
  ""}
  ],
@@ -320,17 +312,12 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""},
- {
- "persName":
- "Otto Brahm",
- "ref":
  ""}],
  "listPlace":
   [
  {
  "placeName":
- "Deutsches Theater Berlin",
+ "Berliner Metropol Theater",
  "ref":
  ""}
  ]
@@ -379,19 +366,27 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/208820/",
+ "entity/43326/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/208820/",
+ "https://pmb.acdh.oeaw.ac.at/entity/43326/",
  "head":
- "Aufführung von König Chilperich, 31.1.1896",
+ "Probe von Liebelei, 31.1.1896",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
- "König Chilperich",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
  ""}
  ],
@@ -401,12 +396,17 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
+ ""},
+ {
+ "persName":
+ "Otto Brahm",
+ "ref":
  ""}],
  "listPlace":
   [
  {
  "placeName":
- "Berliner Metropol Theater",
+ "Deutsches Theater Berlin",
  "ref":
  ""}
  ]

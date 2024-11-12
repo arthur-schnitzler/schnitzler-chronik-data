@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,6 +103,36 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/1179/</idno>
             </event>
             <event when-iso="1893-07-14">
+               <head>Probe von Abschiedssouper, 14.7.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30005">Abschiedssouper</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb213">Bad Ischl</placeName>
+                        <location>
+                           <geo>47,71109 13,61893</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/192798/</idno>
+            </event>
+            <event when-iso="1893-07-14">
                <head>Uraufführung von Abschiedssouper, Aufführung von Fräulein Frau, 14.7.1893</head>
                <desc>
                   <listOrg>
@@ -171,36 +201,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35284/</idno>
-            </event>
-            <event when-iso="1893-07-14">
-               <head>Probe von Abschiedssouper, 14.7.1893</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
-                     </org>
-                  </listOrg>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb30005">Abschiedssouper</title>
-                        <note type="relation-type">ist Probe von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb213">Bad Ischl</placeName>
-                        <location>
-                           <geo>47,71109 13,61893</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/192798/</idno>
             </event>
          </listEvent>
       </body>

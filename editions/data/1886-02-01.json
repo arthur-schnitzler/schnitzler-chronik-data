@@ -326,13 +326,13 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/195029/",
+ "entity/195043/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/195029/",
+ "https://pmb.acdh.oeaw.ac.at/entity/195043/",
  "head":
- "Ball bei Strisower, Februar 1886",
+ "Ball Moskovicz, Februar 1886",
  "desc":
 {"listPerson":
   [
@@ -343,42 +343,7 @@
  ""},
  {
  "persName":
- "Bernhard Strisower",
- "ref":
- ""}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- ""}
- ,  {
- "placeName":
- "Kolingasse 13",
- "ref":
- ""}
- ]
-}
-}, {
- "type":
- "pmb",
- "color":
- "#9B5F98",
- "filename":
- "entity/195037/",
- "caption":
- "PMB",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/195037/",
- "head":
- "Redoute, Februar 1886",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
+ "Louis Moskovicz-Zemplen",
  "ref":
  ""}],
  "listPlace":
@@ -426,13 +391,43 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/195043/",
+ "entity/195037/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/195043/",
+ "https://pmb.acdh.oeaw.ac.at/entity/195037/",
  "head":
- "Ball Moskovicz, Februar 1886",
+ "Redoute, Februar 1886",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/195029/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/195029/",
+ "head":
+ "Ball bei Strisower, Februar 1886",
  "desc":
 {"listPerson":
   [
@@ -443,7 +438,7 @@
  ""},
  {
  "persName":
- "Louis Moskovicz-Zemplen",
+ "Bernhard Strisower",
  "ref":
  ""}],
  "listPlace":
@@ -451,6 +446,11 @@
  {
  "placeName":
  "Wien",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kolingasse 13",
  "ref":
  ""}
  ]

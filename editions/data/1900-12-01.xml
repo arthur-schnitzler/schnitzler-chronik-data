@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -272,6 +272,36 @@
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041187.html</idno>
             </event>
             <event when-iso="1900-12-01">
+               <head>Probe von Der Schleier der Beatrice, 1.12.1900</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb62965">Lobe-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb525">Lobe-Theater</placeName>
+                        <location>
+                           <geo>51,10862 17,0454</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/231244/</idno>
+            </event>
+            <event when-iso="1900-12-01">
                <head>Uraufführung von Der Schleier der Beatrice, 1.12.1900</head>
                <desc>
                   <listOrg>
@@ -335,36 +365,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/35095/</idno>
-            </event>
-            <event when-iso="1900-12-01">
-               <head>Probe von Der Schleier der Beatrice, 1.12.1900</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb62965">Lobe-Theater</orgName>
-                     </org>
-                  </listOrg>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                        <note type="relation-type">ist Probe von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb525">Lobe-Theater</placeName>
-                        <location>
-                           <geo>51,10862 17,0454</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/231244/</idno>
             </event>
          </listEvent>
       </body>

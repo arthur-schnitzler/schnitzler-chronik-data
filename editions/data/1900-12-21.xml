@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -199,6 +199,22 @@
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041231.html</idno>
             </event>
             <event when-iso="1900-12-21">
+               <head>Konservatoriums-Vorstellung, 21.12.1900</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209179/</idno>
+            </event>
+            <event when-iso="1900-12-21">
                <head>Schulaufführung des Konservatoriums, 21.12.1900</head>
                <desc>
                   <listOrg>
@@ -237,22 +253,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/182270/</idno>
-            </event>
-            <event when-iso="1900-12-21">
-               <head>Konservatoriums-Vorstellung, 21.12.1900</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                     </org>
-                  </listOrg>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209179/</idno>
             </event>
             <event when-iso="1900-12-21">
                <head>Theodor Herzl an Arthur Schnitzler, 21.12.1900</head>

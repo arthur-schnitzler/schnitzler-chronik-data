@@ -83,6 +83,19 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/4/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/4/",
+ "head":
+ "Bösendorfer-Saal"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -93,7 +106,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209254/",
  "head":
- "Gesangskonzert Alice Barbi, 28.4.1902",
+ "3. Gesangskonzert von Alice Barbi, 28.4.1902",
  "desc":
 {"listPerson":
   [
@@ -106,6 +119,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bösendorfer-Saal",
+ "ref":
+ ""}
+ ]
 }
 }] 

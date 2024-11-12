@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,6 +128,20 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/1025/</idno>
             </event>
             <event when-iso="1916-01-17">
+               <head>Gesangskonzert Lula Gmeiner, 17.1.1916</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb7438">Gmeiner, Lula</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209802/</idno>
+            </event>
+            <event when-iso="1916-01-17">
                <head>Wohltätigkeitskonzert von Olga Schnitzler, 17.1.1916</head>
                <desc>
                   <listPerson>
@@ -158,20 +172,6 @@
                   </listPerson>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/183719/</idno>
-            </event>
-            <event when-iso="1916-01-17">
-               <head>Gesangskonzert Lula Gmeiner, 17.1.1916</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb7438">Gmeiner, Lula</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209802/</idno>
             </event>
          </listEvent>
       </body>

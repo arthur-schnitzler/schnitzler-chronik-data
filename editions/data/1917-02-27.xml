@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -135,6 +135,30 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/183389/</idno>
             </event>
             <event when-iso="1917-02-27">
+               <head>Gesangskonzert von Olga Schnitzler, 27.2.1917</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183393">Nähstube</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183389">Militärkasino</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/183402/</idno>
+            </event>
+            <event when-iso="1917-02-27">
                <head>Lesung von Das Schicksal des Freiherrn von Leisenbohg, 27.2.1917</head>
                <desc>
                   <listOrg>
@@ -160,30 +184,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/183397/</idno>
-            </event>
-            <event when-iso="1917-02-27">
-               <head>Gesangskonzert von Olga Schnitzler, 27.2.1917</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb183393">Nähstube</orgName>
-                     </org>
-                  </listOrg>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb183389">Militärkasino</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/183402/</idno>
             </event>
          </listEvent>
       </body>

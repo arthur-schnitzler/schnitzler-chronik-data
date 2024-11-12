@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -127,36 +127,6 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/20/</idno>
             </event>
             <event when-iso="1923-12-04">
-               <head>Generalprobe von Ein Teufelskerl, 4.12.1923</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb36247">Burgtheater</orgName>
-                     </org>
-                  </listOrg>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb145995">Ein Teufelskerl. Schauspiel in drei Akten</title>
-                        <note type="relation-type">ist Generalprobe von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                        <location>
-                           <geo>48,210333 16,361139</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210251/</idno>
-            </event>
-            <event when-iso="1923-12-04">
                <head>Aufführung von Die Jüdin von Toledo, 4.12.1923</head>
                <desc>
                   <listOrg>
@@ -191,6 +161,36 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210252/</idno>
+            </event>
+            <event when-iso="1923-12-04">
+               <head>Generalprobe von Ein Teufelskerl, 4.12.1923</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb145995">Ein Teufelskerl. Schauspiel in drei Akten</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210251/</idno>
             </event>
          </listEvent>
       </body>

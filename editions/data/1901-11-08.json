@@ -63,6 +63,19 @@
  "Gartenbausäle"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/47660/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/47660/",
+ "head":
+ "Kunsthistorisches Museum"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -73,13 +86,18 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209210/",
  "head":
- "Zaubervorstellung im Blumensäle, 8.11.1901",
+ "Aufführung von Zauberer Ali Bey, 8.11.1901",
  "desc":
 {"listPerson":
   [
 {
  "persName":
  "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Ali Bey",
  "ref":
  ""}],
  "listPlace":

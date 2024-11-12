@@ -191,33 +191,22 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/210021/",
+ "entity/210023/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/210021/",
+ "https://pmb.acdh.oeaw.ac.at/entity/210023/",
  "head":
- "Generalprobe von Kindertragödie, 27.11.1919",
+ "Liederabend Anna R. Hardorff, 27.11.1919",
  "desc":
-{"listOrg":
-  [
- {
- "orgName":
- "Volkstheater",
- "ref":
- ""}
- ],
- "listBibl":
-  [
- {
- "title":
- "Kindertragödie",
- "ref":
- ""}
- ],
- "listPerson":
+{"listPerson":
   [
 {
+ "persName":
+ "Anna R. Hardorff",
+ "ref":
+ ""},
+ {
  "persName":
  "Arthur Schnitzler",
  "ref":
@@ -226,7 +215,7 @@
   [
  {
  "placeName":
- "Volkstheater",
+ "Konzerthaus",
  "ref":
  ""}
  ]
@@ -267,22 +256,33 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/210023/",
+ "entity/210021/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/210023/",
+ "https://pmb.acdh.oeaw.ac.at/entity/210021/",
  "head":
- "Liederabend Anna R. Hardorff, 27.11.1919",
+ "Generalprobe von Kindertragödie, 27.11.1919",
  "desc":
-{"listPerson":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Volkstheater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Kindertragödie",
+ "ref":
+ ""}
+ ],
+ "listPerson":
   [
 {
- "persName":
- "Anna R. Hardorff",
- "ref":
- ""},
- {
  "persName":
  "Arthur Schnitzler",
  "ref":
@@ -291,7 +291,7 @@
   [
  {
  "placeName":
- "Konzerthaus",
+ "Volkstheater",
  "ref":
  ""}
  ]

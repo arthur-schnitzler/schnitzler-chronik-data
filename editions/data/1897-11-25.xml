@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -126,35 +126,6 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/91/</idno>
             </event>
             <event when-iso="1897-11-25">
-               <head>Lesung von Die Toten schweigen, Weihnachts-Einkäufe, 25.11.1897</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb29833">Die Toten schweigen</title>
-                        <note type="relation-type">ist Lesung von</note>
-                     </bibl>
-                     <bibl>
-                        <title key="pmb30163">Weihnachts-Einkäufe</title>
-                        <note type="relation-type">ist Lesung von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb118612">Deutsches Haus [Prag]</placeName>
-                        <location>
-                           <geo>50,08687 14,42729</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/50887/</idno>
-            </event>
-            <event when-iso="1897-11-25">
                <head>Probe von Freiwild, 25.11.1897</head>
                <desc>
                   <listOrg>
@@ -183,6 +154,35 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/200452/</idno>
+            </event>
+            <event when-iso="1897-11-25">
+               <head>Lesung von Die Toten schweigen, Weihnachts-Einkäufe, 25.11.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29833">Die Toten schweigen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30163">Weihnachts-Einkäufe</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118612">Deutsches Haus [Prag]</placeName>
+                        <location>
+                           <geo>50,08687 14,42729</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/50887/</idno>
             </event>
          </listEvent>
       </body>

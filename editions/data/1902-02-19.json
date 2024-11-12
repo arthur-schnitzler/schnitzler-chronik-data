@@ -79,19 +79,6 @@
  "color":
  "#045344",
  "filename":
- "entity/968/",
- "caption":
- "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/968/",
- "head":
- "Mödling"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "filename":
  "entity/2837/",
  "caption":
  "Aufenthaltsorte",
@@ -114,6 +101,32 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/145170/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/145170/",
+ "head":
+ "Kurhaus Mödling"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/231864/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/231864/",
+ "head":
+ "Eschenbachgasse 9"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -124,9 +137,17 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209240/",
  "head":
- "Hofmannsthal-Vorlesung, 19.2.1902",
+ "Vortrag Hugo von Hofmannsthal über Goethes dramatischen Stil, 19.2.1902",
  "desc":
-{"listPerson":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Wiener Goethe-Verein",
+ "ref":
+ ""}
+ ],
+ "listPerson":
   [
 {
  "persName":
@@ -137,6 +158,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Eschenbachgasse 9",
+ "ref":
+ ""}
+ ]
 }
 }] 

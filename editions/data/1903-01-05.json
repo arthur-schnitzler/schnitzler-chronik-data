@@ -70,6 +70,19 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/4/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/4/",
+ "head":
+ "Bösendorfer-Saal"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -80,9 +93,17 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209274/",
  "head":
- "Gesangskonzert Landi, 5.1.1903",
+ "2. Gesangskonzert Camilla Landi, 5.1.1903",
  "desc":
-{"listPerson":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Concert-Direktion Albert Gutmann",
+ "ref":
+ ""}
+ ],
+ "listPerson":
   [
 {
  "persName":
@@ -93,7 +114,15 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bösendorfer-Saal",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

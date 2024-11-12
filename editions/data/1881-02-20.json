@@ -82,13 +82,13 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/207662/",
+ "entity/207664/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/207662/",
+ "https://pmb.acdh.oeaw.ac.at/entity/207664/",
  "head":
- "Orchesterkonzert im Musikverein, 20.2.1881",
+ "Soirée dansante Brüll, 20.2.1881",
  "desc":
 {"listPerson":
   [
@@ -96,15 +96,7 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}],
- "listPlace":
-  [
- {
- "placeName":
- "Musikverein",
- "ref":
- ""}
- ]
+ ""}]
 }
 }, {
  "type":
@@ -134,13 +126,13 @@
  "color":
  "#9B5F98",
  "filename":
- "entity/207664/",
+ "entity/207662/",
  "caption":
  "PMB",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/207664/",
+ "https://pmb.acdh.oeaw.ac.at/entity/207662/",
  "head":
- "Soirée dansante Brüll, 20.2.1881",
+ "Orchesterkonzert im Musikverein, 20.2.1881",
  "desc":
 {"listPerson":
   [
@@ -148,6 +140,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }] 

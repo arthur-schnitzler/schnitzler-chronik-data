@@ -58,6 +58,19 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/7/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/7/",
+ "head":
+ "Secession"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -68,7 +81,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209270/",
  "head":
- "Konzert Sistermans, 26.11.1902",
+ "Konzert von Anton Sistermans, 26.11.1902",
  "desc":
 {"listPerson":
   [
@@ -81,6 +94,19 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""},
+ {
+ "persName":
+ "Richard Pahlen",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }] 

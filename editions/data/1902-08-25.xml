@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,12 +103,17 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/145165/</idno>
             </event>
             <event when-iso="1902-08-25">
+               <head>Hauptstraße 56</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/145165/</idno>
+            </event>
+            <event when-iso="1902-08-25">
                <head>Oper</head>
                <desc/>
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/15/</idno>
             </event>
             <event when-iso="1902-08-25">
-               <head>Aufführung von Feuersnot op. 50, 25.8.1902</head>
+               <head>Aufführung von Feuersnot, Die Perle von Iberien, 25.8.1902</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -117,7 +122,11 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb76841">Feuersnot op. 50</title>
+                        <title key="pmb76841">Feuersnot. Ein Singgedicht in einem Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb77772">Die Perle von Iberien. Phantastisches Ballet in 3 Bildern</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>

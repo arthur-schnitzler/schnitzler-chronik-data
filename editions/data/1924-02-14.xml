@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -122,6 +122,28 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/48198/</idno>
             </event>
             <event when-iso="1924-02-14">
+               <head>Tanzabend im Redoutensaal, 14.2.1924</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10522">Wigman, Mary</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb48198">Redoutensaal</placeName>
+                        <location>
+                           <geo>48,206783 16,366551</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210268/</idno>
+            </event>
+            <event when-iso="1924-02-14">
                <head>Generalprobe von Agnes Jordan. Schauspiel in fünf Akten, 14.2.1924</head>
                <desc>
                   <listOrg>
@@ -150,28 +172,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210267/</idno>
-            </event>
-            <event when-iso="1924-02-14">
-               <head>Tanzabend im Redoutensaal, 14.2.1924</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb10522">Wigman, Mary</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb48198">Redoutensaal</placeName>
-                        <location>
-                           <geo>48,206783 16,366551</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/210268/</idno>
             </event>
             <event when-iso="1924-02-14">
                <head>Mordo, Renato an Schnitzler, Arthur [Briefe]</head>

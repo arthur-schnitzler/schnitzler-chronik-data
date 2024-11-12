@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -74,17 +74,6 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/40/</idno>
             </event>
             <event when-iso="1876-11-26">
-               <head>Philharmonisches Konzert, 26.11.1876</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/207371/</idno>
-            </event>
-            <event when-iso="1876-11-26">
                <head>Aufführung von Eselshaut, 26.11.1876</head>
                <desc>
                   <listOrg>
@@ -107,6 +96,17 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/207372/</idno>
+            </event>
+            <event when-iso="1876-11-26">
+               <head>Philharmonisches Konzert, 26.11.1876</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/207371/</idno>
             </event>
             <event when-iso="1876-11-26">
                <head>Mappe A159 – Datumsangabe auf Blatt von Die Geschichte von Amadeus dem Poeten</head>

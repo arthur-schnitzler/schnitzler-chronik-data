@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -172,6 +172,17 @@
                <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/M183.html</idno>
             </event>
             <event when-iso="1899-12-17">
+               <head>Philharmonisches-Konzert, 17.12.1899</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209119/</idno>
+            </event>
+            <event when-iso="1899-12-17">
                <head>Aufführung von Der Verschwender, 17.12.1899</head>
                <desc>
                   <listBibl>
@@ -232,17 +243,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/141417/</idno>
-            </event>
-            <event when-iso="1899-12-17">
-               <head>Philharmonisches-Konzert, 17.12.1899</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/209119/</idno>
             </event>
          </listEvent>
       </body>

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,6 +108,25 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/59319/</idno>
             </event>
             <event when-iso="1897-04-30">
+               <head>Konzert Deux mômes, 30.4.1897</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb182">Paris</placeName>
+                        <location>
+                           <geo>48,85341 2,3488</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/208934/</idno>
+            </event>
+            <event when-iso="1897-04-30">
                <head>Vendredi classique mit Dora Villé</head>
                <desc>
                   <listPerson>
@@ -131,25 +150,6 @@
                   </listPlace>
                </desc>
                <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/118484/</idno>
-            </event>
-            <event when-iso="1897-04-30">
-               <head>Konzert Deux mômes, 30.4.1897</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb182">Paris</placeName>
-                        <location>
-                           <geo>48,85341 2,3488</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/208934/</idno>
             </event>
          </listEvent>
       </body>

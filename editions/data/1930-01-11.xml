@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-11-07.">07.11.2024</date>
+            <date when-iso="2024-11-12.">12.11.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -156,6 +156,16 @@
                <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/216/</idno>
             </event>
             <event when-iso="1930-01-11">
+               <head>Lanzsch &amp; Co.</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/144055/</idno>
+            </event>
+            <event when-iso="1930-01-11">
+               <head>Gloria-Palast</head>
+               <desc/>
+               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/231363/</idno>
+            </event>
+            <event when-iso="1930-01-11">
                <head>Filmvorführung von Es tut sich was beim Film, 11.1.1930</head>
                <desc>
                   <listBibl>
@@ -171,9 +181,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb168">Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb231363">Gloria-Palast</placeName>
                         <location>
-                           <geo>52,52437 13,41053</geo>
+                           <geo>52,504572 13,333282</geo>
                         </location>
                      </place>
                   </listPlace>
