@@ -147,6 +147,45 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/231945/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/231945/",
+ "head":
+ "Porzellangasse 45"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/516/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/516/",
+ "head":
+ "Musikverein"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/7/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/7/",
+ "head":
+ "Secession"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -157,7 +196,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209280/",
  "head":
- "Violinkonzert Bronislaw Hubermann, 5.2.1903",
+ "Violinkonzert Bronisław Hubermann, 5.2.1903",
  "desc":
 {"listPerson":
   [
@@ -170,7 +209,20 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""},
+ {
+ "persName":
+ "Benjamin Gomperz",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":
