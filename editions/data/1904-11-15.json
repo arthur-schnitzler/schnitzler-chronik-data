@@ -173,19 +173,6 @@
  "color":
  "#045344",
  "filename":
- "entity/399/",
- "caption":
- "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/399/",
- "head":
- "Hotel Continental [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "filename":
  "entity/18/",
  "caption":
  "Aufenthaltsorte",
@@ -206,6 +193,78 @@
  "https://pmb.acdh.oeaw.ac.at/entity/232501/",
  "head":
  "Hotel und Restaurant »Prinz Wilhelm«"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/233758/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/233758/",
+ "head":
+ "Wedl"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/208/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/208/",
+ "head":
+ "Kleines Theater"
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/234602/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/234602/",
+ "head":
+ "Probe von Das Haus Delorme, 15.11.1904",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Kleines Theater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Das Haus Delorme. Eine Familienszene",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Kleines Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pmb",

@@ -160,6 +160,32 @@
  "Riedhof"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/40/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/40/",
+ "head":
+ "Theater in der Josefstadt"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/168940/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/168940/",
+ "head":
+ "Edmund-Weiß-Gasse 7"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -172,7 +198,15 @@
  "head":
  "Aufführung von Karrnerleut’, Angele, Der Dieb, 22.10.1904",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Theater in der Josefstadt",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
@@ -196,6 +230,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Theater in der Josefstadt",
+ "ref":
+ ""}
+ ]
 }
 }] 

@@ -121,6 +121,19 @@
  "Carl-Theater"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/199692/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/199692/",
+ "head":
+ "Schellinggasse 6"
+}, {
+ "type":
  "schnitzler-bahr",
  "color":
  "#639FF9",
@@ -170,6 +183,62 @@
  "Carl-Theater",
  "ref":
  "pmb118"}
+ ]
+}
+}, {
+ "type":
+ "pmb",
+ "color":
+ "#9B5F98",
+ "filename":
+ "entity/234719/",
+ "caption":
+ "PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/234719/",
+ "head":
+ "Probe von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Carl-Theater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die letzten Masken",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "Literatur",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "Der Puppenspieler. Studie in einem Aufzuge",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Carl-Theater",
+ "ref":
+ ""}
  ]
 }
 }, {

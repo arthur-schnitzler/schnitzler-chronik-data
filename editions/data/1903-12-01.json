@@ -58,6 +58,32 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/516/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/516/",
+ "head":
+ "Musikverein"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/232325/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/232325/",
+ "head":
+ "Nibelungengasse 8"
+}, {
+ "type":
  "schnitzler-bahr",
  "color":
  "#639FF9",
@@ -251,6 +277,19 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""},
+ {
+ "persName":
+ "Ferdinand Löwe",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }] 

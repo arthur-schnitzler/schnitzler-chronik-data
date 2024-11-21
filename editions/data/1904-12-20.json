@@ -161,6 +161,45 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/234753/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/234753/",
+ "head":
+ "Wilhelm Hohm. Zier- und Landschaftsgärtner"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/168940/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/168940/",
+ "head":
+ "Edmund-Weiß-Gasse 7"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/4/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/4/",
+ "head":
+ "Bösendorfer-Saal"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -171,7 +210,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209352/",
  "head":
- "Konzert, 20.12.1904",
+ "1. Kammermusikliederabend der Vereinigung schaffender Künstler, 20.12.1904",
  "desc":
 {"listPerson":
   [
@@ -179,7 +218,15 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bösendorfer-Saal",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

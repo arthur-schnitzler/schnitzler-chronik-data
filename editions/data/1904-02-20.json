@@ -105,6 +105,32 @@
  "Wien"
 }, {
  "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/40511/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/40511/",
+ "head":
+ "Sanatorium Fürth"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "filename":
+ "entity/240/",
+ "caption":
+ "Aufenthaltsorte",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/240/",
+ "head":
+ "Konzerthaus"
+}, {
+ "type":
  "pmb",
  "color":
  "#9B5F98",
@@ -115,7 +141,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209320/",
  "head":
- "Gesangskonzert, 20.2.1904",
+ "Volksliederabend von Lili Lehmann, 20.2.1904",
  "desc":
 {"listPerson":
   [
@@ -123,12 +149,27 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
+ ""},
+ {
+ "persName":
+ "Lilli Lehmann",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Gertrude von Hofmannsthal",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
  ""}],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Konzerthaus",
  "ref":
  ""}
  ]
