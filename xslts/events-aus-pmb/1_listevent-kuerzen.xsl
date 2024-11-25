@@ -122,7 +122,7 @@
     <xsl:template match="tei:idno[@subtype='pmb' and @type='URL']">
         <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">
-                <xsl:text>pmb</xsl:text>
+                <xsl:text>schnitzler-events</xsl:text>
             </xsl:attribute>
             <xsl:value-of select="."/>
         </xsl:element>
