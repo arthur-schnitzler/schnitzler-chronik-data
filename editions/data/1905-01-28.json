@@ -164,19 +164,23 @@
 }
 }, {
  "type":
- "pmb",
- "color":
- "#9B5F98",
+ "schnitzler-events",
  "filename":
- "entity/209359/",
- "caption":
- "PMB",
+ "entity/35164/",
  "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/209359/",
+ "https://pmb.acdh.oeaw.ac.at/entity/35164/",
  "head":
  "Premiere von Freiwild, 28.1.1905",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Volkstheater",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":
@@ -190,6 +194,19 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""},
+ {
+ "persName":
+ "Victor Kutschera",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Volkstheater",
+ "ref":
+ ""}
+ ]
 }
 }] 

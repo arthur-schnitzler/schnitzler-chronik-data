@@ -197,19 +197,23 @@
 }
 }, {
  "type":
- "pmb",
- "color":
- "#9B5F98",
+ "schnitzler-events",
  "filename":
  "entity/209358/",
- "caption":
- "PMB",
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209358/",
  "head":
  "Gesangskonzert Tamagno, 23.1.1905",
  "desc":
-{"listPerson":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Concert-Direktion Albert Gutmann",
+ "ref":
+ ""}
+ ],
+ "listPerson":
   [
 {
  "persName":
@@ -220,6 +224,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }] 
