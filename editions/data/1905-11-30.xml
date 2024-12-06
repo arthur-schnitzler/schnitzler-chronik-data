@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-02.">02.12.2024</date>
+            <date when-iso="2024-12-06.">06.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,7 +132,22 @@
             <event when-iso="1905-11-30">
                <head>Wien</head>
                <desc/>
-               <idno type="schnitzler-orte">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1905-11-30">
+               <head>Neustiftgasse 32</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1905-11-30">
+               <head>Edmund-Weiß-Gasse 7</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1905-11-30">
+               <head>Bösendorfer-Saal</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1905-11-30">
                <head>Klavierkonzert Moritz Rosenthal, 30.11.1905</head>
@@ -150,6 +165,12 @@
                         <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                         <location>
                            <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
                         </location>
                      </place>
                   </listPlace>

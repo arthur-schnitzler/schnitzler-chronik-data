@@ -73,12 +73,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
 }, {
@@ -86,12 +82,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/168815/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/168815/",
  "head":
  "Sternwartestraße 71"
 }, {
@@ -99,12 +91,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/235251/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/235251/",
  "head":
  "Hasenauerstraße 59"
 }, {
@@ -120,49 +108,6 @@
  "https://pollaczek.acdh.oeaw.ac.at/ckp643.html",
  "head":
  "Tagebuch von Clara Katharina Pollaczek, 24. Januar – 11. Februar 1929"
-}, {
- "type":
- "schnitzler-events",
- "color":
- "#9BC53D",
- "filename":
- "entity/235852/",
- "caption":
- "Ereignisse in der PMB",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/235852/",
- "head":
- "Private Lesung von Im Spiel der Sommerlüfte, 10.2.1929",
- "desc":
-{"listBibl":
-  [
- {
- "title":
- "Im Spiel der Sommerlüfte. In drei Aufzügen",
- "ref":
- ""}
- ],
- "listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- ""},
- {
- "persName":
- "Clara Katharina Pollaczek",
- "ref":
- ""}],
- "listPlace":
-  [
- {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- ""}
- ]
-}
 }, {
  "type":
  "schnitzler-events",
@@ -190,6 +135,11 @@
 {
  "persName":
  "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Clara Katharina Pollaczek",
  "ref":
  ""}],
  "listPlace":

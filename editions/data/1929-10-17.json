@@ -63,12 +63,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
 }, {
@@ -76,14 +72,62 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/43/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/43/",
  "head":
  "Café Imperial"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Sternwartestraße 71"
+}, {
+ "type":
+ "schnitzler-events",
+ "color":
+ "#9BC53D",
+ "filename":
+ "entity/237065/",
+ "caption":
+ "Ereignisse in der PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/237065/",
+ "head":
+ "Konzert von Vladimir Horowitz, 17.10.1929",
+ "desc":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Wiener Konzerthaus",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Vladimir Horowitz",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Konzerthaus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

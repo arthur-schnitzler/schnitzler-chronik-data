@@ -40,12 +40,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
 }, {
@@ -53,14 +49,28 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/44/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/44/",
  "head":
  "Riedhof"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Edmund-Weiß-Gasse 7"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Tiefer Graben 23"
 }, {
  "type":
  "schnitzler-events",
@@ -75,13 +85,29 @@
  "head":
  "Symphoniekonzert, 6.12.1905",
  "desc":
-{"listPerson":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Wiener Symphoniker",
+ "ref":
+ ""}
+ ],
+ "listPerson":
   [
 {
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Musikverein",
+ "ref":
+ ""}
+ ]
 }
 }, {
  "type":

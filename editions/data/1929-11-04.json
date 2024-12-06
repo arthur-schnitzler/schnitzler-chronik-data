@@ -58,12 +58,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
 }, {
@@ -71,14 +67,62 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/97/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/97/",
  "head":
  "Zum Weingartl"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Sternwartestraße 71"
+}, {
+ "type":
+ "schnitzler-events",
+ "color":
+ "#9BC53D",
+ "filename":
+ "entity/237110/",
+ "caption":
+ "Ereignisse in der PMB",
+ "idno":
+ "https://pmb.acdh.oeaw.ac.at/entity/237110/",
+ "head":
+ "Aufführung von Souper und Eins, zwei, drei, 4.11.1929",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Eins, zwei, drei",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "Souper",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Raimund-Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

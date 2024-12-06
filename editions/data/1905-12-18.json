@@ -76,12 +76,8 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
 }, {
@@ -89,14 +85,37 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/96/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/96/",
  "head":
  "Meissl &amp; Schadn"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Edmund-Weiß-Gasse 7"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Tiefer Graben 23"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Bösendorfer-Saal"
 }, {
  "type":
  "schnitzler-events",
@@ -109,13 +128,18 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209400/",
  "head":
- "Auftritt von Quartett Rosé, 18.12.1905",
+ "2. Konzert des Quartett Rosé, 18.12.1905",
  "desc":
 {"listOrg":
   [
  {
  "orgName":
  "Rosé-Quartett",
+ "ref":
+ ""}
+ ,  {
+ "orgName":
+ "Concert-Direktion Albert Gutmann",
  "ref":
  ""}
  ],
@@ -125,6 +149,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bösendorfer-Saal",
+ "ref":
+ ""}
+ ]
 }
 }] 

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-02.">02.12.2024</date>
+            <date when-iso="2024-12-06.">06.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,6 +99,21 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-18.html</idno>
             </event>
             <event when-iso="1929-09-18">
+               <head>Marienbad</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1929-09-18">
+               <head>Grand Hotel Marienbad</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1929-09-18">
+               <head>Café und Restaurant Winterling</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1929-09-18">
                <head>Tagebuch von Clara Katharina Pollaczek, 16.–21. September 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp731.html</idno>
@@ -117,7 +132,10 @@
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person role="hat als Teilnehmer:in">
-                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10860">Beer-Hofmann, Paula</persName>
                      </person>
                   </listPerson>
                   <listPlace>

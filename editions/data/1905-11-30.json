@@ -111,14 +111,37 @@
  "schnitzler-orte",
  "color":
  "#045344",
- "filename":
- "entity/50/",
  "caption":
  "Aufenthaltsorte",
- "idno":
- "https://pmb.acdh.oeaw.ac.at/entity/50/",
  "head":
  "Wien"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Neustiftgasse 32"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Edmund-Weiß-Gasse 7"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Bösendorfer-Saal"
 }, {
  "type":
  "schnitzler-events",
@@ -150,6 +173,11 @@
  {
  "placeName":
  "Wien",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bösendorfer-Saal",
  "ref":
  ""}
  ]
