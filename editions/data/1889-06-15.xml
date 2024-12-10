@@ -70,12 +70,18 @@
          <listEvent>
             <event when-iso="1889-06-15">
                <head corresp="#pmb50">Wien</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1889-06-15">
-               <head corresp="#pmb168768">Wohnung und Ordination Arthur Schnitzler Burgring 1</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168768">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>

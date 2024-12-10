@@ -39,7 +39,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,13 +78,4 @@
  "Aufenthaltsorte",
  "head":
  "Neulengbach"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Arthur Schnitzler Burgring 1"
 }] 
