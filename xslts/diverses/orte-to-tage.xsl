@@ -8,7 +8,7 @@
     <xsl:param name="threshold" select="xs:date('1931-10-21')"/>
     <!-- kein Datum nach Schnitzlers Tod -->
     
-    <xsl:param name="wiener-schnitzler" select="document('../../../../git/wienerschnitzler-data/editions/xml/wienerschnitzler_complete.xml')"></xsl:param>
+    <xsl:param name="wiener-schnitzler" select="document('../../../../git/wienerschnitzler-data/editions/xml/wienerschnitzler_complete_nested.xml')"></xsl:param>
     
     
     <xsl:template match="tei:listEvent">
@@ -25,9 +25,14 @@
                 <xsl:value-of select="ancestor::tei:event/@when"/>
             </xsl:attribute>
             <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+                <xsl:attribute name="corresp">
+                    <xsl:value-of select="@corresp"/>
+                </xsl:attribute>
                 <xsl:value-of select="child::tei:placeName[1]"/>
             </xsl:element>
-            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0"/>
+            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                <xsl:copy-of select="tei:listPlace"/>
+            </xsl:element>
             <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="type">
                     <xsl:text>schnitzler-orte</xsl:text>
@@ -37,6 +42,9 @@
             
         </xsl:element>
     </xsl:template>
+    
+        
+        
     
     <xsl:template match="tei:TEI">
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
