@@ -66,23 +66,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Altaussee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Annerl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Seewirt"
+ "Altaussee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Annerl",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Seewirt",
+ "ref":
+ ""}
+ ]
+}
 }] 

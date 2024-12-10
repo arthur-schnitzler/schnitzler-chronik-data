@@ -48,7 +48,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -58,15 +68,6 @@
  "Aufenthaltsorte",
  "head":
  "Zum goldenen Stern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock"
 }, {
  "type":
  "schnitzler-cmif",

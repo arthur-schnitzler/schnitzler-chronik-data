@@ -211,7 +211,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stockholm"
+ "Stockholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Stockholm",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Operakällaren",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -220,41 +235,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Uppsala"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Operakällaren"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Carolina Rediviva"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Dom St. Erik"
+ "Uppsala",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Carolina Rediviva",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Dom St. Erik",
+ "ref":
+ ""}
+ ]
+}
 }] 

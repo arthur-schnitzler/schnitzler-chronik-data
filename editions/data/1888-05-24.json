@@ -28,25 +28,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Honor Oak"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "St Thomas’ Hospital"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "St Thomas’ Hospital",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

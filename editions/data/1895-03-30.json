@@ -94,34 +94,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Sacher"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Prater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "II., Leopoldstadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

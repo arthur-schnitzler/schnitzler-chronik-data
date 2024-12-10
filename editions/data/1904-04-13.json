@@ -144,7 +144,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "VIII., Josefstadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -154,24 +169,6 @@
  "Aufenthaltsorte",
  "head":
  "Atelier und Kunstanstalt J. Loewy"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Florianigasse 58"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Edmund-Weiß-Gasse 7"
 }, {
  "type":
  "schnitzler-cmif",

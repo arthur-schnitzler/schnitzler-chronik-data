@@ -56,34 +56,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Doria-Pamphilj"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Calixtus-Katakombe"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Porta pinciana 41"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palazzo Doria-Pamphilj",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Calixtus-Katakombe",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Porta pinciana 41",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

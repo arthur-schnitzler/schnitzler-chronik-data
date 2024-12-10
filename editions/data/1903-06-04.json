@@ -36,43 +36,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mailand"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pinacoteca di Brera"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mailänder Dom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cimitero Monumentale"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gambrinus Halle"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pinacoteca di Brera",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mailänder Dom",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cimitero Monumentale",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gambrinus Halle",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

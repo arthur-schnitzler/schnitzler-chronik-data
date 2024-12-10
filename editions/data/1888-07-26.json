@@ -33,23 +33,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Cromwell Place"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hampton Court Palace"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hampton Court Palace",
+ "ref":
+ ""}
+ ]
+}
 }] 

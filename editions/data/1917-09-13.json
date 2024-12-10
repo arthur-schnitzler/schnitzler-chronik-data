@@ -65,7 +65,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -75,15 +85,6 @@
  "Aufenthaltsorte",
  "head":
  "Café Victoria Luise"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
 }, {
  "type":
  "kalliope-verbund",

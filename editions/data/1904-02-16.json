@@ -76,43 +76,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Savoy [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Hiller"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Prinz-Friedrich-Carl"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Hiller",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Prinz-Friedrich-Carl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

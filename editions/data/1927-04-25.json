@@ -169,16 +169,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Piazza San Marco"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Piazza San Marco",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

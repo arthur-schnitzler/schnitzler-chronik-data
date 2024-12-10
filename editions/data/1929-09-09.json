@@ -36,25 +36,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Territet"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hôtel des Alpes-Grand Hôtel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Quai Ami Chessex"
+ "Territet",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel des Alpes-Grand Hôtel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Quai Ami Chessex",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

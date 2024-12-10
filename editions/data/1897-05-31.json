@@ -58,23 +58,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "40, Landsdowne Crescent"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Army &amp; Navy Stores"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "40, Landsdowne Crescent",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Army &amp; Navy Stores",
+ "ref":
+ ""}
+ ]
+}
 }] 

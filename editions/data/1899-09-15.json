@@ -111,43 +111,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Rheinischer Hof München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Münchner Schauspielhaus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alte Pinakothek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neue Pinakothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Rheinischer Hof München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Münchner Schauspielhaus",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alte Pinakothek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Neue Pinakothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

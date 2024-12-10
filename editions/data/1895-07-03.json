@@ -74,7 +74,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -83,52 +93,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neues Deutsches Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [Prag]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alter Jüdischer Friedhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Piskaček"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Neues Deutsches Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Continental [Prag]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alter Jüdischer Friedhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Piskaček",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

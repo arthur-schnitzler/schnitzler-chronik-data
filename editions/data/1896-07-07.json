@@ -104,16 +104,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel zum Kronprinzen [Hamburg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel zum Kronprinzen [Hamburg]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -131,7 +132,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hamburg"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel zum Kronprinzen [Hamburg]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

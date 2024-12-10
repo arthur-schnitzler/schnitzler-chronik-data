@@ -66,43 +66,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Britannia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lido"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Friedhof San Michele"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Cavalletto"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Britannia",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lido",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Friedhof San Michele",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Cavalletto",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

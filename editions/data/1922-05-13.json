@@ -199,16 +199,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lutter &amp; Wegner"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Lutter &amp; Wegner",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-interviews",

@@ -94,7 +94,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XIX., Döbling",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -103,16 +118,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Klosterneuburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "XIX., Döbling"
+ "Klosterneuburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Weidlingbach",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -130,25 +146,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Weidlingbach"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Steinriegl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
 }, {
  "type":
  "pollaczek",

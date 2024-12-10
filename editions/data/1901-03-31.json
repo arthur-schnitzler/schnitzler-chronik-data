@@ -41,43 +41,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Porta pinciana 41"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kapitol [Rom]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Forum Romanum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palatin"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Porta pinciana 41",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kapitol [Rom]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Forum Romanum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palatin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

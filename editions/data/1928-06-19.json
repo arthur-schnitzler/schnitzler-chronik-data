@@ -119,7 +119,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Konditorei Zauner",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -128,52 +143,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Kaiserin Elisabeth"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sankt Wolfgang im Salzkammergut"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Marktplatz [Sankt Wolfgang]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pfarrkirche St. Wolfgang"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel St. Wolfgang"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Konditorei Zauner"
+ "Sankt Wolfgang im Salzkammergut",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Marktplatz [Sankt Wolfgang]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pfarrkirche St. Wolfgang",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hotel St. Wolfgang",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

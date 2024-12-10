@@ -74,16 +74,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Territet"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hôtel des Alpes-Grand Hôtel"
+ "Territet",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel des Alpes-Grand Hôtel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -101,16 +102,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Montreux"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurhaus Montreux"
+ "Montreux",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhaus Montreux",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

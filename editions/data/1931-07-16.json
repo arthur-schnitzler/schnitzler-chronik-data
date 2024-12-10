@@ -69,7 +69,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -78,25 +88,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Südbahnhotel [Semmering]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

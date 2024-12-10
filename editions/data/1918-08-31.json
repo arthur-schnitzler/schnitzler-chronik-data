@@ -64,7 +64,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Garmisch-Partenkirchen"
+ "Garmisch-Partenkirchen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kellerleitenweg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kramerplateauweg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -83,22 +98,4 @@
  "Aufenthaltsorte",
  "head":
  "Kramerweg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kellerleitenweg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kramerplateauweg"
 }] 

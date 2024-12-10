@@ -114,23 +114,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Taormina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "San Domenico Hotel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Antikes Theater Taormina"
+ "Taormina",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "San Domenico Hotel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Antikes Theater Taormina",
+ "ref":
+ ""}
+ ]
+}
 }] 

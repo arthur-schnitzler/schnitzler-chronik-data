@@ -164,16 +164,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Roma"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Roma",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ristorante Umberto",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pantheon",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -183,22 +194,4 @@
  "Aufenthaltsorte",
  "head":
  "Vatikan"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ristorante Umberto"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pantheon"
 }] 

@@ -51,34 +51,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palasthotel Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Theater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wiener Beisl"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palasthotel Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Wiener Beisl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

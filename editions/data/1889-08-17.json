@@ -55,7 +55,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Reichenau an der Rax"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Thalhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,13 +75,4 @@
  "Aufenthaltsorte",
  "head":
  "Neuberg an der Mürz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Thalhof"
 }] 

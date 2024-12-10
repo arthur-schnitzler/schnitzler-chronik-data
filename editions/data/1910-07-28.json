@@ -54,16 +54,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Südbahnhotel [Semmering]"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -99,7 +100,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Aspang-Markt"
+ "Aspang-Markt",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Goldener Hirsch",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -109,13 +120,4 @@
  "Aufenthaltsorte",
  "head":
  "Mönichkirchen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Goldener Hirsch"
 }] 

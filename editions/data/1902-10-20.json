@@ -51,16 +51,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Jagniątków"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Haus Wiesenstein"
+ "Jagniątków",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Haus Wiesenstein",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -78,14 +79,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Weinrestaurant Christian Hansen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Breslau"
+ "Breslau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Weinrestaurant Christian Hansen",
+ "ref":
+ ""}
+ ]
+}
 }] 

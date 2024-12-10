@@ -41,23 +41,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Festung Hohensalzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurhaus Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Festung Hohensalzburg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kurhaus Salzburg",
+ "ref":
+ ""}
+ ]
+}
 }] 

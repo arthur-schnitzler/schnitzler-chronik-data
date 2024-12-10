@@ -66,34 +66,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Théâtre de l’Œuvre"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café de la Nouvelle Athènes"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Théâtre de l’Œuvre",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café de la Nouvelle Athènes",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

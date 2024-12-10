@@ -36,7 +36,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Central-Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Blumensäle [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Thalia-Theater Berlin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -46,33 +66,6 @@
  "Aufenthaltsorte",
  "head":
  "Dorotheenstraße 60"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Central-Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Blumensäle [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Thalia-Theater Berlin"
 }, {
  "type":
  "schnitzler-events",

@@ -29,43 +29,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Engelsburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Terme di Diocleziano"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Barberini"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Galleria Borghese"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Engelsburg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Terme di Diocleziano",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo Barberini",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Galleria Borghese",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

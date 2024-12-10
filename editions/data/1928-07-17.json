@@ -84,7 +84,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -93,25 +103,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kritzendorf"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Strombad Kritzendorf"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Kritzendorf",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Strombad Kritzendorf",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

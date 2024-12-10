@@ -109,43 +109,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Esplanade [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bank für Auswärtigen Handel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Theater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Zum schwarzen Ferkel"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Esplanade [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bank für Auswärtigen Handel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Zum schwarzen Ferkel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

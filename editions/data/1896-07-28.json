@@ -104,43 +104,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Nationalmuseum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Riddarholmskyrkan"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Operakällaren"
+ "Stockholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Stockholm",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Nationalmuseum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Riddarholmskyrkan",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Operakällaren",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

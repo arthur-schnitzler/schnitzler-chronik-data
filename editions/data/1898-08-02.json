@@ -96,23 +96,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Tegernsee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Post"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bräustüberl Tegernsee"
+ "Tegernsee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Post",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bräustüberl Tegernsee",
+ "ref":
+ ""}
+ ]
+}
 }] 

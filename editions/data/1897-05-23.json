@@ -169,16 +169,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café de la Nouvelle Athènes",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -188,15 +194,6 @@
  "Aufenthaltsorte",
  "head":
  "Ville-d'Avray"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café de la Nouvelle Athènes"
 }, {
  "type":
  "schnitzler-orte",

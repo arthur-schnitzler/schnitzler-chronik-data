@@ -36,34 +36,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternbräu"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kasererbräu"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Sternbräu",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kasererbräu",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

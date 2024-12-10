@@ -144,25 +144,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Münchner Schauspielhaus"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Münchner Schauspielhaus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

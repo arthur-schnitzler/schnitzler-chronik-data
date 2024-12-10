@@ -19,23 +19,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Festung Hohensalzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Festung Hohensalzburg",
+ "ref":
+ ""}
+ ]
+}
 }] 

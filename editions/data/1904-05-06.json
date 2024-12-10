@@ -81,16 +81,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Roma"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Roma",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Via Appia nuova",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -100,13 +106,4 @@
  "Aufenthaltsorte",
  "head":
  "Palazzo Sforza-Cesarini"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Via Appia nuova"
 }] 

@@ -218,7 +218,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wiesbaden"
+ "Wiesbaden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel du Parc &amp; Bristol",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -227,23 +237,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel du Parc &amp; Bristol"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Savoy [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ ""}
+ ]
+}
 }] 

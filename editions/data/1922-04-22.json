@@ -59,16 +59,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alte Pinakothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Alte Pinakothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

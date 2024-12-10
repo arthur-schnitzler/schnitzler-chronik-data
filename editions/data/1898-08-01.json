@@ -34,7 +34,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Englischer Garten [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Münchener Secession",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -43,34 +58,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Tegernsee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Post"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Englischer Garten [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Münchener Secession"
+ "Tegernsee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Post",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

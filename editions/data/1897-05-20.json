@@ -324,25 +324,42 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Musée du Louvre"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Musée du Louvre",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "parc des Buttes-Chaumont",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Sacré-Cœur",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café de la Nouvelle Athènes",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Quartier Latin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -352,42 +369,6 @@
  "Aufenthaltsorte",
  "head":
  "Friedhof von Montmartre"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "parc des Buttes-Chaumont"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sacré-Cœur"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café de la Nouvelle Athènes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Quartier Latin"
 }, {
  "type":
  "schnitzler-bahr",

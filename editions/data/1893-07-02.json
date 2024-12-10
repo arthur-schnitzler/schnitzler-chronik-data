@@ -121,25 +121,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lindau [Bad Ischl]"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lindau [Bad Ischl]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Schulgasse",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Stern",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -149,22 +156,4 @@
  "Aufenthaltsorte",
  "head":
  "Alte Bundesstraße"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schulgasse"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Stern"
 }] 

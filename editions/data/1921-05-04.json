@@ -134,25 +134,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Parkhotel München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Englischer Hof [München]"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Parkhotel München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Englischer Hof [München]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

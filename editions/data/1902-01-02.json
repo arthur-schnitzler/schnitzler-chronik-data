@@ -157,34 +157,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Bristol Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Theater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Eremitage"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Bristol Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Eremitage",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

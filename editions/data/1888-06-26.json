@@ -19,43 +19,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cromwell Place"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weston’s Music Hall"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "The Crystal Palace"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Holborn Theatre Royal"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Weston’s Music Hall",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "The Crystal Palace",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Holborn Theatre Royal",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

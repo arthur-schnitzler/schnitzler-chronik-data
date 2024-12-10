@@ -142,41 +142,30 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tuileriengarten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "avenue des Champs-Élysées"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cimetière du Père-Lachaise"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Tuileriengarten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "avenue des Champs-Élysées",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cimetière du Père-Lachaise",
+ "ref":
+ ""}
+ ]
+}
 }] 

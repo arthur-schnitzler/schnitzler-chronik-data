@@ -81,16 +81,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [Berlin]"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Weinstube Kempinski",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Weinstube Eggebrecht",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -100,24 +111,6 @@
  "Aufenthaltsorte",
  "head":
  "Café Luitpold"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weinstube Kempinski"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weinstube Eggebrecht"
 }, {
  "type":
  "schnitzler-bahr",

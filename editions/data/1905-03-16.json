@@ -54,7 +54,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Split"
+ "Split",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Diokletianspalast",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -64,13 +74,4 @@
  "Aufenthaltsorte",
  "head":
  "Solin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Diokletianspalast"
 }] 

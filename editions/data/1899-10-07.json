@@ -56,16 +56,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Savoy [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Luisenplatz 2",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -104,7 +110,7 @@
   [
  {
  "placeName":
- "Berlin",
+ "Luisenplatz 2",
  "ref":
  ""}
  ]

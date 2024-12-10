@@ -69,7 +69,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -88,15 +98,6 @@
  "Aufenthaltsorte",
  "head":
  "Sassnitz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserhof"
 }, {
  "type":
  "schnitzler-interviews",

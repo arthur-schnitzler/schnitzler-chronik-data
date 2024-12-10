@@ -76,34 +76,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel de l’Europe"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Piazza San Marco"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Giardini Napoleonici"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel de l’Europe",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Piazza San Marco",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Giardini Napoleonici",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

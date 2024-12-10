@@ -109,34 +109,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weinhandlung Ewest"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Berlin Anhalter Bahnhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Esplanade [Berlin]"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Weinhandlung Ewest",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Berlin Anhalter Bahnhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Esplanade [Berlin]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

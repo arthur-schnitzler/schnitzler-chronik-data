@@ -28,25 +28,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "British Museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "St James’s Hall"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "British Museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "St James’s Hall",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

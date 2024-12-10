@@ -64,7 +64,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Münchener Secession",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -73,25 +88,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Continental [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Münchener Secession"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Münchener Secession",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

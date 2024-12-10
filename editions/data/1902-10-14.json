@@ -124,61 +124,42 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Bristol Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Theater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pergamon Museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hohenzollern­museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Eremitage"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palasthotel Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Bristol Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pergamon Museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hohenzollern­museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Eremitage",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palasthotel Berlin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

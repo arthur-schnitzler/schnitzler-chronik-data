@@ -41,25 +41,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Opéra Comique"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Opéra Comique",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

@@ -100,16 +100,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Edmund-Weiß-Gasse 7"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XIII., Hietzing",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",
@@ -210,7 +221,7 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209422/",
  "head":
- "Gesangskonzert Julia Culp, 19.3.1906",
+ "Schubert-Loewe-Abend von Julia Culp, 19.3.1906",
  "desc":
 {"listPerson":
   [
@@ -223,6 +234,14 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- ""}]
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bösendorfer-Saal",
+ "ref":
+ ""}
+ ]
 }
 }] 

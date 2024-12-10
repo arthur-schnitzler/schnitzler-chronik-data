@@ -46,43 +46,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bayerische Staatsoper"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Luitpold"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neue Pinakothek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Glyptothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bayerische Staatsoper",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Luitpold",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Neue Pinakothek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Glyptothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

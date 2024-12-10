@@ -34,41 +34,30 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Centrale Vapore"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Ducale"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lido"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Bauer-Grünwald"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Centrale Vapore",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo Ducale",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lido",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hotel Bauer-Grünwald",
+ "ref":
+ ""}
+ ]
+}
 }] 

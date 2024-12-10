@@ -36,50 +36,35 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Englischer Garten [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alte Pinakothek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Glyptothek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neue Pinakothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Marienbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Englischer Garten [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alte Pinakothek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Glyptothek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Neue Pinakothek",
+ "ref":
+ ""}
+ ]
+}
 }] 

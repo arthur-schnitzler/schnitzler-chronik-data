@@ -51,34 +51,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "British Museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Trocadero Restaurant"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Empire Theatre"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "British Museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Trocadero Restaurant",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Empire Theatre",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

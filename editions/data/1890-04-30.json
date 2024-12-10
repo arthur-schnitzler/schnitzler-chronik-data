@@ -36,7 +36,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IV., Wieden",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -45,23 +60,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Restauration zum Hechten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Waaggasse"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kärntnerring 12/Bösendorferstraße 11 Kärntnerring 12/Bösendorferstraße 11"
+ "Waaggasse",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restauration zum Hechten",
+ "ref":
+ ""}
+ ]
+}
 }] 

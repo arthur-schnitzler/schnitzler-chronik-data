@@ -56,7 +56,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -66,15 +76,6 @@
  "Aufenthaltsorte",
  "head":
  "Würnitz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pfarrkirche Allerheiligste Dreifaltigkeit"
 }, {
  "type":
  "schnitzler-orte",
@@ -101,14 +102,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Karnabrunn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Karnabrunn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pfarrkirche Allerheiligste Dreifaltigkeit",
+ "ref":
+ ""}
+ ]
+}
 }] 

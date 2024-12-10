@@ -237,23 +237,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palasthotel Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Josty"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palasthotel Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Josty",
+ "ref":
+ ""}
+ ]
+}
 }] 

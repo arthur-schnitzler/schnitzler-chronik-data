@@ -46,23 +46,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Atlantic"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Blankenese"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Atlantic",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Blankenese",
+ "ref":
+ ""}
+ ]
+}
 }] 

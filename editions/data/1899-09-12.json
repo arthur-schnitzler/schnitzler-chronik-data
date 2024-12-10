@@ -180,7 +180,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -189,34 +199,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Rheinischer Hof München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Staatstheater am Gärtnerplatz"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Rheinischer Hof München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Staatstheater am Gärtnerplatz",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

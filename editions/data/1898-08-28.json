@@ -64,7 +64,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Luzern"
+ "Luzern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel St. Gotthard Luzern",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -73,41 +83,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel St. Gotthard Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mailand"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sant’Ambrogio"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Castello Sforzesco"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Giardini pubblici Indro Montanelli"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Sant’Ambrogio",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Castello Sforzesco",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Giardini pubblici Indro Montanelli",
+ "ref":
+ ""}
+ ]
+}
 }] 

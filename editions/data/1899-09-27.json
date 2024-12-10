@@ -120,7 +120,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wiesbaden"
+ "Wiesbaden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel du Parc &amp; Bristol",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Walhalla-Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -129,16 +144,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel du Parc &amp; Bristol"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mainz"
+ "Mainz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Mainzer Dom",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -148,22 +164,4 @@
  "Aufenthaltsorte",
  "head":
  "Biebrich"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Walhalla-Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mainzer Dom"
 }] 

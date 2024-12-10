@@ -56,23 +56,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserkrone"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kaiser Jubiläumsweg"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserkrone",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kaiser Jubiläumsweg",
+ "ref":
+ ""}
+ ]
+}
 }] 

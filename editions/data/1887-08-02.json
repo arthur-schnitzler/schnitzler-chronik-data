@@ -6,7 +6,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stadttheater [Bad Ischl]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -34,15 +44,6 @@
  "Aufenthaltsorte",
  "head":
  "Traunkirchen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stadttheater [Bad Ischl]"
 }, {
  "type":
  "schnitzler-events",

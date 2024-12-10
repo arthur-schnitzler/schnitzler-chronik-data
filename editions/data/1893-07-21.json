@@ -277,7 +277,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -286,23 +296,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Klosterneuburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weidlingbach"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock"
+ "Klosterneuburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Weidlingbach",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -129,7 +129,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schiller-Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Frolies Bar",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -139,15 +154,6 @@
  "Aufenthaltsorte",
  "head":
  "Haendelstraße"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schiller-Theater"
 }, {
  "type":
  "schnitzler-orte",
@@ -166,15 +172,6 @@
  "Aufenthaltsorte",
  "head":
  "Herbert-von-Karajan-Straße 15"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frolies Bar"
 }, {
  "type":
  "schnitzler-events",

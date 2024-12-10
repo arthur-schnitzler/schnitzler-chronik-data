@@ -156,43 +156,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel St. Gotthard Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gletschergarten Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Löwendenkmal Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hôtel Stadthof"
+ "Luzern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel St. Gotthard Luzern",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gletschergarten Luzern",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Löwendenkmal Luzern",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hôtel Stadthof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

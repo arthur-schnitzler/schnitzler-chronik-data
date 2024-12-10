@@ -69,7 +69,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vier Jahreszeiten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -79,15 +89,6 @@
  "Aufenthaltsorte",
  "head":
  "Schloss Neuschwanstein"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vier Jahreszeiten"
 }, {
  "type":
  "schnitzler-cmif",

@@ -56,34 +56,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hippodrom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ambassadeur"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Americain"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hippodrom",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ambassadeur",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Americain",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

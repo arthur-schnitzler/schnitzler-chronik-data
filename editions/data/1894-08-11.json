@@ -71,34 +71,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel zum goldenen Kreuz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ramsauer Garni Café"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel zum goldenen Kreuz",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ramsauer Garni Café",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

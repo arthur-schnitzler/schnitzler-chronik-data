@@ -104,32 +104,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Tomaselli"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Salzburg Museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hellbrunn"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Café Tomaselli",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Salzburg Museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hellbrunn",
+ "ref":
+ ""}
+ ]
+}
 }] 

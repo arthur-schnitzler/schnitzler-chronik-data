@@ -51,52 +51,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Dresden"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Großer Garten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gemäldegalerie Alte Meister"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Brühlsche Terrasse"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Semperoper"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Italienisches Dörfchen"
+ "Dresden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Großer Garten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gemäldegalerie Alte Meister",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Brühlsche Terrasse",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Semperoper",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Italienisches Dörfchen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

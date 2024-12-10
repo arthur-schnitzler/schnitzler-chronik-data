@@ -29,23 +29,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Innsbruck"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schloss Weiherburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofgarten [Innsbruck]"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schloss Weiherburg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hofgarten [Innsbruck]",
+ "ref":
+ ""}
+ ]
+}
 }] 

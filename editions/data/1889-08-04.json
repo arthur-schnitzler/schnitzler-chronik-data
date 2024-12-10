@@ -120,7 +120,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Kaiserin Elisabeth"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -129,34 +139,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Predigtstuhl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hütteneckalm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bad Goisern"
+ "Bad Goisern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Predigtstuhl",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hütteneckalm",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

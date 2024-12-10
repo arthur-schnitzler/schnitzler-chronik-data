@@ -99,34 +99,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mirabell"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Bazar"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mirabell",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Bazar",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

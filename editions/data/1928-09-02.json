@@ -129,24 +129,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Rheinischer Hof München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mauerkircherstraße"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Kaufingerstraße"
 }, {
  "type":
@@ -165,52 +147,47 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Pschorrbräu"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bayerisches Nationalmuseum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kriegerdenkmal im Hofgarten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vier Jahreszeiten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Bürgerbräu"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Rheinischer Hof München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mauerkircherstraße",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pschorrbräu",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bayerisches Nationalmuseum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kriegerdenkmal im Hofgarten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Vier Jahreszeiten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Bürgerbräu",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

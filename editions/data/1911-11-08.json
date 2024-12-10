@@ -155,25 +155,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Atlantic"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Schauspielhaus in Hamburg"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Atlantic",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Schauspielhaus in Hamburg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

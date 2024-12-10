@@ -49,23 +49,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Südbahnhotel [Semmering]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Meiereiweg"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Meiereiweg",
+ "ref":
+ ""}
+ ]
+}
 }] 

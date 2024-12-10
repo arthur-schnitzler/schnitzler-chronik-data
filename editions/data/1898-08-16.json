@@ -60,25 +60,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Genf"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hôtel de la Paix [Genf]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Eaux-Vives"
+ "Genf",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel de la Paix [Genf]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Eaux-Vives",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-chronik-manuell",

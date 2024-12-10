@@ -109,34 +109,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stift St Peter"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mirabell"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stift St Peter",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mirabell",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

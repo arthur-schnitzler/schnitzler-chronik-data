@@ -79,7 +79,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Gastein"
+ "Bad Gastein",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Dr. Wassing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -89,15 +99,6 @@
  "Aufenthaltsorte",
  "head":
  "Bruck an der Mur"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Dr. Wassing"
 }, {
  "type":
  "kalliope-verbund",

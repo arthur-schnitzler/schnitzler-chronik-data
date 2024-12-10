@@ -236,23 +236,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Welsberg-Taisten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wildbad Waldbrunn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Taisten"
+ "Welsberg-Taisten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Taisten",
+ "ref":
+ ""}
+ ]
+}
 }] 

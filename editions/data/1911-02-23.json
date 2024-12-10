@@ -134,16 +134,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Blüthner-Saal"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Klindworth-Scharwenka-Saal",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Tiergarten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -153,24 +159,6 @@
  "Aufenthaltsorte",
  "head":
  "Großer Tiergarten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Klindworth-Scharwenka-Saal"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tiergarten"
 }, {
  "type":
  "schnitzler-events",

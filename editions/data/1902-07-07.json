@@ -42,7 +42,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Welsberg-Taisten"
+ "Welsberg-Taisten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -51,23 +61,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wildbad Waldbrunn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lienz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schloss Bruck"
+ "Lienz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schloss Bruck",
+ "ref":
+ ""}
+ ]
+}
 }] 

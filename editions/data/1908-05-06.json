@@ -101,34 +101,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Residenztheater München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schack-Galerie München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Glyptothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Residenztheater München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Schack-Galerie München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Glyptothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

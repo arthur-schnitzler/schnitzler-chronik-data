@@ -99,16 +99,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Rekawinkel"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -135,7 +136,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "St. Pölten"
+ "St. Pölten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Rekawinkel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -145,13 +156,4 @@
  "Aufenthaltsorte",
  "head":
  "Altenmarkt an der Triesting"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
 }] 

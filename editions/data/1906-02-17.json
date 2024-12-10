@@ -54,7 +54,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Dresden"
+ "Dresden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Bellevue [Dresden]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grünes Gewölbe",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Semperoper",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -73,7 +93,7 @@
   [
  {
  "title":
- "Salome op. 54",
+ "Salome (op. 54)",
  "ref":
  ""}
  ],
@@ -88,7 +108,7 @@
   [
  {
  "placeName":
- "Dresden",
+ "Semperoper",
  "ref":
  ""}
  ]

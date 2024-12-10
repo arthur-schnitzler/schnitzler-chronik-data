@@ -46,16 +46,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pantheon"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pantheon",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Via Appia",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,15 +71,6 @@
  "Aufenthaltsorte",
  "head":
  "Vatikanische Museen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Via Appia"
 }, {
  "type":
  "schnitzler-cmif",

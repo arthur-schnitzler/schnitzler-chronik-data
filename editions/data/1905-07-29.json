@@ -94,7 +94,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Reichenau an der Rax"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -103,16 +113,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kurhaus Rudolfsbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -131,13 +142,4 @@
  "Aufenthaltsorte",
  "head":
  "Holzers Restaurant"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Edmund-Weiß-Gasse 7"
 }] 

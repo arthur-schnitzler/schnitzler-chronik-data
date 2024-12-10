@@ -69,25 +69,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Regensburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Altes Rathaus [Regensburg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Karmeliten"
+ "Regensburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Altes Rathaus [Regensburg]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Karmeliten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

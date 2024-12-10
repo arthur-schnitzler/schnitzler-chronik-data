@@ -36,16 +36,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cromwell Place"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

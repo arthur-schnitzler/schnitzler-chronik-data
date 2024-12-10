@@ -91,34 +91,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Messina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cimitero monumentale di Messina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Duomo di Messina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Massa San Giorgio"
+ "Messina",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cimitero monumentale di Messina",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Duomo di Messina",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Massa San Giorgio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

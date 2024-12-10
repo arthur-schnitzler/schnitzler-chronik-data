@@ -6,7 +6,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -15,23 +25,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Thalhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Reichenau an der Rax"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Johann Schnitzler Burgring 1"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Thalhof",
+ "ref":
+ ""}
+ ]
+}
 }] 

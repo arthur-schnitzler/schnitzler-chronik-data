@@ -46,7 +46,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Aussee"
+ "Bad Aussee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthaus Post",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,25 +65,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Gasthaus Post"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

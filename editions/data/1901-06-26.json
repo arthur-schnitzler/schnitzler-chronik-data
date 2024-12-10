@@ -140,25 +140,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Innsbruck"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofkirche"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthaus zum Bierwastl"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hofkirche",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gasthaus zum Bierwastl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

@@ -76,25 +76,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel zum Kronprinzen [Hamburg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Pfordte"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel zum Kronprinzen [Hamburg]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Pfordte",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Altona",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -104,15 +106,6 @@
  "Aufenthaltsorte",
  "head":
  "Alster"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Altona"
 }, {
  "type":
  "schnitzler-orte",

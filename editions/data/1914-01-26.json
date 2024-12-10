@@ -93,7 +93,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Marienbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -102,16 +112,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Marienbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

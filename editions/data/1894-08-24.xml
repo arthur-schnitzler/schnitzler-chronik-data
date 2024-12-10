@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,28 +100,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-08-24.html</idno>
             </event>
             <event when-iso="1894-08-24">
-               <head>Bad Ischl</head>
-               <desc/>
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb414">
+                        <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place corresp="#pmb40324">
+                        <placeName>Hotel Bauer</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1894-08-24">
-               <head>Hotel und Pension Rudolfshöhe (Leopold Petter)</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1894-08-24">
-               <head>Hotel Bauer</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1894-08-24">
-               <head>Friedhof Hallstatt</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1894-08-24">
-               <head>Hallstatt</head>
-               <desc/>
+               <head corresp="#pmb39671">Hallstatt</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb195120">
+                        <placeName>Friedhof Hallstatt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>

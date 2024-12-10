@@ -41,52 +41,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Musée du Louvre"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Odéon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "18. arrondissement [Buttes-Montmartre]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Beaux-Arts de Paris"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Musée du Louvre",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Odéon",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "18. arrondissement [Buttes-Montmartre]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Beaux-Arts de Paris",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

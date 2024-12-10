@@ -206,16 +206,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Brennerbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Brenner"
+ "Brenner",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Brennerbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

@@ -36,25 +36,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alte Pinakothek"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alte Pinakothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

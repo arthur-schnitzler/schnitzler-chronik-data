@@ -84,7 +84,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XV., Rudolfsheim-Fünfhaus",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XIII., Hietzing",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -93,34 +113,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Schlosspark Schönbrunn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Westbahnhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Römische Ruine [Schlosspark Schönbrunn]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Schlosspark Schönbrunn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Römische Ruine [Schlosspark Schönbrunn]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

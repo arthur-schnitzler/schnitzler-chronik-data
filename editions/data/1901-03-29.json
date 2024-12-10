@@ -46,16 +46,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Genua"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Righi [Genua]"
+ "Genua",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Righi [Genua]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo Rosso",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hafen von Genua",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cimitero monumentale di Staglieno",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,33 +81,6 @@
  "Aufenthaltsorte",
  "head":
  "Palazzo Bianco"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Rosso"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hafen von Genua"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cimitero monumentale di Staglieno"
 }, {
  "type":
  "schnitzler-cmif",

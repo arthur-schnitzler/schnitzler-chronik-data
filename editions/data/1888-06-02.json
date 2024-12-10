@@ -28,43 +28,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cromwell Place"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hunterian Museum"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Royal Aquarium"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Italian Exhibition 1888"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hunterian Museum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Royal Aquarium",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Italian Exhibition 1888",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

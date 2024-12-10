@@ -81,43 +81,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cromwell Place"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Honor Oak"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "National Gallery"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Victoria and Albert Museum"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "National Gallery",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Victoria and Albert Museum",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

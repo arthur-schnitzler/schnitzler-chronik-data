@@ -91,7 +91,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -100,7 +110,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Seebenstein"
+ "Seebenstein",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Burg Seebenstein",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -110,22 +130,4 @@
  "Aufenthaltsorte",
  "head":
  "Wiener Neustadt"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Burg Seebenstein"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
 }] 

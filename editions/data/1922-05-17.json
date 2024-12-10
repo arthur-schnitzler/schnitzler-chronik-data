@@ -94,7 +94,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Spatenbräu",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -104,15 +114,6 @@
  "Aufenthaltsorte",
  "head":
  "Possenhofen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Spatenbräu"
 }, {
  "type":
  "kalliope-verbund",

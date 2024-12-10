@@ -119,7 +119,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hinterbrühl"
+ "Hinterbrühl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Radetzky",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cur- und Wasserheilanstalt Hinterbrühl",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cur- und Wasserheilanstalt Hinterbrühl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -128,5 +148,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Radetzky"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }] 

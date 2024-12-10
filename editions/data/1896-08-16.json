@@ -43,16 +43,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Skodsborg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Badehotel"
+ "Skodsborg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Badehotel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

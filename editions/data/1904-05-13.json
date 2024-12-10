@@ -41,7 +41,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neapel"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -50,32 +60,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Vesuvio"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sorrent"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Arlotta"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Arlotta"
+ "Sorrent",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Arlotta",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Arlotta",
+ "ref":
+ ""}
+ ]
+}
 }] 

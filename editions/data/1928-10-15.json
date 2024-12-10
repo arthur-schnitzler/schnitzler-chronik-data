@@ -164,25 +164,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grunewald"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mauerstraße"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grunewald",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mauerstraße",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Universal Pictures Berlin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -192,15 +194,6 @@
  "Aufenthaltsorte",
  "head":
  "Restaurant Dressel [Mauerstraße]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Universal Pictures Berlin"
 }, {
  "type":
  "schnitzler-orte",

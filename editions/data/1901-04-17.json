@@ -44,7 +44,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Florenz"
+ "Florenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Uffizien",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -54,13 +64,4 @@
  "Aufenthaltsorte",
  "head":
  "Bologna"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Uffizien"
 }] 

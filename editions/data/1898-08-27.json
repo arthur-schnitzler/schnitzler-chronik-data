@@ -159,16 +159,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Luzern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel St. Gotthard Luzern"
+ "Luzern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel St. Gotthard Luzern",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hôtel Stadthof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -187,15 +193,6 @@
  "Aufenthaltsorte",
  "head":
  "Pilatus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hôtel Stadthof"
 }, {
  "type":
  "schnitzler-chronik-manuell",

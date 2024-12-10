@@ -71,7 +71,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -80,32 +90,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Reichenau an der Rax"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurhaus Rudolfsbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Thalhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Thalhof",
+ "ref":
+ ""}
+ ]
+}
 }] 

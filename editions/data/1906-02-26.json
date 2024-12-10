@@ -71,7 +71,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alte Nationalgalerie",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hardenbergstraße 24",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kantstraße 34",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -80,16 +110,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Continental [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Theater Berlin"
+ "Neue Abteilung der Nationalgalerie Berlin im Kronprinzenpalais"
 }, {
  "type":
  "schnitzler-events",

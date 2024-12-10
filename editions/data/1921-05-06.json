@@ -81,32 +81,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Parkhotel München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Englischer Hof [München]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Englischer Garten [München]"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Parkhotel München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Englischer Hof [München]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Englischer Garten [München]",
+ "ref":
+ ""}
+ ]
+}
 }] 

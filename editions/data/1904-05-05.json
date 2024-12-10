@@ -34,16 +34,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Roma"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Roma",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ristorante Umberto",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palatin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Borghese Pinciana",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Monte Pincio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -53,40 +74,4 @@
  "Aufenthaltsorte",
  "head":
  "Vatikan"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ristorante Umberto"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palatin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Borghese Pinciana"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Monte Pincio"
 }] 

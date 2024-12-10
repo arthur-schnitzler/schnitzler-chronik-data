@@ -46,32 +46,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Porticus Octaviae"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Marcellustheater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Borghese [Park]"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Porticus Octaviae",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Marcellustheater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Borghese [Park]",
+ "ref":
+ ""}
+ ]
+}
 }] 

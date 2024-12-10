@@ -34,7 +34,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Panthéon",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Musée du Louvre",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -44,22 +59,4 @@
  "Aufenthaltsorte",
  "head":
  "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Panthéon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Musée du Louvre"
 }] 

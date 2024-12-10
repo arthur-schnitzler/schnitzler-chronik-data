@@ -91,7 +91,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Territet"
+ "Territet",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel des Alpes-Grand Hôtel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -100,16 +110,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel des Alpes-Grand Hôtel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Genf"
+ "Genf",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Du Nord",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -127,7 +138,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Évian-les-Bains"
+ "Évian-les-Bains",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Casino d’Évian",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -137,24 +158,6 @@
  "Aufenthaltsorte",
  "head":
  "Villeneuve"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Du Nord"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Casino d’Évian"
 }, {
  "type":
  "kalliope-verbund",

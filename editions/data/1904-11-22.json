@@ -114,52 +114,42 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Bristol Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kleines Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel und Restaurant »Prinz Wilhelm«"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Aschinger"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bülowstraße 90"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Bristol Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kleines Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel und Restaurant »Prinz Wilhelm«",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Aschinger",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bülowstraße 90",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kronprinzenufer 7/In den Zelten 14",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

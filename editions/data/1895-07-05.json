@@ -54,43 +54,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Continental [Prag]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neues Deutsches Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alter Jüdischer Friedhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "U Choděrů"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Continental [Prag]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Neues Deutsches Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alter Jüdischer Friedhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "U Choděrů",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

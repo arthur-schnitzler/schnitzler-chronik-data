@@ -111,7 +111,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Trient"
+ "Trient",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Castello del Buonconsiglio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -120,25 +130,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Welsberg-Taisten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wildbad Waldbrunn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Castello del Buonconsiglio"
+ "Welsberg-Taisten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

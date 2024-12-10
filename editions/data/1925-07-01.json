@@ -86,7 +86,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bozen"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Greif",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -95,7 +105,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Trient"
+ "Trient",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Café Ristorante Europe",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -105,24 +125,6 @@
  "Aufenthaltsorte",
  "head":
  "Molveno"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Ristorante Europe"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Greif"
 }, {
  "type":
  "pollaczek",

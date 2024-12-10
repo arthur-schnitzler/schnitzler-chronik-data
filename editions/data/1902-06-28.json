@@ -54,34 +54,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mirabell"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Tomaselli"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mirabell",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Tomaselli",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hauptbahnhof Salzburg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -91,15 +89,6 @@
  "Aufenthaltsorte",
  "head":
  "Gaisberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hauptbahnhof Salzburg"
 }, {
  "type":
  "schnitzler-bahr",

@@ -77,52 +77,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Dresden"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Brühlsche Terrasse"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gemäldegalerie Alte Meister"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Blasewitz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Albert-Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Helbig’s Etablissement"
+ "Dresden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Brühlsche Terrasse",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gemäldegalerie Alte Meister",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Blasewitz",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Albert-Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Helbig’s Etablissement",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

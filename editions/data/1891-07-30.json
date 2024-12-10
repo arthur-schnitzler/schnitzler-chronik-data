@@ -36,7 +36,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -45,23 +55,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hinterbrühl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Brühl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kärntnerring 12/Bösendorferstraße 11 Kärntnerring 12/Bösendorferstraße 11"
+ "Brühl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hinterbrühl",
+ "ref":
+ ""}
+ ]
+}
 }] 

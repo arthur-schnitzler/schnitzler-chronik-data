@@ -56,7 +56,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Territet"
+ "Territet",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel des Alpes-Grand Hôtel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Strandbad Territet",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Quai Ami Chessex",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,43 +85,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel des Alpes-Grand Hôtel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Valmont"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Strandbad Territet"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Quai Ami Chessex"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Clinique Valmont"
+ "Valmont",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Clinique Valmont",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

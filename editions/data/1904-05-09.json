@@ -46,32 +46,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neapel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vesuvio"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Museo archeologico nazionale di Napoli"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Certosa di San Martino"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Museo archeologico nazionale di Napoli",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Certosa di San Martino",
+ "ref":
+ ""}
+ ]
+}
 }] 

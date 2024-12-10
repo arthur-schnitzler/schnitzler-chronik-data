@@ -49,7 +49,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Payerbach"
+ "Payerbach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Hüttl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,13 +78,4 @@
  "Aufenthaltsorte",
  "head":
  "Feldbacher’s Hotel Hellbronn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Hüttl"
 }] 

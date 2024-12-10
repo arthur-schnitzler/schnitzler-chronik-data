@@ -74,7 +74,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Franzensbad"
+ "Franzensbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Königsvilla",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -83,25 +93,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Königsvilla"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

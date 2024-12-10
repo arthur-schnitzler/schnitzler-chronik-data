@@ -49,16 +49,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palais de Justice [Paris]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Sainte Chapelle",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bois de Boulogne",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,33 +84,6 @@
  "Aufenthaltsorte",
  "head":
  "Théâtre de la Renaissance"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palais de Justice [Paris]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sainte Chapelle"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bois de Boulogne"
 }, {
  "type":
  "schnitzler-events",

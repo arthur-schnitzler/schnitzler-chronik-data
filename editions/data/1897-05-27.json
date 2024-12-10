@@ -53,34 +53,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "South Sea House"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Guildhall"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "40, Landsdowne Crescent"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "South Sea House",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Guildhall",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "40, Landsdowne Crescent",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

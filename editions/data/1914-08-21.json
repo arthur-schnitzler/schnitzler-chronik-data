@@ -101,7 +101,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -110,25 +120,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserkrone"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserkrone",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Jainzental",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -147,15 +154,6 @@
  "Aufenthaltsorte",
  "head":
  "Hohenzollern Wasserfall"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Jainzental"
 }, {
  "type":
  "schnitzler-cmif",

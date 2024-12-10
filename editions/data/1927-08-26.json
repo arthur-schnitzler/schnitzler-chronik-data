@@ -37,25 +37,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Gardone Riviera"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Gardone"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Savoy Palace"
+ "Gardone Riviera",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Gardone",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Savoy Palace",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

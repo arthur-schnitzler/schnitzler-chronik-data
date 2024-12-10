@@ -109,7 +109,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Den Haag"
+ "Den Haag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Royal",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -118,16 +128,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Restaurant Royal"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Den Haag"
+ "Den Haag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Royal",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

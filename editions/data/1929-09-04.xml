@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,42 +118,45 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-04.html</idno>
             </event>
             <event when-iso="1929-09-04">
-               <head>Territet</head>
+               <head corresp="#pmb52051">Territet</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb53208">
+                        <placeName>Hôtel des Alpes-Grand Hôtel</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1929-09-04">
+               <head corresp="#pmb562">Genf</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb236932">
+                        <placeName>Restaurant Du Nord</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1929-09-04">
+               <head corresp="#pmb90623">Ferney-Voltaire</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1929-09-04">
-               <head>Hôtel des Alpes-Grand Hôtel</head>
-               <desc/>
+               <head corresp="#pmb90607">Évian-les-Bains</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb236935">
+                        <placeName>Casino d’Évian</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1929-09-04">
-               <head>Genf</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-09-04">
-               <head>Ferney-Voltaire</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-09-04">
-               <head>Évian-les-Bains</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-09-04">
-               <head>Villeneuve</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-09-04">
-               <head>Restaurant Du Nord</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-09-04">
-               <head>Casino d’Évian</head>
+               <head corresp="#pmb92015">Villeneuve</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>

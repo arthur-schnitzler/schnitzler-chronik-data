@@ -64,16 +64,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Südbahnhotel [Semmering]"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bürgerstübl am Semmering",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -100,7 +106,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mürzsteg"
+ "Mürzsteg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof zum Goldenen Adler",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Jagdschloss Mürzsteg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -110,33 +131,6 @@
  "Aufenthaltsorte",
  "head":
  "Mürzzuschlag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bürgerstübl am Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthof zum Goldenen Adler"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Jagdschloss Mürzsteg"
 }, {
  "type":
  "pollaczek",

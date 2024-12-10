@@ -86,7 +86,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Frankfurt am Main"
+ "Frankfurt am Main",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Goethe-Haus",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Imperial [Frankfurt am Main]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restauration zum Kaiserhof [Frankfurt am Main]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -96,31 +116,4 @@
  "Aufenthaltsorte",
  "head":
  "Café Kaiserhof (Inh. Johann Wortner)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Goethe-Haus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Imperial [Frankfurt am Main]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restauration zum Kaiserhof [Frankfurt am Main]"
 }] 

@@ -47,7 +47,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hohenschwangau"
+ "Hohenschwangau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schloss Hohenschwangau",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -57,15 +67,6 @@
  "Aufenthaltsorte",
  "head":
  "Füssen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schloss Hohenschwangau"
 }, {
  "type":
  "pollaczek",

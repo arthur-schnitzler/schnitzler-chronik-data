@@ -134,16 +134,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Casino Bern"
+ "Bern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Casino Bern",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

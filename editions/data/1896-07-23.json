@@ -41,23 +41,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Trondheim"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Nidarosdom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Trondheim sentralstasjon"
+ "Trondheim",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Nidarosdom",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Trondheim sentralstasjon",
+ "ref":
+ ""}
+ ]
+}
 }] 

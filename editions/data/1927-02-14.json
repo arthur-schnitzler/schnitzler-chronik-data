@@ -89,7 +89,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Edlach"
+ "Edlach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Edlacherhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -98,25 +108,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Edlacherhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-mikrofilme-daten",

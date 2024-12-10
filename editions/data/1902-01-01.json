@@ -269,25 +269,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Bristol Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Buntes Theater"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Bristol Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Buntes Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Wernerstraße 16",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Luisenplatz 2",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -297,15 +304,6 @@
  "Aufenthaltsorte",
  "head":
  "Café Passage"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wernerstraße 16"
 }, {
  "type":
  "schnitzler-events",

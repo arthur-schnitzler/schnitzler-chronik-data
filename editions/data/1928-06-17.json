@@ -46,34 +46,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserin Elisabeth"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kaiservilla"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Konditorei Zauner"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kaiservilla",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Konditorei Zauner",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

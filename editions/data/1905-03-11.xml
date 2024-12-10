@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,27 +116,24 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01506.html</idno>
             </event>
             <event when-iso="1905-03-11">
-               <head>Messina</head>
-               <desc/>
+               <head corresp="#pmb44129">Messina</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb235028">
+                        <placeName>Cimitero monumentale di Messina</placeName>
+                     </place>
+                     <place corresp="#pmb235031">
+                        <placeName>Duomo di Messina</placeName>
+                     </place>
+                     <place corresp="#pmb235034">
+                        <placeName>Massa San Giorgio</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1905-03-11">
-               <head>Cimitero monumentale di Messina</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1905-03-11">
-               <head>Duomo di Messina</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1905-03-11">
-               <head>Massa San Giorgio</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1905-03-11">
-               <head>Korfu</head>
+               <head corresp="#pmb41212">Korfu</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>

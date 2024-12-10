@@ -68,16 +68,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Nürnberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Nürnberger Burg"
+ "Nürnberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Nürnberger Burg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Wiener Restaurant (Inh. Anton Haslinger)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stadtmauern [Nürnberg]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -95,25 +106,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wiener Restaurant (Inh. Anton Haslinger)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stadtmauern [Nürnberg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Nürnberg"
+ "Nürnberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Nürnberger Burg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Wiener Restaurant (Inh. Anton Haslinger)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stadtmauern [Nürnberg]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

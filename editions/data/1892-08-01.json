@@ -131,15 +131,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Internationale Ausstellung für Musik und Theaterwesen 1892"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Scheiblingkirchen"
 }, {
  "type":
@@ -149,14 +140,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kärntnerring 12/Bösendorferstraße 11 Kärntnerring 12/Bösendorferstraße 11"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "II., Leopoldstadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }] 

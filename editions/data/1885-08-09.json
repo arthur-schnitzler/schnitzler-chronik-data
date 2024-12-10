@@ -34,15 +34,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hofwirt"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Unterach am Attersee"
 }, {
  "type":
@@ -52,5 +43,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kammer"
+ "Kammer",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hofwirt",
+ "ref":
+ ""}
+ ]
+}
 }] 

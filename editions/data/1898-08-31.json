@@ -104,7 +104,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bologna"
+ "Bologna",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cattedrale di San Pietro",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Museo civico archeologico",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pinacoteca Nazionale di Bologna",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -113,7 +133,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Ferrara"
+ "Ferrara",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Castello Estense",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -123,42 +153,6 @@
  "Aufenthaltsorte",
  "head":
  "Padua"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cattedrale di San Pietro"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Museo civico archeologico"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pinacoteca Nazionale di Bologna"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Castello Estense"
 }, {
  "type":
  "schnitzler-cmif",

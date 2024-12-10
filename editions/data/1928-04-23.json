@@ -131,7 +131,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Istanbul"
+ "Istanbul",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hagia Sophia",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cisterna Basilica",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Galatabrücke",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -159,33 +179,6 @@
  "Aufenthaltsorte",
  "head":
  "Haydarpaşa"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hagia Sophia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cisterna Basilica"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Galatabrücke"
 }, {
  "type":
  "schnitzler-orte",

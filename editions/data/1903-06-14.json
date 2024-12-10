@@ -44,7 +44,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Lugano"
+ "Lugano",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel du Parc",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -53,7 +63,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel du Parc"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Stiegl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -62,32 +82,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bozen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mailand"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Stiegl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ristorante Savini"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Ristorante Savini",
+ "ref":
+ ""}
+ ]
+}
 }] 

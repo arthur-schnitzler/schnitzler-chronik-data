@@ -195,34 +195,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Graz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Kaiserhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hilmteich"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schlossberg"
+ "Graz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Café Kaiserhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hilmteich",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Schlossberg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stefaniensaal",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -232,15 +230,6 @@
  "Aufenthaltsorte",
  "head":
  "Stifting"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stefaniensaal"
 }, {
  "type":
  "schnitzler-bahr",

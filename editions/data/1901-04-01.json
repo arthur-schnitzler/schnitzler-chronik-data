@@ -169,7 +169,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stanzen des Raffael",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Caracalla-Thermen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -179,24 +194,6 @@
  "Aufenthaltsorte",
  "head":
  "Cappella Sistina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stanzen des Raffael"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Caracalla-Thermen"
 }, {
  "type":
  "schnitzler-cmif",

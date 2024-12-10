@@ -103,25 +103,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Amsterdam"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Johannes Verhulststraat"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Het Amsterdams Theaterhuis"
+ "Amsterdam",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Johannes Verhulststraat",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Het Amsterdams Theaterhuis",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

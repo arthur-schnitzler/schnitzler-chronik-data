@@ -107,43 +107,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Panthéon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Théâtre du Gymnase Marie Bell"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Jardin du Luxembourg"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Panthéon",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Théâtre du Gymnase Marie Bell",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Jardin du Luxembourg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

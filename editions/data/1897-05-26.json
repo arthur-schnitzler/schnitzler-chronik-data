@@ -117,52 +117,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Honor Oak"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Westminster Abbey"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Royal Academy of Arts"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Madame Tussauds"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Daly’s Theatre"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Westminster Abbey",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Royal Academy of Arts",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Madame Tussauds",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Daly’s Theatre",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

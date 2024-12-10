@@ -104,16 +104,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Liberec"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lesní divadlo Lidové sady"
+ "Liberec",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Lesní divadlo Lidové sady",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

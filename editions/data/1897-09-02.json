@@ -41,7 +41,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XXIII., Liesing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -50,41 +65,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Zum silbernen Brunnen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "[Helferstorferstraße/Hohenstaufengasse, Absteigequartier II Rosa Freudenthal und Arthur Schnitzler]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Endresstraße 68"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hohenstaufengasse"
+ "Hohenstaufengasse",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "[Helferstorferstraße/Hohenstaufengasse, Absteigequartier II Rosa Freudenthal und Arthur Schnitzler]",
+ "ref":
+ ""}
+ ]
+}
 }] 

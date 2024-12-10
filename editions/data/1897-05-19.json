@@ -56,7 +56,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,23 +75,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Meudon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant de la Pêche Miraculeuse"
+ "Meudon",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant de la Pêche Miraculeuse",
+ "ref":
+ ""}
+ ]
+}
 }] 

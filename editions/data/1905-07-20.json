@@ -159,16 +159,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Reichenau an der Rax"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurhaus Rudolfsbad"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -186,14 +187,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Fölz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Hochschwab"
+ "Fölz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Hochschwab",
+ "ref":
+ ""}
+ ]
+}
 }] 

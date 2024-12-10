@@ -39,7 +39,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Cromwell Place"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Cromwell Place",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -48,50 +63,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Newport"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "London"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cowes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Isle of Wight"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Honor Oak"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ryde"
+ "Isle of Wight",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Newport",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cowes",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ryde",
+ "ref":
+ ""}
+ ]
+}
 }] 

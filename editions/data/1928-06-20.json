@@ -54,25 +54,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserin Elisabeth"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Friseur- und Maniküresalon Kusmann"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Friseur- und Maniküresalon Kusmann",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

@@ -69,34 +69,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurpark Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Egerländer"
+ "Marienbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Marienbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kurpark Marienbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Egerländer",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

@@ -104,25 +104,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palasthotel Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Haus [Prag]"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palasthotel Prag",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Haus [Prag]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -141,7 +138,7 @@
   [
  {
  "orgName":
- "Concordia",
+ "Concordia. Journalisten- und Schriftstellerverein",
  "ref":
  ""}
  ],

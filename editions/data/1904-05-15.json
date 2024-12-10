@@ -49,32 +49,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel et des Palmes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo dei Normanni"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Parco della Favorita"
+ "Palermo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel et des Palmes",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo dei Normanni",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Parco della Favorita",
+ "ref":
+ ""}
+ ]
+}
 }] 

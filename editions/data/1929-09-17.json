@@ -51,7 +51,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Marienbad"
+ "Marienbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Marienbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café und Restaurant Winterling",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -60,34 +75,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Franzensbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Königsvilla"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café und Restaurant Winterling"
+ "Franzensbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Königsvilla",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

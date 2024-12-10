@@ -54,7 +54,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Thalia-Theater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Vorstädtisches Theater am Weinbergsweg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -64,24 +79,6 @@
  "Aufenthaltsorte",
  "head":
  "Dorotheenstraße 60"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Thalia-Theater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Vorstädtisches Theater am Weinbergsweg"
 }, {
  "type":
  "schnitzler-events",

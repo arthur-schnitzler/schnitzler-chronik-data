@@ -119,7 +119,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -128,43 +138,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Brünn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Haus [Brünn]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel [Brünn]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pisárky"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Edmund-Weiß-Gasse 7"
+ "Brünn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Deutsches Haus [Brünn]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hotel [Brünn]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pisárky",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

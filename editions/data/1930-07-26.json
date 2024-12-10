@@ -76,25 +76,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Victoria"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sankt Moritz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Suvretta"
+ "Sankt Moritz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Victoria",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Suvretta",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

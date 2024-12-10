@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,27 +103,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-04-15.html</idno>
             </event>
             <event when-iso="1911-04-15">
-               <head>Genua</head>
+               <head corresp="#pmb994">Genua</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb207354">
+                        <placeName>Grand Hotel Miramare</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1911-04-15">
+               <head corresp="#pmb49714">Nervi</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1911-04-15">
-               <head>Grand Hotel Miramare</head>
+               <head corresp="#pmb91564">Rapallo</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1911-04-15">
-               <head>Nervi</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1911-04-15">
-               <head>Rapallo</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1911-04-15">
-               <head>Portofino</head>
+               <head corresp="#pmb44269">Portofino</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>

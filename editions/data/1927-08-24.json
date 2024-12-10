@@ -76,7 +76,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bozen"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Greif",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -86,15 +96,6 @@
  "Aufenthaltsorte",
  "head":
  "Solda"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Greif"
 }, {
  "type":
  "pollaczek",

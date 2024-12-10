@@ -199,34 +199,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Breslau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Savoy Hotel [Wrocław]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Savoy [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Saal der Freunde"
+ "Breslau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Savoy Hotel [Wrocław]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Saal der Freunde",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Borek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

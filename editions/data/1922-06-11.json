@@ -69,23 +69,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Graz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Kaiserhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Operncafé"
+ "Graz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Café Kaiserhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Operncafé",
+ "ref":
+ ""}
+ ]
+}
 }] 

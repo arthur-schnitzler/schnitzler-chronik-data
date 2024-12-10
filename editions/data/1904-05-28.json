@@ -29,23 +29,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Ancona"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel della Vittoria"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Duomo di Ancona"
+ "Ancona",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel della Vittoria",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Duomo di Ancona",
+ "ref":
+ ""}
+ ]
+}
 }] 

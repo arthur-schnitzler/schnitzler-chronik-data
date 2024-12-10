@@ -53,7 +53,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bellagio"
+ "Bellagio",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Serbelloni",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -72,13 +82,4 @@
  "Aufenthaltsorte",
  "head":
  "Tremezzo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Serbelloni"
 }] 

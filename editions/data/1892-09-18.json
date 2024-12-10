@@ -39,43 +39,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Bauer-Grünwald"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Basilica di San Marco"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Ducale"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Canal Grande"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Bauer-Grünwald",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Basilica di San Marco",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo Ducale",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Canal Grande",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Piazza San Marco",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -85,13 +79,4 @@
  "Aufenthaltsorte",
  "head":
  "Markusplatz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Piazza San Marco"
 }] 

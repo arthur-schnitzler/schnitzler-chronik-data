@@ -104,7 +104,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Villach"
+ "Villach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Mosser",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -123,13 +133,4 @@
  "Aufenthaltsorte",
  "head":
  "Lago del Predil"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Mosser"
 }] 

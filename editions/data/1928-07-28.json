@@ -86,25 +86,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Britannia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Toscana"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Britannia",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Toscana",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

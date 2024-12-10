@@ -109,7 +109,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Marienbad"
+ "Marienbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Marienbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Wiener Haus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -118,16 +133,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Franzensbad"
+ "Franzensbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Königsvilla",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -137,24 +153,6 @@
  "Aufenthaltsorte",
  "head":
  "Cheb"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Königsvilla"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wiener Haus"
 }, {
  "type":
  "pollaczek",

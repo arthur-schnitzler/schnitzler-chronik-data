@@ -34,15 +34,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Burg Wildenstein"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Sophiens Doppelblick"
 }, {
  "type":
@@ -61,25 +52,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Jainzental"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserin Elisabeth"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Burg Wildenstein",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Jainzental",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

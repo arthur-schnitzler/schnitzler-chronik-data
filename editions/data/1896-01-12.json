@@ -61,25 +61,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Frankfurt am Main"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankfurter Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankfurter Stadttheater"
+ "Frankfurt am Main",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Frankfurter Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Frankfurter Stadttheater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

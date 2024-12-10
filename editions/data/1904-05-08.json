@@ -34,7 +34,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Roma",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -43,23 +53,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Roma"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neapel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vesuvio"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ]
+}
 }] 

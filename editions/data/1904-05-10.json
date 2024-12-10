@@ -44,16 +44,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neapel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vesuvio"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -71,32 +72,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Capri"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Anacapri"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Piazza Vittoria"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grotta Azzurra"
+ "Capri",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Anacapri",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grotta Azzurra",
+ "ref":
+ ""}
+ ]
+}
 }] 

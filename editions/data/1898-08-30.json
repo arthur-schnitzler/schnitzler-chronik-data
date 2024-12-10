@@ -89,7 +89,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mailand"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Mailänder Dom",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -98,7 +108,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Parma"
+ "Parma",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palazzo della Pilotta",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -108,22 +128,4 @@
  "Aufenthaltsorte",
  "head":
  "Bologna"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mailänder Dom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo della Pilotta"
 }] 

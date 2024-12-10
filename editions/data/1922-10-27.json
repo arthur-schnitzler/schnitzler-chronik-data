@@ -129,16 +129,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Urania Prag"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Urania Prag",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

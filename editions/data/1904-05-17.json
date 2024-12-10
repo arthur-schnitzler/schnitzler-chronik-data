@@ -121,7 +121,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Palermo"
+ "Palermo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel et des Palmes",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -130,50 +140,30 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel et des Palmes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Syrakus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Achradina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Teatro greco di Siracusa"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Latomie di Siracusa"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Orecchio di Dionisio"
+ "Syrakus",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Achradina",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Teatro greco di Siracusa",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Latomie di Siracusa",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Orecchio di Dionisio",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -114,7 +114,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Lehrter Bahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -123,23 +133,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Atlantic"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lehrter Bahnhof"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Atlantic",
+ "ref":
+ ""}
+ ]
+}
 }] 

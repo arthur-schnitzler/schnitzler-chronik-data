@@ -232,34 +232,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Breslau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Monopol"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lobe-Theater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Weinrestaurant Christian Hansen"
+ "Breslau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Monopol",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lobe-Theater",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Weinrestaurant Christian Hansen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

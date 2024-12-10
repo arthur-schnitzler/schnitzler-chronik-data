@@ -144,16 +144,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Prinzregenten-Theater"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Prinzregenten-Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-interviews",

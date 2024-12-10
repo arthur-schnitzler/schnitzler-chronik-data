@@ -36,7 +36,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Belle-Alliance-Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -46,15 +56,6 @@
  "Aufenthaltsorte",
  "head":
  "Dorotheenstraße 60"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Belle-Alliance-Theater"
 }, {
  "type":
  "schnitzler-events",

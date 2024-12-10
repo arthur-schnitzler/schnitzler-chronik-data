@@ -130,7 +130,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Innsbruck"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hofkirche",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hofgarten [Innsbruck]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -140,22 +155,4 @@
  "Aufenthaltsorte",
  "head":
  "Landeck"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofkirche"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofgarten [Innsbruck]"
 }] 

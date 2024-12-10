@@ -41,52 +41,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel zum Kronprinzen [Hamburg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Pfordte"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pilsner Bierhalle"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Blankenese"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburger Hafen"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel zum Kronprinzen [Hamburg]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Pfordte",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Pilsner Bierhalle",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Blankenese",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hamburger Hafen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

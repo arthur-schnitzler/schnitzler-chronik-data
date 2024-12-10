@@ -39,7 +39,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Klagenfurt"
+ "Klagenfurt",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kreuzberg [Klagenfurt]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -49,13 +59,4 @@
  "Aufenthaltsorte",
  "head":
  "Wörthersee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kreuzberg [Klagenfurt]"
 }] 

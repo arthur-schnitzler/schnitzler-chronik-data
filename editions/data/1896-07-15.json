@@ -111,25 +111,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Trondheim"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Britannia Hotel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Trondheim havn"
+ "Trondheim",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Britannia Hotel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Trondheim havn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

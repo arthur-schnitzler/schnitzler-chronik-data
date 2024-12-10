@@ -191,25 +191,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Madonna di Campiglio"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Dolomiti [Madonna di Campiglio]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Riva del Garda"
+ "Riva del Garda",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palast Hotel Lido",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -245,16 +237,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Palast Hotel Lido"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pinzolo"
+ "Pinzolo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Madonna di Campiglio",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

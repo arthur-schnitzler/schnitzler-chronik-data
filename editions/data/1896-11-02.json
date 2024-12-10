@@ -96,16 +96,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Linden-Café"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Linden-Café",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

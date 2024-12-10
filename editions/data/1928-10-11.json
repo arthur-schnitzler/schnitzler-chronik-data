@@ -109,16 +109,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Zum schwarzen Ferkel"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Zum schwarzen Ferkel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

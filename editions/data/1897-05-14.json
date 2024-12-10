@@ -43,16 +43,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Salle du conservatoire",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Conservatoire national supérieur d’art dramatique",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -62,24 +73,6 @@
  "Aufenthaltsorte",
  "head":
  "Konservatorium der Gesellschaft der Musikfreunde"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Salle du conservatoire"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Conservatoire national supérieur d’art dramatique"
 }, {
  "type":
  "schnitzler-events",

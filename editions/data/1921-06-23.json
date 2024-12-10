@@ -61,16 +61,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Spatenbräu"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Spatenbräu",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

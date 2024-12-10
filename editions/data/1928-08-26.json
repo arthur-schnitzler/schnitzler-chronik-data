@@ -81,7 +81,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hohenschwangau"
+ "Hohenschwangau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Schwansee",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -118,13 +128,4 @@
  "Aufenthaltsorte",
  "head":
  "Alpsee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Schwansee"
 }] 

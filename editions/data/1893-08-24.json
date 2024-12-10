@@ -133,7 +133,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Cortina d'Ampezzo"
+ "Cortina d’Ampezzo"
 }, {
  "type":
  "schnitzler-orte",
@@ -142,23 +142,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Geburtshaus von Tizian"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Albergo dell’Angelo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pieve di Cadore"
+ "Pieve di Cadore",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Geburtshaus von Tizian",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Albergo dell’Angelo",
+ "ref":
+ ""}
+ ]
+}
 }] 

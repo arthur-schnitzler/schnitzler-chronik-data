@@ -58,7 +58,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wintergarten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,15 +78,6 @@
  "Aufenthaltsorte",
  "head":
  "Dorotheenstraße 60"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wintergarten"
 }, {
  "type":
  "schnitzler-events",

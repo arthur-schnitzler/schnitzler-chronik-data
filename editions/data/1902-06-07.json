@@ -84,7 +84,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -93,34 +103,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Budapest"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lustspieltheater [Budapest]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gellértberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Budapest",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Lustspieltheater [Budapest]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gellértberg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

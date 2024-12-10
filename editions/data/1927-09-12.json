@@ -56,25 +56,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lido"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Caffè Florian"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Lido",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Caffè Florian",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

@@ -57,7 +57,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Centrale Vapore",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -66,25 +76,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Centrale Vapore"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Torcello"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Santa Maria Assunta"
+ "Torcello",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Santa Maria Assunta",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

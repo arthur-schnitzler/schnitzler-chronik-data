@@ -66,23 +66,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Großer Kurfürst"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Scala"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Großer Kurfürst",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Scala",
+ "ref":
+ ""}
+ ]
+}
 }] 

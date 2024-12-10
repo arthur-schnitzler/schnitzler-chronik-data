@@ -262,7 +262,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Skodsborg"
+ "Skodsborg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Badehotel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -271,43 +281,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Badehotel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ny Carlsberg Glyptohek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "København Zoo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Store Kongensgade 85"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kopenhagen"
+ "Kopenhagen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Ny Carlsberg Glyptohek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "København Zoo",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Store Kongensgade 85",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

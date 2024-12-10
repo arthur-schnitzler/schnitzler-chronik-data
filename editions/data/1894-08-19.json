@@ -84,7 +84,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kasererbräu",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gasthof zum Tiger",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Aigen",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hellbrunn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -94,40 +119,4 @@
  "Aufenthaltsorte",
  "head":
  "Hotel Englischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kasererbräu"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthof zum Tiger"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Aigen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hellbrunn"
 }] 

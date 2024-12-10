@@ -104,7 +104,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Oslo"
+ "Oslo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Tivoli [Oslo]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stortinget",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Oslo Kunstforening",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "[Wohnhaus von Henrik Ibsen]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Holmenkollbakken",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -114,51 +144,6 @@
  "Aufenthaltsorte",
  "head":
  "Grand Hotel [Oslo]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tivoli [Oslo]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stortinget"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Oslo Kunstforening"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "[Wohnhaus von Henrik Ibsen]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Holmenkollbakken"
 }, {
  "type":
  "schnitzler-orte",

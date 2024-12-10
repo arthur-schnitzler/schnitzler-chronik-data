@@ -37,25 +37,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Taormina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "San Domenico Hotel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Castello di Monte Tauro"
+ "Taormina",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "San Domenico Hotel",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Castello di Monte Tauro",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

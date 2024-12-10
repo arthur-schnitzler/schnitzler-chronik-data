@@ -58,7 +58,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bozen"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Stiegl",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -86,13 +96,4 @@
  "Aufenthaltsorte",
  "head":
  "Trient"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Stiegl"
 }] 

@@ -89,7 +89,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Payerbach"
+ "Payerbach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stojerhöhe",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -108,15 +118,6 @@
  "Aufenthaltsorte",
  "head":
  "Kreuzbergwarte"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stojerhöhe"
 }, {
  "type":
  "schnitzler-orte",

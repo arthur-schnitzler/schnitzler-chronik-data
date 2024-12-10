@@ -46,7 +46,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Reichenau an der Rax"
+ "Reichenau an der Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Höllentalaussicht",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,32 +70,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kurhaus Rudolfsbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Höllentalaussicht"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Otto-Schutzhaus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Rax"
+ "Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Otto-Schutzhaus",
+ "ref":
+ ""}
+ ]
+}
 }] 

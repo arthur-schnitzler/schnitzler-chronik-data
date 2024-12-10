@@ -184,7 +184,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Skodsborg"
+ "Skodsborg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Badehotel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -193,25 +203,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Badehotel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Haken Leuchtturm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ven"
+ "Ven",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Haken Leuchtturm",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

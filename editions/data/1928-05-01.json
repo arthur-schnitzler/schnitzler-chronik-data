@@ -71,7 +71,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Ristorante Pilsen",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Piazza San Marco",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Caffè Florian",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -81,33 +101,6 @@
  "Aufenthaltsorte",
  "head":
  "Markusplatz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ristorante Pilsen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Piazza San Marco"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Caffè Florian"
 }, {
  "type":
  "schnitzler-interviews",

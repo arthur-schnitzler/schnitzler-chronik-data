@@ -61,15 +61,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rekawinkel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Hainfeld"
 }, {
  "type":
@@ -88,5 +79,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "St. Pölten"
+ "St. Pölten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Rekawinkel",
+ "ref":
+ ""}
+ ]
+}
 }] 

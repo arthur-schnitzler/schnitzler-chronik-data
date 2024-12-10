@@ -102,7 +102,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Göteborg"
+ "Göteborg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Masthugget",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -111,34 +121,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Trollhättan-Fälle"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Trollhättan sentralstasjon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Masthugget"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Trollhättan"
+ "Trollhättan",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Trollhättan-Fälle",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Trollhättan sentralstasjon",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

@@ -37,25 +37,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Brüssel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palais de Justice de Bruxelles"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Beursschouwburg"
+ "Brüssel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Palais de Justice de Bruxelles",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Beursschouwburg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

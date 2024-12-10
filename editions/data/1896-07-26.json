@@ -300,7 +300,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Oslo"
+ "Oslo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "[Wohnhaus von Henrik Ibsen]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Oslo havn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -310,24 +325,6 @@
  "Aufenthaltsorte",
  "head":
  "Grand Hotel [Oslo]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "[Wohnhaus von Henrik Ibsen]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Oslo havn"
 }, {
  "type":
  "schnitzler-orte",

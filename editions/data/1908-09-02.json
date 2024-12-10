@@ -51,7 +51,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Seis am Schlern"
+ "Seis am Schlern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Heufler",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -60,23 +70,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Villa Heufler"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bozen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Virgl"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Virgl",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -122,34 +122,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Tomaselli"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Petersfriedhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Festung Hohensalzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Café Tomaselli",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Petersfriedhof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Festung Hohensalzburg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hellbrunn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -159,13 +157,4 @@
  "Aufenthaltsorte",
  "head":
  "Leopoldskron"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hellbrunn"
 }] 

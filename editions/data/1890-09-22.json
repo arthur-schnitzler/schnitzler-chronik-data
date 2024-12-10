@@ -29,7 +29,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gasthof zum Tiger",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -38,32 +53,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthof zum Tiger"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stampflbräu"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hallein"
+ "Hallein",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stampflbräu",
+ "ref":
+ ""}
+ ]
+}
 }] 

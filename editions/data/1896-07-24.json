@@ -79,16 +79,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Oslo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tivoli [Oslo]"
+ "Oslo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Tivoli [Oslo]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gamle Aker kirke",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Oslo havn",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Basarene",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -98,33 +114,6 @@
  "Aufenthaltsorte",
  "head":
  "Grand Hotel [Oslo]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gamle Aker kirke"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Oslo havn"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Basarene"
 }, {
  "type":
  "schnitzler-cmif",

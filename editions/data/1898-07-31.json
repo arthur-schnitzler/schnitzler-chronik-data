@@ -46,7 +46,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Festung Hohensalzburg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -56,13 +66,4 @@
  "Aufenthaltsorte",
  "head":
  "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Festung Hohensalzburg"
 }] 

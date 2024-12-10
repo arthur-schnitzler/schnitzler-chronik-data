@@ -134,7 +134,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel Victoria"
+ "Sankt Moritz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Victoria",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -143,16 +153,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Sankt Moritz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Innsbruck"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hofgarten [Innsbruck]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hofkirche",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -171,24 +187,6 @@
  "Aufenthaltsorte",
  "head":
  "Inntal"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofgarten [Innsbruck]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofkirche"
 }, {
  "type":
  "pollaczek",

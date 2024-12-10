@@ -39,7 +39,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -48,23 +58,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Klagenfurt"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Maria Loretto"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Johann Schnitzler Burgring 1"
+ "Klagenfurt",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Maria Loretto",
+ "ref":
+ ""}
+ ]
+}
 }] 

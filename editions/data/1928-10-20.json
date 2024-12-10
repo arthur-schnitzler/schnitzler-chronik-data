@@ -99,7 +99,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Zoologischer Garten Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Aquarium Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Zum schwarzen Ferkel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -109,33 +129,6 @@
  "Aufenthaltsorte",
  "head":
  "Herbert-von-Karajan-Straße 15"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Zoologischer Garten Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Aquarium Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Zum schwarzen Ferkel"
 }, {
  "type":
  "schnitzler-events",

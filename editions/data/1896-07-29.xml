@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -184,33 +184,31 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00573.html</idno>
             </event>
             <event when-iso="1896-07-29">
-               <head>Stockholm</head>
-               <desc/>
+               <head corresp="#pmb1119">Stockholm</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb40705">
+                        <placeName>Grand Hotel Stockholm</placeName>
+                     </place>
+                     <place corresp="#pmb186914">
+                        <placeName>Operakällaren</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1896-07-29">
-               <head>Grand Hotel Stockholm</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1896-07-29">
-               <head>Uppsala</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1896-07-29">
-               <head>Operakällaren</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1896-07-29">
-               <head>Carolina Rediviva</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1896-07-29">
-               <head>Dom St. Erik</head>
-               <desc/>
+               <head corresp="#pmb34034">Uppsala</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb186918">
+                        <placeName>Carolina Rediviva</placeName>
+                     </place>
+                     <place corresp="#pmb186922">
+                        <placeName>Dom St. Erik</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>

@@ -124,7 +124,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -133,23 +143,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mödling"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Hajek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Mödling",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Hajek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Meiereiwiese [Mödling]",
+ "ref":
+ ""}
+ ]
+}
 }] 

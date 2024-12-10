@@ -89,7 +89,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -98,7 +118,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Frankgasse 1"
+ "Hotel Radetzky"
 }, {
  "type":
  "schnitzler-orte",
@@ -107,7 +127,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Edmund-Weiß-Gasse 7"
+ "Hauptstraße 56"
 }, {
  "type":
  "schnitzler-cmif",

@@ -34,16 +34,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Centrale Vapore"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Centrale Vapore",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Basilica di San Marco",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -53,13 +59,4 @@
  "Aufenthaltsorte",
  "head":
  "Murano"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Basilica di San Marco"
 }] 

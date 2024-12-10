@@ -74,25 +74,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Florenz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bargello"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Palazzo Pitti"
+ "Florenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bargello",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Palazzo Pitti",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Viali dei Colli [Florenz]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -102,15 +104,6 @@
  "Aufenthaltsorte",
  "head":
  "Fiesole"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Viali dei Colli [Florenz]"
 }, {
  "type":
  "kalliope-verbund",

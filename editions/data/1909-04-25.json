@@ -99,16 +99,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Dresden"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Semperoper"
+ "Dresden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Semperoper",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

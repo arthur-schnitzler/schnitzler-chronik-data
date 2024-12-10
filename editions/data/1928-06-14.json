@@ -111,16 +111,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Kaiserin Elisabeth"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Kaiserin Elisabeth",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -192,7 +193,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hinterstoder"
+ "Hinterstoder",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof Jaidhaus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -229,15 +240,6 @@
  "Aufenthaltsorte",
  "head":
  "Esplanade [Gmunden]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthof Jaidhaus"
 }, {
  "type":
  "pollaczek",

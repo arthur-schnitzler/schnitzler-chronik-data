@@ -84,25 +84,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schauspielhaus Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tiergarten"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schauspielhaus Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Tiergarten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

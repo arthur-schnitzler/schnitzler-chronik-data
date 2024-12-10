@@ -240,7 +240,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hadriansvilla",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -249,25 +259,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Tivoli"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa d’Este"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hadriansvilla"
+ "Tivoli",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa d’Este",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

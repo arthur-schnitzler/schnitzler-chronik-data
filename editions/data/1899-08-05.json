@@ -51,7 +51,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Toblach"
+ "Toblach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Carbonin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -61,15 +71,6 @@
  "Aufenthaltsorte",
  "head":
  "Niederdorf"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Carbonin"
 }, {
  "type":
  "schnitzler-orte",

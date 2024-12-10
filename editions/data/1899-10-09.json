@@ -134,43 +134,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Savoy [Berlin]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Residenztheater Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Hiller"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lehrter Bahnhof"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Residenztheater Berlin",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant Hiller",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lehrter Bahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

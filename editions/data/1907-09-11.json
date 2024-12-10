@@ -48,7 +48,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Innsbruck"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hofkirche",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -58,15 +68,6 @@
  "Aufenthaltsorte",
  "head":
  "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hofkirche"
 }, {
  "type":
  "kalliope-verbund",

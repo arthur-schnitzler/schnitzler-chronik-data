@@ -49,34 +49,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Südbahnhotel [Semmering]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bürgerstübl am Semmering"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Liechtensteinstraße [Semmering]"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bürgerstübl am Semmering",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Liechtensteinstraße [Semmering]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

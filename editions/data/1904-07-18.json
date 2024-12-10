@@ -73,25 +73,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Otto-Schutzhaus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Rax"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Karl-Ludwig-Haus"
+ "Rax",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Otto-Schutzhaus",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Karl-Ludwig-Haus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

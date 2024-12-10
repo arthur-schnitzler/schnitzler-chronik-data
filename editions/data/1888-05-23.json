@@ -51,7 +51,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "London"
+ "London",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "City of London",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -61,24 +76,6 @@
  "Aufenthaltsorte",
  "head":
  "Herne Hill"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Honor Oak"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "City of London"
 }, {
  "type":
  "schnitzler-cmif",

@@ -115,7 +115,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -124,23 +134,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Restaurant Senefelder"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Purkersdorf"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock"
+ "Purkersdorf",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Senefelder",
+ "ref":
+ ""}
+ ]
+}
 }] 

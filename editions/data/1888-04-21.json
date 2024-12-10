@@ -46,7 +46,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Charité",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Brandenburger Tor",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Friedrich-Wilhelm-Städtisches Theater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -56,33 +76,6 @@
  "Aufenthaltsorte",
  "head":
  "Dorotheenstraße 60"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Charité"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Brandenburger Tor"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Friedrich-Wilhelm-Städtisches Theater"
 }, {
  "type":
  "schnitzler-events",

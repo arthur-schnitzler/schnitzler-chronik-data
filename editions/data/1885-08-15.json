@@ -43,23 +43,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Zürich"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Habis"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alter Botanischer Garten Zürich"
+ "Zürich",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Habis",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Alter Botanischer Garten Zürich",
+ "ref":
+ ""}
+ ]
+}
 }] 

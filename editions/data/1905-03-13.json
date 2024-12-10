@@ -119,16 +119,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Korfu"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Achilleion"
+ "Korfu",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Achilleion",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kanoni",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mon Repos",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -147,22 +158,4 @@
  "Aufenthaltsorte",
  "head":
  "Grand Hotel Saint Georges"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kanoni"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mon Repos"
 }] 

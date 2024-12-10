@@ -46,7 +46,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hinterbrühl"
+ "Hinterbrühl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hauptstraße 56",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,23 +65,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hauptstraße 56"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }] 

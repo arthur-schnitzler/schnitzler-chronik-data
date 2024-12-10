@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -157,27 +157,26 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00840.html</idno>
             </event>
             <event when-iso="1898-08-27">
-               <head>Luzern</head>
+               <head corresp="#pmb967">Luzern</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb200956">
+                        <placeName>Hotel St. Gotthard Luzern</placeName>
+                     </place>
+                     <place corresp="#pmb200965">
+                        <placeName>Grand Hôtel Stadthof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1898-08-27">
+               <head corresp="#pmb36232">Alpnachstad</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1898-08-27">
-               <head>Hotel St. Gotthard Luzern</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1898-08-27">
-               <head>Alpnachstad</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1898-08-27">
-               <head>Pilatus</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1898-08-27">
-               <head>Grand Hôtel Stadthof</head>
+               <head corresp="#pmb44600">Pilatus</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>

@@ -46,7 +46,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,23 +65,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Österreichischer Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Victoria [Stuttgart]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stuttgart"
+ "Stuttgart",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Victoria [Stuttgart]",
+ "ref":
+ ""}
+ ]
+}
 }] 

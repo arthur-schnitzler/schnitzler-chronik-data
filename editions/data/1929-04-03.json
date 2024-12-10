@@ -64,7 +64,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -73,7 +83,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Praterstraße"
+ "Praterstraße",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Praterstraße 42",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -83,24 +103,6 @@
  "Aufenthaltsorte",
  "head":
  "Gregor-Mendel-Straße 34"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Praterstraße 42"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
 }, {
  "type":
  "pollaczek",

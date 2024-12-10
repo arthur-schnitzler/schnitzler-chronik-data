@@ -48,7 +48,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Apollo-Theater [Berlin]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -67,15 +77,6 @@
  "Aufenthaltsorte",
  "head":
  "Schloss Charlottenburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Apollo-Theater [Berlin]"
 }, {
  "type":
  "schnitzler-events",

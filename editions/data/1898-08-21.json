@@ -108,7 +108,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Luzern"
+ "Luzern",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel St. Gotthard Luzern",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -127,15 +137,6 @@
  "Aufenthaltsorte",
  "head":
  "Göschenen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel St. Gotthard Luzern"
 }, {
  "type":
  "schnitzler-chronik-manuell",

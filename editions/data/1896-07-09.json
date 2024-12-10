@@ -156,25 +156,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stavanger"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Valbergtårnet"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stavanger Domkirke"
+ "Stavanger",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Valbergtårnet",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stavanger Domkirke",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-mikrofilme-daten",

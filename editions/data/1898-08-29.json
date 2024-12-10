@@ -41,16 +41,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mailand"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pinacoteca di Brera"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pinacoteca di Brera",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cimitero Monumentale",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -60,15 +66,6 @@
  "Aufenthaltsorte",
  "head":
  "Certosa di Pavia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cimitero Monumentale"
 }, {
  "type":
  "schnitzler-orte",

@@ -34,7 +34,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Rom"
+ "Rom",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Roma",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gambrinus-Halle [Rom]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -44,22 +59,4 @@
  "Aufenthaltsorte",
  "head":
  "Ancona"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Roma"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gambrinus-Halle [Rom]"
 }] 

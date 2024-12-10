@@ -104,16 +104,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Laubenheimer Straße"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Laubenheimer Straße",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

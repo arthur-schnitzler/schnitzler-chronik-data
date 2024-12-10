@@ -29,41 +29,30 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Convento dei Cappuccini"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "San Giovanni degli Eremiti"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Orto botanico di Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Giulia"
+ "Palermo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Convento dei Cappuccini",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "San Giovanni degli Eremiti",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Orto botanico di Palermo",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Giulia",
+ "ref":
+ ""}
+ ]
+}
 }] 

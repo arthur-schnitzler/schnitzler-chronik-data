@@ -89,7 +89,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hohenschwangau"
+ "Hohenschwangau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Alpsee",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -98,16 +108,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Rheinischer Hof München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Rheinischer Hof München",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -117,15 +128,6 @@
  "Aufenthaltsorte",
  "head":
  "Füssen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Alpsee"
 }, {
  "type":
  "pollaczek",

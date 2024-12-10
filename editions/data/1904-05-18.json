@@ -34,7 +34,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Syrakus"
+ "Syrakus",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Achradina",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Latomia dei Cappuccini",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -43,32 +58,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Villa Achradina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Taormina"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Latomia dei Cappuccini"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "San Domenico Hotel"
+ "Taormina",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "San Domenico Hotel",
+ "ref":
+ ""}
+ ]
+}
 }] 

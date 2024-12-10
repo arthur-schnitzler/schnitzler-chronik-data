@@ -56,34 +56,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Nizza"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Montée Eberlé"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Promenade des Anglais"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Casino Municipal de Nice"
+ "Nizza",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Montée Eberlé",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Promenade des Anglais",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Casino Municipal de Nice",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

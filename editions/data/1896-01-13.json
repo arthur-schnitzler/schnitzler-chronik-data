@@ -162,7 +162,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Frankfurt am Main"
+ "Frankfurt am Main",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Frankfurter Hof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -171,32 +181,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Frankfurter Hof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Köln"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kölner Dom"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kreuzgasse"
+ "Köln",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kölner Dom",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Kreuzgasse",
+ "ref":
+ ""}
+ ]
+}
 }] 

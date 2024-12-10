@@ -96,16 +96,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Windmühlhöhe"
+ "Windmühlhöhe",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -115,15 +116,6 @@
  "Aufenthaltsorte",
  "head":
  "Türkenschanzstraße 48"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
 }, {
  "type":
  "schnitzler-mikrofilme-daten",

@@ -61,7 +61,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Nürnberg"
+ "Nürnberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Fürstenhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -70,34 +80,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Fürstenhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Neptun"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Marienbad"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Marienbad"
+ "Marienbad",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Neptun",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Hotel Marienbad",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

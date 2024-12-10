@@ -81,7 +81,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -90,23 +100,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grünau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Marienwasserfall"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Grünau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Marienwasserfall",
+ "ref":
+ ""}
+ ]
+}
 }] 

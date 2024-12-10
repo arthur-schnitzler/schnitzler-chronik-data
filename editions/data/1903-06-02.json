@@ -114,7 +114,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Venedig"
+ "Venedig",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Centrale Vapore",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -123,7 +133,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Centrale Vapore"
+ "Padua",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Chiesa degli Eremitani",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cappella degli Scrovegni",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Caffè Pedrocchi",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -132,50 +162,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Padua"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Vicenza"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Chiesa degli Eremitani"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cappella degli Scrovegni"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Caffè Pedrocchi"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Teatro Olimpico"
+ "Vicenza",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Teatro Olimpico",
+ "ref":
+ ""}
+ ]
+}
 }] 

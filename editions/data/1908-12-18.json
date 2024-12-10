@@ -119,7 +119,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Budapest"
+ "Budapest",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Népszinház",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -128,16 +138,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Budapest"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Népszinház"
+ "Budapest",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Népszinház",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

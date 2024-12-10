@@ -49,25 +49,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Rheinischer Hof München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Residenztheater München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Rheinischer Hof München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Residenztheater München",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -80,13 +77,13 @@
  "idno":
  "https://pmb.acdh.oeaw.ac.at/entity/209097/",
  "head":
- "Aufführung von Die Entführung aus dem Serail KV 384, 13.9.1899",
+ "Aufführung von Die Entführung aus dem Serail [KV 384], 13.9.1899",
  "desc":
 {"listBibl":
   [
  {
  "title":
- "Die Entführung aus dem Serail KV 384",
+ "Die Entführung aus dem Serail [KV 384]",
  "ref":
  ""}
  ],

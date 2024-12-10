@@ -56,16 +56,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tiergarten"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Tiergarten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Tauentzien-Tageskino",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -75,15 +81,6 @@
  "Aufenthaltsorte",
  "head":
  "Großer Tiergarten"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Tauentzien-Tageskino"
 }, {
  "type":
  "schnitzler-orte",

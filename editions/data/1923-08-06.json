@@ -79,7 +79,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Victoria [Stuttgart]"
+ "Stuttgart",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Victoria [Stuttgart]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -88,25 +98,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stuttgart"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Baden-Baden"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Herchenbachstraße"
+ "Baden-Baden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Herchenbachstraße",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

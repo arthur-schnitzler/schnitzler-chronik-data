@@ -36,32 +36,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mailand"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pinacoteca di Brera"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Santa Maria delle Grazie"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "La Scala"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pinacoteca di Brera",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Santa Maria delle Grazie",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "La Scala",
+ "ref":
+ ""}
+ ]
+}
 }] 

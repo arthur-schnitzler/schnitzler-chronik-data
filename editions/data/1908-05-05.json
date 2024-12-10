@@ -29,7 +29,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Neue Pinakothek",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -39,15 +49,6 @@
  "Aufenthaltsorte",
  "head":
  "Oper"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Neue Pinakothek"
 }, {
  "type":
  "schnitzler-events",

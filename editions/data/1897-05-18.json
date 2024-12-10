@@ -56,7 +56,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café de la Nouvelle Athènes",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -65,7 +80,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "rue de Maubeuge"
+ "Fontainebleau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "château de Fontainebleau",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -74,34 +99,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Fontainebleau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "château de Fontainebleau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "gorges de Franchard"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Wald von Fontainebleau"
+ "Wald von Fontainebleau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "gorges de Franchard",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -119,24 +127,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Gare de Melun"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café de la Nouvelle Athènes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Barbizon"
 }, {
  "type":
@@ -146,5 +136,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Melun"
+ "Melun",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gare de Melun",
+ "ref":
+ ""}
+ ]
+}
 }] 

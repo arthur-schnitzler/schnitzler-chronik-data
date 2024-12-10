@@ -36,43 +36,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Alte Pinakothek"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ratskeller München"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Luitpold"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Staatstheater am Gärtnerplatz"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Alte Pinakothek",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ratskeller München",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Luitpold",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Staatstheater am Gärtnerplatz",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

@@ -54,34 +54,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Théâtre de la Gaîté-Lyrique"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "parc des Buttes-Chaumont"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Théâtre de la Gaîté-Lyrique",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "parc des Buttes-Chaumont",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

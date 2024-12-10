@@ -37,23 +37,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bozen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Stiegl"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Greif"
+ "Bozen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Stiegl",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Greif",
+ "ref":
+ ""}
+ ]
+}
 }] 

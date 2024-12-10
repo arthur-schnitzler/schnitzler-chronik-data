@@ -49,43 +49,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Florenz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Santa Croce"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bargello"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Viali dei Colli [Florenz]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "San Miniato al Monte"
+ "Florenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Santa Croce",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bargello",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Viali dei Colli [Florenz]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "San Miniato al Monte",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

@@ -79,7 +79,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XXIII., Liesing",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -106,15 +121,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kalksburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Laab im Walde"
 }, {
  "type":
@@ -124,7 +130,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kaltenleutgeben"
+ "Kaltenleutgeben",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Pfarrkirche Kaltenleutgeben",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -143,24 +159,6 @@
  "Aufenthaltsorte",
  "head":
  "Gasthaus Weide"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pfarrkirche Kaltenleutgeben"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
 }, {
  "type":
  "pollaczek",

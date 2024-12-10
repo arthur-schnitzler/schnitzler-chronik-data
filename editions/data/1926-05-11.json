@@ -100,16 +100,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hamburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hamburger Hafen"
+ "Hamburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hamburger Hafen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

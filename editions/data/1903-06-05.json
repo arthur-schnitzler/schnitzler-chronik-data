@@ -36,7 +36,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Mailand"
+ "Mailand",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Caffè Cova",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ristorante Savini",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -46,22 +61,4 @@
  "Aufenthaltsorte",
  "head":
  "Certosa di Pavia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Caffè Cova"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ristorante Savini"
 }] 

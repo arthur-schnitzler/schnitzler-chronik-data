@@ -191,7 +191,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berchtesgaden"
+ "Berchtesgaden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Salzbergwerk Berchtesgaden",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -201,13 +211,4 @@
  "Aufenthaltsorte",
  "head":
  "Königssee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Salzbergwerk Berchtesgaden"
 }] 

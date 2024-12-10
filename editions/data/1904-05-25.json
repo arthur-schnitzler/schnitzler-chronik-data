@@ -36,23 +36,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neapel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Museo archeologico nazionale di Napoli"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vesuvio"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Museo archeologico nazionale di Napoli",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ]
+}
 }] 

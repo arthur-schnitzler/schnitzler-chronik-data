@@ -304,43 +304,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Guignol"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "parc des Buttes-Chaumont"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "avenue des Champs-Élysées"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Guignol",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "parc des Buttes-Chaumont",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "avenue des Champs-Élysées",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

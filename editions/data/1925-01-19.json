@@ -69,16 +69,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Zürich"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kongresshaus Zürich"
+ "Zürich",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kongresshaus Zürich",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

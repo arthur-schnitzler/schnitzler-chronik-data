@@ -197,7 +197,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "rue de Maubeuge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Moulin Rouge",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cabaret du Néant",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Cabaret du Ciel",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -206,61 +231,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "rue de Maubeuge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Petit Trianon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Trianon"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Moulin Rouge"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cabaret du Néant"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Cabaret du Ciel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Versailles"
+ "Versailles",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Petit Trianon",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grand Trianon",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

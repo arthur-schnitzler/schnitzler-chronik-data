@@ -46,7 +46,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Genf"
+ "Genf",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hôtel de la Paix [Genf]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,16 +65,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hôtel de la Paix [Genf]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Interlaken"
+ "Interlaken",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hôtel Métropole Interlaken",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -74,13 +85,4 @@
  "Aufenthaltsorte",
  "head":
  "Mürren"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hôtel Métropole Interlaken"
 }] 

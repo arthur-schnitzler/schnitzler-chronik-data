@@ -36,32 +36,25 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Paris"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Castiglione"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Le Caillou"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "passage des Panoramas"
+ "Paris",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Castiglione",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Le Caillou",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "passage des Panoramas",
+ "ref":
+ ""}
+ ]
+}
 }] 

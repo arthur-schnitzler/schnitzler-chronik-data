@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2024-12-06.">06.12.2024</date>
+            <date when-iso="2024-12-10.">10.12.2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -80,28 +80,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-04-04.html</idno>
             </event>
             <event when-iso="1901-04-04">
-               <head>Rom</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1901-04-04">
-               <head>Engelsburg</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1901-04-04">
-               <head>Terme di Diocleziano</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1901-04-04">
-               <head>Palazzo Barberini</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1901-04-04">
-               <head>Galleria Borghese</head>
-               <desc/>
+               <head corresp="#pmb445">Rom</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb41949">
+                        <placeName>Engelsburg</placeName>
+                     </place>
+                     <place corresp="#pmb231442">
+                        <placeName>Terme di Diocleziano</placeName>
+                     </place>
+                     <place corresp="#pmb231445">
+                        <placeName>Palazzo Barberini</placeName>
+                     </place>
+                     <place corresp="#pmb231448">
+                        <placeName>Galleria Borghese</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1901-04-04">

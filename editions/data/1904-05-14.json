@@ -36,16 +36,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neapel"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Vesuvio"
+ "Neapel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vesuvio",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stazione Zoologica Anton Dohrn",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -55,15 +61,6 @@
  "Aufenthaltsorte",
  "head":
  "Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stazione Zoologica Anton Dohrn"
 }, {
  "type":
  "kalliope-verbund",

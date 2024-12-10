@@ -109,52 +109,37 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Mariahissen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Katarinahissen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Skansen"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hasselbacken"
+ "Stockholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Stockholm",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Mariahissen",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Katarinahissen",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Skansen",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hasselbacken",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",

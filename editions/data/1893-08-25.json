@@ -47,7 +47,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Toblach"
+ "Toblach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Carbonin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -56,23 +66,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Albergo dell’Angelo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Carbonin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Pieve di Cadore"
+ "Pieve di Cadore",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Albergo dell’Angelo",
+ "ref":
+ ""}
+ ]
+}
 }] 

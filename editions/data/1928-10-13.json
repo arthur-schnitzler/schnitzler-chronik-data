@@ -84,7 +84,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Ethnologisches Museum Berlin",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -94,15 +104,6 @@
  "Aufenthaltsorte",
  "head":
  "Herbert-von-Karajan-Straße 15"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ethnologisches Museum Berlin"
 }, {
  "type":
  "pollaczek",

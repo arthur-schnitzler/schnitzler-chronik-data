@@ -119,34 +119,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Amsterdam"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Johannes Verhulststraat"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Concertgebouw"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant van Laar"
+ "Amsterdam",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Johannes Verhulststraat",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Concertgebouw",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Restaurant van Laar",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

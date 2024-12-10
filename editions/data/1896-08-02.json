@@ -78,25 +78,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Tivoli [Kopenhagen]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel König von Dänemark"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kopenhagen"
+ "Kopenhagen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Tivoli [Kopenhagen]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel König von Dänemark",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

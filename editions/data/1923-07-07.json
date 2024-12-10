@@ -88,23 +88,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Nürnberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Victoria [Nürnberg]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Fürstenhof"
+ "Nürnberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Victoria [Nürnberg]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Fürstenhof",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -29,34 +29,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Florenz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Uffizien"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Santa Maria del Carmine"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Basilica di San Lorenzo"
+ "Florenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Uffizien",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Santa Maria del Carmine",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Basilica di San Lorenzo",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

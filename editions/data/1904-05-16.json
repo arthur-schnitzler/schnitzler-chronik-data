@@ -194,43 +194,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel et des Palmes"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Giulia"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Orto botanico di Palermo"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Igiea"
+ "Palermo",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel et des Palmes",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Giulia",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Orto botanico di Palermo",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Igiea",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-traeume",

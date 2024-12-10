@@ -74,7 +74,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stockholm"
+ "Stockholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Operakällaren",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Dramaten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -83,34 +98,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Drottningholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Drottningholms Slottsteater"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Operakällaren"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Dramaten"
+ "Drottningholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Drottningholms Slottsteater",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

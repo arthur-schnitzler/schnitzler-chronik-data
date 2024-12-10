@@ -144,23 +144,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Graz"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schlossberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Elephant"
+ "Graz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schlossberg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Elephant",
+ "ref":
+ ""}
+ ]
+}
 }] 

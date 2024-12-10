@@ -89,34 +89,27 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Blauer Stern"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Haus [Prag]"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Malá Strana"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Blauer Stern",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Deutsches Haus [Prag]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Malá Strana",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -135,7 +128,7 @@
   [
  {
  "orgName":
- "Concordia",
+ "Concordia. Journalisten- und Schriftstellerverein",
  "ref":
  ""}
  ],

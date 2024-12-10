@@ -48,23 +48,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel de L’Europe, G. Jung"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Café Tomaselli"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel de L’Europe, G. Jung",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Café Tomaselli",
+ "ref":
+ ""}
+ ]
+}
 }] 

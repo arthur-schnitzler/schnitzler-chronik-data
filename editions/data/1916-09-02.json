@@ -154,7 +154,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Salzburg"
+ "Salzburg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel de L’Europe, G. Jung",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -163,23 +173,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Grand Hotel de L’Europe, G. Jung"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Altaussee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Villa Annerl"
+ "Altaussee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Villa Annerl",
+ "ref":
+ ""}
+ ]
+}
 }] 

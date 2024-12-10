@@ -86,23 +86,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grand Hotel Stockholm"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Nationalmuseum"
+ "Stockholm",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Stockholm",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Nationalmuseum",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -232,7 +232,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -241,25 +251,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Friedhof Hallstatt"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hallstatt"
+ "Hallstatt",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Friedhof Hallstatt",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",

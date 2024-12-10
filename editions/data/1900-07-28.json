@@ -59,7 +59,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wien"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,23 +78,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Aussee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gasthaus Post"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Frankgasse 1"
+ "Bad Aussee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthaus Post",
+ "ref":
+ ""}
+ ]
+}
 }] 

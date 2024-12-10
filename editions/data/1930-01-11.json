@@ -129,43 +129,32 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Grunewald"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Unter den Linden"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lanzsch &amp; Co."
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Gloria-Palast"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grunewald",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Unter den Linden",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lanzsch &amp; Co.",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Gloria-Palast",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",

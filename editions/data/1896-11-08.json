@@ -66,16 +66,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Berlin"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Restaurant Hiller"
+ "Berlin",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Restaurant Hiller",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
