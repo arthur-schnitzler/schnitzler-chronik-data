@@ -74,7 +74,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Kickelhahn"
+ "Kickelhahn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Goethehäuschen",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -84,13 +94,4 @@
  "Aufenthaltsorte",
  "head":
  "Berghotel Gabelbach"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Goethehäuschen"
 }] 
