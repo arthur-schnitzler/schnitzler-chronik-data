@@ -46,10 +46,13 @@
                             <name>Wolfgang Lukas</name>
                             <name>Michael Scheffel</name>
                             <name>Andrew Webber</name>
+                            <principal>Wolfgang Lukas</principal>
+                            <principal>Michael Scheffel</principal>
                         </respStmt>
                         <respStmt>
                             <resp>converted to XML encoding</resp>
                             <name>Kristina Fink,</name>
+                            
                         </respStmt>
                     </titleStmt>
                     <publicationStmt>
