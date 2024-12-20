@@ -1,0 +1,2579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Document on data exchange between the projects Arthur Schnitzler digital and Schnitzler-Tage</title>
+        <respStmt>
+          <resp>exported data from Arthur Schnitzler digital database</resp>
+          <persName>Kristina Fink</persName>
+        </respStmt>
+        <principal>Wolfgang Lukas</principal>
+        <principal>Michael Scheffel</principal>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listEvent>
+        <event xmlns="" when-iso="1915-02-22">
+          <head>Casanovas Heimfahrt, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-06-03">
+          <head>Casanovas Heimfahrt, Typoskript, Mappendatierung</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1906-07-20">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-11-18">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-05-31">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-13">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-27">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-30">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-16">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-18">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-20">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-25">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-02-09">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1920-10-25">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1920-11-17">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-04-11">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-05-25">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-06-04">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-06-13">
+          <head>Der Gang zum Weiher, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-23">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-25">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-26">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-27">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-28">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1926-01-29">
+          <head>Der Gang zum Weiher, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1910-04-19">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-23">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-10-17">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-09-19">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-20">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-20">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-05-04">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-05-21">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-05-25">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-05-27">
+          <head>Der letzte Brief eines Literaten, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1901-09-10">
+          <head>Der Puppenspieler, erschl. hsl. Werkniederschrift 1, zwischen 10. September 1901 und 5. Oktober 1901</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1901-09-12">
+          <head>Der Puppenspieler, erschl. hsl. Werkniederschrift 1, zwischen 10. September 1901 und 5. Oktober 1901</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1901-09-16">
+          <head>Der Puppenspieler, erschl. hsl. Werkniederschrift 1, zwischen 10. September 1901 und 5. Oktober 1901</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1901-09-23">
+          <head>Der Puppenspieler, erschl. hsl. Werkniederschrift 1, zwischen 10. September 1901 und 5. Oktober 1901</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1901-10-05">
+          <head>Der Puppenspieler, erschl. hsl. Werkniederschrift 1, zwischen 10. September 1901 und 5. Oktober 1901</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1903-05-19">
+          <head>Der Puppenspieler, erschl. msl. Werkniederschrift 2, 19. Mai 1903</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_*T2</idno>
+        </event>
+        <event xmlns="" when-iso="1903-05-31">
+          <head>Der Puppenspieler, Journaldruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/PUP_DJ_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-22">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-24">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-27">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-29">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1927-11-07">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1927-11-21">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-02">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-05">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-07">
+          <head>Der Sekundant, Typoskript, Pollak hat fälschlicherweise das Vorjahr notiert</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-07">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-11">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-21">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-26">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-29">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-01-30">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-02-02">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-02-18">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-02-20">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-02-23">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-03-08">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-07-23">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1929-11-14">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-04-12">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-01">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-04">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-09">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-13">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-18">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-20">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-10-30">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-07-21">
+          <head>Der Sekundant, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-09-05">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-09-07">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-09-16">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-09-30">
+          <head>Der Sekundant, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1932-01-01">
+          <head>Der Sekundant, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1932-01-02">
+          <head>Der Sekundant, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1932-01-03">
+          <head>Der Sekundant, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1932-01-04">
+          <head>Der Sekundant, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-02-05">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-09">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-16">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-21">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-02">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-09">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-07-27">
+          <head>Die Frau des Richters, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-12-17">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-30">
+          <head>Die Frau des Richters, Manuskript, 30.01.1918 oder 08.02.1918</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-02-08">
+          <head>Die Frau des Richters, Manuskript, 30.01.1918 oder 08.02.1918</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-02-11">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-02-14">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-03-08">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-03-15">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1919-02-03">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-09-22">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-09-29">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-09-29">
+          <head>Die Frau des Richters, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-11-16">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-11-23">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-04">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-07">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-11">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-14">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-21">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-11">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-27">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-15">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-26">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-05">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-08">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-12">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-15">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-22">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-25">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-29">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-09-22">
+          <head>Die Frau des Richters, Typoskript, Jahr erschlossen</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-08">
+          <head>Die Frau des Richters, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1908-03-28">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-09-11">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-10-21">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-04-23">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-04-26">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-05-18">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-05-20">
+          <head>Die Schwestern oder Casanova in Spa, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1919-09-12">
+          <head>Die Schwestern oder Casanova in Spa, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-01-01">
+          <head>Doktor Gräsler, Badearzt, erschl. hsl. Skizze 1</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_*SH1</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-28">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-29">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-30">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-31">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-01">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-02">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-03">
+          <head>Doktor Gräsler, Badearzt, hsl. Skizze 3, 28.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_SH3'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-31">
+          <head>Doktor Gräsler, Badearzt, msl. Werkniederschrift 1, 31.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_T1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-01">
+          <head>Doktor Gräsler, Badearzt, msl. Werkniederschrift 1, 31.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_T1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-02">
+          <head>Doktor Gräsler, Badearzt, msl. Werkniederschrift 1, 31.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_T1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-02-03">
+          <head>Doktor Gräsler, Badearzt, msl. Werkniederschrift 1, 31.01.1911 – 03.02.1911 (unsicher)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_T1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-03-19">
+          <head>Doktor Gräsler, Badearzt, Zeitungsausschnitt</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_Z1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1917-01-09">
+          <head>Doktor Gräsler, Badearzt, erschl. Druckfahne (Berliner Tageblatt)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_*D01</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-10">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0074</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-11">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0076</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-13">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0079</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-14">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0081</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-15">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0083</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-16">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0085</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-17">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0087</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-18">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0089</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-20">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0092</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-21">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0094</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-22">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0096</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-23">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0098</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-24">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0100</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-25">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0102</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-27">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0105</idno>
+        </event>
+        <event xmlns="" when-iso="1917-02-28">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0107</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-01">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0109</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-02">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0111</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-03">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0113</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-04">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0115</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-06">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0118</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-07">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0120</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-08">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0122</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-09">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0124</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-10">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0126</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-11">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0128</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-13">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0131</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-14">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0133</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-15">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0135</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-16">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0137</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-17">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0139</idno>
+        </event>
+        <event xmlns="" when-iso="1917-03-18">
+          <head>Doktor Gräsler, Badearzt, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/GRA_DJ_0141</idno>
+        </event>
+        <event xmlns="" when-iso="1894-05-18">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1896-05-27">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-11">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-01-28">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1910-05-05">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1910-11-12">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-12-27">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-09-18">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-09-20">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-09-22">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-10-23">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-11-18">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-11-23">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-11-25">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-12-15">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-12-16">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-12-17">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-12-19">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-02-11">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-02-23">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-01">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-03">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-05">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-07">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-09">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-10">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-16">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-17">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-18">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-19">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-21">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-23">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-24">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-26">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-27">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-03-31">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-03">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-06">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-07">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-09">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-10">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-11">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-14">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-17">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1914-04-18">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-04-09">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-04-12">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-11">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-03-20">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-03-23">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-04-03">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-04-17">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-04-21">
+          <head>Fink und Fliederbusch, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1916-12-28">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-09-06">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-10-02">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-10-03">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-10-04">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-10-05">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-10-07">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1917-11-15">
+          <head>Fink und Fliederbusch, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-11-09">
+          <head>Flucht in die Finsternis, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-23">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-23">
+          <head>Flucht in die Finsternis, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-23">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-06-26">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Flucht in die Finsternis, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Flucht in die Finsternis, Manuskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Flucht in die Finsternis, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-08-06">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-08-12">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-08-12">
+          <head>Flucht in die Finsternis, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-09-14">
+          <head>Flucht in die Finsternis, Typoskript, Datum des Diktats/der Abschrift des unteren Teils der Seite</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-09-14">
+          <head>Flucht in die Finsternis, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1913-05-08">
+          <head>Flucht in die Finsternis, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-10-14">
+          <head>Flucht in die Finsternis, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-10-15">
+          <head>Flucht in die Finsternis, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1931-10-16">
+          <head>Flucht in die Finsternis, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Fräulein Else, msl. Stoffnotiz 6, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_PT6_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Fräulein Else, msl. Stoffnotiz 7, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_PT7_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Fräulein Else, msl. Stoffnotiz 8, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_PT8_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Fräulein Else, msl. Stoffnotiz 9, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_PT9_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1921-08-12">
+          <head>Fräulein Else, msl. Skizze 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_ST2_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-14">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_*0001</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-18">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0019</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-18">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_*0001</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-21">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0029</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-26">
+          <head>Fräulein Else, hsl. Werkniederschrift, 26.12.1922, 29.12.1922 o. 01.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0023</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-29">
+          <head>Fräulein Else, hsl. Werkniederschrift, 26.12.1922, 29.12.1922 o. 01.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0023</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-01">
+          <head>Fräulein Else, hsl. Werkniederschrift, 26.12.1922, 29.12.1922 o. 01.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0023</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-04">
+          <head>Fräulein Else, hsl. Werkniederschrift, 04.01.1923 o. 05.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0056</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-04">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0033</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-05">
+          <head>Fräulein Else, hsl. Werkniederschrift, 04.01.1923 o. 05.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0056</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-08">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0075</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-11">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0052</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-15">
+          <head>Fräulein Else, hsl. Werkniederschrift, 15.01.1923, 28.01.1923, 29.01.1923 o. 30.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0091</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-28">
+          <head>Fräulein Else, hsl. Werkniederschrift, 15.01.1923, 28.01.1923, 29.01.1923 o. 30.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0091</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-29">
+          <head>Fräulein Else, hsl. Werkniederschrift, 15.01.1923, 28.01.1923, 29.01.1923 o. 30.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0091</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-30">
+          <head>Fräulein Else, hsl. Werkniederschrift, 15.01.1923, 28.01.1923, 29.01.1923 o. 30.01.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0091</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-31">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0123</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-01">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0069</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-03">
+          <head>Fräulein Else, hsl. Werkniederschrift, 03.02.1923 o. 11.02.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0133</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-11">
+          <head>Fräulein Else, hsl. Werkniederschrift, 03.02.1923 o. 11.02.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0133</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-15">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0089</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-21">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0161</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-24">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0169</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-26">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0099</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-01">
+          <head>Fräulein Else, hsl. Werkniederschrift, 01.03.1923 o. 04.03.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0185</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-04">
+          <head>Fräulein Else, hsl. Werkniederschrift, 01.03.1923 o. 04.03.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0185</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-05">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0107</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-15">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0187</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-19">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0114</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-20">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0191</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-25">
+          <head>Fräulein Else, msl. Werkniederschrift, vgl. dagegen Tb, 26.03.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0120</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-31">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0193</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-02">
+          <head>Fräulein Else, hsl. Werkniederschrift, 02.04.1923, 03.04.1923 o. 04.04.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0203</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-03">
+          <head>Fräulein Else, hsl. Werkniederschrift, 02.04.1923, 03.04.1923 o. 04.04.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0203</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-04">
+          <head>Fräulein Else, hsl. Werkniederschrift, 02.04.1923, 03.04.1923 o. 04.04.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0203</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-05">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0131</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-06">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0249</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-09">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0151</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-10">
+          <head>Fräulein Else, hsl. Werkniederschrift, 10.04.1923 o. 11.04.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0269</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-11">
+          <head>Fräulein Else, hsl. Werkniederschrift, 10.04.1923 o. 11.04.1923</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0269</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-12">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0301</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-13">
+          <head>Fräulein Else, hsl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_H1_0313</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-13">
+          <head>Fräulein Else, msl. Werkniederschrift, vgl. Tagebuch (abweichend Faksimile)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0163</idno>
+        </event>
+        <event xmlns="" when-iso="1923-04-18">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0185</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-20">
+          <head>Fräulein Else, msl. Werkniederschrift</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_T1_0013</idno>
+        </event>
+        <event xmlns="" when-iso="1924-09-05">
+          <head>Fräulein Else, erschl. Druckfahne (Neue Rundschau)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_*D01</idno>
+        </event>
+        <event xmlns="" when-iso="1924-10-21">
+          <head>Fräulein Else, erschl. Druckfahne (Zsolnay-Verlag)</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ELS_*D02</idno>
+        </event>
+        <event xmlns="" when-iso="1906-10-22">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1906-10-29">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1907-04-08">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1907-04-14">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1907-05-14">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1907-11-28">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-09-25">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1909-10-06">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-02">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-02">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-03">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-14">
+          <head>Große Szene, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1911-01-14">
+          <head>Große Szene, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1929-12-16">
+          <head>Im Spiel der Sommerlüfte, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1929-12-17">
+          <head>Im Spiel der Sommerlüfte, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1929-12-18">
+          <head>Im Spiel der Sommerlüfte, Bucherstdruck</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1904-10-09">
+          <head>Komödie der Verführung, hsl. Skizze 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K1b_*SH4</idno>
+        </event>
+        <event xmlns="" when-iso="1908-04-11">
+          <head>Komödie der Verführung, msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T2_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1908-04-14">
+          <head>Komödie der Verführung, msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T2_0079</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-15">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-17">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0013</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-19">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0023</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-23">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0027</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-25">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0037</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-26">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0045</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-29">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0059</idno>
+        </event>
+        <event xmlns="" when-iso="1915-09-30">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0065</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-03">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0073</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-06">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0089</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-07">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0092</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-08">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0099</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-14">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0107</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-15">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0111</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-16">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0115</idno>
+        </event>
+        <event xmlns="" when-iso="1915-10-19">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0121</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-07">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0127</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-09">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0133</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-11">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0137</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-14">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0147</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-15">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0153</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-16">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0161</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-17">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0169</idno>
+        </event>
+        <event xmlns="" when-iso="1915-11-19">
+          <head>Komödie der Verführung, hsl. Werkniederschrift 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_H4_0179</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-16">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-17">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-18">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-19">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-20">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-21">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-22">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-23">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5, 16.01.1918 – 23.01.1918</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0451</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-28">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0465</idno>
+        </event>
+        <event xmlns="" when-iso="1918-01-30">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0484</idno>
+        </event>
+        <event xmlns="" when-iso="1918-02-02">
+          <head>Komödie der Verführung, msl. Werkniederschrift 5</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0506</idno>
+        </event>
+        <event xmlns="" when-iso="1921-08-18">
+          <head>Komödie der Verführung, msl. Skizze 4</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_ST4_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-20">
+          <head>Komödie der Verführung, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_DJ_0031</idno>
+        </event>
+        <event xmlns="" when-iso="1924-07-19">
+          <head>Komödie der Verführung, Druckfahne 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_*D0H2</idno>
+        </event>
+        <event xmlns="" when-iso="1924-07-20">
+          <head>Komödie der Verführung, Druckfahne 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_*D0H2</idno>
+        </event>
+        <event xmlns="" when-iso="1924-07-28">
+          <head>Komödie der Verführung, Druckfahne 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_0017</idno>
+        </event>
+        <event xmlns="" when-iso="1924-07-29">
+          <head>Komödie der Verführung, Druckfahne 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1924-07-30">
+          <head>Komödie der Verführung, Druckfahne 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_0065</idno>
+        </event>
+        <event xmlns="" when-iso="1924-08-01">
+          <head>Komödie der Verführung, Druckfahne 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_0097</idno>
+        </event>
+        <event xmlns="" when-iso="1924-08-02">
+          <head>Komödie der Verführung, Druckfahne 3, zwischen 02.08.1924 und 04.08.1924</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_*0209</idno>
+        </event>
+        <event xmlns="" when-iso="1924-08-03">
+          <head>Komödie der Verführung, Druckfahne 3, zwischen 02.08.1924 und 04.08.1924</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_*0209</idno>
+        </event>
+        <event xmlns="" when-iso="1924-08-04">
+          <head>Komödie der Verführung, Druckfahne 3, zwischen 02.08.1924 und 04.08.1924</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_*0209</idno>
+        </event>
+        <event xmlns="" when-iso="1924-08-04">
+          <head>Komödie der Verführung, Druckfahne 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_D0H3_0257</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-16">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-17">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-18">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-19">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-20">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-21">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-22">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1906-03-23">
+          <head>Marionetten, Bucherstdruck, 1906</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/MAR_D1_0002</idno>
+        </event>
+        <event xmlns="" when-iso="1904-10-23">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH2</idno>
+        </event>
+        <event xmlns="" when-iso="1905-09-27">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 4, 27.09.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH4</idno>
+        </event>
+        <event xmlns="" when-iso="1905-10-04">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 5, zwischen 04.10.1905 und 08.10.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
+        </event>
+        <event xmlns="" when-iso="1905-10-05">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 5, zwischen 04.10.1905 und 08.10.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
+        </event>
+        <event xmlns="" when-iso="1905-10-06">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 5, zwischen 04.10.1905 und 08.10.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
+        </event>
+        <event xmlns="" when-iso="1905-10-07">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 5, zwischen 04.10.1905 und 08.10.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
+        </event>
+        <event xmlns="" when-iso="1905-10-08">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 5, zwischen 04.10.1905 und 08.10.1905</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
+        </event>
+        <event xmlns="" when-iso="1908-08-22">
+          <head>Professor Bernhardi, Zeitungsausschnitt 1</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_Z1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1909-11-02">
+          <head>Professor Bernhardi, K5 erschl. hsl. Skizze 7</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH7</idno>
+        </event>
+        <event xmlns="" when-iso="1909-11-04">
+          <head>Professor Bernhardi, K5 msl. Skizze 8</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_ST8_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1910-05-06">
+          <head>Professor Bernhardi, K5 msl. Skizze 6, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_ST6_0045</idno>
+        </event>
+        <event xmlns="" when-iso="1910-05-07">
+          <head>Professor Bernhardi, Zeitungsausschnitt 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_Z2_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1910-07-11">
+          <head>Professor Bernhardi, Zeitungsausschnitt 3</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_Z3_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1911-03-25">
+          <head>Professor Bernhardi, K5 erschl. hsl. Notiz 4, 25.03.1911</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*NH4</idno>
+        </event>
+        <event xmlns="" when-iso="1911-10-04">
+          <head>Professor Bernhardi, K5 msl. Werkniederschrift 1, unsicher</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T1_0299</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-25">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-26">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-27">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-28">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-29">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-30">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-01-31">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-01">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 25.01.1912 und 01.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0257</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-12">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0319</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-13">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0333</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-14">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0361</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-15">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0397</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-16">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0409</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-20">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0433</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-21">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_0447</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-22">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-23">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-24">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-25">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-26">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-27">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-28">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-02-29">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 22.02.1912 und 29.02.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0521</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-04">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 04.03.1912 und 08.03.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0657</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-05">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 04.03.1912 und 08.03.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0657</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-06">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 04.03.1912 und 08.03.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0657</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-07">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 04.03.1912 und 08.03.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0657</idno>
+        </event>
+        <event xmlns="" when-iso="1912-03-08">
+          <head>Professor Bernhardi, K5 part. msl. Werkniederschrift 2, Diktat zwischen 04.03.1912 und 08.03.1912</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_T2_*0657</idno>
+        </event>
+        <event xmlns="" when-iso="1912-11-28">
+          <head>Professor Bernhardi, Bucherstdruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_D1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Spiel im Morgengrauen, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Spiel im Morgengrauen, Manuskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Spiel im Morgengrauen, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-04">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-07">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-13">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-03-24">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-03-27">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-24">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-25">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-27">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-28">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-01">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-05">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-08">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-14">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-17">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-22">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-24">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-26">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-28">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-05-31">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-06-05">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-06-07">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-06-11">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-06-12">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-06-14">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-11-28">
+          <head>Spiel im Morgengrauen, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1928-12-13">
+          <head>Spiel im Morgengrauen, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Stunde des Erkennens, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Stunde des Erkennens, Manuskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Stunde des Erkennens, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Therese. Chronik eines Frauenlebens, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Therese. Chronik eines Frauenlebens, Manuskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Therese. Chronik eines Frauenlebens, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1918-09-20">
+          <head>Therese. Chronik eines Frauenlebens, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1907-06-20">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Traumnovelle, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Traumnovelle, Manuskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1912-07-01">
+          <head>Traumnovelle, Typoskript, unsicher</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1915-06-11">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1921-12-19">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-09-28">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-10-05">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-11-13">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-11-27">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-08">
+          <head>Traumnovelle, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1922-12-11">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-04">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-08">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-11">
+          <head>Traumnovelle, Typoskript, 11.01.1923 oder 18.01.1923</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-18">
+          <head>Traumnovelle, Typoskript, 11.01.1923 oder 18.01.1923</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-01-27">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-05">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-15">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-02-26">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-01">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-05">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-08">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-12">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-15">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-17">
+          <head>Traumnovelle, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-03-19">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1923-10-18">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1924-04-14">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-12-14">
+          <head>Traumnovelle, Manuskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-12-15">
+          <head>Traumnovelle, Typoskript, 15.12.1930 – 17.12.1930</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-12-16">
+          <head>Traumnovelle, Typoskript, 15.12.1930 – 17.12.1930</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-12-17">
+          <head>Traumnovelle, Typoskript, 15.12.1930 – 17.12.1930</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1930-12-29">
+          <head>Traumnovelle, Typoskript</head>
+          <desc>Publikation in Vorbereitung</desc>
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net</idno>
+        </event>
+        <event xmlns="" when-iso="1900-07-06">
+          <head>Zum großen Wurstel, K2 erschl. hsl. Werkniederschrift 0, wahrscheinlich ab 6. Juli 1900, im Laufe des Aufenthalts in Reichenau</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K2_*H0</idno>
+        </event>
+        <event xmlns="" when-iso="1903-08-05">
+          <head>Zum großen Wurstel, erschl. hsl. Libretto 0, Vom 5. August 1903 bis ca. 25. August 1903</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_*BH0</idno>
+        </event>
+        <event xmlns="" when-iso="1903-08-25">
+          <head>Zum großen Wurstel, erschl. hsl. Libretto 0, Vom 5. August 1903 bis ca. 25. August 1903</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_*BH0</idno>
+        </event>
+        <event xmlns="" when-iso="1904-08-14">
+          <head>Zum großen Wurstel, K4 erschl. hsl. Werkniederschrift 1, Von 14. August 1904 bis 28. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1904-08-23">
+          <head>Zum großen Wurstel, K4 erschl. hsl. Werkniederschrift 1, Von 14. August 1904 bis 28. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-02">
+          <head>Zum großen Wurstel, K4 erschl. msl. Werkniederschrift 2, Vom 2. September 1904 bis 9. Oktober 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*T2</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-10">
+          <head>Zum großen Wurstel, K4 hsl. Notiz 1, zwischen 10. und 19. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_NH1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-18">
+          <head>Zum großen Wurstel, K4 hsl. Notiz 1, zwischen 10. und 19. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_NH1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-19">
+          <head>Zum großen Wurstel, K4 hsl. Notiz 1, zwischen 10. und 19. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_NH1_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-22">
+          <head>Zum großen Wurstel, K4 erschl. msl. Werkniederschrift 2, Vom 2. September 1904 bis 9. Oktober 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*T2</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-24">
+          <head>Zum großen Wurstel, K4 erschl. hsl. Werkniederschrift 1, Von 14. August 1904 bis 28. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-26">
+          <head>Zum großen Wurstel, K4 erschl. msl. Werkniederschrift 2, Vom 2. September 1904 bis 9. Oktober 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*T2</idno>
+        </event>
+        <event xmlns="" when-iso="1904-09-28">
+          <head>Zum großen Wurstel, K4 erschl. hsl. Werkniederschrift 1, Von 14. August 1904 bis 28. September 1904</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_K4_*H1</idno>
+        </event>
+        <event xmlns="" when-iso="1905-04-23">
+          <head>Zum großen Wurstel, Journaldruck</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/WUR_DJ_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-14">
+          <head>„Ich“.–, hsl. Werkniederschrift 1, Mitte Oktober 1927 innerhalb weniger Tage, höchstwahrscheinlich zwischen 14. u. 16.10.1927</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_H1'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-15">
+          <head>„Ich“.–, hsl. Werkniederschrift 1, Mitte Oktober 1927 innerhalb weniger Tage, höchstwahrscheinlich zwischen 14. u. 16.10.1927</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_H1'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-16">
+          <head>„Ich“.–, hsl. Werkniederschrift 1, Mitte Oktober 1927 innerhalb weniger Tage, höchstwahrscheinlich zwischen 14. u. 16.10.1927</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_H1'_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-17">
+          <head>„Ich“.–, msl. Werkniederschrift 1</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_T2_0001</idno>
+        </event>
+        <event xmlns="" when-iso="1927-10-22">
+          <head>„Ich“.–, msl. Werkniederschrift 1</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_T2_0029</idno>
+        </event>
+        <event xmlns="" when-iso="1927-11-07">
+          <head>„Ich“.–, msl. Werkniederschrift 1</head>
+          <desc />
+          <idno type="Arthur Schnitzler digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/ICH_T2_0039</idno>
+        </event>
+      </listEvent>
+    </body>
+  </text>
+</TEI>
