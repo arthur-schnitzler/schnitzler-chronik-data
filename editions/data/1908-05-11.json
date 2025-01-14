@@ -129,7 +129,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Vier Jahreszeiten",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -166,4 +176,13 @@
  "Aufenthaltsorte",
  "head":
  "Eibsee"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Rissersee"
 }] 
