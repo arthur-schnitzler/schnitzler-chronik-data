@@ -51,16 +51,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Die Wochein"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Ribčev Laz"
+ "Ribčev Laz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Die Wochein",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -78,14 +79,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bled"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Hotel Luisenbad"
+ "Bled",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel Luisenbad",
+ "ref":
+ ""}
+ ]
+}
 }] 
