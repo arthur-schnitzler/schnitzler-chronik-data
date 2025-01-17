@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -135,6 +135,9 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
+                           <place corresp="#pmb232729">
+                              <placeName>Wipplingerstraße 1</placeName>
+                           </place>
                            <place corresp="#pmb199692">
                               <placeName>Schellinggasse 6</placeName>
                            </place>
@@ -161,11 +164,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1903-06-17">
-               <head corresp="#pmb232729">Wipplingerstraße 1</head>
-               <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1903-06-17">

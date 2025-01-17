@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,6 +100,9 @@
                      <place corresp="#69">
                         <placeName>XIX., Döbling</placeName>
                         <listPlace>
+                           <place corresp="#pmb92214">
+                              <placeName>Donaulände</placeName>
+                           </place>
                            <place corresp="#pmb403">
                               <placeName>Nussdorf</placeName>
                            </place>
@@ -119,11 +122,6 @@
             </event>
             <event when-iso="1891-06-10">
                <head corresp="#pmb142836">Diglas’ Restaurant »Zur schönen Aussicht«</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1891-06-10">
-               <head corresp="#pmb92214">Donaulände</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>
