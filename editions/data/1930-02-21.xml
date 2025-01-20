@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -146,7 +146,7 @@
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp766.html</idno>
             </event>
             <event when-iso="1930-02-21">
-               <head>Konzert von Lili Kraus, 21.2.1930</head>
+               <head>Klavierkonzert von Lili Kraus, 21.2.1930</head>
                <desc>
                   <listPerson>
                      <person role="hat als Arbeitskraft">
@@ -156,6 +156,14 @@
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/237951/</idno>
             </event>

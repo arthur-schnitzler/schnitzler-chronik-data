@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,6 +105,19 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb50933">
+                              <placeName>Praterstraße</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb236013">
+                                    <placeName>Praterstraße 42</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#68">
                         <placeName>XVIII., Währing</placeName>
                         <listPlace>
@@ -115,17 +128,6 @@
                               <placeName>Sternwartestraße 71</placeName>
                            </place>
                         </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-04-03">
-               <head corresp="#pmb50933">Praterstraße</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb236013">
-                        <placeName>Praterstraße 42</placeName>
                      </place>
                   </listPlace>
                </desc>

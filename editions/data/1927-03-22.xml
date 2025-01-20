@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -170,8 +170,14 @@
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1927-03-22">
-               <head>Marionettentheater im Apollotheater, 22.3.1927</head>
+               <head>Aufführung von Komödie der Verführung, 22.3.1927</head>
                <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30205">Komödie der Verführung. In drei Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
                   <listPerson>
                      <person role="hat als Teilnehmer:in">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -179,14 +185,39 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb52023">Apollo-Theater [Wien]</placeName>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
                         <location>
-                           <geo>48,1975 16,353889</geo>
+                           <geo>48,210333 16,361139</geo>
                         </location>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/210407/</idno>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/247220/</idno>
+            </event>
+            <event when-iso="1927-03-22">
+               <head>Generalprobe von Komtesse Mizzi, 22.3.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29931">Komtesse Mizzi oder: Der Familientag</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
+                        <location>
+                           <geo>48,200254933632 16,377117625773</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/247216/</idno>
             </event>
             <event when-iso="1927-03-22">
                <head>Löwenstamm, Emma an Schnitzler, Arthur [Briefe]</head>

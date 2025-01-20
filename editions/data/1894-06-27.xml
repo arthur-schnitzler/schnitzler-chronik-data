@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -161,6 +161,9 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
+                           <place corresp="#pmb195047">
+                              <placeName>Rathausstraße 20</placeName>
+                           </place>
                            <place corresp="#pmb103">
                               <placeName>Volksgarten</placeName>
                            </place>
@@ -187,11 +190,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1894-06-27">
-               <head corresp="#pmb195047">Rathausstraße 20</head>
-               <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1894-06-27">

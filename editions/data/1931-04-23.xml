@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,7 +109,10 @@
                         <placeName>XVIII., Währing</placeName>
                         <listPlace>
                            <place corresp="#pmb190582">
-                              <placeName>Michelbeuerntheater</placeName>
+                              <placeName>Michelbeuern-Kino [II]</placeName>
+                           </place>
+                           <place corresp="#pmb190582">
+                              <placeName>Michelbeuern-Kino [II]</placeName>
                            </place>
                            <place corresp="#pmb168815">
                               <placeName>Sternwartestraße 71</placeName>
@@ -118,11 +121,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1931-04-23">
-               <head corresp="#pmb92402">Michelbeuren-Kino</head>
-               <desc/>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1931-04-23">
@@ -149,7 +147,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb190582">Michelbeuerntheater</placeName>
+                        <placeName role="veranstaltet in" key="pmb190582">Michelbeuern-Kino [II]</placeName>
                         <location>
                            <geo>48,227627 16,327784</geo>
                         </location>

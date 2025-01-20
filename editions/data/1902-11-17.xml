@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,6 +104,11 @@
                         <listPlace>
                            <place corresp="#pmb394">
                               <placeName>Kolingasse</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb232256">
+                                    <placeName>Kolingasse 3</placeName>
+                                 </place>
+                              </listPlace>
                            </place>
                            <place corresp="#pmb168934">
                               <placeName>Frankgasse 1</placeName>
@@ -120,11 +125,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1902-11-17">
-               <head corresp="#pmb232256">Kolingasse 3</head>
-               <desc/>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>

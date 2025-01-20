@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-01-15.">15.01.2025</date>
+            <date when-iso="2025-01-17.">17.01.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,6 +100,9 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
+                           <place corresp="#pmb168697">
+                              <placeName>[Tuchlauben 22, Absteigequartier von Leopoldine Müller und Arthur Schnitzler]</placeName>
+                           </place>
                            <place corresp="#pmb7">
                               <placeName>Secession</placeName>
                            </place>
@@ -115,11 +118,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1900-01-27">
-               <head corresp="#pmb168697">[Tuchlauben 22, Absteigequartier von Leopoldine Müller und Arthur Schnitzler]</head>
-               <desc/>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>
