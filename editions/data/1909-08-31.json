@@ -93,16 +93,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Schloss Neuschwanstein"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schwangau"
+ "Schwangau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Schloss Neuschwanstein",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

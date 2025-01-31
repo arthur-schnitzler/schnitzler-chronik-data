@@ -63,23 +63,20 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bodenwiese"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Bürg-Vöstenhof"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Lackerboden"
+ "Bürg-Vöstenhof",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bodenwiese",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Lackerboden",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -89,25 +89,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hohenschwangau",
- "desc":
-{"listPlace":
-  [
- {
- "placeName":
- "Hotel Alpsee",
- "ref":
- ""}
- ]
-}
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "München",
  "desc":
 {"listPlace":
@@ -136,7 +117,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Schwangau"
+ "Schwangau",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hohenschwangau",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "pollaczek",
