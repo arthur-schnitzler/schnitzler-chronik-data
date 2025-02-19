@@ -50,6 +50,15 @@
  "caption":
  "Aufenthaltsorte",
  "head":
+ "Schneeberg"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
  "Baumgartnerhaus"
 }, {
  "type":
@@ -59,7 +68,36 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Wiener Neustadt Hauptbahnhof"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Wiener Neustadt",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Wiener Neustadt Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",
