@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-02-19.">19.02.2025</date>
+            <date when-iso="2025-02-25.">25.02.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -131,6 +131,14 @@
                            </place>
                         </listPlace>
                      </place>
+                     <place corresp="#73">
+                        <placeName>XXIII., Liesing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb91741">
+                              <placeName>Siebenhirten</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#68">
                         <placeName>XVIII., Währing</placeName>
                         <listPlace>
@@ -145,6 +153,32 @@
             </event>
             <event when-iso="1925-06-01">
                <head corresp="#pmb91663">Satzberg</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1925-06-01">
+               <head corresp="#pmb939">Heiligenkreuz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44789">
+                        <placeName>Stift Heiligenkreuz</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1925-06-01">
+               <head corresp="#pmb44102">Kaltenleutgeben</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1925-06-01">
+               <head corresp="#pmb44697">Gaaden</head>
+               <desc/>
+               <idno type="schnitzler-orte"/>
+            </event>
+            <event when-iso="1925-06-01">
+               <head corresp="#pmb968">Mödling</head>
                <desc/>
                <idno type="schnitzler-orte"/>
             </event>

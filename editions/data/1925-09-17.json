@@ -86,7 +86,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Florenz"
+ "Florenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Grand Hotel Baglioni",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -112,6 +122,11 @@
  ,  {
  "placeName":
  "Hotel Bonvecchiati",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Monaco Grand Canal",
  "ref":
  ""}
  ]

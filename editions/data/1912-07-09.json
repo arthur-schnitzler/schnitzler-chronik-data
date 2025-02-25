@@ -41,25 +41,22 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hochschneeberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Schneeberg"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Baumgartnerhaus"
+ "Schneeberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hochschneeberg",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Baumgartnerhaus",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
