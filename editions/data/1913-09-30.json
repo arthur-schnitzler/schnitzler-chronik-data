@@ -59,7 +59,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neuhaus"
+ "Neuhaus",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurhotel Stefanie [Neuhaus]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -68,16 +78,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Neuhaus"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Baden bei Wien"
+ "Baden bei Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Baden bei Wien",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
