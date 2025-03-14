@@ -7,7 +7,7 @@
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:import href="germandate.xsl"/>
     <xsl:param name="relevant-uris"
-        select="document('../editions/indices/list-of-relevant-uris.xml')"/>
+        select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-chronik-static/refs/heads/main/xslt/export/list-of-relevant-uris.xml')"/>
     <xsl:key name="only-relevant-uris" match="item" use="abbr"/>
     <xsl:template match="tei:TEI">
         <empty>
