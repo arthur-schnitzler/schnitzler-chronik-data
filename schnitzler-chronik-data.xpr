@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>import-lists/pmb-event_tage.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>UPDATE pmb-event_tage</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>import-lists/schnitzler-orte_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -30,11 +50,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>import-lists/pmb-event_tage.xml</String>
+                                    <String>editions/indices/tagesliste.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>UPDATE pmb-event_tage</String>
+                                        <String>tagesliste</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -71,26 +91,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>xslts/1_alle-events-zusammenkopieren.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>tagesliste</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>editions/indices/tagesliste.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
