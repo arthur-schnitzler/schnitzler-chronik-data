@@ -1,36 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project basedir="." name="tei2html">
+<project basedir="." name="tei2html" default="all">
+    
+    <!-- Eigenschaften -->
     <property name="tmpDir" value="./tmp"/>
     <property name="editions" value="./editions/complete-list"/>
     <property name="data" value="./editions/data"/>
-    <delete dir="${tmpDir}"/>
-    <delete dir="${data}"/>
-    <mkdir dir="${tmpDir}"/>
-    <mkdir dir="${data}"/>
-    <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-chronik.xml"
-        style="./xslts/1_alle-events-zusammenkopieren.xsl">
-        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-        <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt>
-    <move todir="${editions}">
-        <fileset dir="${tmpDir}"/>
-    </move>
-    <xslt in="${editions}/schnitzler-chronik.xml" out="${tmpDir}/schnitzler-chronik.xml"
-        style="./xslts/2_nach-daten-gruppieren.xsl">
-        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-        <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt>
-    <move todir="${editions}">
-        <fileset dir="${tmpDir}"/>
-    </move>
-    <mkdir dir="${tmpDir}"/>
-    <xslt in="${editions}/schnitzler-chronik.xml" destdir="${tmpDir}" out="${data}/delete.xxx"
-        style="./xslts/3_einzeldateien.xsl">
-        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-        <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt>
-    <move todir="${data}">
-        <fileset dir="${tmpDir}"/>
-    </move>
-    <delete dir="${tmpDir}"/>
+    <property name="saxon.jar" value="${basedir}/saxon/saxon9he.jar"/>
+    
+    <!-- Gemeinsamer Classpath für Saxon -->
+    <path id="saxon.classpath">
+        <pathelement location="${saxon.jar}"/>
+    </path>
+    
+    <!-- Targets -->
+    <target name="clean">
+        <delete dir="${tmpDir}"/>
+        <delete dir="${data}"/>
+    </target>
+    
+    <target name="prepare" depends="clean">
+        <mkdir dir="${tmpDir}"/>
+        <mkdir dir="${data}"/>
+    </target>
+    
+    <!-- Transformiert die Import-Dateien und verschiebt sie zurück nach import-lists -->
+    <target name="transform-import" depends="prepare">
+        <xslt in="./import-lists/pmb-event_tage.xml" out="${tmpDir}/pmb-event_tage.xml"
+            style="./xslts/events-aus-pmb/1_listevent-kuerzen.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
+        <xslt in="./import-lists/schnitzler-orte_tage.xml" out="${tmpDir}/schnitzler-orte_tage.xml"
+            style="./xslts/diverses/orte-to-tage.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
+        <move todir="./import-lists" overwrite="true">
+            <fileset dir="${tmpDir}">
+                <include name="*_tage.xml"/>
+            </fileset>
+        </move>
+    </target>
+    
+    <!-- Alle Events zusammenführen -->
+    <target name="merge-events" depends="transform-import">
+        <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-chronik.xml"
+            style="./xslts/1_alle-events-zusammenkopieren.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
+        <move todir="${editions}">
+            <fileset dir="${tmpDir}" includes="schnitzler-chronik.xml"/>
+        </move>
+    </target>
+    
+    <!-- Nach Datum gruppieren -->
+    <target name="group-dates" depends="merge-events">
+        <xslt in="${editions}/schnitzler-chronik.xml" out="${tmpDir}/schnitzler-chronik.xml"
+            style="./xslts/2_nach-daten-gruppieren.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
+        <move todir="${editions}">
+            <fileset dir="${tmpDir}" includes="schnitzler-chronik.xml"/>
+        </move>
+    </target>
+    
+    <!-- Einzeldateien erzeugen -->
+    <target name="split-files" depends="group-dates">
+        <!-- tmpDir neu anlegen, falls es vorher geleert wurde -->
+        <mkdir dir="${tmpDir}"/>
+        <xslt in="${editions}/schnitzler-chronik.xml" destdir="${tmpDir}"
+            out="${data}/delete.xxx"
+            style="./xslts/3_einzeldateien.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
+        <move todir="${data}">
+            <fileset dir="${tmpDir}"/>
+        </move>
+    </target>
+    
+    <!-- Aufräumen -->
+    <target name="cleanup" depends="split-files">
+        <delete dir="${tmpDir}"/>
+    </target>
+    
+    <!-- Gesamtziel -->
+    <target name="all" depends="cleanup"/>
 </project>

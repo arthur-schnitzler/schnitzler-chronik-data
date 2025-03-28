@@ -8,7 +8,7 @@
     <xsl:param name="threshold" select="xs:date('1931-10-21')"/>
     <!-- kein Datum nach Schnitzlers Tod -->
     
-    <xsl:param name="wiener-schnitzler" select="document('../../../../git/wienerschnitzler-data/data/editions/xml/wienerschnitzler_complete_nested.xml')"></xsl:param>
+    <xsl:param name="wiener-schnitzler" select="document('https://raw.githubusercontent.com/wiener-moderne-verein/wienerschnitzler-data/refs/heads/main/data/editions/xml/wienerschnitzler_complete_nested.xml')"></xsl:param>
     
     
     <xsl:template match="tei:listEvent">
