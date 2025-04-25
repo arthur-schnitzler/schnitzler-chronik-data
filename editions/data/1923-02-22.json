@@ -134,13 +134,18 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Edlach",
+ "Reichenau an der Rax",
  "desc":
 {"listPlace":
   [
  {
  "placeName":
- "Hotel Edlacherhof",
+ "Edlach",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bahnhof Payerbach-Reichenau",
  "ref":
  ""}
  ]
@@ -153,16 +158,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bahnhof Payerbach-Reichenau"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Sternwartestraße 71"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-traeume",

@@ -53,7 +53,7 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Sternwartestraße 71"
+ "Bodenwiese"
 }, {
  "type":
  "schnitzler-orte",
@@ -62,7 +62,36 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bodenwiese"
+ "Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "St. Pölten",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "St. Pölten Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",

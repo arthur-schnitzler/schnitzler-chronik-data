@@ -74,16 +74,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Deutsches Haus [Brünn]"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Deutsches Haus [Prag]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-events",
@@ -132,7 +133,7 @@
   [
  {
  "placeName":
- "Deutsches Haus [Brünn]",
+ "Deutsches Haus [Prag]",
  "ref":
  ""}
  ]

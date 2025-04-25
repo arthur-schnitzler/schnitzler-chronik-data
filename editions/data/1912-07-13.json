@@ -67,6 +67,11 @@
   [
  {
  "placeName":
+ "Hotel Hallmayer",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
  "Ruine Merkenstein",
  "ref":
  ""}
@@ -95,16 +100,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Hotel Hallmayer"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Kurpark [Baden bei Wien]"
+ "Baden bei Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kurpark [Baden bei Wien]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "kalliope-verbund",
