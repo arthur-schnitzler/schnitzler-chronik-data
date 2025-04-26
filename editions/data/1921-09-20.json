@@ -83,23 +83,29 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Payberbachgraben"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
- "Stojerhöhe"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Breitenstein am Semmering"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Payerbach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Payerbachgraben",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Stojerhöhe",
+ "ref":
+ ""}
+ ]
+}
 }] 

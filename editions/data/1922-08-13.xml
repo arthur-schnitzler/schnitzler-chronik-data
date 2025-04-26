@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-04-25.">25.04.2025</date>
+            <date when-iso="2025-04-26.">26.04.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -148,13 +148,17 @@
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1922-08-13">
-               <head corresp="#pmb289824">Malerwinkel</head>
-               <desc/>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1922-08-13">
-               <head corresp="#pmb289835">Königsseer Fußweg</head>
-               <desc/>
+               <head corresp="#pmb91693">Schönau am Königssee</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb289824">
+                        <placeName>Malerwinkel</placeName>
+                     </place>
+                     <place corresp="#pmb289835">
+                        <placeName>Königsseer Fußweg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
          </listEvent>

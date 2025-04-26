@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-04-25.">25.04.2025</date>
+            <date when-iso="2025-04-26.">26.04.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -144,6 +144,19 @@
                      <place corresp="#pmb36914">
                         <placeName>Tiergarten</placeName>
                      </place>
+                     <place corresp="#pmb90508">
+                        <placeName>Dahlem</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92232">
+                              <placeName>Faradayweg</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb235968">
+                                    <placeName>Faradayweg 16</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#pmb235968">
                         <placeName>Faradayweg 16</placeName>
                      </place>
@@ -151,23 +164,7 @@
                         <placeName>Zum Austernmeyer</placeName>
                      </place>
                      <place corresp="#pmb235972">
-                        <placeName>Die Komödie</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-orte"/>
-            </event>
-            <event when-iso="1929-03-22">
-               <head corresp="#pmb90508">Dahlem</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb92232">
-                        <placeName>Faradayweg</placeName>
-                        <listPlace>
-                           <place corresp="#pmb235968">
-                              <placeName>Faradayweg 16</placeName>
-                           </place>
-                        </listPlace>
+                        <placeName>Die Komödie [Berlin]</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -202,7 +199,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb235972">Die Komödie</placeName>
+                        <placeName role="veranstaltet in" key="pmb235972">Die Komödie [Berlin]</placeName>
                         <location>
                            <geo>52,50189 13,32321</geo>
                         </location>
