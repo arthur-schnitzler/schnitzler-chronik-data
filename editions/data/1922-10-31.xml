@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-04-26.">26.04.2025</date>
+            <date when-iso="2025-04-30.">30.04.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -124,7 +124,13 @@
             </event>
             <event when-iso="1922-10-31">
                <head corresp="#pmb652">Prag</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb252051">
+                        <placeName>Praha hlavní nádraží</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="schnitzler-orte"/>
             </event>
             <event when-iso="1922-10-31">
@@ -133,6 +139,18 @@
                   <listPlace>
                      <place corresp="#pmb183478">
                         <placeName>Weinmanneum</placeName>
+                     </place>
+                     <place corresp="#pmb290963">
+                        <placeName>Ústí nad Labem hlavní nádraží</placeName>
+                     </place>
+                     <place corresp="#pmb187289">
+                        <placeName>Hotel Englischer Hof [Ústí nad Laben]</placeName>
+                     </place>
+                     <place corresp="#pmb290972">
+                        <placeName>Hotel Hohes Haus</placeName>
+                     </place>
+                     <place corresp="#pmb90099">
+                        <placeName>Hrad Střekov</placeName>
                      </place>
                   </listPlace>
                </desc>

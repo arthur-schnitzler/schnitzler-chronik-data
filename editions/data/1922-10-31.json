@@ -99,7 +99,17 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Prag"
+ "Prag",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Praha hlavní nádraží",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-orte",
@@ -115,6 +125,26 @@
  {
  "placeName":
  "Weinmanneum",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Ústí nad Labem hlavní nádraží",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Englischer Hof [Ústí nad Laben]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hotel Hohes Haus",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Hrad Střekov",
  "ref":
  ""}
  ]

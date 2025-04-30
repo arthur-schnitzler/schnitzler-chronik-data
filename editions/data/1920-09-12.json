@@ -81,15 +81,6 @@
  "caption":
  "Aufenthaltsorte",
  "head":
- "Bad Aussee"
-}, {
- "type":
- "schnitzler-orte",
- "color":
- "#045344",
- "caption":
- "Aufenthaltsorte",
- "head":
  "Altaussee",
  "desc":
 {"listPlace":
@@ -99,8 +90,60 @@
  "Seewirt",
  "ref":
  ""}
+ ,  {
+ "placeName":
+ "Promenadenweg [Nordufer]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Promenadenweg [Südufer]",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Villa Gisela und Markus Hajek",
+ "ref":
+ ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Promenadenweg [Ostufer]"
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Bad Aussee",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Bad Aussee",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-orte",
+ "color":
+ "#045344",
+ "caption":
+ "Aufenthaltsorte",
+ "head":
+ "Tressensattel"
 }, {
  "type":
  "schnitzler-traeume",
