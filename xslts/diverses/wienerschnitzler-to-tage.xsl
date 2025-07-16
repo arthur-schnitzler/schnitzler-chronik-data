@@ -34,12 +34,14 @@
                 <xsl:copy-of select="tei:listPlace"/>
             </xsl:element>
             <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:attribute name="type">
+                <xsl:attribute name="subtype">
                     <xsl:text>wienerschnitzler</xsl:text>
                 </xsl:attribute>
-                <xsl:value-of select="tei:idno[@type='pmb' or @subtype='pmb'][1]"/>
+                <xsl:attribute name="type">
+                    <xsl:text>URL</xsl:text>
+                </xsl:attribute>
             </xsl:element>
-            
+            <xsl:value-of select="concat('https://wienerschnitzler.org/tag.html#', ancestor::tei:event[1]/@when)"/>
         </xsl:element>
     </xsl:template>
     
