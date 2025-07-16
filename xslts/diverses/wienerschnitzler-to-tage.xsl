@@ -37,8 +37,9 @@
                 <xsl:attribute name="type">
                     <xsl:text>wienerschnitzler</xsl:text>
                 </xsl:attribute>
+                <xsl:value-of select="concat('https://wienerschnitzler.org/tag.html&#35;', ancestor::tei:event[1]/@when)"/>
             </xsl:element>
-            <xsl:value-of select="concat('https://wienerschnitzler.org/tag.html&#35;', ancestor::tei:event[1]/@when)"/>
+            
         </xsl:element>
     </xsl:template>
     
