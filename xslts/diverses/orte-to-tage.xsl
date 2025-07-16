@@ -4,7 +4,7 @@
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
-    <!-- das hier nimmt schnitzler-orte.xml  schreibt es um listEvent -->
+    <!-- das hier nimmt wienerschnitzler.xml  schreibt es um listEvent -->
     <xsl:param name="threshold" select="xs:date('1931-10-21')"/>
     <!-- kein Datum nach Schnitzlers Tod -->
     
@@ -35,7 +35,7 @@
             </xsl:element>
             <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="type">
-                    <xsl:text>schnitzler-orte</xsl:text>
+                    <xsl:text>wienerschnitzler</xsl:text>
                 </xsl:attribute>
                 <xsl:value-of select="tei:idno[@type='pmb' or @subtype='pmb'][1]"/>
             </xsl:element>
@@ -51,7 +51,7 @@
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title>Arthur Schnitzlers Aufenthaltsorte</title>
+                        <title>Wiener Schnitzler – Schnitzlers Wien</title>
                         <respStmt>
                             <resp>providing the content</resp>
                             <name>Arthur Schnitzler</name>
@@ -68,7 +68,7 @@
                             </address>
                         </publisher>
                         <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-                        <date when="2024">2024</date>
+                        <date when="2025">2025</date>
                         <availability>
                             <licence target="https://creativecommons.org/licenses/by/4.0/">
                                 <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
@@ -78,14 +78,7 @@
                         </availability>
                     </publicationStmt>
                     <sourceDesc>
-                        <p>The idea was to digitize the list of travels by Arthur Schnitzler that survives in
-                            his papers stored in the Cambridge University Library, folder A 175. The goal was not
-                            an edition of that list but to extract the information from the list and connect the
-                            timespans with geonames-IDs and locations. Therefore errors and mistakes of the list
-                            were changed without keeping track of the deleted information. Sometimes the diary
-                            was used to correct entries.
-                            The groundwork was done by Laura Puntigam in an internship in 2022, but the data
-                            has been severly revised and expanded since. </p>
+                        <p>This is data taken from https://wienerschnitzler.org/</p>
                     </sourceDesc>
                 </fileDesc>
             </teiHeader>

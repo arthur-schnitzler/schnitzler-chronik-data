@@ -26,7 +26,7 @@
                 <xsl:with-param name="einzuarbeitenderListenName" select="'../individual-lists/schnitzler-tagebuch_tage.xml'"/>
             </xsl:apply-templates>
             <xsl:apply-templates>
-                <xsl:with-param name="einzuarbeitenderListenName" select="'../individual-lists/schnitzler-orte_tage.xml'"/>
+                <xsl:with-param name="einzuarbeitenderListenName" select="'../individual-lists/wienerschnitzler_tage.xml'"/>
             </xsl:apply-templates>
             <xsl:apply-templates>
                 <xsl:with-param name="einzuarbeitenderListenName" select="'../individual-lists/manuelle-ergaenzungen_tage.xml'"/>

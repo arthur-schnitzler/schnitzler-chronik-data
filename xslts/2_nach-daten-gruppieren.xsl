@@ -28,6 +28,8 @@
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-orte' or tei:idno[1]/@subtype = 'schnitzler-orte']"/>
                     <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'wienerschnitzler' or tei:idno[1]/@subtype = 'wienerschnitzler']"/>
+                    <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-interviews' or tei:idno[1]/@subtype = 'schnitzler-interviews']"/>
                     <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pollaczek' or tei:idno[1]/@subtype = 'pollaczek']"/>
                     <xsl:apply-templates
