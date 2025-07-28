@@ -15,27 +15,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install xsltproc
-        run: sudo apt-get update && sudo apt-get install -y xsltproc
+      - name: Download Saxon HE
+        run: |
+          curl -L -o saxon.zip https://www.saxonica.com/download/java/SaxonHE12-4J.zip
+          unzip saxon.zip -d saxon
+          mv saxon/saxon-he-12.4.jar saxon/saxon.jar
+
+      - name: Create dummy input file
+        run: echo "<root/>" > dummy.xml
+
+      - name: Run XSLT with Saxon
+        run: |
+          java -jar saxon/saxon.jar \
+            -s:dummy.xml \
+            -xsl:xslts/diverses/schnitzler-briefe-cmif-to-tage.xsl \
+            -o:import-lists/schnitzler-briefe_tage.xml
 
       - name: Set up Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Run XSLT transformation
-        run: |
-          xsltproc \
-            --output ./import-lists/schnitzler-briefe_tage.xml \
-            ./xslts/diverses/schnitzler-briefe-cmif-to-tage.xsl \
-            ./dummy.xml
-
       - name: Commit and push if changed
         run: |
-          if git diff --quiet ./import-lists/schnitzler-briefe_tage.xml; then
+          if git diff --quiet import-lists/schnitzler-briefe_tage.xml; then
             echo "No changes to commit"
           else
-            git add ./import-lists/schnitzler-briefe_tage.xml
+            git add import-lists/schnitzler-briefe_tage.xml
             git commit -m "Automated update: schnitzler-briefe_tage.xml from cmif"
             git push
           fi
