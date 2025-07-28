@@ -1,0 +1,38 @@
+name: Transform schnitzler-briefe-cmif to tage
+
+on:
+  push:
+    paths:
+      - xslts/diverses/schnitzler-briefe-cmif-to-tage.xsl
+      - .github/workflows/xslt-transform.yml
+  workflow_dispatch:
+
+jobs:
+  transform-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run XSLT transformation
+        run: |
+          xsltproc \
+            --output ./import-lists/schnitzler-briefe_tage.xml \
+            ./xslts/diverses/schnitzler-briefe-cmif-to-tage.xsl \
+            ./dummy.xml
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet ./import-lists/schnitzler-briefe_tage.xml; then
+            echo "No changes to commit"
+          else
+            git add ./import-lists/schnitzler-briefe_tage.xml
+            git commit -m "Automated update: schnitzler-briefe_tage.xml from cmif"
+            git push
+          fi
