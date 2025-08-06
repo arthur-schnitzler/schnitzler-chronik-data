@@ -72,10 +72,11 @@
                        <xsl:call-template name="events-einfuegen"/>
                      <!-- Hier der Import von Google Sheets -->
                         <xsl:for-each select="tokenize($csv-content, '&#10;')[not(position()=1)]">
-                            <xsl:if test="matches(replace(tokenize(., '&#34;,&#34;')[1], '&#34;', ''), '^\d{4}-\d{2}-\d{2}$')">
+                            <xsl:variable name="event-date" select="replace(tokenize(., '&#34;,&#34;')[1], '&#34;', '')"/>
+                            <xsl:if test="matches($event-date, '^\d{4}-\d{2}-\d{2}$') and $event-date &gt;= '1862-05-15' and $event-date &lt;= '1931-10-21'">
                             <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0" inherit-namespaces="true">
                                 <xsl:attribute name="when-iso">
-                                    <xsl:value-of select="replace(tokenize(., '&#34;,&#34;')[1], '&#34;', '')"/>
+                                    <xsl:value-of select="$event-date"/>
                                 </xsl:attribute>
                                 <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
                                     <xsl:value-of select="tokenize(., '&#34;,&#34;')[2]"/>
@@ -109,7 +110,7 @@
         <xsl:for-each
             select="collection(concat($folderURI, '../../import-lists/?select=*_tage.xml'))/descendant::tei:listEvent">
             <xsl:sort select="@when-iso"/>
-            <xsl:copy-of select="child::tei:event" copy-namespaces="no"/>
+            <xsl:copy-of select="child::tei:event[@when-iso &gt;= '1862-05-15' and @when-iso &lt;= '1931-10-21']" copy-namespaces="no"/>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>

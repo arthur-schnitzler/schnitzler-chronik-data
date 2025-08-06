@@ -12,7 +12,7 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="tei:listEvent">
-        <xsl:for-each-group select="tei:event" group-by="@when-iso">
+        <xsl:for-each-group select="tei:event[@when-iso &gt;= '1862-05-15' and @when-iso &lt;= '1931-10-21']" group-by="@when-iso">
             <xsl:sort select="current-grouping-key()"/>
             <xsl:element name="item" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="sortKey">
