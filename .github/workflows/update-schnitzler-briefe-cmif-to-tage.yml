@@ -1,14 +1,7 @@
-name: XSLT Transform and Commit
+name: Update schnitzler-briefe-tage
 
 on:
-  # Automatisch bei Push auf main Branch
-  push:
-    branches: [ main ]
-  # Manuell auslösbar
   workflow_dispatch:
-  # Täglich um 6 Uhr UTC (optional)
-  schedule:
-    - cron: '0 6 * * *'
 
 jobs:
   transform:
