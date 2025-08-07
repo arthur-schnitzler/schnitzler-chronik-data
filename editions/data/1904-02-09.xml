@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1904-02-09">Dienstag, 9. Februar 1904</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1904-02-09">
+               <head>Tagebuch, 9. Februar 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_15178">Rosa Freudenthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_17958">Paul Marx</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20386">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21545">Erich Ziegel</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21546">Mirjam Horwitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20383">Albert Steinrück</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31623">König Lear</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb334">Schillertheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-02-09.html</idno>
+            </event>
+            <event when-iso="1904-02-09">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb399">
+                        <placeName>Hotel Continental [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb334">
+                        <placeName>Schiller-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb232501">
+                        <placeName>Hotel und Restaurant »Prinz Wilhelm«</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb233758">
+                        <placeName>Restaurant Wedl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-09</idno>
+            </event>
+            <event when-iso="1904-02-09">
+               <head>Salten an Bahr, 9. 2. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2216">Norbert von Ortner-Rodenstätt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10955">Franz Blei</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18548">Oskar Hornung</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10883">Alfred von Berger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2601">Josef Jarno</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11798">Henrik Ibsen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10769">Theodor Antropp</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11512">Max Graf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11771">Rudolf Holzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25196">Edgar von Spiegl-Thurnsee</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4576">Natalie Bruck-Auffenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28114">Sigmund Ehrlich</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27143">Arthur Wilhelm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28746">Lippold</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2202">Wilhelm Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Ottilie Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2922">Paul Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31403">Wenn wir Toten erwachen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32288">Schwester Beatrix</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31401">Arthur Schnitzler und sein Reigen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32270">Hans Kohlhase</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb120">Wipplingerstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb219">Sanatorium Schloss Marbach am Bodensee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb839">Kairo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29626">Die Zeit</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29767">Akademischer Verein für Kunst und Literatur</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29752">Concordia</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29800">Österreichischer Journalistenbund</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041572.html</idno>
+            </event>
+            <event when-iso="1904-02-09">
+               <head>Probe von Der einsame Weg, 9.2.1904</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater Berlin</placeName>
+                        <location>
+                           <geo>52,524444 13,382222</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/233752/</idno>
+            </event>
+            <event when-iso="1904-02-09">
+               <head>Aufführung von König Lear, 9.2.1904</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31623">König Lear. Trauerspiel in fünf Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb334">Schiller-Theater</placeName>
+                        <location>
+                           <geo>52,511709 13,318058</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/209315/</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

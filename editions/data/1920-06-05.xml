@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1920-06-05">Samstag, 5. Juni 1920</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1920-06-05">
+               <head>Tagebuch, 5. Juni 1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_14130">Lili Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14626">Paul Eger</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14627">Rudolf Eger</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33838">Jugend in Wien</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb880">Chicago</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44172">Nürnberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb169">Pötzleinsdorf</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1920-06-05.html</idno>
+            </event>
+            <event when-iso="1920-06-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-06-05</idno>
+            </event>
+            <event when-iso="1920-06-05">
+               <head>Joseph Gollomb: Dr. Arthur Schnitzler on the Vienna of To-day,
+                            5. 6. 1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11494">Joseph Gollomb</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12867">Johann Strauss</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11992">Fritz Kreisler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5369">Harley Granville-Barker</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5372">John Barrymore</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11798">Henrik Ibsen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12654">Friedrich von Schiller</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12053">Gotthold Ephraim Lessing</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11640">Heinrich Heine</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2381">George Bernard Shaw</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12163">Gustav Mahler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11941">Gustav Klimt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3561">Karl Lueger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2513">Franz Joseph I. von
+                                        Österreich-Ungarn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3287">Franz Ferdinand von
+                                        Österreich-Este</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb63846">Jacob H. Kolbert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29935">Anatol</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33225">Caprice Viennois</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb62890">Zeitschrift des allgemeinen
+                                        österreichischen Apotheker-Vereines</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb63852">Diario de la Marina</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33223">Dr. Arthur Schnitzler on the Vienna of
+                                        To-day</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41576">Evening Post</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40876">Wienerwald</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1078">Hayes Theatre</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb175">Amerika</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb112">Ringstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb206">Preußen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb468">Europa</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb302">Mariahilferstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34438">Russland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb15">Oper</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43471">Budapest</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39944">Havana</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb63849">Calle N</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29433">Mitchell Kennerley</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb62887">Landtag von Niederösterreich</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29736">Evening Post</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/I070.html</idno>
+            </event>
+            <event when-iso="1920-06-05">
+               <head>Arthur Schnitzler an Andrea H. Proudfoot, 5. 6. 1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/1119154839">Proudfoot, Andrea H.</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                    Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                    Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                    https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

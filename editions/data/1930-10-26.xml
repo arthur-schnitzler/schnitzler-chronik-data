@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1930-10-26">Sonntag, 26. Oktober 1930</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1930-10-26">
+               <head>Tagebuch, 26. Oktober 1930</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_13547">Gabriel Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13643">Elisabeth Bergner</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14316">Franz Theodor Csokor</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14335">Paul Czinner</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_15046">Martha Flersheim</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_16591">James Joyce</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_17372">David Herbert Lawrence</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_17678">Lina Loos</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18057">Max Mell</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18422">Robert Neumann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18863">Clara Katharina Pollaczek</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19580">Hanns Sassmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19827">Julius Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20758">Edward W. Titus</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14998">Felix Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_15811">Dolly Haas</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13994">Arnold Bronner</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_15210">Egon Friedell</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19832">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb35745">Aphoristisches</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb77470">Besetztes Gebiet</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb78008">Ariane</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb80899">Dolly macht Karriere</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb48759">Erfurt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb881">Mannheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44053">New York City</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-10-26.html</idno>
+            </event>
+            <event when-iso="1930-10-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb89">
+                              <placeName>Sanatorium Loew</placeName>
+                           </place>
+                           <place corresp="#pmb186715">
+                              <placeName>Franz-Josefs-Bahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232800">
+                              <placeName>Laudongasse 12</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-10-26</idno>
+            </event>
+            <event when-iso="1930-10-26">
+               <head>Tagebuch von Clara Katharina Pollaczek, 19.–27. Oktober 1930</head>
+               <desc/>
+               <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp842.html</idno>
+            </event>
+            <event when-iso="1930-10-26">
+               <head>Filmvorführung von Dolly macht Karriere, 26.10.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80899">Dolly macht Karriere</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/211190/</idno>
+            </event>
+            <event when-iso="1930-10-26">
+               <head>Schnitzler und Pollaczek sehen „Dolly macht Karriere“, 26. Oktober 1930</head>
+               <desc>
+                  <bibl>»A. ist
+                            manchmal wie ein kleines Kind«. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino. Herausgegeben von Stephan Kurz und Michael Rohrwasser unter Mitarbeit von Daniel Schopper. Wien, Köln, Weimar: Böhlau Verlag 2012.</bibl>
+               </desc>
+               <idno type="schnitzler-kino-buch" subtype="#ISBN978-3205787464"/>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

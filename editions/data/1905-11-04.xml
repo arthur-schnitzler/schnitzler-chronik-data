@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1905-11-04">Samstag, 4. November 1905</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1905-11-04">
+               <head>Tagebuch, 4. November 1905</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_18413">Angelo Neumann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20682">Heinrich Teweles</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13097">Friedrich Adler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21169">Alois Weinert</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13860">Charlotte Bondy</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29903">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb78653">Tagebuch einer Verlorenen. Von einer Toten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76622">Er, sie und er</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb81267">Herbst</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb77316">Die Medaille</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb79519">Der dankbare Julien</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb652">Prag</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1905-11-04.html</idno>
+            </event>
+            <event when-iso="1905-11-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#70">
+                        <placeName>XX., Brigittenau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb202">
+                              <placeName>Nordwestbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-11-04</idno>
+            </event>
+            <event when-iso="1905-11-04">
+               <head corresp="#pmb652">Prag</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb93">
+                        <placeName>Hotel Blauer Stern</placeName>
+                     </place>
+                     <place corresp="#pmb91">
+                        <placeName>Neues Deutsches Theater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-11-04</idno>
+            </event>
+            <event when-iso="1905-11-04">
+               <head>Premiere von Herbst; Er, sie und er; Der dankbare Julius; Die Medaille, 4.11.1905</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37080">Neues Deutsches Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81267">Herbst. Schauspiel in einem Akt</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb76622">Er, sie und er. Lustspiel in einem Akt</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb79519">Der dankbare Julius. Schwank in einem Akt</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb77316">Die Medaille. Komödie in einem Akt</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb91">Neues Deutsches Theater</placeName>
+                        <location>
+                           <geo>50,080556 14,432778</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/236640/</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

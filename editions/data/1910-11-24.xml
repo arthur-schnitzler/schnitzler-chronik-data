@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1910-11-24">Donnerstag, 24. November 1910</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1910-11-24">
+               <head>Tagebuch, 24. November 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_13551">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13624">Alfred von Berger</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19542">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19823">Helene Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19827">Julius Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19831">Louise Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20714">Hugo Thimig</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20796">Siegfried Trebitsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21214">Josefine Lydia von Weisswasser</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19543">Ottilie Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13550">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_15009">Samuel Fischer</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41244">Die Fackel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb90847">Heiligenstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92506">Sacher</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-11-24.html</idno>
+            </event>
+            <event when-iso="1910-11-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb29">
+                              <placeName>Hotel Sacher</placeName>
+                           </place>
+                           <place corresp="#pmb14">
+                              <placeName>Burgtheater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92292">
+                              <placeName>Hohe Warte</placeName>
+                           </place>
+                           <place corresp="#pmb159">
+                              <placeName>Heiligenstadt</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-11-24</idno>
+            </event>
+            <event when-iso="1910-11-24">
+               <head>Uraufführung von Der junge Medardus, 24.11.1910</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                        <note type="relation-type">ist Uraufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb87901">[Der junge Medardus von A. Schnitzler, russisch]</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb87906">Novyj Šnitsler. (Pis’mo iz Veny)</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12701">Schnitzler, Louise</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12948">Thimig, Hugo</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10883">Berger, Alfred von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10959">Bleibtreu, Hedwig</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11423">Gerasch, Alfred</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2252">Medelsky, Lotte</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2246">Balajthy, Robert von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12971">Tressler, Otto</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13031">Walbeck, Fanny</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb5765">Mell, Maria</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb24335">Schmittlein, Ferdinande</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb24838">Senders, Ernestine</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12399">Paulsen, Max</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19901">Kutschera, Mathilde</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb5320">Wilbrandt-Baudius, Auguste</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2446">Devrient, Max</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12498">Reimers, Georg</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11438">Gimnig, Oskar</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2657">Fischer, Hedwig</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb23746">Rupprecht, Hans</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12698">Schnitzler, Julius</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2496">Kaufmann, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/35251/</idno>
+            </event>
+            <event when-iso="1910-11-24">
+               <head>Lehner, Gilbert an Schnitzler, Arthur [Briefe]</head>
+               <desc>1 Bl.Vis.kte</desc>
+               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00038662</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1908-01-15">Mittwoch, 15. Januar 1908</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1908-01-15">
+               <head>Tagebuch, 15. Januar 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_14065">Max Eugen Burckhard</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_16179">Ludwig Hevesi</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18078">Hermann Menkes</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18182">Jakob Minor</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19724">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19759">Erich Schmidt</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19850">Karl Schönherr</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21246">Karl Werkmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21326">Ernst von Wildenbruch</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33832">Gespräch zwischen einem jungen und einem alten Kritiker</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29903">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33035">Familie</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb78364">Die Rabensteinerin</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb64219">Döbling</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-01-15.html</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Felix Salten an Arthur Schnitzler, 15. 1. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Ottilie Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29903">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33041">Verleihung des Grillparzer-Preises an Artur Schnitzler</title>
+                     </bibl>
+                  </listBibl>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29626">Die Zeit</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29677">Franz-Grillparzer-Preis</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb159">Heiligenstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03490.html</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Stefan Zweig an Arthur Schnitzler, 15. 1. 190[8]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Stefan Zweig</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29903">Zwischenspiel. Komödie in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03621.html</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb285">
+                              <placeName>Am Himmel</placeName>
+                           </place>
+                           <place corresp="#pmb288">
+                              <placeName>Sievering</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-01-15</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>[Karl Werkmann]: Verleihung des Grillparzer-Preises an Artur
+                            Schnitzler, 16. 1. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13097">Karl Werkmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13118">Ernst von Wildenbruch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11605">Otto Erich Hartleben</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12749">Karl Schönherr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12258">Jakob Minor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11687">Ludwig Hevesi</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12678">Erich Schmidt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10772">Ludwig Anzengruber</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29903">Zwischenspiel. Komödie in drei
+                                        Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33039">Rabensteinerin</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31165">Der arme Heinrich – Eine deutsche
+                                        Sage</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in
+                                        zwei Teilen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33037">Fuhrmann Henschel</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31767">Rosenmontag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33035">Familie</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32107">Heimg’funden</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31189">Oedipus und die Sphinx. Tragödie in drei
+                                        Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb35935">Die Zeit</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33043">Und Pippa tanzt!</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei
+                                        Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf
+                                        Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29923">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33117">Kritikerschule</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33041">Verleihung des Grillparzer-Preises an
+                                        Artur Schnitzler</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29677">Franz-Grillparzer-Preis</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/I040.html</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Mappe A13</head>
+               <desc>»Kritikerschule«</desc>
+               <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589066_0077.html</idno>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Stefan Zweig an Arthur Schnitzler, 15.1.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Stefan Zweig:
+                    Briefwechsel mit Hermann Bahr, Sigmund Freud, Rainer Maria Rilke und Arthur
+                    Schnitzler. Hgg. Jeffrey B. Berlin, Hans-Ulrich Lindken und Donald A. Prater.
+                    Berlin: S. Fischer 1987. (Nur Briefe an Bahr und Schnitzler erfasst)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34"/>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Otto Brahm an Arthur Schnitzler, 15.1.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel Arthur
+               Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar
+               Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Erhalt von Otto Brahm an Arthur Schnitzler, 15.1.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel Arthur
+               Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar
+               Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
+            </event>
+            <event when-iso="1908-01-15">
+               <head>Schnitzler, Arthur: Verleihung des Franz Grillparzer-Preises für sein Drama "Zwischenspiel" [Dokumente] (Titel von Bearbeiter/in)</head>
+               <desc>2 Bl.</desc>
+               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00074144</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

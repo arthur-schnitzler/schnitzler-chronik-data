@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1931-08-02">Sonntag, 2. August 1931</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1931-08-02">
+               <head>Tagebuch, 2. August 1931</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_14234">Suzanne Clauser</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_14955">Wolfgang von Ferstel</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_16807">Hedy Kempny</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18137">Dora Michaelis</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18181">Minna Stangl</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18863">Clara Katharina Pollaczek</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19822">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20086">Gladys Gertrude Shott</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19704">Otto Paul Schinnerer</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19832">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30953">Der Sekundant</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb49690">Mayerling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91887">Thalheim bei Wels</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-08-02.html</idno>
+            </event>
+            <event when-iso="1931-08-02">
+               <head>Paul Goldmann an Arthur Schnitzler, 2. 8. 1931</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb17164">Eva Marie Goldmann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb167765">?? [Roman mit erotischen Schilderungen]</title>
+                     </bibl>
+                  </listBibl>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb63858">Stauffenbergstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb909">Velden am Wörthersee</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03518.html</idno>
+            </event>
+            <event when-iso="1931-08-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb194903">
+                              <placeName>Am Kobenzl</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#54">
+                        <placeName>IV., Wieden</placeName>
+                        <listPlace>
+                           <place corresp="#pmb245810">
+                              <placeName>Viktorgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-08-02</idno>
+            </event>
+            <event when-iso="1931-08-02">
+               <head>Jób Paál: Gespräch mit Artur Schnitzler, 2. 8. 1931</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb5134">Jób Paál</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23635">Karl Rostler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb58156">Rafael Hualla</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4412">Otto Paul Schinnerer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5142">János Paál</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30207">Das weite Land. Tragikomödie in fünf
+                                        Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb56450">Wie Schnitzler seine Menschen zeichnete.
+                                        Was der Portier vom Südbahnhotel am Semmering
+                                        erzählt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36376">Neues Wiener Journal</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58159">Schnitzler-Held in Not</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42403">Der Morgen. Wiener Montagsblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32460">Die Frau des Weisen. Novelletten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32943">Gespräch mit Artur Schnitzler</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb413">Südbahnhotel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44053">New York City</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35512">Ungarn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb63189">Schubertring</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb716">Fichtegasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29355">Cambridge University Library</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/I016.html</idno>
+            </event>
+            <event when-iso="1931-08-02">
+               <head>Tagebuch von Clara Katharina Pollaczek, 29. Juli – 3. August 1931</head>
+               <desc/>
+               <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp941.html</idno>
+            </event>
+            <event when-iso="1931-08-02">
+               <head>Hardy, Franz an Schnitzler, Arthur [Briefe]</head>
+               <desc>1 Kte</desc>
+               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00036208</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

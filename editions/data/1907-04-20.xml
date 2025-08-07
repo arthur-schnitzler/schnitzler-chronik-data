@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:mam="whatever"
+     xmlns:df="http://example.com/df">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler – Chronik</title>
+            <title level="a" when-iso="1907-04-20">Samstag, 20. April 1907</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Kristina Fink</name>
+               <name>Martin Anton Müller</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when-iso="2025-08-07.">07.08.2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                        Medium vervielfältigen und weiterverbreiten Bearbeiten — das
+                                        Material remixen, verändern und darauf aufbauen und zwar für
+                                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                        solange Sie sich an die Lizenzbedingungen halten. Unter
+                                        folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                        Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                        angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                        dürfen in jeder angemessenen Art und Weise gemacht werden,
+                                        allerdings nicht so, dass der Eindruck entsteht, der
+                                        Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                        besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                                        zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                                        die anderen rechtlich irgendetwas untersagen, was die Lizenz
+                                        erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                        solcher Teile des Materials, die gemeinfrei sind, oder
+                                        soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken
+                                        des Urheberrechts gedeckt sind. Es werden keine Garantien
+                                        gegeben und auch keine Gewähr geleistet. Die Lizenz
+                                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+                                        Sie für die jeweilige Nutzung brauchen. Es können
+                                        beispielsweise andere Rechte wie Persönlichkeits- und
+                                        Datenschutzrechte zu beachten sein, die Ihre Nutzung des
+                                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Für jeden Tag zwischen 1879 und 1931–10-21 in Arthur Schnitzlers
+                                Leben, für den es mindestens ein Ereignis gibt, einen Eintrag </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when-iso="1907-04-20">
+               <head>Tagebuch, 20. April 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="person_16326">Felix Hollaender</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_19154">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20295">Gisela Springer</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_20386">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_21546">Mirjam Horwitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_18827">August von Platen</persName>
+                     </person>
+                     <person>
+                        <persName ref="person_13374">Hermann Bahr</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29923">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30031">Torquato Tasso</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30713">Tagebücher</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34438">Russland</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1907-04-20.html</idno>
+            </event>
+            <event when-iso="1907-04-20">
+               <head>Felix Salten an Arthur Schnitzler, 20. 4. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10844">Albert Bassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11391">Ludwig Fulda</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11632">Moritz Heimann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11701">Georg Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11813">Siegfried Jacobsohn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11845">Gustav Kadelburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12968">Siegfried Trebitsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14328">Oskar Blumenthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18485">Alfred Holzbock</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24702">Franz von Schönthan-Pernwald</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2598">Sigmund Lautenburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2992">Peter Rotenstern</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb144010">Der Tag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb147641">Der Fall Hauptmann</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb147654">Der Fall Brahm</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb147658">»Die Jungfern vom Bischofsberg.« Lustspiel von Gerhart Hauptmann. Erstaufführung im Lessing-Theater</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb169253">Gesammelte Werke in sechs Bänden</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb169257">?? [Romanfragmente von Gerhart Hauptmann]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb169749">Geleitsworte</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb169752">Der Hervorruf und unsere dramatischen Autoren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31213">Romeo and Juliet</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31939">Vor Sonnenaufgang</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31943">Der Biberpelz. Eine Diebskomödie</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33273">Florian Geyer. Die Tragödie des Bauernkrieges</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33386">Tartuffe</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb35935">Die Zeit</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36376">Neues Wiener Journal</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41560">Der Tag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41564">Die Schaubühne</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76924">Die Jungfern vom Bischofsberg. Lustspiel</title>
+                     </bibl>
+                  </listBibl>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb147648">Solferino</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147651">Magenta</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb159">Heiligenstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb22">Hradec Králové</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03438.html</idno>
+            </event>
+            <event when-iso="1907-04-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb74">
+                              <placeName>Restauration Türkenschanz-Park</placeName>
+                           </place>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-04-20</idno>
+            </event>
+            <event when-iso="1907-04-20">
+               <head>Tagebuch von Schnitzler, 20. 4. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11752">Felix Hollaender</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2549">Mirjam Horwitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25275">Gisela Springer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12424">August von Platen</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30709">Das Nibelungenlied</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30031">Torquato Tasso</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30713">Tagebücher</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29923">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb12">Kammerspiele Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34438">Russland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb208">Kleines Theater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb74">Restauration Türkenschanz-Park</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041286.html</idno>
+            </event>
+            <event when-iso="1907-04-20">
+               <head>Strunz, Franz an Schnitzler, Arthur [Briefe]</head>
+               <desc>2 Bl.</desc>
+               <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00043711</idno>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>
