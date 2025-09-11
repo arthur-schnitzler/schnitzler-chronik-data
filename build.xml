@@ -25,8 +25,8 @@
     
     <!-- Transformiert die Import-Dateien und verschiebt sie zurück nach import-lists -->
     <target name="transform-import" depends="prepare">
-        <xslt in="./import-lists/pmb-event_tage.xml" out="${tmpDir}/pmb-event_tage.xml"
-            style="./xslts/events-aus-pmb/1_listevent-kuerzen.xsl">
+        <xslt in="./import-lists/schnitzler-kultur_tage.xml" out="${tmpDir}/schnitzler-kultur_tage.xml"
+            style="./xslts/schnitzler-kultur/1_listevent-kuerzen.xsl">
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath refid="saxon.classpath"/>
         </xslt>

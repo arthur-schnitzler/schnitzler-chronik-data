@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>import-lists/schnitzler-kultur_tage.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>UPDATE schnitzler-kultur_tage</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>import-lists/wienerschnitzler_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -55,26 +75,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>tagesliste</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>import-lists/pmb-event_tage.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>UPDATE pmb-event_tage</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -301,7 +301,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>UPDATE pmb-event_tage</String>
+                                    <String>UPDATE schnitzler-kultur_tage</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -319,10 +319,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/oldfiche/git/schnitzler-chronik-data/xslts/events-aus-pmb/1_listevent-kuerzen.xsl</String>
+                                    <String>${pdu}/xslts/schnitzler-kultur/1_listevent-kuerzen.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/oldfiche/git/schnitzler-chronik-data/import-lists/pmb-event_tage.xml</String>
+                                    <String>${pdu}/import-lists/schnitzler-kultur_tage.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
