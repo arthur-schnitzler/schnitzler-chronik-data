@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-08-14.">14.08.2025</date>
+            <date when-iso="2025-09-11.">11.09.2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -86,59 +86,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-09-09</idno>
-            </event>
-            <event when-iso="1885-09-09">
-               <head>Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 9.9.1885</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb9855">Seidl, Wenzel</persName>
-                     </person>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb27090">Wiesberg, Wilhelm</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                        <location>
-                           <geo>48,208333 16,373056</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/207939/</idno>
-            </event>
-            <event when-iso="1885-09-09">
-               <head>Aufführung von Der Glücksengel, oder: Eine moderne Mascotte, 9.9.1885</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb195665">Der Glücksengel, oder: Eine moderne Mascotte</title>
-                        <note type="relation-type">ist Aufführung von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat als Arbeitskraft">
-                        <persName key="pmb195377">Fish, Marguerite</persName>
-                     </person>
-                     <person role="hat als Teilnehmer:in">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb43280">Jantsch-Theater</placeName>
-                        <location>
-                           <geo>48,217566 16,3957</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-events">https://pmb.acdh.oeaw.ac.at/entity/207938/</idno>
             </event>
          </listEvent>
       </body>
