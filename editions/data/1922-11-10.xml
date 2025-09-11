@@ -127,6 +127,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-11-10</idno>
             </event>
+            <event when-iso="1922-11-10">
+               <head>Aufführung von Eifersucht,
+                        10.11.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80092">Eifersucht</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92488">Rolandbühne</placeName>
+                        <location>
+                           <geo>48,214368 16,383547</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210186.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

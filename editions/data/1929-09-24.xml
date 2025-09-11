@@ -160,6 +160,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-09-24</idno>
             </event>
             <event when-iso="1929-09-24">
+               <head>Filmvorführung von Weiße Schatten,
+                        24.9.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80408">Weiße Schatten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211097.html</idno>
+            </event>
+            <event when-iso="1929-09-24">
                <head>Tagebuch von Clara Katharina Pollaczek, 21.–26. September 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp735.html</idno>

@@ -179,6 +179,49 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-02-07</idno>
             </event>
+            <event when-iso="1893-02-07">
+               <head>Aufführung von Medea, 7.2.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb146087">Volkstheater in Rudolfsheim</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31225">Medea. Trauerspiel in fünf Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb13856">Baumgarten, Theodor</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2420">Schik, Friedrich</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb167879">Pichler, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb39">Volkstheater in
+                                Rudolfsheim</placeName>
+                        <location>
+                           <geo>48,19031 16,32475</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167867.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

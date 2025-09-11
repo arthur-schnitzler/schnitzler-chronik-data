@@ -155,6 +155,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-01-09</idno>
             </event>
             <event when-iso="1897-01-09">
+               <head>Premiere von Meerleuchten, 9.1.1897</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77510">Meerleuchten</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208894.html</idno>
+            </event>
+            <event when-iso="1897-01-09">
                <head>Mappe A86</head>
                <desc>Datumsangabe auf Blatt von Das Vermächtnis. Schauspiel in drei Akten, Dritter Akt</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428185_0381.html</idno>

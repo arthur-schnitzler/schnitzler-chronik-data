@@ -133,6 +133,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-11-28</idno>
             </event>
+            <event when-iso="1902-11-28">
+               <head>Konzert von Eugène Ysaÿe, 28.11.1902</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37148">Concert-Direktion Albert Gutmann</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb27415">Ysaÿe, Eugène</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232269.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

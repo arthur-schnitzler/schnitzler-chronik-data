@@ -135,6 +135,35 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-09-02</idno>
             </event>
+            <event when-iso="1907-09-02">
+               <head>Private Lesung von Der Weg ins Freie [2.–3.
+                        Kapitel], 2.9.1907</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29923">Der Weg ins Freie. Roman</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb43520">Meran</placeName>
+                        <location>
+                           <geo>46,66817 11,15953</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb246706.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

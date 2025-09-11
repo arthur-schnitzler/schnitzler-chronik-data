@@ -168,6 +168,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-01-03</idno>
             </event>
+            <event when-iso="1883-01-03">
+               <head>Aufführung von Ein Blitzmädel,
+                        3.1.1883</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb39689">Theater in der Josefstadt</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77049">Ein Blitzmädel</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der
+                                Josefstadt</placeName>
+                        <location>
+                           <geo>48,209583 16,351111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207780.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

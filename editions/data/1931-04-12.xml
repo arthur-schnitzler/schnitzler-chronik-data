@@ -172,6 +172,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-04-12</idno>
             </event>
             <event when-iso="1931-04-12">
+               <head>Filmvorführung von Die Million,
+                        12.4.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80312">Die Million</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190479">Ferdinandskino</placeName>
+                        <location>
+                           <geo>48,213062 16,379436</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211234.html</idno>
+            </event>
+            <event when-iso="1931-04-12">
                <head>Tagebuch von Clara Katharina Pollaczek, 5.–12. April 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp897.html</idno>

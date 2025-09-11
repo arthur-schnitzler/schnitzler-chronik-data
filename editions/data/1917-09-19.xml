@@ -118,6 +118,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-09-19</idno>
             </event>
+            <event when-iso="1917-09-19">
+               <head>Aufführung von Palestrina,
+                        19.9.1917</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31681">Palestrina. Musikalische Legende in drei
+                                Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb703">Prinzregenten-Theater</placeName>
+                        <location>
+                           <geo>48,138986 11,605591</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209891.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

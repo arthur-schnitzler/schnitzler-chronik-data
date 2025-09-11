@@ -125,6 +125,67 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-03-11</idno>
             </event>
+            <event when-iso="1912-03-11">
+               <head>Probe von Der Schleier der Pierrette, 11.3.1912</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30215">Der Schleier der Pierrette. Pantomime in drei
+                                Bildern</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb186034">Urania
+                                Theater</placeName>
+                        <location>
+                           <geo>48,207691 16,378158</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb252920.html</idno>
+            </event>
+            <event when-iso="1912-03-11">
+               <head>1. Kammermusikabend von Ernst von Dohnányi, Hugo Becker,
+                        Henri Marteau, 11.3.1912</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37148">Concert-Direktion Albert Gutmann</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11165">Dohnányi, Ernst von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13889">Becker, Hugo</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb8829">Marteau, Henri</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209630.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

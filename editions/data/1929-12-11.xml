@@ -133,6 +133,58 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-12-11</idno>
             </event>
+            <event when-iso="1929-12-11">
+               <head>Aufführung von Der Gemeine,
+                        11.12.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32426">Der Gemeine. Schauspiel in drei Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der
+                                Josefstadt</placeName>
+                        <location>
+                           <geo>48,209583 16,351111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237663.html</idno>
+            </event>
+            <event when-iso="1929-12-11">
+               <head>Probe von Im Spiel der Sommerlüfte, 11.12.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237659.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

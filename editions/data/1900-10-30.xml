@@ -199,6 +199,28 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-30</idno>
             </event>
+            <event when-iso="1900-10-30">
+               <head>Symphoniekonzert, 30.10.1900</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb20751">Löwe, Ferdinand</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209164.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

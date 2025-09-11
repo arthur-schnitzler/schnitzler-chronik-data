@@ -136,6 +136,70 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-10-21</idno>
             </event>
+            <event when-iso="1915-10-21">
+               <head>Probe von Große Szene, 21.10.1915</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31429">Große Szene</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb18">Lessing-Theater</placeName>
+                        <location>
+                           <geo>52,5225 13,376389</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263732.html</idno>
+            </event>
+            <event when-iso="1915-10-21">
+               <head>Aufführung von Dom Juan ou le Festin de pierre,
+                        21.10.1915</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb118619">Dom Juan ou le Festin de pierre</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10844">Bassermann, Albert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb18">Lessing-Theater</placeName>
+                        <location>
+                           <geo>52,5225 13,376389</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209778.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

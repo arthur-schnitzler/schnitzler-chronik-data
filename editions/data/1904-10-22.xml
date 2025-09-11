@@ -172,6 +172,46 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-10-22</idno>
             </event>
+            <event when-iso="1904-10-22">
+               <head>Aufführung von Karrnerleut’, Angele, Der Dieb,
+                        22.10.1904</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb39689">Theater in der Josefstadt</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77334">Karrnerleut’. Komödie in einem Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb77479">Angele. Komödie in zwei Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb77319">Der Dieb. Komödie in einem Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der
+                                Josefstadt</placeName>
+                        <location>
+                           <geo>48,209583 16,351111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209337.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

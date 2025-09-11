@@ -92,6 +92,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-10-10</idno>
             </event>
+            <event when-iso="1879-10-10">
+               <head>Aufführung von Angenehmer Besuch, Zehn Mädchen
+                        und kein Mann, 10.10.1879</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63031">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81391">Zehn Mädchen und kein Mann</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207515.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

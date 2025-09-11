@@ -150,6 +150,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-11-09</idno>
             </event>
             <event when-iso="1920-11-09">
+               <head>Filmvorführung von Der Garten der Freude,
+                        9.11.1920</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb291916">Der Garten der Freude</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190658">Opernkino</placeName>
+                        <location>
+                           <geo>48,201301 16,368085</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210533.html</idno>
+            </event>
+            <event when-iso="1920-11-09">
                <head>Schnitzler im Opernkino, 9. November 1920</head>
                <desc>
                   <bibl>»A. ist

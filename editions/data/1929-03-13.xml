@@ -149,6 +149,33 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-03-13</idno>
             </event>
             <event when-iso="1929-03-13">
+               <head>Filmvorführung von Fräulein Else,
+                        13.3.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30711">Fräulein Else</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb55633">Capitol
+                                [Berlin]</placeName>
+                        <location>
+                           <geo>52,50552 13,33628</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211058.html</idno>
+            </event>
+            <event when-iso="1929-03-13">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 13. März 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp650.html</idno>

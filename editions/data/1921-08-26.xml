@@ -143,6 +143,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-08-26</idno>
             </event>
             <event when-iso="1921-08-26">
+               <head>Filmvorführung von The Virgin of Stamboul,
+                        26.8.1921</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80243">The Virgin of Stamboul</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb30">Salzburg</placeName>
+                        <location>
+                           <geo>47,80067 13,04532</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb292334">Kino Lifka</placeName>
+                        <location>
+                           <geo>47,801198 13,045752</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210558.html</idno>
+            </event>
+            <event when-iso="1921-08-26">
                <head>Stefan Hock an Arthur Schnitzler, 26.8.1921</head>
                <desc>
                   <listPerson>

@@ -117,6 +117,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-08-26</idno>
             </event>
+            <event when-iso="1891-08-26">
+               <head>Aufführung von Die Ehre. Schauspiel in 4 Akten,
+                        26.8.1891</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb169126">Stadttheater und Arena</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30255">Die Ehre. Schauspiel in 4 Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14953">Glümer, Marie</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190808">Arena in
+                                Baden</placeName>
+                        <location>
+                           <geo>48,0108832 16,23241375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208493.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

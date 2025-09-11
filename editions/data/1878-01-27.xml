@@ -92,6 +92,28 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1878-01-27</idno>
             </event>
+            <event when-iso="1878-01-27">
+               <head>Konzert im Ehrbarsaal, 27.1.1878</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb193902">Bonawitz, Johann Wilhelm</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92224">Ehrbarsaal</placeName>
+                        <location>
+                           <geo>48,196913 16,362923</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207421.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -144,6 +144,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-09-14</idno>
             </event>
             <event when-iso="1926-09-14">
+               <head>Filmvorführung von Der goldene Schmetterling,
+                        14.9.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78434">Der goldene Schmetterling</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210843.html</idno>
+            </event>
+            <event when-iso="1926-09-14">
                <head>Traum vom 14. September 1926</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

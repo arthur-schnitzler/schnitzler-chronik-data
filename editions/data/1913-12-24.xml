@@ -167,6 +167,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-12-24</idno>
             </event>
+            <event when-iso="1913-12-24">
+               <head>Ausstellungsbesuch der
+                        Schwarz-Weiß-Ausstellung des österreichischen Künstlerbundes,
+                        24.12.1913</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb255518">Österreichischer Künstlerbund</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb169550">Galerie
+                                Pisko</placeName>
+                        <location>
+                           <geo>48,20709 16,37986</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb255515.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

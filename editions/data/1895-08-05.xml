@@ -128,6 +128,35 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-08-05</idno>
             </event>
+            <event when-iso="1895-08-05">
+               <head>Zwei glückliche Tage, Ischl,
+                        5.8.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31857">Zwei glückliche Tage</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
+                        <location>
+                           <geo>47,712959 13,622439</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42475.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -182,6 +182,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-10-10</idno>
             </event>
             <event when-iso="1922-10-10">
+               <head>Filmvorführung von Dr. Mabuse, der Spieler (Teil
+                        1), 10.10.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80831">Dr. Mabuse, der Spieler</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190562">Fliegerkino</placeName>
+                        <location>
+                           <geo>48,220337 16,360145</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210589.html</idno>
+            </event>
+            <event when-iso="1922-10-10">
                <head>Traum vom 10. Oktober 1922</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

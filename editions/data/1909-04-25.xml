@@ -142,6 +142,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-04-25</idno>
             </event>
+            <event when-iso="1909-04-25">
+               <head>Aufführung von Zar und Zimmermann,
+                        25.4.1909</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80918">Zar und Zimmermann</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1034">Semperoper</placeName>
+                        <location>
+                           <geo>51,054508 13,735169</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209560.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

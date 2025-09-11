@@ -143,6 +143,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-03-03</idno>
             </event>
+            <event when-iso="1914-03-03">
+               <head>Violin-Klavier-Konzert von Bruno Walter
+                        und Arnold Rosé, 3.3.1914</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37148">Concert-Direktion Albert Gutmann</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13041">Walter, Bruno</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12570">Rosé, Arnold</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209722.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

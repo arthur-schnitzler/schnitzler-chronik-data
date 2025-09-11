@@ -113,6 +113,39 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-10-14</idno>
             </event>
+            <event when-iso="1880-10-14">
+               <head>Aufführung von Das Spitzentuch der Königin,
+                        14.10.1880</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36996">Theater an der Wien</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb52904">Das Spitzentuch der Königin. Operette in drei
+                                Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb37">Theater an der
+                                Wien</placeName>
+                        <location>
+                           <geo>48,19941 16,3642</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207615.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

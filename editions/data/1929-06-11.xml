@@ -170,6 +170,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-06-11</idno>
             </event>
             <event when-iso="1929-06-11">
+               <head>Filmvorführung von Dr. Bessel’s Verwandlung,
+                        11.6.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77554">Dr. Bessel’s Verwandlung</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211081.html</idno>
+            </event>
+            <event when-iso="1929-06-11">
                <head>Tagebuch von Clara Katharina Pollaczek, 8. Juni 1929 – 14. Juni 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp703.html</idno>

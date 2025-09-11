@@ -134,6 +134,27 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-07-13</idno>
             </event>
+            <event when-iso="1926-07-13">
+               <head>Ausstellungsbesuch [Autografenausstellung],
+                        13.7.1926</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb250999">Wien
+                                Museum</placeName>
+                        <location>
+                           <geo>48,211514 16,357178</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb251001.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

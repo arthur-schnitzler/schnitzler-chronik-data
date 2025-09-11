@@ -98,6 +98,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-03-16</idno>
             </event>
+            <event when-iso="1893-03-16">
+               <head>Aufführung von Das verlorene Paradies,
+                        16.3.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb201025">Wiener Singakademie</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195776">Das verlorene Paradies. Oratorium in 3
+                                Theilen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb23705">Rubinstein, Anton</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208608.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

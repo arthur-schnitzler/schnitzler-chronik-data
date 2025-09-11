@@ -84,6 +84,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-03-01</idno>
             </event>
+            <event when-iso="1886-03-01">
+               <head>Probe von Mein Mausi, März 1886</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80245">Mein Mausi. Lebensbild in 1 Act</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb18345">Hochsinger, Rosa</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14634">Brüll, Emil</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89627.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

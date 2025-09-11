@@ -101,6 +101,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-04-25</idno>
             </event>
+            <event when-iso="1897-04-25">
+               <head>Aufführung von Domino noir, La Navarraise,
+                        25.4.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80098">Domino noir</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb78407">La Navarraise</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185895">Opéra
+                                Comique</placeName>
+                        <location>
+                           <geo>48,87108333333333 2,337833333333333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208930.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

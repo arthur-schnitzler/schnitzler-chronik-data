@@ -167,6 +167,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-10-19</idno>
             </event>
             <event when-iso="1925-10-19">
+               <head>Filmvorführung von He Who Gets Slapped,
+                        19.10.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195913">He Who Gets Slapped</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb3064">Michaelis, Karl</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb237759">Ufa-Palast am
+                                Zoo</placeName>
+                        <location>
+                           <geo>52,5061 13,3342</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210770.html</idno>
+            </event>
+            <event when-iso="1925-10-19">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 19. Oktober 1925</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp289.html</idno>

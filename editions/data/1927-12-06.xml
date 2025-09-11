@@ -140,6 +140,31 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-12-06</idno>
             </event>
             <event when-iso="1927-12-06">
+               <head>Filmvorführung von Sunrise, 6.12.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81035">Sunrise</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb168">Berlin</placeName>
+                        <location>
+                           <geo>52,52437 13,41053</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210946.html</idno>
+            </event>
+            <event when-iso="1927-12-06">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 6. Dezember 1927</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp508.html</idno>

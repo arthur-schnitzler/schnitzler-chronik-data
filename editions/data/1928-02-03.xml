@@ -135,6 +135,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-02-03</idno>
             </event>
             <event when-iso="1928-02-03">
+               <head>Filmvorführung von The Circus,
+                        3.2.1928</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb200262">The Circus</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210960.html</idno>
+            </event>
+            <event when-iso="1928-02-03">
                <head>Schnitzler geht ins Kino, 3. Februar 1928</head>
                <desc>
                   <bibl>»A. ist

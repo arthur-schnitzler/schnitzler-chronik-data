@@ -124,6 +124,39 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-12-21</idno>
             </event>
             <event when-iso="1908-12-21">
+               <head>Auftritt von Quartett Rosé, 21.12.1908</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb51780">Rosé-Quartett</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78134">Streichquartett Nr. 2 fis-Moll op. 10</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12743">Schönberg, Arnold</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209539.html</idno>
+            </event>
+            <event when-iso="1908-12-21">
                <head>Mappe A91</head>
                <desc>Datierte Notiz in Der junge Medardus</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428190_0309.html</idno>

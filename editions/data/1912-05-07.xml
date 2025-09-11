@@ -124,6 +124,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-05-07</idno>
             </event>
+            <event when-iso="1912-05-07">
+               <head>Aufführung von Das Friedensfest,
+                        7.5.1912</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30019">Das Friedensfest. Eine Familienkatastrophe</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185928">Johann-Strauß-Theater</placeName>
+                        <location>
+                           <geo>48,1954 16,3685</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253136.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

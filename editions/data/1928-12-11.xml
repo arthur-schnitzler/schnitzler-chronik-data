@@ -198,6 +198,43 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-12-11</idno>
             </event>
+            <event when-iso="1928-12-11">
+               <head>Aufführung von Arm wie eine Kirchenmaus,
+                        11.12.1928</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb55529">Akademietheater [Wien]</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80515">Arm wie eine Kirchenmaus</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9858">Seidler, Alma</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
+                        <location>
+                           <geo>48,200254933632 16,377117625773</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235236.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -118,6 +118,46 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-19</idno>
             </event>
+            <event when-iso="1925-01-19">
+               <head>Lesung von Das Tagebuch der Redegonda, Die letzten Masken,
+                        Zum großen Wurstel, 19.1.1925</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29322">Lesezirkel Hottingen</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30349">Das Tagebuch der Redegonda</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29951">Zum großen Wurstel. Burleske in einem Akt</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1134">Kongresshaus
+                                Zürich</placeName>
+                        <location>
+                           <geo>47,36572 8,53788</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183557.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -115,6 +115,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-08-28</idno>
             </event>
+            <event when-iso="1895-08-28">
+               <head>Aufführung von Die Geschwister, Clavigo,
+                        28.8.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33933">Die Geschwister. Schauspiel in einem Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb31099">Clavigo</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb45258">München</placeName>
+                        <location>
+                           <geo>48,13743 11,57549</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208770.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

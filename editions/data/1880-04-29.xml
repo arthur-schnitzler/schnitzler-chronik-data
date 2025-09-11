@@ -101,6 +101,34 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-04-29</idno>
             </event>
+            <event when-iso="1880-04-29">
+               <head>Aufführung von Hamlet, 29.4.1880</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30009">Hamlet</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb115949">Salvini, Tommaso</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185863">Ringtheater</placeName>
+                        <location>
+                           <geo>48,2149 16,3637</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207581.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -156,6 +156,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-05-10</idno>
             </event>
             <event when-iso="1931-05-10">
+               <head>Filmvorführung von David Golder,
+                        10.5.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80401">David Golder</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190574">Burgkino</placeName>
+                        <location>
+                           <geo>48,2030071 16,3652839</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211242.html</idno>
+            </event>
+            <event when-iso="1931-05-10">
                <head>Tagebuch von Clara Katharina Pollaczek, 10.–14. Mai 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp908.html</idno>

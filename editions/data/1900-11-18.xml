@@ -117,6 +117,39 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-11-18</idno>
             </event>
+            <event when-iso="1900-11-18">
+               <head>Private Lesung von Zum großen Wurstel,
+                        18.11.1900</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29951">Zum großen Wurstel. Burleske in einem Akt</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb231146">Rotensterngasse
+                                31</placeName>
+                        <location>
+                           <geo>48,21682 16,3855</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231209.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -87,6 +87,35 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-02-07</idno>
             </event>
+            <event when-iso="1887-02-07">
+               <head>Soirée bei Feinberg, 7.2.1887</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb16137">Feinberg, Julian Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb296641">Reichsratsstraße
+                                11</placeName>
+                        <location>
+                           <geo>48,212645 16,35853</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208102.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -126,6 +126,52 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-06-25</idno>
             </event>
+            <event when-iso="1891-06-25">
+               <head>Private Lesung Das Märchen, 25.6.1891</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12737">Schupp, Falk</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb19832">Kulka, Julius</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb18870">Joachim, Jaques</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb730">Seidlgasse</placeName>
+                        <location>
+                           <geo>48,206786325191 16,389660949005</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47830.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

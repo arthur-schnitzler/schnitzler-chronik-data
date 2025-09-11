@@ -127,6 +127,29 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-01-17</idno>
             </event>
             <event when-iso="1914-01-17">
+               <head>Gesangskonzert von Elisabeth Lauterburg,
+                        17.1.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb20166">Lauterburg, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209714.html</idno>
+            </event>
+            <event when-iso="1914-01-17">
                <head>Engelmann, Gabriel an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00033571</idno>

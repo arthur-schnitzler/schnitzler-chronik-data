@@ -111,6 +111,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-05-10</idno>
             </event>
+            <event when-iso="1918-05-10">
+               <head>2. Konzert »Anbruch«, 10.5.1918</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37249">Der Anbruch</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb3112">Grosz, Wilhelm</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb113826">Hüni-Mihacsek, Felicie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb266689.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

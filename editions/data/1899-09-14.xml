@@ -117,6 +117,34 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-14</idno>
             </event>
+            <event when-iso="1899-09-14">
+               <head>Aufführung von Paracelsus, Die Gefährtin, Der
+                        grüne Kakadu, 14.9.1899</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin.
+                                Drei Einakter</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb635">Residenztheater
+                                München</placeName>
+                        <location>
+                           <geo>48,139944 11,578786</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209098.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

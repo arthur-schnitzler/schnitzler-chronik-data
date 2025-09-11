@@ -95,6 +95,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-05-17</idno>
             </event>
+            <event when-iso="1881-05-17">
+               <head>Hochzeit und Tanz bei Adler, 17.5.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb296572">Klein, Pauline</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb296571">Klein, Anton</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                        <location>
+                           <geo>48,211649 16,374825</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb296582">Landgutgasse
+                                26</placeName>
+                        <location>
+                           <geo>48,181382 16,37399</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207692.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

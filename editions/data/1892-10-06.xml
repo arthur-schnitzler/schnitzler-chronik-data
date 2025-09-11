@@ -106,6 +106,63 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-10-06</idno>
             </event>
+            <event when-iso="1892-10-06">
+               <head>Konzert der Singspielhalle Böhm,
+                        6.10.1892</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb186013">Singspielhalle Böhm</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208576.html</idno>
+            </event>
+            <event when-iso="1892-10-06">
+               <head>Private Lesung von Abschiedssouper,
+                        6.10.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30005">Abschiedssouper</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb18523">Horn, Paul</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb27355">Wreden, Grethe</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1282">Hotel Wandl</placeName>
+                        <location>
+                           <geo>48,20969 16,37045</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192447.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -95,6 +95,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-07-16</idno>
             </event>
+            <event when-iso="1886-07-16">
+               <head>Aufführung von Krieg im Frieden,
+                        16.7.1886</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb169126">Stadttheater und Arena</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77487">Krieg im Frieden</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190808">Arena in
+                                Baden</placeName>
+                        <location>
+                           <geo>48,0108832 16,23241375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208044.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

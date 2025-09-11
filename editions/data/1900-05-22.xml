@@ -137,6 +137,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-05-22</idno>
             </event>
             <event when-iso="1900-05-22">
+               <head>Premiere von Pauline, 22.5.1900</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb39796">Pauline</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209155.html</idno>
+            </event>
+            <event when-iso="1900-05-22">
                <head>S..., Risa an Müller, Leopoldine [Briefe]</head>
                <desc>1 Kte</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00040798</idno>

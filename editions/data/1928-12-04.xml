@@ -186,6 +186,42 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-12-04</idno>
             </event>
+            <event when-iso="1928-12-04">
+               <head>Privates Klavierkonzert von Klavierkonzert Nr.
+                        20 d-Moll KV 466, 4.12.1928</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77206">Klavierkonzert Nr. 20 d-Moll KV 466</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19716">Kraus, Lili</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12698">Schnitzler, Julius</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb24420">Schnitzler, Hans</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb232800">Laudongasse
+                                12</placeName>
+                        <location>
+                           <geo>48,21346 16,35137</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235224.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

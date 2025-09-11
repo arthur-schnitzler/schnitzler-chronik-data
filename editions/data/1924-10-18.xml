@@ -127,6 +127,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-10-18</idno>
             </event>
             <event when-iso="1924-10-18">
+               <head>Aufführung von Die Großfürstin und der
+                        Zimmerkellner, 18.10.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81250">Die Großfürstin und der Zimmerkellner</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb8288">Konstantin, Leopoldine</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210308.html</idno>
+            </event>
+            <event when-iso="1924-10-18">
                <head>Arthur Schnitzler an Werner Hegemann, 18. 10. 1924</head>
                <desc>
                   <listPerson>

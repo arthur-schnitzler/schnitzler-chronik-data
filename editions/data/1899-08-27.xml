@@ -82,6 +82,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-08-27</idno>
             </event>
+            <event when-iso="1899-08-27">
+               <head>Aufführung von Pariser Leben,
+                        27.8.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb53311">Pariser Leben. Komische Operette in 4
+                                Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
+                        <location>
+                           <geo>47,712959 13,622439</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209092.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

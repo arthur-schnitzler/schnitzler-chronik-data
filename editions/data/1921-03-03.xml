@@ -115,6 +115,29 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-03-03</idno>
             </event>
             <event when-iso="1921-03-03">
+               <head>Violinkonzert von Robert Pollak,
+                        3.3.1921</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9327">Pollak, Robert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210082.html</idno>
+            </event>
+            <event when-iso="1921-03-03">
                <head>Schnitzler, Arthur an Die Presse &lt;Zeitung, Wien&gt; [Briefe]</head>
                <desc>1 Bl.Durchschl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00078649</idno>

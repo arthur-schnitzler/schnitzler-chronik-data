@@ -135,6 +135,37 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-12-25</idno>
             </event>
             <event when-iso="1914-12-25">
+               <head>Aufführung von Die Meistersinger von Nürnberg,
+                        25.12.1914</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63157">Volksoper Wien</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30661">Die Meistersinger von Nürnberg</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb28">Volksoper Wien</placeName>
+                        <location>
+                           <geo>48,224472 16,350361</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209736.html</idno>
+            </event>
+            <event when-iso="1914-12-25">
                <head>Traum vom 25. Dezember 1914</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

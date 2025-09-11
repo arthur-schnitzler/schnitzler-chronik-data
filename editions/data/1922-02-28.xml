@@ -146,6 +146,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-02-28</idno>
             </event>
             <event when-iso="1922-02-28">
+               <head>Probe von Reigen, 28.2.1922</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29855">Reigen. Zehn Dialoge</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239519.html</idno>
+            </event>
+            <event when-iso="1922-02-28">
                <head>Samuel Fischer an Arthur Schnitzler, 28.2.1922</head>
                <desc>
                   <listPerson>

@@ -191,6 +191,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-09-01</idno>
             </event>
+            <event when-iso="1895-09-01">
+               <head>Aufführung von Die Meistersinger von Nürnberg,
+                        1.9.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30661">Die Meistersinger von Nürnberg</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb45258">München</placeName>
+                        <location>
+                           <geo>48,13743 11,57549</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208772.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

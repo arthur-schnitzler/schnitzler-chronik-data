@@ -173,6 +173,35 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-05-27</idno>
             </event>
+            <event when-iso="1915-05-27">
+               <head>Ausstellungsbesuch der Ausstellung der Wiener
+                        Künstlervereinigungen, 27.5.1915</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29754">Hagenbund</orgName>
+                     </org>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb53176">Wiener Secession</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb237072">Ausstellungshalle des
+                                Hagenbundes</placeName>
+                        <location>
+                           <geo>48,206738 16,378383</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb259687.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

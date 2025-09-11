@@ -150,6 +150,34 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-01-04</idno>
             </event>
             <event when-iso="1907-01-04">
+               <head>Aufführung von 6. Sinfonie, 4.1.1907</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb264442">6. Sinfonie in a-Moll</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12163">Mahler, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209461.html</idno>
+            </event>
+            <event when-iso="1907-01-04">
                <head>Zinaida Vengerova an Arthur Schnitzler, 4. 1. 1907</head>
                <desc>
                   <listPerson>

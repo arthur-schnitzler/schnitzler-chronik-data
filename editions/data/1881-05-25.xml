@@ -95,6 +95,57 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-05-25</idno>
             </event>
+            <event when-iso="1881-05-25">
+               <head>Aufführung von Margarethe. Oper in fünf Akten,
+                        25.5.1881</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36689">K.K. Hof-Oper</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb185761">Margarethe. Oper in fünf Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
+                        <location>
+                           <geo>48,203 16,3691</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207696.html</idno>
+            </event>
+            <event when-iso="1881-05-25">
+               <head>Zirkus im Zirkus Carree, 25.5.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185971">Zirkus
+                                Carré</placeName>
+                        <location>
+                           <geo>48,218039 16,395426</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207695.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

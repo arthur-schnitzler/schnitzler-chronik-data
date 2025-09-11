@@ -187,6 +187,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-01-19</idno>
             </event>
+            <event when-iso="1912-01-19">
+               <head>Aufführung von Heimliche Liebe,
+                        19.1.1912</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76535">Heimliche Liebe</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10986">Brahm, Otto</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11441">Girardi, Alexander</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185928">Johann-Strauß-Theater</placeName>
+                        <location>
+                           <geo>48,1954 16,3685</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209626.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

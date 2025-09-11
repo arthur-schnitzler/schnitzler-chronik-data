@@ -250,6 +250,34 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-01</idno>
             </event>
             <event when-iso="1902-01-01">
+               <head>Überbrettl, 1.1.1902</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb144041">Überbrettl</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13169">Wolzogen, Ernst von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185917">Buntes
+                                Theater</placeName>
+                        <location>
+                           <geo>52,510555555555555 13,420194444444444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209229.html</idno>
+            </event>
+            <event when-iso="1902-01-01">
                <head>Arthur Schnitzler an Olga Schnitzler, 1. 1. 1902</head>
                <desc>
                   <listPerson>

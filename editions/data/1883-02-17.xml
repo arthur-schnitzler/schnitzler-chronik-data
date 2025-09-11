@@ -87,6 +87,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-02-17</idno>
             </event>
+            <event when-iso="1883-02-17">
+               <head>Aufführung von Verirrtes Schäfchen,
+                        17.2.1883</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195622">Verirrtes Schäfchen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207793.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -152,6 +152,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-01-17</idno>
             </event>
+            <event when-iso="1907-01-17">
+               <head>Vortrag von Der Dichter und diese Zeit,
+                        17.1.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb43902">Galerie Miethke</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb43900">Der Dichter und diese Zeit</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb234823">Galerie
+                                Miethke</placeName>
+                        <location>
+                           <geo>48,207163 16,369299</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43905.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

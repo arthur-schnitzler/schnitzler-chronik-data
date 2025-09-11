@@ -186,6 +186,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-09-11</idno>
             </event>
             <event when-iso="1931-09-11">
+               <head>Filmvorführung von Das Konzert,
+                        11.9.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30055">Das Konzert</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190582">Michelbeuern-Kino
+                                [II]</placeName>
+                        <location>
+                           <geo>48,227627 16,327784</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211261.html</idno>
+            </event>
+            <event when-iso="1931-09-11">
                <head>Tagebuch von Schnitzler, 11. 9. 1931</head>
                <desc>
                   <listPerson>

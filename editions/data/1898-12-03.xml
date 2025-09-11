@@ -155,6 +155,59 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-12-03</idno>
             </event>
+            <event when-iso="1898-12-03">
+               <head>Besuch des Gewerbemuseums, 3.12.1898</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb201129">Gewerbemuseum</placeName>
+                        <location>
+                           <geo>48,22327 16,351339</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297471.html</idno>
+            </event>
+            <event when-iso="1898-12-03">
+               <head>Uraufführung von Die Lumpen,
+                        3.12.1898</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63031">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33083">Die Lumpen. Komödie in drei Acten</title>
+                        <note type="relation-type">ist Uraufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14953">Glümer, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63347.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

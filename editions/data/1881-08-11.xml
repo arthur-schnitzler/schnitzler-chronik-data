@@ -93,6 +93,38 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-08-11</idno>
             </event>
+            <event when-iso="1881-08-11">
+               <head>Konzert von Harner, Schwarzmeyer, Löwy,
+                        11.8.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb211313">Harner, Wilhelm</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb211311">Harner, Franz</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb211309">Schwarzmaier, Alexander</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb211310">Löwy, E.</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb213">Bad Ischl</placeName>
+                        <location>
+                           <geo>47,71109 13,61893</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207709.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

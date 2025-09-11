@@ -243,6 +243,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-09-19</idno>
             </event>
+            <event when-iso="1895-09-19">
+               <head>Aufführung von Schafhaxl, 19.9.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81171">Schafhaxl. Große französische Ausstattungs-Feerie
+                                mit Gesang und Ballet in 5 Aufzügen und 14 Bildern</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb43280">Jantsch-Theater</placeName>
+                        <location>
+                           <geo>48,217566 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208779.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

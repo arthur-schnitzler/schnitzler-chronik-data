@@ -110,6 +110,54 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-05-07</idno>
             </event>
+            <event when-iso="1908-05-07">
+               <head>Besuch des Bayerischen Nationalmuseums,
+                        7.5.1908</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233217">Bayerisches
+                                Nationalmuseum</placeName>
+                        <location>
+                           <geo>48,1432 11,591</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297525.html</idno>
+            </event>
+            <event when-iso="1908-05-07">
+               <head>Aufführung von Beatrice und Benedikt,
+                        7.5.1908</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb79243">Beatrice und Benedikt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb669">Bayerische
+                                Staatsoper</placeName>
+                        <location>
+                           <geo>48,139603 11,579322</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209509.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -148,6 +148,77 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-04-27</idno>
             </event>
+            <event when-iso="1922-04-27">
+               <head>Besuch des Koninklijk Kabinet van Schilderijen
+                        Mauritshuis, 27.4.1922</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb245754">Koninklijk Kabinet van
+                                Schilderijen Mauritshuis</placeName>
+                        <location>
+                           <geo>52,080436 4,314417</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298188.html</idno>
+            </event>
+            <event when-iso="1922-04-27">
+               <head>Souper für Arthur Schnitzler, 27.4.1922</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185341">Restaurant
+                                Royal</placeName>
+                        <location>
+                           <geo>52,083538 4,312845</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb288478.html</idno>
+            </event>
+            <event when-iso="1922-04-27">
+               <head>Lesung von Die Hirtenflöte, Die letzten Masken,
+                        27.4.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30213">Die Hirtenflöte. Novelle</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb58810">Den Haag</placeName>
+                        <location>
+                           <geo>52,07667 4,29861</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183422.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

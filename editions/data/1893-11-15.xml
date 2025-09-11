@@ -152,6 +152,39 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-11-15</idno>
             </event>
+            <event when-iso="1893-11-15">
+               <head>Private Lesung von Abendspaziergang,
+                        15.11.1893</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb35702">Abendspaziergang</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190427">Wollzeile 15
+                                (»Berthahof«)</placeName>
+                        <location>
+                           <geo>48,208656 16,375924</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183839.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

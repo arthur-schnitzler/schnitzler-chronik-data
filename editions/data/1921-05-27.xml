@@ -185,6 +185,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-05-27</idno>
             </event>
+            <event when-iso="1921-05-27">
+               <head>Aufführung von Schm’a Jisroël,
+                        27.5.1921</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb185936">Freie Jüdische Volksbühne</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195873">Schm’a Jisroël</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185937">Unter Augartenstraße
+                                8</placeName>
+                        <location>
+                           <geo>48,219851 16,371936</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210098.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

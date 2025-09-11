@@ -177,6 +177,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-06-14</idno>
             </event>
+            <event when-iso="1921-06-14">
+               <head>Aufführung von Mein Leopold,
+                        14.6.1921</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29815">Wanderbühne des österreichischen
+                                    Volksbildungsamtes</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb62775">Mein Leopold</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1013">Urania</placeName>
+                        <location>
+                           <geo>48,211453732859 16,383906681096</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210106.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

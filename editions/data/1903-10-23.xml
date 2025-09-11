@@ -126,6 +126,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-10-23</idno>
             </event>
             <event when-iso="1903-10-23">
+               <head>Aufführung von Madame Sherry,
+                        23.10.1903</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195856">Madame Sherry</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209299.html</idno>
+            </event>
+            <event when-iso="1903-10-23">
                <head>Hofmannsthal an Bahr, 23. 10. 1903</head>
                <desc>
                   <listPerson>

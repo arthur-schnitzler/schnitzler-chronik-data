@@ -145,6 +145,69 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-06-17</idno>
             </event>
+            <event when-iso="1919-06-17">
+               <head>Schiedsverfahren Rosenbaum – S. Fischer,
+                        17.6.1919</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb23609">Rosner, Isidor</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12968">Trebitsch, Siegfried</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb16704">Friese, Otto</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12556">Rosenbaum, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb281664">Otto-Bauer-Gasse
+                                24</placeName>
+                        <location>
+                           <geo>48,1967 16,348</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb281669.html</idno>
+            </event>
+            <event when-iso="1919-06-17">
+               <head>Aufführung von Antigone, 17.6.1919</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80664">Antigone</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209997.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -84,6 +84,28 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-02-03</idno>
             </event>
+            <event when-iso="1883-02-03">
+               <head>Hausball bei Baecherts, 3.2.1883</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb295516">Baechert</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207788.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -208,6 +208,64 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-11-21</idno>
             </event>
+            <event when-iso="1926-11-21">
+               <head>Empfang für Gerhart Hauptmann und Tristan Bernard,
+                        21.11.1926</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11617">Hauptmann, Gerhart</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10893">Bernard, Tristan</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb251241">Sträußelsäle</placeName>
+                        <location>
+                           <geo>48,209524 16,350949</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb251243.html</idno>
+            </event>
+            <event when-iso="1926-11-21">
+               <head>Aufführung von Dorothea Angermann,
+                        21.11.1926</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb39689">Theater in der Josefstadt</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76926">Dorothea Angermann</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb40">Theater in der
+                                Josefstadt</placeName>
+                        <location>
+                           <geo>48,209583 16,351111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210386.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

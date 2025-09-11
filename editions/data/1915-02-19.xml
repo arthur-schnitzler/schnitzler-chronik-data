@@ -125,6 +125,37 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-02-19</idno>
             </event>
+            <event when-iso="1915-02-19">
+               <head>Konzert der Singakademie, 19.2.1915</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb201025">Wiener Singakademie</orgName>
+                     </org>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29504">Wiener Konzertverein</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9124">Ochs, Siegfried</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209746.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

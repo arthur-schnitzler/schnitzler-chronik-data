@@ -87,6 +87,30 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-01-31</idno>
             </event>
+            <event when-iso="1880-01-31">
+               <head>Hausball bei Eduard Wiener von Welten,
+                        31.1.1880</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb27082">Wiener von Welten, Eduard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb295613">Schwarzenbergplatz
+                                2</placeName>
+                        <location>
+                           <geo>48,20113 16,37527</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207551.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

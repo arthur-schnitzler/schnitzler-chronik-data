@@ -124,6 +124,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-03-31</idno>
             </event>
+            <event when-iso="1880-03-31">
+               <head>Aufführung von Die Näherin,
+                        31.3.1880</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195549">Die Näherin. Posse mit Gesang</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92603">Wiednertheater</placeName>
+                        <location>
+                           <geo>48,199478 16,364351</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207571.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

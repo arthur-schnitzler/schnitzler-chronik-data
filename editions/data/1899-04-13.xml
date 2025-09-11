@@ -117,6 +117,37 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-13</idno>
             </event>
             <event when-iso="1899-04-13">
+               <head>Aufführung von Der Traum ein Leben,
+                        13.4.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76986">Der Traum ein Leben</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209073.html</idno>
+            </event>
+            <event when-iso="1899-04-13">
                <head>Arthur Schnitzler an Rainer Maria Rilke, 13. 4. 1899</head>
                <desc>
                   <listPerson>

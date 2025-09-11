@@ -145,6 +145,31 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-07-21</idno>
             </event>
+            <event when-iso="1918-07-21">
+               <head>Heilige Messe, 21.7.1918</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2270">Scholz, Arthur Johannes</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb266853">Gardekirche</placeName>
+                        <location>
+                           <geo>48,197822 16,379042</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb266857.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

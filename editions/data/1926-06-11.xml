@@ -143,6 +143,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-06-11</idno>
             </event>
+            <event when-iso="1926-06-11">
+               <head>Aufführung von Mrs. Cheneys Ende,
+                        11.6.1926</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80912">Mrs. Cheneys Ende. Lustspiel in vier
+                                Bildern</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10886">Bergner, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210379.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

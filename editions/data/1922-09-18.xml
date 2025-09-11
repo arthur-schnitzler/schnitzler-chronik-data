@@ -118,6 +118,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-09-18</idno>
             </event>
             <event when-iso="1922-09-18">
+               <head>Aufführung von Clavigo, 18.9.1922</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb45417">Reinhardt-Bühnen</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31099">Clavigo</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb48198">Redoutensaal</placeName>
+                        <location>
+                           <geo>48,206783 16,366551</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210174.html</idno>
+            </event>
+            <event when-iso="1922-09-18">
                <head>Arthur Schnitzler an Bezirksgericht Fünfhaus, 18. 9. 1922</head>
                <desc>
                   <listOrg>

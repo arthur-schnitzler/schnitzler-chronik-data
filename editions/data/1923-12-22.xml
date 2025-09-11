@@ -146,6 +146,40 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-12-22</idno>
             </event>
             <event when-iso="1923-12-22">
+               <head>Aufführung von Der weiße Heiland,
+                        22.12.1923</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76922">Der weiße Heiland</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12274">Moissi, Alexander</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210257.html</idno>
+            </event>
+            <event when-iso="1923-12-22">
                <head>Arthur Schnitzler an Sascha-Film Industrie-A. G., 22.12.1923</head>
                <desc>
                   <listOrg>

@@ -98,6 +98,42 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-09-16</idno>
             </event>
+            <event when-iso="1880-09-16">
+               <head>Aufführung von Die Launen einer Frau, Le Malade
+                        imaginaire, 16.9.1880</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78265">Die Launen einer Frau</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb31627">Le Malade imaginaire</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
+                                Burgtheater]</placeName>
+                        <location>
+                           <geo>48,20778 16,36645</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207610.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

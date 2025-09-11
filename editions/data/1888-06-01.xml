@@ -102,6 +102,33 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-06-01</idno>
             </event>
             <event when-iso="1888-06-01">
+               <head>Aufführung von The Pirates of Penzance,
+                        1.6.1888</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81386">The Pirates of Penzance</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185197">Savoy
+                                Theatre</placeName>
+                        <location>
+                           <geo>51,510138888889 -0,12091666666667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208253.html</idno>
+            </event>
+            <event when-iso="1888-06-01">
                <head>Arthur Schnitzler an Olga Waissnix, Anfang Juni</head>
                <desc>
                   <listPerson>

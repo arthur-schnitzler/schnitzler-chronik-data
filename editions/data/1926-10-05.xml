@@ -155,6 +155,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-10-05</idno>
             </event>
             <event when-iso="1926-10-05">
+               <head>Filmvorführung von Die Lieblingsfrau des
+                        Maharadscha, 5.10.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81234">Die Lieblingsfrau des Maharadscha</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210849.html</idno>
+            </event>
+            <event when-iso="1926-10-05">
                <head>Schnitzler geht ins Kino, 5. Oktober 1926</head>
                <desc>
                   <bibl>»A. ist

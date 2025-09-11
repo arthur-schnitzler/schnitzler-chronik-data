@@ -115,6 +115,37 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-04-07</idno>
             </event>
             <event when-iso="1904-04-07">
+               <head>Aufführung von Zapfenstreich,
+                        7.4.1904</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32306">Zapfenstreich</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209328.html</idno>
+            </event>
+            <event when-iso="1904-04-07">
                <head>Arthur Schnitzler an Alfred Kerr, 7.4.1904</head>
                <desc>
                   <listPerson>

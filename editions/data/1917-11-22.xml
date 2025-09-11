@@ -123,6 +123,30 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-11-22</idno>
             </event>
+            <event when-iso="1917-11-22">
+               <head>Liederabend von Elisabeth Gund-Lauterburg,
+                        22.11.1917</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb20166">Lauterburg, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209910.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

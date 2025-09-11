@@ -188,6 +188,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-12-10</idno>
             </event>
             <event when-iso="1923-12-10">
+               <head>Aufführung von Die Perlen der Kleopatra,
+                        10.12.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77133">Die Perlen der Kleopatra</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb21142">Massary, Fritzi</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9190">Pallenberg, Max</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92603">Wiednertheater</placeName>
+                        <location>
+                           <geo>48,199478 16,364351</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210254.html</idno>
+            </event>
+            <event when-iso="1923-12-10">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 10. Dezember 1923</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp100.html</idno>

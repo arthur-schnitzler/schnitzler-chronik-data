@@ -143,6 +143,79 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-09-06</idno>
             </event>
+            <event when-iso="1913-09-06">
+               <head>Probe von Liebelei, 6.9.1913</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb47085">Münchner Kammerspiele</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14953">Glümer, Marie</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb15531">Duniecki, Arthur Stanislaus</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb11">Münchner
+                                Schauspielhaus</placeName>
+                        <location>
+                           <geo>48,138122 11,582478</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb255052.html</idno>
+            </event>
+            <event when-iso="1913-09-06">
+               <head>Premiere von Ruf des Lebens, 6.9.1913</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29905">Der Ruf des Lebens. Schauspiel in drei
+                                Akten</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb142471">Ziegel, Erich</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb21647">Marx, Paul</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2549">Horwitz, Mirjam</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185933">Kammerspiele
+                                München</placeName>
+                        <location>
+                           <geo>48,1381 11,5825</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209684.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

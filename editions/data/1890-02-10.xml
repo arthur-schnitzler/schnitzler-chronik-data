@@ -115,6 +115,65 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-02-10</idno>
             </event>
+            <event when-iso="1890-02-10">
+               <head>Zweiter Liederabend von Gustav Walter,
+                        10.2.1890</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13044">Walter, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208379.html</idno>
+            </event>
+            <event when-iso="1890-02-10">
+               <head>Private Lesung von Anatols Hochzeitsmorgen,
+                        Erinnerungen, 10.2.1890</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30033">Anatols Hochzeitsmorgen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb33816">Erinnerungen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb23575">Rosenberg, Max von</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186784.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

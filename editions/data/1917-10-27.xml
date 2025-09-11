@@ -187,6 +187,56 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-10-27</idno>
             </event>
+            <event when-iso="1917-10-27">
+               <head>Besuch der Secession, 27.10.1917</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb7">Secession</placeName>
+                        <location>
+                           <geo>48,200364 16,365508</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296967.html</idno>
+            </event>
+            <event when-iso="1917-10-27">
+               <head>Private Lesung von Die Schwestern,
+                        27.10.1917</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in
+                                Versen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb168815">Sternwartestraße
+                                71</placeName>
+                        <location>
+                           <geo>48,23188 16,33716</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184182.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

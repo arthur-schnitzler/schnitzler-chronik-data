@@ -87,6 +87,40 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1877-05-21</idno>
             </event>
+            <event when-iso="1877-05-21">
+               <head>Aufführung von Wiener Volksfiguren, Taufgöd und
+                        Firmgodl, Beim höchsten Heurigen, 21.5.1877</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195477">Wiener Volksfiguren</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195478">Taufgöd und Firmgodl</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195479">Beim höchsten Heurigen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb43280">Jantsch-Theater</placeName>
+                        <location>
+                           <geo>48,217566 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207393.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

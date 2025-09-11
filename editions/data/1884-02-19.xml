@@ -95,6 +95,51 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1884-02-19</idno>
             </event>
+            <event when-iso="1884-02-19">
+               <head>Universitätskränzchen, 19.2.1884</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                        <location>
+                           <geo>48,206662 16,391263</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207851.html</idno>
+            </event>
+            <event when-iso="1884-02-19">
+               <head>Aufführung von Mit Vergnügen,
+                        19.2.1884</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195640">Mit Vergnügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207850.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

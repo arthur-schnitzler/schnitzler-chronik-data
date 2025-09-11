@@ -128,6 +128,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-09-24</idno>
             </event>
+            <event when-iso="1921-09-24">
+               <head>Aufführung 8. Sinfonie (Wiederholungskonzert),
+                        24.9.1921</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210113.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

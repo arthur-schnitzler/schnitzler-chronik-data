@@ -112,6 +112,37 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-10-12</idno>
             </event>
             <event when-iso="1890-10-12">
+               <head>Aufführung von Susette, 12.10.1890</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63031">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80303">Susette, oder: Zweihundert Millionen.
+                                Ausstattungs-Comödie in drei Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208411.html</idno>
+            </event>
+            <event when-iso="1890-10-12">
                <head>Arthur Schnitzler an Marie Glümer, 12. 10. 1890</head>
                <desc>
                   <listPerson>

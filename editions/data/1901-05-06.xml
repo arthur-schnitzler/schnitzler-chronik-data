@@ -114,6 +114,49 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-05-06</idno>
             </event>
+            <event when-iso="1901-05-06">
+               <head>Besuch der Secession, 6.5.1901</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb7">Secession</placeName>
+                        <location>
+                           <geo>48,200364 16,365508</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296934.html</idno>
+            </event>
+            <event when-iso="1901-05-06">
+               <head>Überbrettl, 6.5.1901</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb144041">Überbrettl</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209196.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

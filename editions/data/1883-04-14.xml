@@ -87,6 +87,35 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-04-14</idno>
             </event>
+            <event when-iso="1883-04-14">
+               <head>Aufführung von König Lear,
+                        14.4.1883</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31623">König Lear. Trauerspiel in fünf Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb112941">Booth, Edwin</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207807.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

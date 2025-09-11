@@ -141,6 +141,42 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-12-06</idno>
             </event>
             <event when-iso="1919-12-06">
+               <head>1. Orchesterkonzert, 6.12.1919</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29747">Hugo Heller</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195868">1. Sinfonie in D-Dur</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13041">Walter, Bruno</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb22115">Østvig, Karl Aagaard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210026.html</idno>
+            </event>
+            <event when-iso="1919-12-06">
                <head>Eugen Deimel an Arthur Schnitzler, 6.12.1919?</head>
                <desc>
                   <listPerson>

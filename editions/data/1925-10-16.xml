@@ -169,6 +169,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-10-16</idno>
             </event>
             <event when-iso="1925-10-16">
+               <head>Aufführung von Don Pasquale,
+                        16.10.1925</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37031">Städtische Oper Berlin</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80380">Don Pasquale. Komische Oper in zwei Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb695">Städtische Oper
+                                Berlin</placeName>
+                        <location>
+                           <geo>52,512778 13,308333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210353.html</idno>
+            </event>
+            <event when-iso="1925-10-16">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 16. Oktober 1925</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp280.html</idno>

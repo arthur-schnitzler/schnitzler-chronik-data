@@ -176,6 +176,80 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-10-21</idno>
             </event>
+            <event when-iso="1913-10-21">
+               <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4],
+                        21.10.1913</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien,
+                                Schubertring 4]</placeName>
+                        <location>
+                           <geo>48,203191 16,375811</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297936.html</idno>
+            </event>
+            <event when-iso="1913-10-21">
+               <head>Besuch des Kunsthistorischen Museums,
+                        21.10.1913</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb47660">Kunsthistorisches
+                                Museum</placeName>
+                        <location>
+                           <geo>48,203661 16,361378</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297324.html</idno>
+            </event>
+            <event when-iso="1913-10-21">
+               <head>Aufführung von Amoureuse,
+                        21.10.1913</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37214">Neue Wiener Bühne</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb79442">Amoureuse</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb34399">Neue Wiener
+                                Bühne</placeName>
+                        <location>
+                           <geo>48,2195962 16,3589845</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209692.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

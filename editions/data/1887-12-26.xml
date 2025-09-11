@@ -107,6 +107,52 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-12-26</idno>
             </event>
+            <event when-iso="1887-12-26">
+               <head>Diner bei Edmund Markbreiter, 26.12.1887</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb3814">Markbreiter, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb294895">Helferstorferstraße
+                                6</placeName>
+                        <location>
+                           <geo>48,21383 16,36542</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294892.html</idno>
+            </event>
+            <event when-iso="1887-12-26">
+               <head>Soirée bei Eduard Brüll, 26.12.1887</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14631">Brüll, Eduard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb199413">Schottenring
+                                28</placeName>
+                        <location>
+                           <geo>48,216774 16,369401</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208186.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

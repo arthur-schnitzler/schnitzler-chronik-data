@@ -120,6 +120,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-12-06</idno>
             </event>
+            <event when-iso="1915-12-06">
+               <head>Premiere von Der Kandidat, 6.12.1915</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32089">Der Kandidat. Komödie in vier Aufzügen nach
+                                Flaubert</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb263832">Aus dem bürgerlichen Heldenleben</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb280">Renaissancetheater</placeName>
+                        <location>
+                           <geo>48,201139 16,349222</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209795.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

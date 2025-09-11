@@ -160,6 +160,41 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-27</idno>
             </event>
             <event when-iso="1925-01-27">
+               <head>Private Lesung von Der Geist im Wort und der Geist
+                        in der Tat, 27.1.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30051">Der Geist im Wort und der Geist in der Tat</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb90434">Champfèr</placeName>
+                        <location>
+                           <geo>46,47635 9,81002</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb184395">Julierhof</placeName>
+                        <location>
+                           <geo>46,478438 9,81123993</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184387.html</idno>
+            </event>
+            <event when-iso="1925-01-27">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 27. Januar 1925</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp180.html</idno>

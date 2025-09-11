@@ -158,6 +158,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-12-11</idno>
             </event>
             <event when-iso="1918-12-11">
+               <head>Probe von Professor Bernhardi, 11.12.1918</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239331.html</idno>
+            </event>
+            <event when-iso="1918-12-11">
                <head>Theodor Reik an Arthur Schnitzler, 11.12.1918</head>
                <desc>
                   <listPerson>

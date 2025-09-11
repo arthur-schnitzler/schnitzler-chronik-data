@@ -134,6 +134,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-09-14</idno>
             </event>
             <event when-iso="1929-09-14">
+               <head>Filmvorführung von Mitternachtssonne,
+                        14.9.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80258">Mitternachtssonne</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10860">Beer-Hofmann, Paula</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb772">Marienbad</placeName>
+                        <location>
+                           <geo>49,96115 12,72872</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211091.html</idno>
+            </event>
+            <event when-iso="1929-09-14">
                <head>Tagebuch von Clara Katharina Pollaczek, 12.–15. September 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp721.html</idno>

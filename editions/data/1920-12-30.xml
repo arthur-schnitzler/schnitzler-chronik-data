@@ -142,6 +142,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-12-30</idno>
             </event>
             <event when-iso="1920-12-30">
+               <head>Filmvorführung von Goldfieber,
+                        30.12.1920</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81322">Goldfieber</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210538.html</idno>
+            </event>
+            <event when-iso="1920-12-30">
                <head>Schnitzler an Werner Richter, 30. 12. 1920</head>
                <desc>
                   <listPerson>

@@ -174,6 +174,77 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-11-12</idno>
             </event>
+            <event when-iso="1907-11-12">
+               <head>Generalprobe von Messe h-Moll BWV 232,
+                        12.11.1907</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77124">Messe h-Moll BWV 232</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209492.html</idno>
+            </event>
+            <event when-iso="1907-11-12">
+               <head>Vorstandstreffen Union dramatischer Autoren und
+                        Komponisten, 12.11.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb192474">Union dramatischer Autoren und
+                                    Komponisten</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb26806">Weinberger, Charles</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11999">Krenn, Leopold</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb7048">Eysler, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2984">Reinhardt, Edmund</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12926">Telmann, Fritz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10592">Wolff, Franz</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb246847">Geologengasse
+                                5</placeName>
+                        <location>
+                           <geo>48,204893 16,394461</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192521.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

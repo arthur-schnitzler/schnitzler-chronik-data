@@ -168,6 +168,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-06-17</idno>
             </event>
             <event when-iso="1927-06-17">
+               <head>Filmvorführung von Tragödie einer Ehe,
+                        17.6.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb200223">Tragödie einer Ehe</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210908.html</idno>
+            </event>
+            <event when-iso="1927-06-17">
                <head>Schnitzler geht ins Kino, 17. Juni 1927</head>
                <desc>
                   <bibl>»A. ist

@@ -126,6 +126,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-04-10</idno>
             </event>
             <event when-iso="1915-04-10">
+               <head>Filmvorführung von Alexandra,
+                        10.4.1915</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb257505">Alexandra</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190490">Apollo-Kino</placeName>
+                        <location>
+                           <geo>48,221593 16,334841</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210501.html</idno>
+            </event>
+            <event when-iso="1915-04-10">
                <head>Gustaf Linden an Arthur Schnitzler, [nach dem 7. April 1915]?</head>
                <desc>
                   <listPerson>

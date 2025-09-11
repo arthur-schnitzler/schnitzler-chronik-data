@@ -155,6 +155,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-05-27</idno>
             </event>
             <event when-iso="1892-05-27">
+               <head>Private Lesung von Muza, 27.5.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb144337">Muza</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb235251">Hasenauerstraße
+                                59</placeName>
+                        <location>
+                           <geo>48,23365 16,33494</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144340.html</idno>
+            </event>
+            <event when-iso="1892-05-27">
                <head>Traum vom 27. Mai 1892</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

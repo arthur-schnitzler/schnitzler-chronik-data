@@ -154,6 +154,29 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-01-09</idno>
             </event>
+            <event when-iso="1914-01-09">
+               <head>Gesangskonzert Maria Freund, 9.1.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb7241">Freund, Marya</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209713.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -130,6 +130,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-11-03</idno>
             </event>
             <event when-iso="1914-11-03">
+               <head>Filmvorführung von Venezianische Nacht und
+                        Reingefallen, 3.11.1914</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195404">Venezianische Nacht</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195405">Reingefallen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190574">Burgkino</placeName>
+                        <location>
+                           <geo>48,2030071 16,3652839</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210491.html</idno>
+            </event>
+            <event when-iso="1914-11-03">
                <head>Schnitzler im Burgkino, 3. November 1914</head>
                <desc>
                   <bibl>»A. ist

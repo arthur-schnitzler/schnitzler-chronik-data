@@ -149,6 +149,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-05-25</idno>
             </event>
             <event when-iso="1931-05-25">
+               <head>Filmvorführung von Gassenhauer,
+                        25.5.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81111">Gassenhauer</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92525">Kammer-Lichtspiele
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,1984 16,37743</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211245.html</idno>
+            </event>
+            <event when-iso="1931-05-25">
                <head>Tagebuch von Clara Katharina Pollaczek, 25.–27. Mai 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp913.html</idno>

@@ -194,6 +194,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-12-23</idno>
             </event>
+            <event when-iso="1924-12-23">
+               <head>Premiere von Dein süßer Mund,
+                        23.12.1924</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb186050">Modernes Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81522">Dein süßer Mund</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb290563">Kleines
+                                Schauspielhaus</placeName>
+                        <location>
+                           <geo>48,204979 16,371852</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210323.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

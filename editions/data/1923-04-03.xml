@@ -134,6 +134,39 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-04-03</idno>
             </event>
+            <event when-iso="1923-04-03">
+               <head>Private Lesung von Der Geist im Wort und der Geist
+                        in der Tat, 3.4.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30051">Der Geist im Wort und der Geist in der Tat</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2496">Kaufmann, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb186043">Elisabethstraße
+                                22</placeName>
+                        <location>
+                           <geo>48,202866 16,364281</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264499.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

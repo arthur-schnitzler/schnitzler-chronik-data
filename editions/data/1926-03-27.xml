@@ -131,6 +131,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-03-27</idno>
             </event>
+            <event when-iso="1926-03-27">
+               <head>Aufführung von Die Teresina,
+                        27.3.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77134">Die Teresina</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210372.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

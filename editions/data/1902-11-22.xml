@@ -122,6 +122,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-11-22</idno>
             </event>
+            <event when-iso="1902-11-22">
+               <head>Lesung von Der grüne Kakadu, 22.11.1902</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb51283">Verein Volksheim</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183253">Volksheim</placeName>
+                        <location>
+                           <geo>48,201152 16,338652</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183250.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

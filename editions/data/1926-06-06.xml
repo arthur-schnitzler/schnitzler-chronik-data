@@ -147,6 +147,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-06-06</idno>
             </event>
             <event when-iso="1926-06-06">
+               <head>Filmvorführung von L’Abbé Constantin,
+                        6.6.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb163936">L’Abbé Constantin</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb19262">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210824.html</idno>
+            </event>
+            <event when-iso="1926-06-06">
                <head>Schnitzler geht ins Kino, 6. Juni 1926</head>
                <desc>
                   <bibl>»A. ist

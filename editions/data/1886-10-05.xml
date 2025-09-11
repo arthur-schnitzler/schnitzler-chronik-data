@@ -88,6 +88,41 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-10-05</idno>
             </event>
             <event when-iso="1886-10-05">
+               <head>Premiere von Maria und Magdalena,
+                        5.10.1886</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195708">Maria und Magdalena</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb107427">Wessely, Josefine</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
+                                Burgtheater]</placeName>
+                        <location>
+                           <geo>48,20778 16,36645</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208059.html</idno>
+            </event>
+            <event when-iso="1886-10-05">
                <head>Arthur Schnitzler an Olga Waissnix, 5.10.1886</head>
                <desc>
                   <listPerson>

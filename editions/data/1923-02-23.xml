@@ -126,6 +126,41 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-02-23</idno>
             </event>
             <event when-iso="1923-02-23">
+               <head>Aufführung von Eine Frau ohne Bedeutung,
+                        23.2.1923</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37214">Neue Wiener Bühne</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77596">Eine Frau ohne Bedeutung</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2249">Korff, Arnold</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb34399">Neue Wiener
+                                Bühne</placeName>
+                        <location>
+                           <geo>48,2195962 16,3589845</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210215.html</idno>
+            </event>
+            <event when-iso="1923-02-23">
                <head>Olga an Arthur Schnitzler, 23. 2. 1923</head>
                <desc>
                   <listPerson>

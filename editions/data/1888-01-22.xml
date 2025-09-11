@@ -101,6 +101,34 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-01-22</idno>
             </event>
+            <event when-iso="1888-01-22">
+               <head>Großes Bruckner-Konzert, 22.1.1888</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb163378">4. Sinfonie Es-Dur („Romantische")</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11024">Bruckner, Anton</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208195.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

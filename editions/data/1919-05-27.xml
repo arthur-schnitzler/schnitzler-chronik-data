@@ -180,6 +180,40 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-05-27</idno>
             </event>
+            <event when-iso="1919-05-27">
+               <head>Drittes Symphoniekonzert von Bruno Walter:
+                        Mozart, 27.5.1919</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29747">Hugo Heller</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13041">Walter, Bruno</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb6526">Busch, Adolf</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb16370">Foerstel, Gertrude</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209990.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

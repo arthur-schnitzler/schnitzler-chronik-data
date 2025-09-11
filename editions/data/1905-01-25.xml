@@ -145,6 +145,71 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-01-25</idno>
             </event>
+            <event when-iso="1905-01-25">
+               <head>2. Orchesterkonzert der Vereinigung schaffender
+                        Tonkünstler, 25.1.1905</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb234865">Vereinigung schaffender Tonkünstler in
+                                    Wien</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb27460">Zemlinsky, Alexander von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12743">Schönberg, Arnold</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9347">Posa, Oskar C.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb234859.html</idno>
+            </event>
+            <event when-iso="1905-01-25">
+               <head>Probe von Freiwild, 25.1.1905</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb234853.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

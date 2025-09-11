@@ -87,6 +87,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-04-28</idno>
             </event>
+            <event when-iso="1883-04-28">
+               <head>Premiere von Hasemanns Töchter,
+                        28.4.1883</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195525">Hasemanns Töchter</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207810.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -149,6 +149,44 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-02-08</idno>
             </event>
+            <event when-iso="1902-02-08">
+               <head>Auftritt von Sadayakko und Loïe Fuller,
+                        8.2.1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32047">The Merchant of Venice</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb231856">Der Shogun. Drama aus Alt-Japan in zwei Acten und
+                                drei Scenen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19241">Kawakami, Sadayakko</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb16797">Fuller, Loïe</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb37">Theater an der
+                                Wien</placeName>
+                        <location>
+                           <geo>48,19941 16,3642</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209238.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

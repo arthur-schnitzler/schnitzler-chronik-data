@@ -150,6 +150,54 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-09-06</idno>
             </event>
+            <event when-iso="1912-09-06">
+               <head>Private Lesung von Professor Bernhardi,
+                        6.9.1912</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12837">Steinrück, Albert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12170">Mann, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb7987">Jacobi, Bernhard von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb21218">Mayer, Alfred Karl</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11806">Jacobi, Lucy von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb253566">Villa
+                                Carola</placeName>
+                        <location>
+                           <geo>47,910499 11,282052</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184088.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

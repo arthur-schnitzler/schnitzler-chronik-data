@@ -117,6 +117,41 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-12-18</idno>
             </event>
+            <event when-iso="1911-12-18">
+               <head>Aufführung von Il Ratto dee Sabine,
+                        18.12.1911</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37214">Neue Wiener Bühne</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195863">Il Ratto delle Sabine. Commedia in 4 atti</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2189">Novelli, Ermete</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb34399">Neue Wiener
+                                Bühne</placeName>
+                        <location>
+                           <geo>48,2195962 16,3589845</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209624.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -132,6 +132,48 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-09-09</idno>
             </event>
+            <event when-iso="1917-09-09">
+               <head>Private Lesung von Fink und Fliederbusch,
+                        9.9.1917</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30881">Fink und Fliederbusch. Komödie in drei
+                                Akten</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb19963">Ziegra, Anne-Elisabeth</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12837">Steinrück, Albert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb21647">Marx, Paul</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb2318">Partenkirchen</placeName>
+                        <location>
+                           <geo>47,4956 11,1097</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184159.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

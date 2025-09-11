@@ -146,6 +146,34 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-03-19</idno>
             </event>
+            <event when-iso="1892-03-19">
+               <head>Private Lesung von Agonie, 19.3.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30159">Agonie</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb14953">Glümer, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190957.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

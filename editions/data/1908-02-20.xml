@@ -90,6 +90,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-02-20</idno>
             </event>
+            <event when-iso="1908-02-20">
+               <head>Private Lesung von Der Tod des Junggesellen,
+                        20.2.1908</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33758">Der Tod des Junggesellen. Novelle</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb413">Südbahnhotel
+                                [Semmering]</placeName>
+                        <location>
+                           <geo>47,647222 15,83</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb245864.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

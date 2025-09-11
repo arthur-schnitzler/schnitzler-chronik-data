@@ -146,6 +146,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-05-01</idno>
             </event>
+            <event when-iso="1907-05-01">
+               <head>Aufführung von Hidalla, 1.5.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb45430">Kleines Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76464">Hidalla oder Sein und Haben. Schauspiel in fünf
+                                Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb60854">Wiener
+                                Bürgertheater</placeName>
+                        <location>
+                           <geo>48,20709 16,38382</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209480.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

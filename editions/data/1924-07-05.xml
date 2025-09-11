@@ -134,6 +134,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-07-05</idno>
             </event>
             <event when-iso="1924-07-05">
+               <head>Filmvorführung von Verschneite Spuren,
+                        5.7.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80448">Verschneite Spuren</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12170">Mann, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb4424">Mann, Marie</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb30">Salzburg</placeName>
+                        <location>
+                           <geo>47,80067 13,04532</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210679.html</idno>
+            </event>
+            <event when-iso="1924-07-05">
                <head>Arthur Schnitzler an Olga Schnitzler, 5. 7. 1924</head>
                <desc>
                   <listPerson>

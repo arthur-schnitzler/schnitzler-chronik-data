@@ -87,6 +87,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-11-13</idno>
             </event>
+            <event when-iso="1881-11-13">
+               <head>Hochzeit von Laura Pollak und Heinrich Spitzer,
+                        13.11.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb22743">Spitzer, Laura</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb25241">Spitzer, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                        <location>
+                           <geo>48,211649 16,374825</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296714.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

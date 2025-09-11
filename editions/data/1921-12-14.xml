@@ -153,6 +153,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-12-14</idno>
             </event>
+            <event when-iso="1921-12-14">
+               <head>Aufführung von Matthäus-Passion BWV 244,
+                        14.12.1921</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77123">Matthäus-Passion BWV 244</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13041">Walter, Bruno</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210139.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -134,6 +134,55 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-04-15</idno>
             </event>
+            <event when-iso="1909-04-15">
+               <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4],
+                        15.4.1909</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien,
+                                Schubertring 4]</placeName>
+                        <location>
+                           <geo>48,203191 16,375811</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297840.html</idno>
+            </event>
+            <event when-iso="1909-04-15">
+               <head>Ausstellungsbesuch der Frühjahrsausstellung
+                        der Secession, 15.4.1909</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb53176">Wiener Secession</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb7">Secession</placeName>
+                        <location>
+                           <geo>48,200364 16,365508</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb248559.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

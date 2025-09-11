@@ -157,6 +157,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-04-25</idno>
             </event>
             <event when-iso="1930-04-25">
+               <head>Filmvorführung von Der blaue Engel,
+                        25.4.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81358">Der blaue Engel</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb52023">Apollo-Theater
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,1975 16,353889</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211152.html</idno>
+            </event>
+            <event when-iso="1930-04-25">
                <head>Tagebuch von Clara Katharina Pollaczek, 18.–26. April 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp771.html</idno>

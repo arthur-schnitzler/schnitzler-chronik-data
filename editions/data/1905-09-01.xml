@@ -136,6 +136,40 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-09-01</idno>
             </event>
             <event when-iso="1905-09-01">
+               <head>Aufführung von Die Haubenlerche,
+                        1.9.1905</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78363">Die Haubenlerche</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11394">Galafrès, Elsa Marguerite</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb20">Volkstheater</placeName>
+                        <location>
+                           <geo>48,205142 16,3566</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209374.html</idno>
+            </event>
+            <event when-iso="1905-09-01">
                <head>Mappe A99</head>
                <desc>Datumsangabe auf Blatt von Der Ruf des Lebens: »Art und Adjunkt.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428203_0187.html</idno>

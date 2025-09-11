@@ -144,6 +144,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-01-30</idno>
             </event>
             <event when-iso="1914-01-30">
+               <head>Aufführung von Salome, 30.1.1914</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76845">Salome [op. 54]</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb9">Königlich Bayerische
+                                Hoftheater</placeName>
+                        <location>
+                           <geo>48,139944 11,578786</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209716.html</idno>
+            </event>
+            <event when-iso="1914-01-30">
                <head>Fritz Unruh an Arthur Schnitzler, 30.1.1914</head>
                <desc>
                   <listPerson>

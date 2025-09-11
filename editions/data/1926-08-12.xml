@@ -107,6 +107,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-08-12</idno>
             </event>
             <event when-iso="1926-08-12">
+               <head>Filmvorführung von Sumpf und Moral,
+                        12.8.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80485">Sumpf und Moral</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1223">Bern</placeName>
+                        <location>
+                           <geo>46,9489 7,4638</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210839.html</idno>
+            </event>
+            <event when-iso="1926-08-12">
                <head>Tagebuch von Clara Katharina Pollaczek, 5.–16. August 1926</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp380.html</idno>

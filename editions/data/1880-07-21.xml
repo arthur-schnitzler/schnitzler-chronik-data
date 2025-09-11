@@ -111,6 +111,28 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-07-21</idno>
             </event>
+            <event when-iso="1880-07-21">
+               <head>Kränzchen bei Spitzers, 21.7.1880</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb25240">Spitzer, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb159">Heiligenstadt</placeName>
+                        <location>
+                           <geo>48,244596474277 16,36756870745</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207599.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

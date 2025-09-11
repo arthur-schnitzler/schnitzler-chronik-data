@@ -121,6 +121,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-07-01</idno>
             </event>
             <event when-iso="1926-07-01">
+               <head>Filmvorführung von Das Wachsfigurenkabinett,
+                        1.7.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80860">Das Wachsfigurenkabinett</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210831.html</idno>
+            </event>
+            <event when-iso="1926-07-01">
                <head>Schnitzler geht ins Kino, 1. Juli 1926</head>
                <desc>
                   <bibl>»A. ist

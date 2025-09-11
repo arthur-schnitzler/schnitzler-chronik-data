@@ -140,6 +140,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-10-05</idno>
             </event>
             <event when-iso="1922-10-05">
+               <head>Filmvorführung von Sodom und Gomorrha,
+                        5.10.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb63600">Sodom und Gomorrha</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb20400">Lichtenstern, Vilma</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190587">Löwenkino</placeName>
+                        <location>
+                           <geo>48,208736 16,392643</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210588.html</idno>
+            </event>
+            <event when-iso="1922-10-05">
                <head>Mappe A144</head>
                <desc>Datumsangabe auf Blatt von Traumnovelle: »Erregung: eher flösste ihm das…«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428611_0043.html</idno>

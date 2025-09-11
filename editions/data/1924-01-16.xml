@@ -123,6 +123,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-01-16</idno>
             </event>
+            <event when-iso="1924-01-16">
+               <head>Aufführung von Mein Vater hat recht gehabt,
+                        16.1.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80643">Mein Vater hat recht gehabt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256171.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

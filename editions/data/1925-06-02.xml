@@ -169,6 +169,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-06-02</idno>
             </event>
+            <event when-iso="1925-06-02">
+               <head>Vortrag von Thomas Mann: Natur und Nation,
+                        2.6.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb254146">Natur und Nation</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12176">Mann, Thomas</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb250518">Annagasse
+                                5</placeName>
+                        <location>
+                           <geo>48,204532 16,372557</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb254145.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

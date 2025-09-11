@@ -146,6 +146,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-11-02</idno>
             </event>
             <event when-iso="1915-11-02">
+               <head>Filmvorführung von Es war ein Traum,
+                        2.11.1915</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195411">Es war ein Traum</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190574">Burgkino</placeName>
+                        <location>
+                           <geo>48,2030071 16,3652839</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210510.html</idno>
+            </event>
+            <event when-iso="1915-11-02">
                <head>Fritz Unruh an Arthur Schnitzler, 2.11.1915</head>
                <desc>
                   <listPerson>

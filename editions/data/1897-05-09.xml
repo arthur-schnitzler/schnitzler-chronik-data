@@ -104,6 +104,33 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-05-09</idno>
             </event>
             <event when-iso="1897-05-09">
+               <head>Aufführung von Le petit Faust,
+                        9.5.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80690">Le petit Faust</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185891">Théâtre des
+                                Variétés</placeName>
+                        <location>
+                           <geo>48,871111111111 2,3419444444444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208940.html</idno>
+            </event>
+            <event when-iso="1897-05-09">
                <head>Schnitzler an Gustav Schwarzkopf, 9. 5. 1897</head>
                <desc>
                   <listPerson>

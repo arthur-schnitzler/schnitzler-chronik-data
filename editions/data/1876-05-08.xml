@@ -87,6 +87,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1876-05-08</idno>
             </event>
+            <event when-iso="1876-05-08">
+               <head>Aufführung von Uriel Acosta. Trauerspiel in
+                        fünf Aufzügen, 8.5.1876</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb42545">Uriel Acosta. Trauerspiel in fünf Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207360.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -110,6 +110,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-18</idno>
             </event>
+            <event when-iso="1904-02-18">
+               <head>Aufführung von Der Troubadour,
+                        18.2.1904</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76691">Der Troubadour. Große Oper in vier Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1034">Semperoper</placeName>
+                        <location>
+                           <geo>51,054508 13,735169</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209319.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

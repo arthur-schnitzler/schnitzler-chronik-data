@@ -84,6 +84,28 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-01-06</idno>
             </event>
+            <event when-iso="1881-01-06">
+               <head>Soirée musicale bei Dr. Löw, 6.1.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb295587">Löw</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207644.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

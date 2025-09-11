@@ -142,6 +142,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-04-01</idno>
             </event>
             <event when-iso="1927-04-01">
+               <head>Aufführung von Turandot, 1.4.1927</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36687">Staatsoper</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78249">Turandot</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
+                        <location>
+                           <geo>48,203 16,3691</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210408.html</idno>
+            </event>
+            <event when-iso="1927-04-01">
                <head>Arthur Schnitzler an Hedy Kempny, 1.4.1927</head>
                <desc>
                   <listPerson>

@@ -146,6 +146,47 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-05-04</idno>
             </event>
+            <event when-iso="1908-05-04">
+               <head>Besuch des Künstlerhauses am Lenbachplatz,
+                        4.5.1908</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb184674">Künstlerhaus am
+                                Lenbachplatz</placeName>
+                        <location>
+                           <geo>48,1400253963218 11,5677720237734</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297393.html</idno>
+            </event>
+            <event when-iso="1908-05-04">
+               <head>Besuch der Alten Pinakothek, 4.5.1908</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb511">Alte
+                                Pinakothek</placeName>
+                        <location>
+                           <geo>48,148333 11,571111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297138.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

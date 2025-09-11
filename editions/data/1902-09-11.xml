@@ -100,6 +100,36 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-09-11</idno>
             </event>
+            <event when-iso="1902-09-11">
+               <head>Private Lesung von Die Weissagung,
+                        11.9.1902</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30683">Die Weissagung</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb145165">Hauptstraße
+                                56</placeName>
+                        <location>
+                           <geo>48,08736 16,24924</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232136.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

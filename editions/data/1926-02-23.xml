@@ -159,6 +159,35 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-02-23</idno>
             </event>
+            <event when-iso="1926-02-23">
+               <head>Kammerchorkonzert des philharmonischen Chors,
+                        23.2.1926</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb250194">Philharmonischer Chor</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb54787">Zuckerkandl, Victor</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb250191.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

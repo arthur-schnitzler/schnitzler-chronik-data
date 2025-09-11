@@ -110,6 +110,53 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-04-15</idno>
             </event>
+            <event when-iso="1897-04-15">
+               <head>Besuch des Musée du Louvre, 15.4.1897</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb39678">Musée du
+                                Louvre</placeName>
+                        <location>
+                           <geo>48,8625 2,336389</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297171.html</idno>
+            </event>
+            <event when-iso="1897-04-15">
+               <head>Aufführung von Dix ans après, Trois cœurs.
+                        Pièce en un acte, Le barbier de Seville, 15.4.1897</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77604">Le barbier de Séville ou la précaution
+                                inutile</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb792">Odéon</placeName>
+                        <location>
+                           <geo>48,850022 2,338927</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208920.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

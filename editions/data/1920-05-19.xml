@@ -176,6 +176,84 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-05-19</idno>
             </event>
+            <event when-iso="1920-05-19">
+               <head>Laienvorstellung von Der tapfere Cassian,
+                        19.5.1920</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30217">Der tapfere Cassian. Puppenspiel in einem
+                                Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb32740">Der gemütliche Commissär</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2238">Cappellini, Lili</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb22728">Pollak, Frieda</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb18504">Horch, Ludwig</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb236102">Lannerstraße
+                                24</placeName>
+                        <location>
+                           <geo>48,236143 16,344253</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb290638.html</idno>
+            </event>
+            <event when-iso="1920-05-19">
+               <head>Generalprobe von Die Troerinnen,
+                        19.5.1920</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76574">Die Troerinnen</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210049.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

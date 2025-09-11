@@ -92,6 +92,39 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-12-19</idno>
             </event>
+            <event when-iso="1886-12-19">
+               <head>Hochzeit von Anton Wassing und Charlotte Jallowetz,
+                        19.12.1886</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb26706">Wassing, Anton</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb48943">Wassing, Charlotte</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb296632">Synagoge
+                                Turnergasse</placeName>
+                        <location>
+                           <geo>48,1922 16,3353</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208082.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

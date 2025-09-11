@@ -163,6 +163,29 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-03-26</idno>
             </event>
             <event when-iso="1911-03-26">
+               <head>Gesangskonzert von Lilli Lehmann,
+                        26.3.1911</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb28827">Lehmann, Lilli</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209602.html</idno>
+            </event>
+            <event when-iso="1911-03-26">
                <head>Halversen, ... an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00036039</idno>

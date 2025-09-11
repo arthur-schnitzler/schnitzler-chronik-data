@@ -130,6 +130,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-04-02</idno>
             </event>
             <event when-iso="1928-04-02">
+               <head>Filmvorführung von Das grobe Hemd,
+                        2.4.1928</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80777">Das grobe Hemd</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210983.html</idno>
+            </event>
+            <event when-iso="1928-04-02">
                <head>Mappe A35</head>
                <desc>Datumsangabe auf Blatt von Abenteurernovelle: »neben dem Brunnen ins Gras…«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589045_0079.html</idno>

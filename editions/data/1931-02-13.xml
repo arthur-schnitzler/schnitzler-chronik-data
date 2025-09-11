@@ -158,6 +158,84 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-02-13</idno>
             </event>
             <event when-iso="1931-02-13">
+               <head>Generalprobe von Der Gang zum Weiher,
+                        13.2.1931</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10860">Beer-Hofmann, Paula</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2461">Hajek, Gisela</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb28285">Epstein, Anna</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238972.html</idno>
+            </event>
+            <event when-iso="1931-02-13">
+               <head>Filmvorführung von Nächte am Bosporus,
+                        13.2.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77840">Nächte am Bosporus</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190479">Ferdinandskino</placeName>
+                        <location>
+                           <geo>48,213062 16,379436</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211214.html</idno>
+            </event>
+            <event when-iso="1931-02-13">
                <head>Tagebuch von Clara Katharina Pollaczek, 7.–13. Februar 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp887.html</idno>

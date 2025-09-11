@@ -115,6 +115,40 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-08-28</idno>
             </event>
+            <event when-iso="1899-08-28">
+               <head>Aufführung von The Geisha, a story of a tea
+                        house, 28.8.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80752">The Geisha, a story of a tea house</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb3165">Halton, Mary</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
+                        <location>
+                           <geo>47,712959 13,622439</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209093.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

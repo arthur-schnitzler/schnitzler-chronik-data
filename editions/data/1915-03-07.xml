@@ -155,6 +155,46 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-03-07</idno>
             </event>
+            <event when-iso="1915-03-07">
+               <head>Lesung von Der blinde Geronimo, Die letzten Masken, Der
+                        Schleier der Beatrice [Schluss], 7.3.1915</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183369">Arbeiterbildungsverein</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30649">Der blinde Geronimo und sein Bruder</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf
+                                Akten</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1211">Verbandsheim</placeName>
+                        <location>
+                           <geo>48,19522 16,34889</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183363.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

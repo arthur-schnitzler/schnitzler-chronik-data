@@ -213,6 +213,33 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-03-10</idno>
             </event>
             <event when-iso="1899-03-10">
+               <head>Konzert Kaim, 10.3.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb206988">Kaim-Orchester</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb117040">Kaim, Franz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209069.html</idno>
+            </event>
+            <event when-iso="1899-03-10">
                <head>Arthur Schnitzler an Ludwig Fulda, 10. 3. 1899</head>
                <desc>
                   <listPerson>

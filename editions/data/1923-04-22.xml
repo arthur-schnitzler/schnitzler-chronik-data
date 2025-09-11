@@ -147,6 +147,54 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-04-22</idno>
             </event>
+            <event when-iso="1923-04-22">
+               <head>Besuch des Österreichischen Museums fur Kunst und
+                        Industrie, 22.4.1923</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb83">Museum für Angewandte
+                                Kunst</placeName>
+                        <location>
+                           <geo>48,2075 16,381667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297072.html</idno>
+            </event>
+            <event when-iso="1923-04-22">
+               <head>Aufführung von Ein reizender Mensch,
+                        22.4.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80528">Ein reizender Mensch</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb265122.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

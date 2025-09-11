@@ -87,6 +87,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1882-06-14</idno>
             </event>
+            <event when-iso="1882-06-14">
+               <head>Aufführung von Um ein Nicht,
+                        14.6.1882</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195611">Um ein Nichts. Lustspiel in vier Akten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
+                                Burgtheater]</placeName>
+                        <location>
+                           <geo>48,20778 16,36645</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207756.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

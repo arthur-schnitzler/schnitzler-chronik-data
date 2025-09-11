@@ -155,6 +155,30 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-04-05</idno>
             </event>
             <event when-iso="1897-04-05">
+               <head>Konzert der Berliner Philharmoniker, 5.4.1897</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb201033">Berliner Philharmoniker</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208918.html</idno>
+            </event>
+            <event when-iso="1897-04-05">
                <head>Tagebuch von Arthur Schnitzler, 21. Februar – 29. November 1897</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp015.html</idno>

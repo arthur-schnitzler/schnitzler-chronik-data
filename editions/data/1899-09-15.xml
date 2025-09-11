@@ -147,6 +147,73 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-15</idno>
             </event>
+            <event when-iso="1899-09-15">
+               <head>Besuch der Alten Pinakothek, 15.9.1899</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb511">Alte
+                                Pinakothek</placeName>
+                        <location>
+                           <geo>48,148333 11,571111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297135.html</idno>
+            </event>
+            <event when-iso="1899-09-15">
+               <head>Besuch der Neuen Pinakothek, 15.9.1899</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb101">Neue
+                                Pinakothek</placeName>
+                        <location>
+                           <geo>48,149722 11,571111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297087.html</idno>
+            </event>
+            <event when-iso="1899-09-15">
+               <head>Premiere von Das Vermächtnis,
+                        15.9.1899</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb11">Münchner
+                                Schauspielhaus</placeName>
+                        <location>
+                           <geo>48,138122 11,582478</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209099.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

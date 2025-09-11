@@ -122,6 +122,73 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-11-25</idno>
             </event>
+            <event when-iso="1897-11-25">
+               <head>Probe von Freiwild, 25.11.1897</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37080">Neues Deutsches Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb91">Neues Deutsches
+                                Theater</placeName>
+                        <location>
+                           <geo>50,080556 14,432778</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200452.html</idno>
+            </event>
+            <event when-iso="1897-11-25">
+               <head>Lesung von Die Toten schweigen, Weihnachts-Einkäufe,
+                        25.11.1897</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb288820">Concordia Prag</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29833">Die Toten schweigen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30163">Weihnachts-Einkäufe</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118612">Deutsches Haus
+                                [Prag]</placeName>
+                        <location>
+                           <geo>50,08687 14,42729</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50887.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

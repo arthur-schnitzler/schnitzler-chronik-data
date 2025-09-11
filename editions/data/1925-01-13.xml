@@ -163,6 +163,46 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-13</idno>
             </event>
             <event when-iso="1925-01-13">
+               <head>Lesung von Das Tagebuch der Redegonda, Die letzten Masken,
+                        Große Szene, 13.1.1925</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183526">Quodlibet Basel</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30349">Das Tagebuch der Redegonda</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb31429">Große Szene</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb251777">Stadtcasino
+                                Basel</placeName>
+                        <location>
+                           <geo>47,554444444444 7,5894444444444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183521.html</idno>
+            </event>
+            <event when-iso="1925-01-13">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 13. Januar 1925</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp158.html</idno>

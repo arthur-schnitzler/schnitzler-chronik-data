@@ -95,6 +95,51 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1884-01-29</idno>
             </event>
+            <event when-iso="1884-01-29">
+               <head>Donau-Dampfschiffahrtskränzchen, 29.1.1884</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                        <location>
+                           <geo>48,206662 16,391263</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207843.html</idno>
+            </event>
+            <event when-iso="1884-01-29">
+               <head>Premiere von Mein Kamerad. Posse in fünf Acten,
+                        29.1.1884</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77721">Mein Kamerad</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207842.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

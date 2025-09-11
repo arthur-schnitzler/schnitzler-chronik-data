@@ -178,6 +178,58 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-07-11</idno>
             </event>
+            <event when-iso="1899-07-11">
+               <head>Besuch des Kunsthistorischen Museums,
+                        11.7.1899</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb47660">Kunsthistorisches
+                                Museum</placeName>
+                        <location>
+                           <geo>48,203661 16,361378</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297279.html</idno>
+            </event>
+            <event when-iso="1899-07-11">
+               <head>Aufführung von Das Friedensfest,
+                        11.7.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30019">Das Friedensfest. Eine Familienkatastrophe</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb77">Raimund-Theater</placeName>
+                        <location>
+                           <geo>48,192222 16,339722</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209090.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

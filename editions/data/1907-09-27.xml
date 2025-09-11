@@ -229,6 +229,83 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-09-27</idno>
             </event>
+            <event when-iso="1907-09-27">
+               <head>Premiere Das Märchen, 27.9.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37683">Wiener Bürgertheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb18886">John, Hermann</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb26749">Weede, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb14519">Brenneis, Valerie von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb23753">Russeck, Philippine</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb60854">Wiener
+                                Bürgertheater</placeName>
+                        <location>
+                           <geo>48,20709 16,38382</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186202.html</idno>
+            </event>
+            <event when-iso="1907-09-27">
+               <head>Nachprobe Das Märchen, 27.9.1907</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb37683">Wiener Bürgertheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb60854">Wiener
+                                Bürgertheater</placeName>
+                        <location>
+                           <geo>48,20709 16,38382</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186197.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

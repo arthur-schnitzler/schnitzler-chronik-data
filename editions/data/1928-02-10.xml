@@ -115,6 +115,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-02-10</idno>
             </event>
             <event when-iso="1928-02-10">
+               <head>Filmvorführung von Der Orlow,
+                        10.2.1928</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77829">Der Orlow</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210962.html</idno>
+            </event>
+            <event when-iso="1928-02-10">
                <head>Schnitzler geht ins Kino, 10. Februar 1928</head>
                <desc>
                   <bibl>»A. ist

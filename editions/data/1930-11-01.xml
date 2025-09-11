@@ -154,6 +154,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-11-01</idno>
             </event>
             <event when-iso="1930-11-01">
+               <head>Aufführung von Das Land des Lächelns,
+                        1.11.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb78509">Das Land des Lächelns</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92603">Wiednertheater</placeName>
+                        <location>
+                           <geo>48,199478 16,364351</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244529.html</idno>
+            </event>
+            <event when-iso="1930-11-01">
                <head>Tagebuch von Clara Katharina Pollaczek, 28. Oktober – 4. November 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp843.html</idno>

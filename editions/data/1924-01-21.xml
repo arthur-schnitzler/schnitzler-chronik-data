@@ -149,6 +149,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-01-21</idno>
             </event>
             <event when-iso="1924-01-21">
+               <head>Filmvorführung von Die Frau mit den Millionen,
+                        21.1.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80657">Die Frau mit den Millionen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190702">Währinger
+                                Bürgertheater</placeName>
+                        <location>
+                           <geo>48,229801 16,332605</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210645.html</idno>
+            </event>
+            <event when-iso="1924-01-21">
                <head>Schnitzler im Währinger Bürgertheater, 21. Januar 1924</head>
                <desc>
                   <bibl>»A. ist

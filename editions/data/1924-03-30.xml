@@ -147,6 +147,65 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-03-30</idno>
             </event>
+            <event when-iso="1924-03-30">
+               <head>Private Lesung von Verdi, 30.3.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76581">Verdi. Roman der Oper</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13094">Werfel, Franz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb27525">Zsolnay, Adolph von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10685">Zsolnay, Amanda von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12160">Mahler-Werfel, Alma Maria</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11969">Korngold, Erich Wolfgang</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11972">Korngold, Julius</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb178460">Korngold, Josefine</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12540">Roland, Ida</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11113">Coudenhove-Kalergi, Richard Nikolaus
+                                von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb15108">Costa, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb15051">Colerus, Egmont</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256504.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

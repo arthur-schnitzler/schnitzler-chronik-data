@@ -151,6 +151,65 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-02-27</idno>
             </event>
+            <event when-iso="1917-02-27">
+               <head>Gesangskonzert von Olga Schnitzler, 27.2.1917</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183393">Nähstube</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183389">Militärkasino</placeName>
+                        <location>
+                           <geo>48,201387 16,375009</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183402.html</idno>
+            </event>
+            <event when-iso="1917-02-27">
+               <head>Lesung von Das Schicksal des Freiherrn von Leisenbohg,
+                        27.2.1917</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb183393">Nähstube</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30057">Das Schicksal des Freiherrn von Leisenbohg.
+                                Novellette</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183389">Militärkasino</placeName>
+                        <location>
+                           <geo>48,201387 16,375009</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183397.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

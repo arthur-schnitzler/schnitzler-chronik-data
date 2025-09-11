@@ -118,6 +118,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-06-09</idno>
             </event>
             <event when-iso="1921-06-09">
+               <head>Aufführung von La Bohème, 9.6.1921</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36687">Staatsoper</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31285">La Bohème</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
+                        <location>
+                           <geo>48,203 16,3691</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210103.html</idno>
+            </event>
+            <event when-iso="1921-06-09">
                <head>Schnitzler, Arthur an Rachmann, S. [Briefe]</head>
                <desc>1 Bl.Durchschl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00078497</idno>

@@ -87,6 +87,31 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-12-07</idno>
             </event>
+            <event when-iso="1880-12-07">
+               <head>Liedertafel des Kaufmännischen Gesangsvereines,
+                        7.12.1880</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb211386">Kaufmännischer Gesangsverein</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb182754">Gartenbausäle</placeName>
+                        <location>
+                           <geo>48,205565 16,378011</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207633.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

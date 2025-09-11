@@ -124,6 +124,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-09-02</idno>
             </event>
             <event when-iso="1924-09-02">
+               <head>Filmvorführung von Der große Chef,
+                        2.9.1924</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81066">Der große Chef</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb484">Zürich</placeName>
+                        <location>
+                           <geo>47,37174 8,54226</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210691.html</idno>
+            </event>
+            <event when-iso="1924-09-02">
                <head>Schnitzler geht ins Kino in Zürich, 2. September 1924</head>
                <desc>
                   <bibl>»A. ist

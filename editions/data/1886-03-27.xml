@@ -82,6 +82,40 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-03-27</idno>
             </event>
+            <event when-iso="1886-03-27">
+               <head>Aufführung von Ein delicater Auftrag, Ein
+                        Engel, 27.3.1886</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195683">Ein delicater Auftrag</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195684">Ein Engel. Lustspiel in drei Acten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12929">Tewele, Franz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb185866">Kurhaus
+                                Meran</placeName>
+                        <location>
+                           <geo>46,670419 11,16286</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208024.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

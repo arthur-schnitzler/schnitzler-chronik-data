@@ -121,6 +121,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-01-24</idno>
             </event>
+            <event when-iso="1914-01-24">
+               <head>Konzert Olga Schnitzler und Vera Schapira,
+                        24.1.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9667">Schapira, Vera</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb186040">Hotel
+                                Karmeliten</placeName>
+                        <location>
+                           <geo>49,017956 12,101518</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183645.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

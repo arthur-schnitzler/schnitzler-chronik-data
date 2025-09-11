@@ -118,6 +118,55 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-03-05</idno>
             </event>
+            <event when-iso="1881-03-05">
+               <head>Hausball bei Julius Schlesinger, 5.3.1881</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb24241">Schlesinger, Julius</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb295385">Opernring
+                                11</placeName>
+                        <location>
+                           <geo>48,20269 16,3669</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207670.html</idno>
+            </event>
+            <event when-iso="1881-03-05">
+               <head>Premiere von Noble Bekanntschaft,
+                        5.3.1881</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195584">Noble Bekanntschaft</title>
+                        <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207669.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

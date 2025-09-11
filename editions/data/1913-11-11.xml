@@ -151,6 +151,28 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-11-11</idno>
             </event>
             <event when-iso="1913-11-11">
+               <head>Liederabend von Helga Petri, 11.11.1913</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9236">Petri, Helga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209701.html</idno>
+            </event>
+            <event when-iso="1913-11-11">
                <head>Arthur Schnitzler an Hugo Thimig, 11. 11. 1913</head>
                <desc>
                   <listPerson>

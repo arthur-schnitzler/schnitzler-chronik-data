@@ -119,6 +119,67 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-12-21</idno>
             </event>
+            <event when-iso="1887-12-21">
+               <head>Aufführung von Der Glücksritter,
+                        21.12.1887</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb63031">Carl-Theater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80353">Der Glücksritter</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208185.html</idno>
+            </event>
+            <event when-iso="1887-12-21">
+               <head>Private Lesung von Abenteuer seines Lebens,
+                        21.12.1887</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30143">Das Abenteuer seines Lebens. Ein einaktiges
+                                Lustspiel</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb21769">Mütter, Hermann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb92555">Strauchgasse</placeName>
+                        <location>
+                           <geo>48,211088 16,366216</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185004.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

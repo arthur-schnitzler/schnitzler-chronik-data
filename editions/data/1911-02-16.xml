@@ -153,6 +153,40 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-16</idno>
             </event>
             <event when-iso="1911-02-16">
+               <head>Aufführung von Medea, Die Witwe von Ephesus,
+                        16.2.1911</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77708">Medea</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb251698">Die Witwe von Ephesus. Groteske</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12618">Sandrock, Adele</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb251692">Kleine Bühne und
+                                Cabaret</placeName>
+                        <location>
+                           <geo>48,207721 16,378223</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb251683.html</idno>
+            </event>
+            <event when-iso="1911-02-16">
                <head>Unbekannt an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00085541</idno>

@@ -101,6 +101,107 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-07-14</idno>
             </event>
+            <event when-iso="1893-07-14">
+               <head>Probe von Abschiedssouper, 14.7.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30005">Abschiedssouper</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb213">Bad Ischl</placeName>
+                        <location>
+                           <geo>47,71109 13,61893</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192798.html</idno>
+            </event>
+            <event when-iso="1893-07-14">
+               <head>Uraufführung von Abschiedssouper, Aufführung
+                        von Fräulein Frau, 14.7.1893</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb42649">Saisontheater Ischl</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30005">Abschiedssouper</title>
+                        <note type="relation-type">ist Uraufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb32702">Fräulein Frau</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb33442">Ischler Brief</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb41191">Aus Ischl</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb42207">Die Saison in Ischl</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb32027">Aus Ischl, 14. Juli, schreibt man uns: …</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb33470">[Man schreibt uns aus Ischl]</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb33440">[Abschiedsouper in Ischl]</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2601">Jarno, Josef</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb4073">Griebl, Marie</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb27355">Wreden, Grethe</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
+                        <location>
+                           <geo>47,712959 13,622439</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35284.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

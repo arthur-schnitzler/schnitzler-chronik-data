@@ -156,6 +156,60 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-11-03</idno>
             </event>
             <event when-iso="1909-11-03">
+               <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4],
+                        3.11.1909</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien,
+                                Schubertring 4]</placeName>
+                        <location>
+                           <geo>48,203191 16,375811</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297861.html</idno>
+            </event>
+            <event when-iso="1909-11-03">
+               <head>Premiere von 7. Sinfonie, 3.11.1909</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29504">Wiener Konzertverein</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31663">7. Sinfonie</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb20751">Löwe, Ferdinand</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209577.html</idno>
+            </event>
+            <event when-iso="1909-11-03">
                <head>Paul Schlenther an Arthur Schnitzler, 3.11.1909</head>
                <desc>
                   <listPerson>

@@ -112,6 +112,30 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-03-13</idno>
             </event>
+            <event when-iso="1891-03-13">
+               <head>Soirée bei Maximilian von Weiss-Wellenstein,
+                        13.3.1891</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb26878">Weiss-Wellenstein, Maximilian von</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb294670">Wasagasse
+                                2</placeName>
+                        <location>
+                           <geo>48,215358 16,363048</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208469.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

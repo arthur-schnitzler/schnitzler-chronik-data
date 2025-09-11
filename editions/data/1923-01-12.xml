@@ -243,6 +243,67 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-01-12</idno>
             </event>
             <event when-iso="1923-01-12">
+               <head>Konzert von Bruno Walter und Franz Steiner,
+                        12.1.1923</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb13041">Walter, Bruno</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb25405">Steiner, Franz</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb320">Hofburg</placeName>
+                        <location>
+                           <geo>48,206389 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210203.html</idno>
+            </event>
+            <event when-iso="1923-01-12">
+               <head>Generalprobe von Maitanz, Karrnerleut',
+                        12.1.1923</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77336">Maitanz</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb77334">Karrnerleut’. Komödie in einem Akt</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210202.html</idno>
+            </event>
+            <event when-iso="1923-01-12">
                <head>Traum vom 12. Januar 1923</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

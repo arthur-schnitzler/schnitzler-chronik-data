@@ -87,6 +87,42 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1878-01-23</idno>
             </event>
+            <event when-iso="1878-01-23">
+               <head>Aufführung von Hanns Jürge, Sie schreibt an
+                        sich selbst, Die Wiener in Paris, 23.1.1878</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195492">Hanns Jürge. Schauspiel in einem Acte</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195493">Sie schreibt an sich selbst. Lustspiel in einem
+                                Acte</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195494">Die Wiener in Paris. Genrebild in einem
+                                Acte</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207420.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

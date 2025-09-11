@@ -99,6 +99,26 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-08-31</idno>
             </event>
+            <event when-iso="1895-08-31">
+               <head>Besuch der Neuen Pinakothek, 31.8.1895</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb101">Neue
+                                Pinakothek</placeName>
+                        <location>
+                           <geo>48,149722 11,571111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297078.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

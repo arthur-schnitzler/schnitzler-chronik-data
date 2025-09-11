@@ -147,6 +147,47 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-06-14</idno>
             </event>
+            <event when-iso="1893-06-14">
+               <head>Private Lesung von Familie, 14.6.1893</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30195">Familie</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2456">Specht, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb167782">Wohnung und Ordination
+                                Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                        <location>
+                           <geo>48,212477 16,357233</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142785.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -152,6 +152,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-03-17</idno>
             </event>
             <event when-iso="1929-03-17">
+               <head>Private Lesung von Im Spiel der Sommerlüfte,
+                        17.3.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233325">Herbert-von-Karajan-Straße 15</placeName>
+                        <location>
+                           <geo>52,50982 13,36821</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235932.html</idno>
+            </event>
+            <event when-iso="1929-03-17">
                <head>Tagebuch von Clara Katharina Pollaczek, 11.–18. März 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp648.html</idno>

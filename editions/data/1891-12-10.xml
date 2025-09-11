@@ -113,6 +113,28 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-12-10</idno>
             </event>
             <event when-iso="1891-12-10">
+               <head>Konzert im Bösendorfer-Saal, 10.12.1891</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb22754">Pollak, Theodor</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208511.html</idno>
+            </event>
+            <event when-iso="1891-12-10">
                <head>Mappe A84</head>
                <desc>Datumsangabe auf Blatt von Freiwild. Schauspiel in drei Akten</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428182_0003.html</idno>

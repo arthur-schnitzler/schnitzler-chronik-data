@@ -101,6 +101,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-04-06</idno>
             </event>
+            <event when-iso="1888-04-06">
+               <head>Aufführung von Francillon. Stück in drei Akten,
+                        6.4.1888</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb143016">Francillon. Schauspiel in 3 Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater
+                                Berlin</placeName>
+                        <location>
+                           <geo>52,52041 13,41536</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208220.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

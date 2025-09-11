@@ -120,6 +120,30 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-05-12</idno>
             </event>
+            <event when-iso="1913-05-12">
+               <head>Ausstellungsbesuch der Adria-Ausstellung,
+                        12.5.1913</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb254597">Adria-Ausstellung
+                                1913</placeName>
+                        <location>
+                           <geo>48,211473 16,4091</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb254594.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

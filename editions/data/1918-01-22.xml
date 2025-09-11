@@ -158,6 +158,31 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-01-22</idno>
             </event>
+            <event when-iso="1918-01-22">
+               <head>Konzert des Rosé-Quartetts, 22.1.1918</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb51780">Rosé-Quartett</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209926.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

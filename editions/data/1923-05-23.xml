@@ -113,6 +113,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-23</idno>
             </event>
             <event when-iso="1923-05-23">
+               <head>Private Lesung von [Traumnovellenskizze],
+                        23.5.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb266227">[Traumnovellenskizze]</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb24992">Singer, Walter</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb265500">Östermalmsgatan
+                                69</placeName>
+                        <location>
+                           <geo>59,34147 18,08137</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb266228.html</idno>
+            </event>
+            <event when-iso="1923-05-23">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 22.–24. Mai 1923</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp066.html</idno>

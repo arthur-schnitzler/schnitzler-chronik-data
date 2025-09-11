@@ -123,6 +123,26 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-01-24</idno>
             </event>
+            <event when-iso="1920-01-24">
+               <head>Orchesterkonzert von Erich Wolfgang Korngold,
+                        24.1.1920</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210031.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

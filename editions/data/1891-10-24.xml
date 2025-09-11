@@ -112,6 +112,46 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-10-24</idno>
             </event>
+            <event when-iso="1891-10-24">
+               <head>Private Lesung von Die Blasierten (1. Szene aus
+                        dem 2. Akt), Anatols Größenwahn, 24.10.1891</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33768">Die Blasierten</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30161">Anatols Größenwahn</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb167805">Kärntnerring
+                                12/Bösendorferstraße 11</placeName>
+                        <location>
+                           <geo>48,20143 16,37196</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190843.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

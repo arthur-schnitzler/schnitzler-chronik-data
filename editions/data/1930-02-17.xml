@@ -126,6 +126,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-02-17</idno>
             </event>
             <event when-iso="1930-02-17">
+               <head>Filmvorführung von Wild Orchids,
+                        17.2.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80534">Wild Orchids</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190479">Ferdinandskino</placeName>
+                        <location>
+                           <geo>48,213062 16,379436</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211134.html</idno>
+            </event>
+            <event when-iso="1930-02-17">
                <head>Tagebuch von Clara Katharina Pollaczek, 7.–17. Februar 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp764.html</idno>

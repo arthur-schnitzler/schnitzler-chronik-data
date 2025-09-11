@@ -124,6 +124,47 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-05-25</idno>
             </event>
+            <event when-iso="1914-05-25">
+               <head>Besuch des Panorama Mesdag, 25.5.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb245758">Panorama
+                                Mesdag</placeName>
+                        <location>
+                           <geo>52,085 4,3044444444444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298191.html</idno>
+            </event>
+            <event when-iso="1914-05-25">
+               <head>Besuch des Koninklijk Kabinet van Schilderijen
+                        Mauritshuis, 25.5.1914</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb245754">Koninklijk Kabinet van
+                                Schilderijen Mauritshuis</placeName>
+                        <location>
+                           <geo>52,080436 4,314417</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298185.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

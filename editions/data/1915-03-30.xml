@@ -151,6 +151,42 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-03-30</idno>
             </event>
             <event when-iso="1915-03-30">
+               <head>Lesung von Der blinde Geronimo, Die letzten Masken, Der
+                        Schleier der Beatrice [Schluss], 30.3.1915</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf
+                                Akten</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30649">Der blinde Geronimo und sein Bruder</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb240">Wiener
+                                Konzerthaus</placeName>
+                        <location>
+                           <geo>48,200771836002 16,377197811369</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183372.html</idno>
+            </event>
+            <event when-iso="1915-03-30">
                <head>Mappe A20</head>
                <desc>Datierte Abschrift aus einer Zeitung in Kritik und Antikritik</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589058_0252.html</idno>

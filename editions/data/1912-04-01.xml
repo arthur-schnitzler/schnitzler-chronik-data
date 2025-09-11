@@ -152,6 +152,41 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-04-01</idno>
             </event>
             <event when-iso="1912-04-01">
+               <head>Aufführung von Baumeister Solness,
+                        1.4.1912</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb169129">Salzburger Stadttheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31157">Baumeister Solness</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12837">Steinrück, Albert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb195432">Salzburger
+                                Landestheater</placeName>
+                        <location>
+                           <geo>47,802778 13,042778</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209638.html</idno>
+            </event>
+            <event when-iso="1912-04-01">
                <head>Schnitzler: Max Burckhard, April 1912</head>
                <desc>
                   <listPerson>

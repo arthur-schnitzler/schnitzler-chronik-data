@@ -142,6 +142,37 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-11-20</idno>
             </event>
             <event when-iso="1909-11-20">
+               <head>Aufführung von Tannhäuser, Zehn Mädchen und
+                        kein Mann, 20.11.1909</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77432">Tannhäuser</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb81391">Zehn Mädchen und kein Mann</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1209">Lustspieltheater
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,21766 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209580.html</idno>
+            </event>
+            <event when-iso="1909-11-20">
                <head>Arthur Schnitzler an Samuel Fischer, 20.11.1909</head>
                <desc>
                   <listPerson>

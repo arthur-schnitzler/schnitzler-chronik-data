@@ -95,6 +95,68 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-08-02</idno>
             </event>
+            <event when-iso="1885-08-02">
+               <head>Aufführung von Ein Taugenichts, Resch und
+                        Fesch, Heimliche Liebe, 2.8.1885</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb195662">Ein Taugenichts. Schwank mit Gesang in einem
+                                Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195663">Resch und Fesch. Gesangsposse</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb195664">Heimliche Liebe. Schwank mit Gesank in einem
+                                Akt</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb195377">Fish, Marguerite</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb43280">Jantsch-Theater</placeName>
+                        <location>
+                           <geo>48,217566 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207932.html</idno>
+            </event>
+            <event when-iso="1885-08-02">
+               <head>Konzert von Leopoldine Kutzel, 2.8.1885</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19907">Kutzel, Leopoldine</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb295">Hotel zum Schwarzen Adler
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,21363 16,37945</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207931.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

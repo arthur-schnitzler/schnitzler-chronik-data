@@ -146,6 +146,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-10-29</idno>
             </event>
             <event when-iso="1929-10-29">
+               <head>Filmvorführung von Die vier Teufel,
+                        29.10.1929</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81033">Die vier Teufel</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb52023">Apollo-Theater
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,1975 16,353889</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211110.html</idno>
+            </event>
+            <event when-iso="1929-10-29">
                <head>Mappe A225</head>
                <desc>Datumsangabe auf Blatt von Zug der Schatten</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589031_0393.html</idno>

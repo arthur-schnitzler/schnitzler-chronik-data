@@ -146,6 +146,34 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-11-11</idno>
             </event>
             <event when-iso="1930-11-11">
+               <head>Aufführung von Clavigo, 11.11.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31099">Clavigo</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb334">Schiller-Theater</placeName>
+                        <location>
+                           <geo>52,511709 13,318058</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244551.html</idno>
+            </event>
+            <event when-iso="1930-11-11">
                <head>Traum vom 11. November 1930</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

@@ -131,6 +131,33 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-11-16</idno>
             </event>
+            <event when-iso="1920-11-16">
+               <head>Aufführung von Kameraden,
+                        16.11.1920</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77075">Kameraden</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210068.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

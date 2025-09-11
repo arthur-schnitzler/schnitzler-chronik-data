@@ -184,6 +184,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-03-22</idno>
             </event>
             <event when-iso="1923-03-22">
+               <head>Aufführung von Der Marquis von Keith,
+                        22.3.1923</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76462">Der Marquis von Keith</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12837">Steinrück, Albert</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb280">Renaissancetheater</placeName>
+                        <location>
+                           <geo>48,201139 16,349222</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210224.html</idno>
+            </event>
+            <event when-iso="1923-03-22">
                <head>Arthur Schnitzler an Gustaf Linden, 22.3.1923</head>
                <desc>
                   <listPerson>

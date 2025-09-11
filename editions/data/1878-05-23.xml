@@ -87,6 +87,31 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1878-05-23</idno>
             </event>
+            <event when-iso="1878-05-23">
+               <head>Konzert im Bösendorfer-Saal, 23.5.1878</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb211318">Szeleczky, Elise von</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11533">Grünfeld, Alfred</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207441.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

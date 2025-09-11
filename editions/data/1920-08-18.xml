@@ -195,6 +195,38 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-08-18</idno>
             </event>
             <event when-iso="1920-08-18">
+               <head>Aufführung von Schloss Wetterstein,
+                        18.8.1920</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32125">Schloß Wetterstein</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239431.html</idno>
+            </event>
+            <event when-iso="1920-08-18">
                <head>Hedy Kempny an Arthur Schnitzler, 18.8.1920</head>
                <desc>
                   <listPerson>

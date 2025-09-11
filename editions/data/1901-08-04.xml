@@ -96,6 +96,39 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-04</idno>
             </event>
             <event when-iso="1901-08-04">
+               <head>Private Lesung von Lebendige Stunden, Die Frau mit
+                        dem Dolche, 4.8.1901</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb29957">Lebendige Stunden</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29865">Die Frau mit dem Dolche</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb946">Vahrn</placeName>
+                        <location>
+                           <geo>46,73901 11,63749</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231602.html</idno>
+            </event>
+            <event when-iso="1901-08-04">
                <head>Brief von Arthur Schnitzler an Ernst Gettke</head>
                <desc>1 Br., 1 1/2 S. 8˚<listPerson>
                      <person>

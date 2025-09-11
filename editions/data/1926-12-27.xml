@@ -149,6 +149,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-12-27</idno>
             </event>
             <event when-iso="1926-12-27">
+               <head>Aufführung von Der Liebestrank,
+                        27.12.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb76461">Der Liebestrank</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1058">Tribüne</placeName>
+                        <location>
+                           <geo>52,51421 13,318595</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210392.html</idno>
+            </event>
+            <event when-iso="1926-12-27">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 27. Dezember 1926</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp400.html</idno>

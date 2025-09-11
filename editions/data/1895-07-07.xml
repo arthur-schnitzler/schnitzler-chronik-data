@@ -130,6 +130,32 @@
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-07-07</idno>
             </event>
+            <event when-iso="1895-07-07">
+               <head>Aufführung von Der arme Jonathan,
+                        7.7.1895</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33914">Der arme Jonathan. Operette in drei Acten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb842">Karlsbad</placeName>
+                        <location>
+                           <geo>50,23271 12,87117</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208747.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

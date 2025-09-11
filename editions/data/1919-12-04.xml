@@ -144,6 +144,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-12-04</idno>
             </event>
             <event when-iso="1919-12-04">
+               <head>Aufführung von Femina, 4.12.1919</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81214">Femina</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb19920">Köckeritz, Margarete</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb633">Kammerspiele
+                                Wien</placeName>
+                        <location>
+                           <geo>48,211111 16,375833</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210025.html</idno>
+            </event>
+            <event when-iso="1919-12-04">
                <head>Alexander, Th. an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00031623</idno>

@@ -87,6 +87,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1882-04-26</idno>
             </event>
+            <event when-iso="1882-04-26">
+               <head>Aufführung von Reif-Reiflingen,
+                        26.4.1882</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32220">Reif-Reiflingen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
+                        <location>
+                           <geo>48,205139 16,375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207752.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

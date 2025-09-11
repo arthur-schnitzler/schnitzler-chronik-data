@@ -125,6 +125,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-09-01</idno>
             </event>
             <event when-iso="1930-09-01">
+               <head>Aufführung von Frau Pick in Audienz,
+                        1.9.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80616">Frau Pick in Audienz</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb772">Marienbad</placeName>
+                        <location>
+                           <geo>49,96115 12,72872</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244342.html</idno>
+            </event>
+            <event when-iso="1930-09-01">
                <head>Tagebuch von Clara Katharina Pollaczek, 30. August – 3. September 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp828.html</idno>

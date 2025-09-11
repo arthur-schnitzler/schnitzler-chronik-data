@@ -157,6 +157,44 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-10-31</idno>
             </event>
             <event when-iso="1922-10-31">
+               <head>Lesung von Die dreifache Warnung, Die letzten Masken,
+                        Weihnachts-Einkäufe, Excentric, 31.10.1922</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb33061">Die dreifache Warnung</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29877">Die letzten Masken</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb30163">Weihnachts-Einkäufe</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb29893">Excentric</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb183478">Weinmanneum</placeName>
+                        <location>
+                           <geo>50,659774 14,036053</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183472.html</idno>
+            </event>
+            <event when-iso="1922-10-31">
                <head>Arthur Schnitzler an Heinrich Schnitzler, 31. 10. 1922</head>
                <desc>
                   <listPerson>

@@ -156,6 +156,56 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-01-05</idno>
             </event>
+            <event when-iso="1904-01-05">
+               <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4],
+                        5.1.1904</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien,
+                                Schubertring 4]</placeName>
+                        <location>
+                           <geo>48,203191 16,375811</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297555.html</idno>
+            </event>
+            <event when-iso="1904-01-05">
+               <head>Generalprobe zum Gastspiel von Isadora Duncan,
+                        5.1.1904</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb3467">Duncan, Isadora</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
+                        <location>
+                           <geo>48,215 16,384444</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44429.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

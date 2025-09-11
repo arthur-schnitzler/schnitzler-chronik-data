@@ -136,6 +136,32 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-11-13</idno>
             </event>
+            <event when-iso="1904-11-13">
+               <head>Aufführung von Die Kronprätendenten,
+                        13.11.1904</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32604">Die Kronprätendenten</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb720">Neues Theater</placeName>
+                        <location>
+                           <geo>52,521667 13,386111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209340.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

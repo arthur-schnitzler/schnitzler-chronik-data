@@ -149,6 +149,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-10-19</idno>
             </event>
             <event when-iso="1930-10-19">
+               <head>Filmvorführung von Brand in der Oper,
+                        19.10.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80550">Brand in der Oper</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1209">Lustspieltheater
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,21766 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211187.html</idno>
+            </event>
+            <event when-iso="1930-10-19">
                <head>Tagebuch von Clara Katharina Pollaczek, 19.–27. Oktober 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp842.html</idno>

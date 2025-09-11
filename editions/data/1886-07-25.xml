@@ -95,6 +95,38 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-07-25</idno>
             </event>
+            <event when-iso="1886-07-25">
+               <head>Gesangskonzert von Wenzel Seidl und Wilhelm
+                        Wiesberg, 25.7.1886</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb211390">Wiener Volkssänger-Gesellschaft</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9855">Seidl, Wenzel</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb27090">Wiesberg, Wilhelm</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb186007">M. Zwierschütz’
+                                Gasthof zum Jägerhorn</placeName>
+                        <location>
+                           <geo>47,9651 16,21349</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208045.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

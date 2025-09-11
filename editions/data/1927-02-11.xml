@@ -141,6 +141,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-02-11</idno>
             </event>
             <event when-iso="1927-02-11">
+               <head>Filmvorführung von Der Sohn des Scheich,
+                        11.2.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80507">Der Sohn des Scheich</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb19262">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210878.html</idno>
+            </event>
+            <event when-iso="1927-02-11">
                <head>Mappe A52</head>
                <desc>Abschrift eines Briefs zu Das Diagramm</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428139_0011.html</idno>

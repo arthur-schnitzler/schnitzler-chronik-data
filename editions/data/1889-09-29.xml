@@ -118,6 +118,40 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-09-29</idno>
             </event>
+            <event when-iso="1889-09-29">
+               <head>Private Lesung von Episode, 29.9.1889</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb31357">Episode</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb4200">Reinhold, Babette</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb13487">Arnau, Karl</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb23573">Rosenberg, Leopold</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb665">Sankt Veit</placeName>
+                        <location>
+                           <geo>48,18805 16,26638</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186708.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

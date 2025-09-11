@@ -152,6 +152,56 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-01-20</idno>
             </event>
+            <event when-iso="1909-01-20">
+               <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4],
+                        20.1.1909</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien,
+                                Schubertring 4]</placeName>
+                        <location>
+                           <geo>48,203191 16,375811</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297804.html</idno>
+            </event>
+            <event when-iso="1909-01-20">
+               <head>Liederkonzert Paul Schmedes, Theo Drill-Oridge,
+                        Richard Mandl, 20.1.1909</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb9715">Schmedes, Paul</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb15480">Drill-Oridge, Theo</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb20914">Mandl, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <location>
+                           <geo>48,209167 16,366111</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209543.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -115,6 +115,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-02-21</idno>
             </event>
             <event when-iso="1925-02-21">
+               <head>Filmvorführung von Oberst Redl,
+                        21.2.1925</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80084">Oberst Redl</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210731.html</idno>
+            </event>
+            <event when-iso="1925-02-21">
                <head>Arthur Schnitzler an Gabor Nobl, 21. 2. 1925</head>
                <desc>
                   <listPerson>

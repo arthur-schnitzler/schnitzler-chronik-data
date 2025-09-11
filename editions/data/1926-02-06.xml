@@ -176,6 +176,34 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-02-06</idno>
             </event>
+            <event when-iso="1926-02-06">
+               <head>Aufführung von Jugend, 6.2.1926</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb77411">Jugend</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb334">Schiller-Theater</placeName>
+                        <location>
+                           <geo>52,511709 13,318058</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb249504.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -168,6 +168,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-08-04</idno>
             </event>
             <event when-iso="1927-08-04">
+               <head>Filmvorführung von Die leichte Isabell,
+                        4.8.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80270">Die leichte Isabell</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210917.html</idno>
+            </event>
+            <event when-iso="1927-08-04">
                <head>Traum vom 4. August 1927</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

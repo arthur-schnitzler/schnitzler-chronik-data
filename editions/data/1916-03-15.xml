@@ -131,6 +131,29 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-03-15</idno>
             </event>
+            <event when-iso="1916-03-15">
+               <head>Klavierkonzert von Gisela Springer,
+                        15.3.1916</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb25275">Springer, Gisela</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209819.html</idno>
+            </event>
          </listEvent>
       </body>
    </text>

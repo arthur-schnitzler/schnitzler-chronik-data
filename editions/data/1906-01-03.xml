@@ -121,6 +121,33 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-01-03</idno>
             </event>
             <event when-iso="1906-01-03">
+               <head>Aufführung von Kater Lampe,
+                        3.1.1906</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32514">Kater Lampe</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb1209">Lustspieltheater
+                                [Wien]</placeName>
+                        <location>
+                           <geo>48,21766 16,3957</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209403.html</idno>
+            </event>
+            <event when-iso="1906-01-03">
                <head>Arthur Schnitzler an Elisabeth Gussmann, 3. 1. 1906</head>
                <desc>
                   <listPerson>

@@ -132,6 +132,32 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-10-20</idno>
             </event>
             <event when-iso="1927-10-20">
+               <head>Filmvorführung von Die Frauengasse von Algier,
+                        20.10.1927</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80712">Die Frauengasse von Algier</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210932.html</idno>
+            </event>
+            <event when-iso="1927-10-20">
                <head>Schnitzler geht ins Kino, 20. Oktober 1927</head>
                <desc>
                   <bibl>»A. ist

@@ -187,6 +187,35 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-03-22</idno>
             </event>
             <event when-iso="1931-03-22">
+               <head>Filmvorführung von Das Flötenkonzert von
+                        Sanssouci, 22.3.1931</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb81166">Das Flötenkonzert von Sanssouci</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb190562">Fliegerkino</placeName>
+                        <location>
+                           <geo>48,220337 16,360145</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211224.html</idno>
+            </event>
+            <event when-iso="1931-03-22">
                <head>Tagebuch von Clara Katharina Pollaczek, 18.–24. März 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp894.html</idno>

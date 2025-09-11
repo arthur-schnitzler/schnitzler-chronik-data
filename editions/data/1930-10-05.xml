@@ -148,6 +148,36 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-10-05</idno>
             </event>
             <event when-iso="1930-10-05">
+               <head>Private Lesung von Das goldene Pferd [?],
+                        5.10.1930</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb244445">Das goldene Pferd</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat als Arbeitskraft">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat als Teilnehmer:in">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb235251">Hasenauerstraße
+                                59</placeName>
+                        <location>
+                           <geo>48,23365 16,33494</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244447.html</idno>
+            </event>
+            <event when-iso="1930-10-05">
                <head>Tagebuch von Clara Katharina Pollaczek, 30. September – 7. Oktober 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp837.html</idno>
