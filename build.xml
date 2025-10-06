@@ -35,6 +35,11 @@
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath refid="saxon.classpath"/>
         </xslt>
+        <xslt in="./import-lists/schnitzler-briefe_tage.xml" out="${tmpDir}/schnitzler-briefe_tage.xml"
+            style="./xslts/schnitzler-briefe-cmif-to-tage.xsl">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="saxon.classpath"/>
+        </xslt>
         <move todir="./import-lists" overwrite="true">
             <fileset dir="${tmpDir}">
                 <include name="*_tage.xml"/>
