@@ -112,7 +112,7 @@
             <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:apply-templates select="tei:listPerson|tei:listPlace|tei:listBibl[not(child::tei:bibl/@type='collections')]|tei:note[@type='listorg']/tei:listOrg"/>
             </xsl:element>
-            <xsl:apply-templates select="tei:idno"/>
+            <xsl:apply-templates select="tei:idno[@type='schnitzler-kultur' or @subtype='schnitzler-kultur']"/>
         </xsl:element>
     </xsl:template>
     <xsl:template match="tei:eventName">
