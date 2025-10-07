@@ -122,12 +122,12 @@
     </xsl:template>
     <xsl:template match="tei:event[not(descendant::tei:persName/@key='pmb2121')]"/>
     
-    <xsl:template match="tei:idno[@subtype='pmb' and @type='URL']">
+    <!--<xsl:template match="tei:idno[@subtype='pmb' and @type='URL']">
         <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">
                 <xsl:text>schnitzler-kultur</xsl:text>
             </xsl:attribute>
             <xsl:value-of select="concat('https://schnitzler-kultur.acdh.oeaw.ac.at/', ancestor::tei:event/@xml:id, '.html')"/>
         </xsl:element>
-    </xsl:template>
+    </xsl:template>-->
 </xsl:stylesheet>
