@@ -1,0 +1,23 @@
+name: Schnitzler digital Import normalisieren
+
+on:
+  push:
+    paths:
+      - 'import-lists/schnitzler-digital_tage.xml'
+
+jobs:
+  normalize:
+    name: Normalize Schnitzler digital import
+    runs-on: ubuntu-latest
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: Install Saxon
+      run: |
+        ./dl_saxon.sh
+    - name: Transform schnitzler-digital_tage.xml
+      run: |
+        java -jar saxon/saxon9he.jar -xsl:xslts/diverses/1_arthur-schnitzler-digital-zu-import-listel.xsl -s:import-lists/schnitzler-digital_tage.xml -o:import-lists/schnitzler-digital_tage.xml
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Normalize schnitzler-digital_tage.xml

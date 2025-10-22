@@ -43,11 +43,9 @@
                             <resp>providing the content</resp>
                             <name>Kristina Fink</name>
                             <name>Judith Beniston</name>
-                            <name>Wolfgang Lukas</name>
-                            <name>Michael Scheffel</name>
+                            <name role="principal">Wolfgang Lukas</name>
+                            <name role="principal">Michael Scheffel</name>
                             <name>Andrew Webber</name>
-                            <principal>Wolfgang Lukas</principal>
-                            <principal>Michael Scheffel</principal>
                         </respStmt>
                         <respStmt>
                             <resp>converted to XML encoding</resp>
@@ -114,7 +112,7 @@
     </xsl:template>
     <xsl:template match="*:event">
         <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:copy select="@*"/>
+            <xsl:copy-of select="@*"/>
             <xsl:apply-templates select="*:head"/>
             <xsl:choose>
                 <xsl:when test="*:desc">
@@ -127,6 +125,73 @@
             <xsl:apply-templates select="*:idno"/>
         </xsl:element>
     </xsl:template>
+    <xsl:template match="*:head">
+        <xsl:element name="head" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:desc">
+        <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:listPerson">
+        <xsl:element name="listPerson" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:person">
+        <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:persName">
+        <xsl:element name="persName" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:listPlace">
+        <xsl:element name="listPlace" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:place">
+        <xsl:element name="place" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:placeName">
+        <xsl:element name="placeName" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:listBibl">
+        <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:bibl">
+        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:title">
+        <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="*:principal"/>
     <xsl:template match="*:idno">
         <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">
