@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'import-lists/schnitzler-digital_tage.xml'
+  workflow_dispatch:
 
 jobs:
   normalize:
