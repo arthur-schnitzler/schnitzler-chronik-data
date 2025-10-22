@@ -22,3 +22,8 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Normalize schnitzler-digital_tage.xml
+    - name: Trigger combine import lists workflow
+      run: |
+        gh workflow run combine-import-lists.yml
+      env:
+        GH_TOKEN: ${{ github.token }}
