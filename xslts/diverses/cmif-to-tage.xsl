@@ -7,7 +7,7 @@
     <!-- Diese Datei, angewandt auf 
         schnitzler-ohne-dubletten
         oder
-        schnitzler-briefe_cmif.xml 
+        schnitzler-briefe-cmif.xml 
     holt alle gedruckten Briefe raus, schnitzler-briefe wird
     ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet.
     Wenn die Zeile 75 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif

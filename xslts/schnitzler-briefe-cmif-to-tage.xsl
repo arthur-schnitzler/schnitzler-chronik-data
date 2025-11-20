@@ -6,7 +6,7 @@
     <xsl:mode on-no-match="shallow-skip"/>
     <!-- Parametrierte Eingabedatei -->
     <xsl:param name="schnitzler-briefe-cmif"
-        select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml')"/>
+        select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe-cmif.xml')"/>
     <!-- Einstiegspunkt -->
     <xsl:template match="/">
         <!-- Suche in der externen Datei das relevante Element -->
