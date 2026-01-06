@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,6 +101,9 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb29835">Bei Beiden</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb29829">Das Tschaperl. Ein Wiener Stück in vier Aufzügen</title>
                      </bibl>
                      <bibl>
@@ -110,13 +113,13 @@
                         <title ref="pmb29833">Die Toten schweigen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29835">Bei Beiden</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30061">Dämon Kleist</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31385">[Ankündigung der Vorlesung]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31737">Die Mütter. Schauspiel in vier Acten</title>
@@ -127,19 +130,16 @@
                      <bibl>
                         <title ref="pmb41521">Cosmopolis</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb31385">[Ankündigung der Vorlesung]</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb4">Bösendorfer-Saal</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -254,19 +254,10 @@
                      <person>
                         <persName ref="pmb13797">Marie Bashkirtseff</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb36371">Desiderius Papp</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb296030">Orchideen [Schauspiel in drei Akten]</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb295194">Ein Brief</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36376">Neues Wiener Journal</title>
@@ -279,6 +270,9 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb79230">Journal</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb295194">Ein Brief</title>
                      </bibl>
                   </listBibl>
                   <listPlace>

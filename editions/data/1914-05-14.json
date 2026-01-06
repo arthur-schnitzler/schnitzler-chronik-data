@@ -66,6 +66,11 @@
   [
  {
  "placeName":
+ "Spiegelgasse",
+ "ref":
+ "pmb45381"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
@@ -74,11 +79,6 @@
  "I., Innere Stadt",
  "ref":
  "pmb51"}
- ,  {
- "placeName":
- "Spiegelgasse",
- "ref":
- "pmb45381"}
  ]
 }
 }, {
@@ -124,46 +124,21 @@
  "pmb2167"},
  {
  "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
- "pmb2173"}],
+ "pmb2173"},
+ {
+ "persName":
+ "Ottilie Salten",
+ "ref":
+ "pmb23918"}],
  "listPlace":
   [
  {
  "placeName":
- "Cuxhaven",
- "ref":
- "pmb90504"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Sternwartestraße 71",
  "ref":
  "pmb168815"}
- ,  {
- "placeName":
- "Nordsee",
- "ref":
- "pmb118890"}
- ,  {
- "placeName":
- "Southampton",
- "ref":
- "pmb47658"}
- ,  {
- "placeName":
- "London",
- "ref":
- "pmb224"}
  ,  {
  "placeName":
  "Paris",
@@ -171,27 +146,52 @@
  "pmb182"}
  ,  {
  "placeName":
- "Genua",
+ "London",
  "ref":
- "pmb994"}
+ "pmb224"}
+ ,  {
+ "placeName":
+ "Southampton",
+ "ref":
+ "pmb47658"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Cuxhaven",
+ "ref":
+ "pmb90504"}
  ,  {
  "placeName":
  "IJmuiden",
  "ref":
  "pmb181903"}
+ ,  {
+ "placeName":
+ "Genua",
+ "ref":
+ "pmb994"}
+ ,  {
+ "placeName":
+ "Nordsee",
+ "ref":
+ "pmb118890"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Hamburg-Amerika-Linie",
- "ref":
- "pmb51619"}
- ,  {
- "orgName":
  "Schnellpostdampfer Vaterland",
  "ref":
  "pmb148350"}
+ ,  {
+ "orgName":
+ "Hamburg-Amerika-Linie",
+ "ref":
+ "pmb51619"}
  ]
 }
 }, {

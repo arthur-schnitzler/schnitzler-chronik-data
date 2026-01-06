@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,6 +132,51 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-05-23.html</idno>
             </event>
             <event when-iso="1925-05-23">
+               <head>Berta Zuckerkandl an Arthur Schnitzler, [23. 5. 1925?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3579">Leopold Jacobson</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11659">Franz Herterich</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36376">Neues Wiener Journal</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb307528">Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04006.html</idno>
+            </event>
+            <event when-iso="1925-05-23">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -170,6 +215,10 @@
                      <bibl>
                         <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                         <note type="relation-type">ist Premiere von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb307528">Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler</title>
+                        <note type="relation-type">wird rezensiert in</note>
                      </bibl>
                   </listBibl>
                   <listPerson>

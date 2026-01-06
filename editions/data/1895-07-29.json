@@ -63,11 +63,6 @@
   [
  {
  "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
- ,  {
- "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -78,14 +73,19 @@
  "pmb298721"}
  ,  {
  "placeName":
- "Bahnhof Bad Aussee",
+ "Bad Aussee",
  "ref":
- "pmb263516"}
+ "pmb415"}
  ,  {
  "placeName":
  "Paris",
  "ref":
  "pmb182"}
+ ,  {
+ "placeName":
+ "Bahnhof Bad Aussee",
+ "ref":
+ "pmb263516"}
  ]
 }
 }, {
@@ -116,16 +116,6 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
  "Lou Andreas-Salomé",
  "ref":
  "pmb10762"},
@@ -136,9 +126,9 @@
  "pmb10863"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Paul Goldmann",
  "ref":
- "pmb11740"},
+ "pmb11485"},
  {
  "persName":
  "Theodor Herzl",
@@ -146,47 +136,17 @@
  "pmb11673"},
  {
  "persName":
- "Peter Michael Braunwarth",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb119261"},
+ "pmb11740"},
  {
  "persName":
- "Reinhard Urbach",
+ "Leopold Sonnemann",
  "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb87771"}],
  "listBibl":
   [
  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
  "ref":
@@ -196,6 +156,11 @@
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ],
  "listPlace":
   [
@@ -211,29 +176,9 @@
  "pmb213"}
  ,  {
  "placeName":
- "rue Feydeau",
+ "Salzburg",
  "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Straßburg",
- "ref":
- "pmb319"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Hotel Marienbad [München]",
- "ref":
- "pmb401"}
- ,  {
- "placeName":
- "Bad Tölz",
- "ref":
- "pmb424"}
+ "pmb30"}
  ,  {
  "placeName":
  "Bayern",
@@ -241,14 +186,34 @@
  "pmb314"}
  ,  {
  "placeName":
- "Salzburg",
+ "Straßburg",
  "ref":
- "pmb30"}
+ "pmb319"}
+ ,  {
+ "placeName":
+ "Hotel Marienbad [München]",
+ "ref":
+ "pmb401"}
  ,  {
  "placeName":
  "Bad Aussee",
  "ref":
  "pmb415"}
+ ,  {
+ "placeName":
+ "Bad Tölz",
+ "ref":
+ "pmb424"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ,  {
  "placeName":
  "Ungarn",

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -122,41 +122,38 @@
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11284">Gertrud Eysoldt</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10844">Albert Bassermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb11284">Gertrud Eysoldt</persName>
                      </person>
                      <person>
                         <persName ref="pmb11551">Gustav Gurschner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13024">Richard Wagner</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29997">Arthur Schnitzler</title>
+                        <title ref="pmb29873">Der Puppenspieler. Studie in einem Aufzuge</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29897">Tristan und Isolde</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29873">Der Puppenspieler. Studie in einem Aufzuge</title>
+                        <title ref="pmb29997">Arthur Schnitzler</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -166,6 +163,50 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01475.html</idno>
+            </event>
+            <event when-iso="1904-12-05">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 5. 12. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb45434">Neues Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04045.html</idno>
             </event>
             <event when-iso="1904-12-05">
                <head>Hugo August von Hofmannsthal an Arthur Schnitzler, 5. 12. 1904</head>
@@ -178,25 +219,25 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11718">Carl Hochsinger</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
+                        <persName ref="pmb12971">Otto Tressler</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb17684">Philipp von Haas-Teichen</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb50275">Wilhelm zu Castell-Rüdenhausen</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11718">Carl Hochsinger</persName>
                      </person>
                      <person>
                         <persName ref="pmb2743">Albert Heine</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12971">Otto Tressler</persName>
+                        <persName ref="pmb50275">Wilhelm zu Castell-Rüdenhausen</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>

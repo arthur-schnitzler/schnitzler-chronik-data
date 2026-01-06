@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,10 +110,10 @@
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13145">Olga Wohlbrück</persName>
+                        <persName ref="pmb18308">Leo Feld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb18308">Leo Feld</persName>
+                        <persName ref="pmb13145">Olga Wohlbrück</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -198,6 +198,54 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00990.html</idno>
             </event>
             <event when-iso="1899-10-08">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 8. 10. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb967">Luzern</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04082.html</idno>
+            </event>
+            <event when-iso="1899-10-08">
                <head>Paul Goldmann an Arthur Schnitzler, 8. 10. [1899]</head>
                <desc>
                   <listPerson>
@@ -208,48 +256,48 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb135001">G. Zanetta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb140824">Johann Nepomuk Fuchs</persName>
                      </person>
                      <person>
                         <persName ref="pmb9598">Ludwig Rottenberg</persName>
                      </person>
                      <person>
-                        <persName ref="pmb140824">Johann Nepomuk Fuchs</persName>
+                        <persName ref="pmb140820">Gertrud Rottenberg</persName>
                      </person>
                      <person>
                         <persName ref="pmb23674">Theodore Rottenberg</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb140820">Gertrud Rottenberg</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb134996">Lungarno Guicciardini</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb134998">Hôtel Pension Barbensi</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb134996">Lungarno Guicciardini</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

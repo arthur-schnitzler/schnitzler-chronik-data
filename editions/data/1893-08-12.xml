@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,6 +94,55 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1893-08-12.html</idno>
             </event>
             <event when-iso="1893-08-12">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 12. 8. 1893</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24241">Julius Schlesinger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24254">Therese Schlesinger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14056">Else Berger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb968">Mödling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb957">Vorderbrühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb625">Zum goldenen Stern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb662">Baden bei Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04098.html</idno>
+            </event>
+            <event when-iso="1893-08-12">
                <head>Hermann Bahr an Arthur Schnitzler, [12. 8. 1893]</head>
                <desc>
                   <listPerson>
@@ -111,8 +160,8 @@
                      </person>
                      <person>
                         <persName ref="pmb27693">
-                  ?? [Regimentsarzt]
-               </persName>
+      ?? [Regimentsarzt]
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -243,6 +292,9 @@
                         <title ref="pmb30005">Abschiedssouper</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb40968">Magazin für die Literatur des Auslandes</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb30177">Camelias</title>
                      </bibl>
                      <bibl>
@@ -253,9 +305,6 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb33530">Ohne Geläut</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb40968">Magazin für die Literatur des Auslandes</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33444">Wiener Dichter</title>
@@ -297,16 +346,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb113222">Franz Defregger</persName>
                      </person>
                      <person>
-                        <persName ref="pmb167473">Josef Putzenbacher</persName>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb24645">Emil Schwarzkopf</persName>
@@ -317,6 +363,9 @@
                      <person>
                         <persName ref="pmb24651">Rudolf Schwarzkopf</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb167473">Josef Putzenbacher</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -325,7 +374,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb945">Dölsach</placeName>
+                        <placeName ref="pmb313">Polen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34199">Cortina d’Ampezzo</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -334,19 +386,16 @@
                         <placeName ref="pmb897">Lienz</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb313">Polen</placeName>
+                        <placeName ref="pmb945">Dölsach</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb987">Toblach</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34199">Cortina d’Ampezzo</placeName>
+                        <placeName ref="pmb167474">Putzenbacher</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb144482">Pfarrkirche Dölsach</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb167474">Putzenbacher</placeName>
                      </place>
                   </listPlace>
                </desc>

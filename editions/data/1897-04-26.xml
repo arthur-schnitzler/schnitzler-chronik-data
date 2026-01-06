@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -161,7 +161,7 @@
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb592">rue de Maubeuge</placeName>
+                        <placeName ref="pmb592">5, rue de Maubeuge</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -233,7 +233,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb592">rue de Maubeuge</placeName>
+                        <placeName ref="pmb592">5, rue de Maubeuge</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -250,10 +250,10 @@
                         <persName ref="pmb2167">Salten, Felix</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
@@ -264,24 +264,78 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb49098">Afrika</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb592">rue de Maubeuge</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb49098">Afrika</placeName>
+                        <placeName ref="pmb592">5, rue de Maubeuge</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02963.html</idno>
             </event>
             <event when-iso="1897-04-26">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 26. 4. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3787">Ermete Zacconi</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13088">Edmund Wengraf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2509">Heinrich Osten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb42078">Neue Revue. Wiener Literatur-Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb333721">Die italienische Gastspielgesellschaft</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb186">Lueg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb592">5, rue de Maubeuge</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04112.html</idno>
+            </event>
+            <event when-iso="1897-04-26">
                <head corresp="#pmb182">Paris</head>
                <desc>
                   <listPlace>
                      <place corresp="#pmb592">
-                        <placeName>rue de Maubeuge</placeName>
+                        <placeName>5, rue de Maubeuge</placeName>
                      </place>
                      <place corresp="#pmb185897">
                         <placeName>Théâtre de Cluny</placeName>

@@ -66,34 +66,14 @@
  "pmb11673"},
  {
  "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"},
+ {
+ "persName":
  "Theodor Herzl",
  "ref":
  "pmb11673"},
- {
- "persName":
- "Friedrich Schik",
- "ref":
- "pmb2420"},
- {
- "persName":
- "Oskar Blumenthal",
- "ref":
- "pmb14328"},
- {
- "persName":
- "Adam Müller-Guttenbrunn",
- "ref":
- "pmb12331"},
- {
- "persName":
- "Emerich von Bukovics",
- "ref":
- "pmb2161"},
- {
- "persName":
- "Sigmund Geiringer",
- "ref":
- "pmb28040"},
  {
  "persName":
  "Karl Langkammer",
@@ -101,26 +81,46 @@
  "pmb12037"},
  {
  "persName":
- "Otto Brahm",
+ "Adam Müller-Guttenbrunn",
  "ref":
- "pmb10986"}],
+ "pmb12331"},
+ {
+ "persName":
+ "Oskar Blumenthal",
+ "ref":
+ "pmb14328"},
+ {
+ "persName":
+ "Emerich von Bukovics",
+ "ref":
+ "pmb2161"},
+ {
+ "persName":
+ "Friedrich Schik",
+ "ref":
+ "pmb2420"},
+ {
+ "persName":
+ "Sigmund Geiringer",
+ "ref":
+ "pmb28040"}],
  "listBibl":
   [
  {
- "title":
- "Das neue Ghetto. Schauspiel in vier Acten",
- "ref":
- "pmb76499"}
- ,  {
  "title":
  "Pariser Theater. (»Heimat« von Sudermann)",
  "ref":
  "pmb298657"}
  ,  {
  "title":
- "Der Flüchtling. Lustspiel in einem Aufzug",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
- "pmb63073"}
+ "pmb29917"}
+ ,  {
+ "title":
+ "Das neue Ghetto. Schauspiel in vier Acten",
+ "ref":
+ "pmb76499"}
  ,  {
  "title":
  "Tabarin. Schauspiel in einem Act. Frei nach Catulle Mendès",
@@ -128,17 +128,17 @@
  "pmb76501"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "Wilddiebe. Lustspiel in vier Akten",
  "ref":
- "pmb29917"}
+ "pmb76502"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
  ,  {
  "placeName":
  "Paris",
@@ -146,9 +146,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Berlin",
+ "Wien",
  "ref":
- "pmb168"}
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -159,14 +159,9 @@
  "pmb29351"}
  ,  {
  "orgName":
- "Raimund-Theater",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb39666"}
- ,  {
- "orgName":
- "Volkstheater",
- "ref":
- "pmb36430"}
+ "pmb35597"}
  ,  {
  "orgName":
  "Burgtheater",
@@ -174,9 +169,14 @@
  "pmb36247"}
  ,  {
  "orgName":
- "Deutsches Theater Berlin",
+ "Volkstheater",
  "ref":
- "pmb35597"}
+ "pmb36430"}
+ ,  {
+ "orgName":
+ "Raimund-Theater",
+ "ref":
+ "pmb39666"}
  ]
 }
 }, {
@@ -212,14 +212,14 @@
  "pmb11673"},
  {
  "persName":
- "Friedrich Schik",
- "ref":
- "pmb2420"},
- {
- "persName":
  "Oskar Blumenthal",
  "ref":
- "pmb14328"}],
+ "pmb14328"},
+ {
+ "persName":
+ "Friedrich Schik",
+ "ref":
+ "pmb2420"}],
  "listBibl":
   [
  {
@@ -275,14 +275,14 @@
  "pmb12331"},
  {
  "persName":
- "Friedrich Schik",
- "ref":
- "pmb2420"},
- {
- "persName":
  "Heinrich Teweles",
  "ref":
- "pmb12932"}],
+ "pmb12932"},
+ {
+ "persName":
+ "Friedrich Schik",
+ "ref":
+ "pmb2420"}],
  "listBibl":
   [
  {
@@ -295,16 +295,6 @@
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Palais Bourbon",
  "ref":
  "pmb112436"}
@@ -315,9 +305,19 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Prag",
@@ -328,24 +328,24 @@
   [
  {
  "orgName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb35597"}
- ,  {
- "orgName":
  "Lessing-Theater",
  "ref":
  "pmb35053"}
  ,  {
  "orgName":
- "Raimund-Theater",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb39666"}
+ "pmb35597"}
  ,  {
  "orgName":
  "Neues Deutsches Theater",
  "ref":
  "pmb37080"}
+ ,  {
+ "orgName":
+ "Raimund-Theater",
+ "ref":
+ "pmb39666"}
  ]
 }
 }, {
@@ -376,24 +376,14 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
  {
  "persName":
- "Charlotte Pohl-Glas",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb3784"},
- {
- "persName":
- "Maria Charlotte Lamberg",
- "ref":
- "pmb143356"},
+ "pmb10863"},
  {
  "persName":
  "Otto Brahm",
@@ -406,26 +396,36 @@
  "pmb11406"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
- "pmb11740"}],
+ "pmb11740"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Charlotte Pohl-Glas",
+ "ref":
+ "pmb3784"},
+ {
+ "persName":
+ "Maria Charlotte Lamberg",
+ "ref":
+ "pmb143356"}],
  "listBibl":
   [
  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
  "Adele Sandrock",
  "ref":
  "pmb31911"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "Die Zeit. Wiener Wochenschrift",

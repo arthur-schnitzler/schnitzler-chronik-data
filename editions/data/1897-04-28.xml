@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -129,7 +129,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb592">rue de Maubeuge</placeName>
+                        <placeName ref="pmb592">5, rue de Maubeuge</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -156,16 +156,13 @@
                      </person>
                      <person>
                         <persName ref="pmb118499">
-                  ?? [blonder junger Musiker in Paris]
-               </persName>
+      ?? [blonder junger Musiker in Paris]
+  </persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb118464">Hotel Deutscher Kaiser</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb118474">Concert Parisien</placeName>
@@ -177,10 +174,13 @@
                         <placeName ref="pmb118491">Panthéon</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb118464">Hotel Deutscher Kaiser</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -196,7 +196,7 @@
                <desc>
                   <listPlace>
                      <place corresp="#pmb592">
-                        <placeName>rue de Maubeuge</placeName>
+                        <placeName>5, rue de Maubeuge</placeName>
                      </place>
                      <place corresp="#pmb200148">
                         <placeName>Moulin Rouge</placeName>

@@ -130,24 +130,24 @@
  "pmb36152"}
  ,  {
  "title":
- "Neue Revue. Wiener Literatur-Zeitung",
- "ref":
- "pmb42078"}
- ,  {
- "title":
  "Collection Fischer",
  "ref":
  "pmb42334"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
+ "Neue Revue. Wiener Literatur-Zeitung",
  "ref":
- "pmb29899"}
+ "pmb42078"}
  ,  {
  "title":
  "Sterben",
  "ref":
  "pmb42345"}
+ ,  {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ "pmb29899"}
  ],
  "listPlace":
   [
@@ -211,49 +211,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Isidor Fuchs",
- "ref":
- "pmb16781"},
- {
- "persName":
- "Edgar von Spiegl-Thurnsee",
- "ref":
- "pmb25196"},
- {
- "persName":
  "Max Eugen Burckhard",
  "ref":
  "pmb11036"},
  {
  "persName":
- "Agnes Sorma",
+ "Paul Goldmann",
  "ref":
- "pmb2299"},
- {
- "persName":
- "Theodor Wolff",
- "ref":
- "pmb13163"},
- {
- "persName":
- "Mizi Rosner",
- "ref":
- "pmb23611"},
- {
- "persName":
- "Max Nordau",
- "ref":
- "pmb12365"},
+ "pmb11485"},
  {
  "persName":
  "Theodor Herzl",
@@ -261,22 +226,47 @@
  "pmb11673"},
  {
  "persName":
- "Eduard Bacher",
+ "Max Nordau",
  "ref":
- "pmb10809"},
+ "pmb12365"},
  {
  "persName":
- "Moriz Benedikt",
+ "Theodor Wolff",
  "ref":
- "pmb10875"},
+ "pmb13163"},
  {
  "persName":
- "Ernst Benedikt",
+ "Isidor Fuchs",
  "ref":
- "pmb10872"}],
+ "pmb16781"},
+ {
+ "persName":
+ "Agnes Sorma",
+ "ref":
+ "pmb2299"},
+ {
+ "persName":
+ "Mizi Rosner",
+ "ref":
+ "pmb23611"},
+ {
+ "persName":
+ "Edgar von Spiegl-Thurnsee",
+ "ref":
+ "pmb25196"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"}],
  "listBibl":
   [
  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
+ ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
@@ -291,24 +281,19 @@
  "Marsfeldsalon-Typen",
  "ref":
  "pmb92904"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -316,13 +301,18 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Berlin",
+ "Wien",
  "ref":
- "pmb168"}
+ "pmb50"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Berliner Tageblatt",
+ "ref":
+ "pmb29329"}
+ ,  {
  "orgName":
  "Frankfurter Zeitung",
  "ref":
@@ -337,11 +327,6 @@
  "Burgtheater",
  "ref":
  "pmb36247"}
- ,  {
- "orgName":
- "Berliner Tageblatt",
- "ref":
- "pmb29329"}
  ,  {
  "orgName":
  "Neue Freie Presse",

@@ -61,24 +61,9 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
+ "Hermann Bahr",
  "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Adele Sandrock",
- "ref":
- "pmb12618"},
- {
- "persName":
- "Florentine Galliny",
- "ref":
- "pmb7331"},
+ "pmb10815"},
  {
  "persName":
  "Richard Beer-Hofmann",
@@ -86,9 +71,19 @@
  "pmb10863"},
  {
  "persName":
- "Hermann Bahr",
+ "Johann Wolfgang von Goethe",
  "ref":
- "pmb10815"},
+ "pmb11461"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
  {
  "persName":
  "Ralph Waldo Emerson",
@@ -96,14 +91,9 @@
  "pmb5438"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Leopold Sonnemann",
  "ref":
- "pmb11461"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
+ "pmb87771"},
  {
  "persName":
  "Édouard Drumont",
@@ -116,14 +106,19 @@
  "pmb92686"},
  {
  "persName":
+ "Adele Sandrock",
+ "ref":
+ "pmb12618"},
+ {
+ "persName":
+ "Florentine Galliny",
+ "ref":
+ "pmb7331"},
+ {
+ "persName":
  "Julius Schnitzler",
  "ref":
  "pmb12698"},
- {
- "persName":
- "Helene Schnitzler",
- "ref":
- "pmb24423"},
  {
  "persName":
  "Louise Schnitzler",
@@ -131,54 +126,9 @@
  "pmb12701"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Helene Schnitzler",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Georges Boyer",
- "ref":
- "pmb88807"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb24423"}],
  "listBibl":
   [
  {
@@ -186,16 +136,6 @@
  "Liebelei. Schauspiel in drei Akten",
  "ref":
  "pmb29917"}
- ,  {
- "title":
- "Feuilleton. Literatur [Sterben]",
- "ref":
- "pmb30431"}
- ,  {
- "title":
- "Feuilleton. Literatur [Anatol]",
- "ref":
- "pmb89826"}
  ,  {
  "title":
  "Anatol",
@@ -208,9 +148,9 @@
  "pmb36340"}
  ,  {
  "title":
- "Emerson",
+ "Le Courrier français",
  "ref":
- "pmb93324"}
+ "pmb88148"}
  ,  {
  "title":
  "Phonographie de l’amour",
@@ -218,14 +158,9 @@
  "pmb92689"}
  ,  {
  "title":
- "Journal des débats. Politiques et littéraires",
+ "Emerson",
  "ref":
- "pmb92648"}
- ,  {
- "title":
- "Le Courrier français",
- "ref":
- "pmb88148"}
+ "pmb93324"}
  ,  {
  "title":
  "Sterben. Novelle",
@@ -233,27 +168,42 @@
  "pmb30117"}
  ,  {
  "title":
- "Wiener Abendpost",
+ "Feuilleton. Literatur [Sterben]",
  "ref":
- "pmb41264"}
+ "pmb30431"}
  ,  {
  "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Wiener Abendpost",
+ "ref":
+ "pmb41264"}
+ ,  {
+ "title":
+ "Feuilleton. Literatur [Anatol]",
+ "ref":
+ "pmb89826"}
+ ,  {
+ "title":
+ "Journal des débats. Politiques et littéraires",
+ "ref":
+ "pmb92648"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -261,19 +211,14 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "München",
  "ref":
  "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Frankreich",
@@ -284,6 +229,11 @@
  "Panama",
  "ref":
  "pmb92693"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
  ],
  "listOrg":
   [

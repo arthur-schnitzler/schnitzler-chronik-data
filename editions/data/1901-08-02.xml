@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,6 +68,63 @@
    <text>
       <body>
          <listEvent>
+            <event when-iso="1901-08-02">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 2. 8. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24919">Geza Silberer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb88525">Adele Schreiber</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb300314">Irene van Bien</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04077.html</idno>
+            </event>
             <event when-iso="1901-08-02">
                <head>Richard Beer-Hofmann, Paula Beer-Hofmann, Paul Goldmann an Arthur Schnitzler, 2. 8. 1901</head>
                <desc>
@@ -116,7 +173,13 @@
             </event>
             <event when-iso="1901-08-02">
                <head corresp="#pmb946">Vahrn</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb333628">
+                        <placeName>Gasthof und Pension Waldsacker</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-02</idno>
             </event>
          </listEvent>

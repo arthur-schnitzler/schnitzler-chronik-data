@@ -56,19 +56,19 @@
  "pmb2121"},
  {
  "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
  {
  "persName":
  "Max Halbe",
@@ -76,19 +76,9 @@
  "pmb11565"},
  {
  "persName":
- "Theodor Wolff",
+ "Gerhart Hauptmann",
  "ref":
- "pmb13163"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
+ "pmb11617"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -101,6 +91,21 @@
  "pmb11867"},
  {
  "persName":
+ "Theodor Wolff",
+ "ref":
+ "pmb13163"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
  "Clementine Goldmann",
  "ref":
  "pmb17163"},
@@ -108,24 +113,19 @@
  "persName":
  "Josef Rosengart",
  "ref":
- "pmb23593"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"}],
+ "pmb23593"}],
  "listBibl":
   [
  {
  "title":
- "Frankfurter Zeitung",
+ "Die Zeit. Wiener Wochenschrift",
  "ref":
- "pmb36344"}
+ "pmb36340"}
+ ,  {
+ "title":
+ "Östlich um die Welt I.",
+ "ref":
+ "pmb145498"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -143,9 +143,9 @@
  "pmb33275"}
  ,  {
  "title":
- "Die Zeit. Wiener Wochenschrift",
+ "Frankfurter Zeitung",
  "ref":
- "pmb36340"}
+ "pmb36344"}
  ,  {
  "title":
  "Ostwärts um die Welt",
@@ -156,34 +156,14 @@
  "Freiwild. Schauspiel in 3 Akten",
  "ref":
  "pmb29899"}
- ,  {
- "title":
- "Östlich um die Welt I.",
- "ref":
- "pmb145498"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Paris",
+ "China",
  "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
+ "pmb1108"}
  ,  {
  "placeName":
  "Frankfurt am Main",
@@ -191,22 +171,37 @@
  "pmb146"}
  ,  {
  "placeName":
- "China",
+ "Berlin",
  "ref":
- "pmb1108"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
  "Berliner Tageblatt",
  "ref":
  "pmb29329"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
  ,  {
  "orgName":
  "Deutsches Theater Berlin",

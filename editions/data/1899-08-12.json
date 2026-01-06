@@ -71,6 +71,11 @@
  "Hotel Stiegl",
  "ref":
  ""}
+ ,  {
+ "placeName":
+ "Stazione di Bolzano",
+ "ref":
+ ""}
  ]
 }
 }, {
@@ -94,7 +99,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1899-08-12",
  "head":
- "Tezze sul Brenta"
+ "Tezze sul Brenta",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Tezze di Grigno Bahnstation",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -105,5 +120,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1899-08-12",
  "head":
- "Trient"
+ "Trient",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Trient",
+ "ref":
+ ""}
+ ]
+}
 }] 

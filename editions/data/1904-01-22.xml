@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,6 +105,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-01-22.html</idno>
             </event>
             <event when-iso="1904-01-22">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 22. 1. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04056.html</idno>
+            </event>
+            <event when-iso="1904-01-22">
                <head>Michael Georg Conrad an Arthur Schnitzler, 22. 1. 1904</head>
                <desc>
                   <listPerson>
@@ -128,34 +162,34 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb1231">Steinsdorfstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb62">XII., Meidling</placeName>
+                        <placeName ref="pmb1233">Innere Crimmitschauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1231">Steinsdorfstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44127">Meerane</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb209">Sachsen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1233">Innere Crimmitschauer Straße</placeName>
+                        <placeName ref="pmb44127">Meerane</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb62">XII., Meidling</placeName>
                      </place>
                   </listPlace>
                </desc>

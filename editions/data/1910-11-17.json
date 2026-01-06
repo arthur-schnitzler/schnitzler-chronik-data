@@ -111,34 +111,9 @@
  "pmb10815"},
  {
  "persName":
- "Alexander Moissi",
- "ref":
- "pmb12274"},
- {
- "persName":
- "Max Reinhardt",
- "ref":
- "pmb12504"},
- {
- "persName":
  "Hedwig Bleibtreu",
  "ref":
  "pmb10959"},
- {
- "persName":
- "Robert von Balajthy",
- "ref":
- "pmb2246"},
- {
- "persName":
- "Otto Tressler",
- "ref":
- "pmb12971"},
- {
- "persName":
- "Arnold Korff",
- "ref":
- "pmb2249"},
  {
  "persName":
  "Ernst Hartmann",
@@ -146,19 +121,9 @@
  "pmb11610"},
  {
  "persName":
- "Albert Heine",
+ "Alexander Moissi",
  "ref":
- "pmb2743"},
- {
- "persName":
- "Lotte Medelsky",
- "ref":
- "pmb2252"},
- {
- "persName":
- "Else Wohlgemuth",
- "ref":
- "pmb13149"},
+ "pmb12274"},
  {
  "persName":
  "Georg Reimers",
@@ -166,9 +131,44 @@
  "pmb12498"},
  {
  "persName":
+ "Max Reinhardt",
+ "ref":
+ "pmb12504"},
+ {
+ "persName":
+ "Otto Tressler",
+ "ref":
+ "pmb12971"},
+ {
+ "persName":
+ "Else Wohlgemuth",
+ "ref":
+ "pmb13149"},
+ {
+ "persName":
+ "Robert von Balajthy",
+ "ref":
+ "pmb2246"},
+ {
+ "persName":
+ "Arnold Korff",
+ "ref":
+ "pmb2249"},
+ {
+ "persName":
+ "Lotte Medelsky",
+ "ref":
+ "pmb2252"},
+ {
+ "persName":
  "Fritz Strassni",
  "ref":
  "pmb2256"},
+ {
+ "persName":
+ "Albert Heine",
+ "ref":
+ "pmb2743"},
  {
  "persName":
  "Eduard Heller",
@@ -176,14 +176,9 @@
  "pmb27684"},
  {
  "persName":
- "Anna Bahr-Mildenburg",
+ "Johann Wolfgang von Goethe",
  "ref":
- "pmb10818"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
+ "pmb11461"},
  {
  "persName":
  "Henrik Ibsen",
@@ -196,27 +191,17 @@
  "pmb11933"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Anna Bahr-Mildenburg",
  "ref":
- "pmb11461"},
+ "pmb10818"},
  {
  "persName":
- "William Shakespeare",
+ "Elisabeth Steinrück",
  "ref":
- "pmb2412"}],
+ "pmb2315"}],
  "listBibl":
   [
  {
- "title":
- "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
- "ref":
- "pmb29937"}
- ,  {
- "title":
- "Hamlet",
- "ref":
- "pmb30009"}
- ,  {
  "title":
  "Gespenster",
  "ref":
@@ -228,17 +213,27 @@
  "pmb30029"}
  ,  {
  "title":
- "Torquato Tasso",
+ "Torquato Tasso. Ein Schauspiel",
  "ref":
  "pmb30031"}
+ ,  {
+ "title":
+ "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
+ "ref":
+ "pmb29937"}
+ ,  {
+ "title":
+ "Hamlet",
+ "ref":
+ "pmb30009"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Burgtheater",
  "ref":
- "pmb50"}
+ "pmb14"}
  ,  {
  "placeName":
  "Sternwartestraße 71",
@@ -246,14 +241,14 @@
  "pmb168815"}
  ,  {
  "placeName":
- "Burgtheater",
- "ref":
- "pmb14"}
- ,  {
- "placeName":
  "München",
  "ref":
  "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Garmisch-Partenkirchen",

@@ -111,14 +111,19 @@
  "pmb2121"},
  {
  "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
  {
  "persName":
- "Otto Brahm",
+ "Raphael Löwenfeld",
  "ref":
- "pmb10986"},
+ "pmb12140"},
  {
  "persName":
  "Maurice Maeterlinck",
@@ -126,9 +131,9 @@
  "pmb12156"},
  {
  "persName":
- "Rudolf Gussmann",
+ "Felix Salten",
  "ref":
- "pmb17554"},
+ "pmb2167"},
  {
  "persName":
  "Olga Schnitzler",
@@ -141,34 +146,9 @@
  "pmb2315"},
  {
  "persName":
- "Raphael Löwenfeld",
- "ref":
- "pmb12140"},
- {
- "persName":
  "Carl Loewe",
  "ref":
  "pmb8691"},
- {
- "persName":
- "Eva Marie Goldmann",
- "ref":
- "pmb17164"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Friedrich von Oppeln-Bronikowski",
- "ref":
- "pmb9149"},
- {
- "persName":
- "Amalia Gussmann",
- "ref":
- "pmb17548"},
  {
  "persName":
  "Johanna Gussmann",
@@ -181,26 +161,51 @@
  "pmb146867"},
  {
  "persName":
- "Theodor Fontane",
+ "Eva Marie Goldmann",
  "ref":
- "pmb11342"},
+ "pmb17164"},
  {
  "persName":
- "Johann Nepomuk Vogl",
+ "Amalia Gussmann",
  "ref":
- "pmb114743"}],
+ "pmb17548"},
+ {
+ "persName":
+ "Rudolf Gussmann",
+ "ref":
+ "pmb17554"},
+ {
+ "persName":
+ "Friedrich von Oppeln-Bronikowski",
+ "ref":
+ "pmb9149"}],
  "listBibl":
   [
  {
+ "title":
+ "Monna Vanna. Schauspiel in drei Akten",
+ "ref":
+ "pmb143236"}
+ ,  {
+ "title":
+ "Tom der Reimer",
+ "ref":
+ "pmb145854"}
+ ,  {
+ "title":
+ "Heinrich der Vogler",
+ "ref":
+ "pmb145857"}
+ ,  {
  "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
  "pmb29857"}
  ,  {
  "title":
- "Monna Vanna. Schauspiel in drei Akten",
+ "Lebendige Stunden. Vier Einakter",
  "ref":
- "pmb143236"}
+ "pmb29863"}
  ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
@@ -218,21 +223,6 @@
  "pmb30683"}
  ,  {
  "title":
- "Tom der Reimer",
- "ref":
- "pmb145854"}
- ,  {
- "title":
- "Heinrich der Vogler",
- "ref":
- "pmb145857"}
- ,  {
- "title":
- "Lebendige Stunden. Vier Einakter",
- "ref":
- "pmb29863"}
- ,  {
- "title":
  "Monna Vanna. Pièce en trois actes",
  "ref":
  "pmb40622"}
@@ -246,11 +236,6 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
@@ -259,6 +244,11 @@
  "Budapest",
  "ref":
  "pmb43471"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Trafoi",

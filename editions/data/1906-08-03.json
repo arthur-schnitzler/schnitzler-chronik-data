@@ -69,14 +69,14 @@
  "pmb11740"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
  {
  "persName":
  "Richard Beer-Hofmann",
@@ -86,9 +86,14 @@
   [
  {
  "placeName":
- "Helsingør",
+ "Schloss Kronborg",
  "ref":
- "pmb726"}
+ "pmb1284"}
+ ,  {
+ "placeName":
+ "Lueg",
+ "ref":
+ "pmb186"}
  ,  {
  "placeName":
  "St. Gilgen",
@@ -101,14 +106,9 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Lueg",
+ "Helsingør",
  "ref":
- "pmb186"}
- ,  {
- "placeName":
- "Schloss Kronborg",
- "ref":
- "pmb1284"}
+ "pmb726"}
  ,  {
  "placeName":
  "Dänemark",
@@ -149,31 +149,21 @@
  "pmb10863"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
- "pmb10863"}],
+ "pmb10863"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"}],
  "listPlace":
   [
  {
  "placeName":
- "Marienlyst",
+ "Schloss Kronborg",
  "ref":
- "pmb959"}
- ,  {
- "placeName":
- "Helsingør",
- "ref":
- "pmb726"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb1284"}
  ,  {
  "placeName":
  "Rodaun",
@@ -186,9 +176,19 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Schloss Kronborg",
+ "Wien",
  "ref":
- "pmb1284"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Helsingør",
+ "ref":
+ "pmb726"}
+ ,  {
+ "placeName":
+ "Marienlyst",
+ "ref":
+ "pmb959"}
  ]
 }
 }, {
@@ -224,9 +224,9 @@
  "pmb11485"},
  {
  "persName":
- "Olga Schnitzler",
+ "Paula Beer-Hofmann",
  "ref":
- "pmb2173"},
+ "pmb10860"},
  {
  "persName":
  "Richard Beer-Hofmann",
@@ -234,9 +234,9 @@
  "pmb10863"},
  {
  "persName":
- "Paula Beer-Hofmann",
+ "Olga Schnitzler",
  "ref":
- "pmb10860"}],
+ "pmb2173"}],
  "listPlace":
   [
  {
@@ -244,6 +244,11 @@
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Dänemark",
+ "ref":
+ "pmb43570"}
  ,  {
  "placeName":
  "Helsingør",
@@ -254,11 +259,6 @@
  "Marienlyst",
  "ref":
  "pmb959"}
- ,  {
- "placeName":
- "Dänemark",
- "ref":
- "pmb43570"}
  ,  {
  "placeName":
  "Badehotellet",

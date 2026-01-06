@@ -79,29 +79,9 @@
  "pmb2312"},
  {
  "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"},
- {
- "persName":
- "Firmin Gémier",
- "ref":
- "pmb17611"},
- {
- "persName":
- "Henri-René Lenormand",
- "ref":
- "pmb8576"},
- {
- "persName":
  "Robert de Flers",
  "ref":
  "pmb11337"},
- {
- "persName":
- "Paul Géraldy",
- "ref":
- "pmb3138"},
  {
  "persName":
  "Clara Katharina Pollaczek",
@@ -114,21 +94,36 @@
  "pmb17333"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Firmin Gémier",
  "ref":
- "pmb11740"}],
+ "pmb17611"},
+ {
+ "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
+ {
+ "persName":
+ "Paul Géraldy",
+ "ref":
+ "pmb3138"},
+ {
+ "persName":
+ "Henri-René Lenormand",
+ "ref":
+ "pmb8576"}],
  "listBibl":
   [
  {
  "title":
- "Das weite Land. Tragikomödie in fünf Akten",
- "ref":
- "pmb30207"}
- ,  {
- "title":
  "Reigen. Zehn Dialoge",
  "ref":
  "pmb29855"}
+ ,  {
+ "title":
+ "Anatol",
+ "ref":
+ "pmb29935"}
  ,  {
  "title":
  "Fräulein Else",
@@ -136,17 +131,22 @@
  "pmb29941"}
  ,  {
  "title":
- "Anatol",
+ "Das weite Land. Tragikomödie in fünf Akten",
  "ref":
- "pmb29935"}
+ "pmb30207"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Frankreich",
  "ref":
- "pmb50"}
+ "pmb166"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ,  {
  "placeName":
  "Paris",
@@ -154,9 +154,19 @@
  "pmb182"}
  ,  {
  "placeName":
- "Frankreich",
+ "England",
  "ref":
- "pmb166"}
+ "pmb254"}
+ ,  {
+ "placeName":
+ "Ungarn",
+ "ref":
+ "pmb35512"}
+ ,  {
+ "placeName":
+ "Tschechoslowakei",
+ "ref":
+ "pmb38444"}
  ,  {
  "placeName":
  "Österreich",
@@ -164,15 +174,25 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Berlin",
+ "Vereinigte Staaten von Amerika [USA]",
  "ref":
- "pmb168"}
+ "pmb43406"}
+ ,  {
+ "placeName":
+ "Niederlande",
+ "ref":
+ "pmb44016"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Stock",
+ "Éditions Stock",
  "ref":
  "pmb29741"}
  ]
@@ -205,11 +225,6 @@
  "pmb2312"},
  {
  "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"},
- {
- "persName":
  "Emma Cabire",
  "ref":
  "pmb14794"},
@@ -220,14 +235,19 @@
  "pmb17611"},
  {
  "persName":
- "Henri-René Lenormand",
+ "Berta Zuckerkandl",
  "ref":
- "pmb8576"},
+ "pmb2312"},
  {
  "persName":
  "Paul Géraldy",
  "ref":
- "pmb3138"}],
+ "pmb3138"},
+ {
+ "persName":
+ "Henri-René Lenormand",
+ "ref":
+ "pmb8576"}],
  "listBibl":
   [
  {
@@ -245,11 +265,6 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
@@ -258,12 +273,17 @@
  "27, Rue Lemercier",
  "ref":
  "pmb299318"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Stock",
+ "Éditions Stock",
  "ref":
  "pmb29741"}
  ]

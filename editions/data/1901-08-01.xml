@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -135,22 +135,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb44278">Pörtschach am Wörthersee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb58636">Dolomiten</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb34207">Valle d’Ampezzo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39975">Lago di Garda</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44278">Pörtschach am Wörthersee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39975">Lago di Garda</placeName>
+                        <placeName ref="pmb58636">Dolomiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -158,7 +158,13 @@
             </event>
             <event when-iso="1901-08-01">
                <head corresp="#pmb946">Vahrn</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb333628">
+                        <placeName>Gasthof und Pension Waldsacker</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-01</idno>
             </event>
          </listEvent>

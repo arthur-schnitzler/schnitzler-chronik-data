@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,15 +110,12 @@
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11798">Henrik Ibsen</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12654">Friedrich von Schiller</persName>
                      </person>
                      <person>
                         <persName ref="pmb3326">
-                  Dante Alighieri
-               </persName>
+      Dante Alighieri
+  </persName>
                      </person>
                      <person>
                         <persName ref="pmb4026">Paul Bourget</persName>
@@ -131,6 +128,9 @@
                      </person>
                      <person>
                         <persName ref="pmb5442">Edward Gibbon</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11798">Henrik Ibsen</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -179,9 +179,6 @@
                         <placeName ref="pmb265">Dalmatien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb35512">Ungarn</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
@@ -189,9 +186,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb43471">Budapest</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb453">Solin</placeName>
@@ -206,7 +200,13 @@
                         <placeName ref="pmb1109">Kommunehospitalet</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb35512">Ungarn</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb36236">Leopoldstädter Kasino</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                   </listPlace>
                </desc>

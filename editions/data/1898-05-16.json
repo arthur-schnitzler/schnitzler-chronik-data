@@ -71,11 +71,6 @@
   [
  {
  "placeName":
- "Burgtheater",
- "ref":
- "pmb14"}
- ,  {
- "placeName":
  "Wollzeile",
  "ref":
  "pmb338"}
@@ -94,6 +89,11 @@
  "IX., Alsergrund",
  "ref":
  "pmb59"}
+ ,  {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ "pmb14"}
  ]
 }
 }, {
@@ -124,6 +124,11 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -134,34 +139,9 @@
  "pmb141891"},
  {
  "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Leo Van-Jung",
  "ref":
  "pmb26392"},
- {
- "persName":
- "Alice Ziegler",
- "ref":
- "pmb118324"},
- {
- "persName":
- "Louis Philipp Friedmann",
- "ref":
- "pmb16658"},
- {
- "persName":
- "Rose Friedmann",
- "ref":
- "pmb16670"},
  {
  "persName":
  "Arthur Rosthorn",
@@ -174,39 +154,24 @@
  "pmb11740"},
  {
  "persName":
- "Peter Michael Braunwarth",
+ "Louis Philipp Friedmann",
  "ref":
- "pmb119261"},
+ "pmb16658"},
  {
  "persName":
- "Reinhard Urbach",
+ "Rose Friedmann",
  "ref":
- "pmb65504"},
+ "pmb16670"},
  {
  "persName":
- "Werner Welzig",
+ "Marie Reinhard",
  "ref":
- "pmb143327"},
+ "pmb2378"},
  {
  "persName":
- "Richard Miklin",
+ "Alice Ziegler",
  "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb118324"}],
  "listBibl":
   [
  {
@@ -224,14 +189,9 @@
   [
  {
  "placeName":
- "Hong Kong",
+ "Guangzhou",
  "ref":
- "pmb44086"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb118797"}
  ,  {
  "placeName":
  "Hongkong Hotel",
@@ -244,14 +204,9 @@
  "pmb37885"}
  ,  {
  "placeName":
- "Guangzhou",
+ "Hong Kong",
  "ref":
- "pmb118797"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
+ "pmb44086"}
  ,  {
  "placeName":
  "Europa",
@@ -259,14 +214,9 @@
  "pmb468"}
  ,  {
  "placeName":
- "China",
+ "Wien",
  "ref":
- "pmb1108"}
- ,  {
- "placeName":
- "Deutsches Postamt in Shanghai",
- "ref":
- "pmb141888"}
+ "pmb50"}
  ,  {
  "placeName":
  "Prag",
@@ -274,19 +224,14 @@
  "pmb652"}
  ,  {
  "placeName":
+ "China",
+ "ref":
+ "pmb1108"}
+ ,  {
+ "placeName":
  "Peking",
  "ref":
  "pmb118369"}
- ,  {
- "placeName":
- "Graz",
- "ref":
- "pmb860"}
- ,  {
- "placeName":
- "Bad Gastein",
- "ref":
- "pmb521"}
  ,  {
  "placeName":
  "Salzburg",
@@ -294,14 +239,14 @@
  "pmb30"}
  ,  {
  "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
  "Tegernsee",
  "ref":
  "pmb39752"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
  ,  {
  "placeName":
  "Schweiz",
@@ -309,9 +254,29 @@
  "pmb43435"}
  ,  {
  "placeName":
- "Italien",
+ "München",
  "ref":
- "pmb40306"}
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Bad Gastein",
+ "ref":
+ "pmb521"}
+ ,  {
+ "placeName":
+ "Graz",
+ "ref":
+ "pmb860"}
+ ,  {
+ "placeName":
+ "Deutsches Postamt in Shanghai",
+ "ref":
+ "pmb141888"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
  ],
  "listOrg":
   [

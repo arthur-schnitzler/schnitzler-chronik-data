@@ -287,9 +287,9 @@
  "pmb2167"},
  {
  "persName":
- "Felix Salten",
+ "Anton Bettelheim",
  "ref":
- "pmb2167"},
+ "pmb10912"},
  {
  "persName":
  "Paul Goldmann",
@@ -297,41 +297,21 @@
  "pmb11485"},
  {
  "persName":
- "Anton Bettelheim",
+ "Felix Salten",
  "ref":
- "pmb10912"},
+ "pmb2167"},
  {
  "persName":
  "Eduard Devrient",
  "ref":
- "pmb5150"},
- {
- "persName":
- "Otto Julius Bierbaum",
- "ref":
- "pmb10928"},
- {
- "persName":
- "Alfred Walter von Heymel",
- "ref":
- "pmb7855"},
- {
- "persName":
- "Rudolf Alexander Schröder",
- "ref":
- "pmb12722"}],
+ "pmb5150"}],
  "listBibl":
   [
  {
  "title":
- "Die Gedenktafel der Prinzessin Anna",
+ "Literatur",
  "ref":
- "pmb76511"}
- ,  {
- "title":
- "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
- "ref":
- "pmb40598"}
+ "pmb29869"}
  ,  {
  "title":
  "Allgemeine Zeitung",
@@ -344,9 +324,9 @@
  "pmb143223"}
  ,  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Die Frau mit dem Dolche",
  "ref":
- "pmb29985"}
+ "pmb29865"}
  ,  {
  "title":
  "Lebendige Stunden",
@@ -354,27 +334,27 @@
  "pmb29957"}
  ,  {
  "title":
- "Die Frau mit dem Dolche",
+ "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
- "pmb29865"}
+ "pmb29985"}
  ,  {
  "title":
- "Literatur",
+ "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
  "ref":
- "pmb29869"}
+ "pmb40598"}
+ ,  {
+ "title":
+ "Die Gedenktafel der Prinzessin Anna",
+ "ref":
+ "pmb76511"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Vahrn",
+ "Lago di Garda",
  "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb39975"}
  ,  {
  "placeName":
  "Bozen",
@@ -382,29 +362,9 @@
  "pmb40260"}
  ,  {
  "placeName":
- "Trient",
- "ref":
- "pmb954"}
- ,  {
- "placeName":
- "Lago di Garda",
- "ref":
- "pmb39975"}
- ,  {
- "placeName":
- "Pustertal",
- "ref":
- "pmb724"}
- ,  {
- "placeName":
  "Welsberg-Taisten",
  "ref":
  "pmb428"}
- ,  {
- "placeName":
- "Wildbad Waldbrunn",
- "ref":
- "pmb723"}
  ,  {
  "placeName":
  "Verona",
@@ -417,14 +377,39 @@
  "pmb462"}
  ,  {
  "placeName":
- "Pörtschach am Wörthersee",
+ "Wien",
  "ref":
- "pmb44278"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ "pmb723"}
+ ,  {
+ "placeName":
+ "Pustertal",
+ "ref":
+ "pmb724"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
  ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Pörtschach am Wörthersee",
+ "ref":
+ "pmb44278"}
  ],
  "listOrg":
   [
@@ -442,6 +427,104 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04078",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04078.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 10. 8. 1901",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Adele Schreiber",
+ "ref":
+ "pmb88525"},
+ {
+ "persName":
+ "Geza Silberer",
+ "ref":
+ "pmb24919"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Irene van Bien",
+ "ref":
+ "pmb300314"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Welsberg-Taisten",
+ "ref":
+ "pmb428"}
+ ,  {
+ "placeName":
+ "Bozen",
+ "ref":
+ "pmb40260"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
+ ,  {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ "pmb723"}
+ ,  {
+ "placeName":
+ "Pustertal",
+ "ref":
+ "pmb724"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -450,7 +533,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-08-10",
  "head":
- "Vahrn"
+ "Vahrn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof und Pension Waldsacker",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-bahr",

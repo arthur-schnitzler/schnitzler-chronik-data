@@ -71,6 +71,11 @@
  "pmb2121"},
  {
  "persName":
+ "Johann Strauss",
+ "ref":
+ "pmb12867"},
+ {
+ "persName":
  "Felix Salten",
  "ref":
  "pmb2167"},
@@ -81,32 +86,12 @@
  "pmb9445"},
  {
  "persName":
- "Johann Strauss",
- "ref":
- "pmb12867"},
- {
- "persName":
  "Anna Katharina Rehmann",
  "ref":
  "pmb23915"}],
  "listPlace":
   [
  {
- "placeName":
- "Zürich",
- "ref":
- "pmb484"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
  "placeName":
  "Grossmünster",
  "ref":
@@ -121,6 +106,21 @@
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Sternwartestraße 71",
+ "ref":
+ "pmb168815"}
+ ,  {
+ "placeName":
+ "Zürich",
+ "ref":
+ "pmb484"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Stadttheater [Zürich]",
@@ -168,122 +168,7 @@
  "persName":
  "Frédéric Lefèvre",
  "ref":
- "pmb295326"},
- {
- "persName":
- "Miguel Pérez Ferrero",
- "ref":
- "pmb258033"},
- {
- "persName":
- "Máximo Kahn",
- "ref":
- "pmb258315"},
- {
- "persName":
- "Clara Katharina Pollaczek",
- "ref":
- "pmb12435"},
- {
- "persName":
- "Paul Czinner",
- "ref":
- "pmb11131"},
- {
- "persName":
- "Béla Balázs",
- "ref":
- "pmb6097"},
- {
- "persName":
- "Elisabeth Bergner",
- "ref":
- "pmb10886"},
- {
- "persName":
- "Else Heller",
- "ref":
- "pmb119849"},
- {
- "persName":
- "Grit Hegesa",
- "ref":
- "pmb120067"},
- {
- "persName":
- "Adele Sandrock",
- "ref":
- "pmb12618"},
- {
- "persName":
- "Albert Bassermann",
- "ref":
- "pmb10844"},
- {
- "persName":
- "Jack Trevor",
- "ref":
- "pmb10253"},
- {
- "persName":
- "Albert Steinrück",
- "ref":
- "pmb12837"},
- {
- "persName":
- "Hans Steinhoff",
- "ref":
- "pmb10020"},
- {
- "persName":
- "Ernst B. Fey",
- "ref":
- "pmb119209"},
- {
- "persName":
- "Elga Brink",
- "ref":
- "pmb119679"},
- {
- "persName":
- "Valery Boothby",
- "ref":
- "pmb119583"},
- {
- "persName":
- "Vivian Gibson",
- "ref":
- "pmb119699"},
- {
- "persName":
- "Margit Manstad",
- "ref":
- "pmb119585"},
- {
- "persName":
- "Henry Edwards",
- "ref":
- "pmb121943"},
- {
- "persName":
- "Gustav Fröhlich",
- "ref":
- "pmb119215"},
- {
- "persName":
- "Bruno Kastner",
- "ref":
- "pmb19175"},
- {
- "persName":
- "Alfred Abel",
- "ref":
- "pmb5903"},
- {
- "persName":
- "Renée Héribel",
- "ref":
- "pmb119164"}],
+ "pmb295326"}],
  "listBibl":
   [
  {
@@ -308,9 +193,9 @@
  "pmb294945"}
  ,  {
  "title":
- "Angst",
+ "Narkose",
  "ref":
- "pmb81352"}
+ "pmb295330"}
  ,  {
  "title":
  "Brief einer Unbekannten",
@@ -318,9 +203,9 @@
  "pmb295334"}
  ,  {
  "title":
- "Narkose",
+ "Une heure avec Stefan Zweig. Le rôle de l’intellectuel dans la crise actuelle",
  "ref":
- "pmb295330"}
+ "pmb299676"}
  ,  {
  "title":
  "Les Nouvelles littéraires",
@@ -328,33 +213,13 @@
  "pmb59976"}
  ,  {
  "title":
- "Une heure avec Stefan Zweig. Le rôle de l’intellectuel dans la crise actuelle",
+ "Angst",
  "ref":
- "pmb299676"}
+ "pmb81352"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Paschinger Schlössl",
- "ref":
- "pmb253003"}
- ,  {
- "placeName":
- "Spanien",
- "ref":
- "pmb388"}
- ,  {
  "placeName":
  "Frankreich",
  "ref":
@@ -366,14 +231,34 @@
  "pmb182"}
  ,  {
  "placeName":
- "Österreich-Ungarn",
+ "Paschinger Schlössl",
  "ref":
- "pmb687"}
+ "pmb253003"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Spanien",
+ "ref":
+ "pmb388"}
  ,  {
  "placeName":
  "Europa",
  "ref":
  "pmb468"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Österreich-Ungarn",
+ "ref":
+ "pmb687"}
  ],
  "listOrg":
   [

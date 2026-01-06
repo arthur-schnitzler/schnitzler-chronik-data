@@ -59,11 +59,6 @@
  "pmb11485"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Heinrich Kanner",
  "ref":
  "pmb11867"},
@@ -74,9 +69,9 @@
  "pmb11910"},
  {
  "persName":
- "Elisabeth Steinrück",
+ "Olga Schnitzler",
  "ref":
- "pmb2315"},
+ "pmb2173"},
  {
  "persName":
  "Isidor Singer",
@@ -84,24 +79,9 @@
  "pmb12790"},
  {
  "persName":
- "Hermann Bahr",
+ "Elisabeth Steinrück",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb2315"}],
  "listBibl":
   [
  {
@@ -139,9 +119,9 @@
  "pmb40583"}
  ,  {
  "placeName":
- "Dresden",
+ "Wörthersee",
  "ref":
- "pmb866"}
+ "pmb430"}
  ,  {
  "placeName":
  "Wien",
@@ -149,28 +129,23 @@
  "pmb50"}
  ,  {
  "placeName":
- "Wörthersee",
+ "Val Gardena",
  "ref":
- "pmb430"}
+ "pmb65733"}
+ ,  {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
  ,  {
  "placeName":
  "Urtijëi",
  "ref":
  "pmb91969"}
- ,  {
- "placeName":
- "Val Gardena",
- "ref":
- "pmb65733"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "Die Zeit",
- "ref":
- "pmb29626"}
- ,  {
  "orgName":
  "Die Zeit. Wiener Wochenschrift",
  "ref":
@@ -180,6 +155,11 @@
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
+ ,  {
+ "orgName":
+ "Die Zeit",
+ "ref":
+ "pmb29626"}
  ]
 }
 }, {
@@ -192,5 +172,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-07-07",
  "head":
- "St. Anton am Arlberg"
+ "St. Anton am Arlberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "?? [Unterkunft von Schnitzler und Gussmann in St. Anton. 1901]",
+ "ref":
+ ""}
+ ]
+}
 }] 

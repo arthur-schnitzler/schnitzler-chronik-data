@@ -58,24 +58,9 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
+ "Leopold von Andrian-Werburg",
  "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Henri Albert",
- "ref":
- "pmb2801"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
+ "pmb10765"},
  {
  "persName":
  "Hermann Bahr",
@@ -83,9 +68,24 @@
  "pmb10815"},
  {
  "persName":
- "Leopold von Andrian-Werburg",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb10765"},
+ "pmb10863"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Henri Albert",
+ "ref":
+ "pmb2801"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
  {
  "persName":
  "Samuel Fischer",
@@ -93,9 +93,9 @@
  "pmb11324"},
  {
  "persName":
- "Hedwig Fischer",
+ "Johann Wolfgang von Goethe",
  "ref":
- "pmb2657"},
+ "pmb11461"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -103,27 +103,12 @@
  "pmb11740"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Hedwig Fischer",
  "ref":
- "pmb11461"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"}],
+ "pmb2657"}],
  "listBibl":
   [
  {
- "title":
- "Les Jeunes Viennois",
- "ref":
- "pmb30441"}
- ,  {
  "title":
  "Revue des Revues",
  "ref":
@@ -135,9 +120,24 @@
  "pmb88148"}
  ,  {
  "title":
+ "Sterben. Novelle",
+ "ref":
+ "pmb30117"}
+ ,  {
+ "title":
  "Der Garten der Erkenntnis",
  "ref":
  "pmb30435"}
+ ,  {
+ "title":
+ "Das Kind",
+ "ref":
+ "pmb30437"}
+ ,  {
+ "title":
+ "Les Jeunes Viennois",
+ "ref":
+ "pmb30441"}
  ,  {
  "title":
  "Der Garten der Erkenntnis",
@@ -148,16 +148,6 @@
  "Die Zeit. Wiener Wochenschrift",
  "ref":
  "pmb36340"}
- ,  {
- "title":
- "Das Kind",
- "ref":
- "pmb30437"}
- ,  {
- "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
  ],
  "listPlace":
   [
@@ -168,9 +158,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "rue Jacob",
  "ref":
- "pmb50"}
+ "pmb34189"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -178,9 +168,9 @@
  "pmb42671"}
  ,  {
  "placeName":
- "rue Jacob",
+ "Wien",
  "ref":
- "pmb34189"}
+ "pmb50"}
  ,  {
  "placeName":
  "Europa",
@@ -199,69 +189,6 @@
  "S. Fischer Verlag",
  "ref":
  "pmb29639"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00414",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00414.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, [28. 3. 1895?]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"}],
- "listBibl":
-  [
- {
- "title":
- "Les Jeunes Viennois",
- "ref":
- "pmb30441"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wollzeile",
- "ref":
- "pmb338"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {

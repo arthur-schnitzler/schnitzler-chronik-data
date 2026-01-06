@@ -61,14 +61,14 @@
  "pmb10815"},
  {
  "persName":
- "Schott",
- "ref":
- "pmb27690"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
- "pmb10815"}],
+ "pmb10815"},
+ {
+ "persName":
+ "Schott",
+ "ref":
+ "pmb27690"}],
  "listBibl":
   [
  {
@@ -81,24 +81,24 @@
   [
  {
  "placeName":
- "Hotel de Rome",
- "ref":
- "pmb215"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
+ "Hotel de Rome",
  "ref":
- "pmb50"}
+ "pmb215"}
  ,  {
  "placeName":
  "Deutsches Theater Berlin",
  "ref":
  "pmb3"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -137,9 +137,39 @@
  "pmb2121"},
  {
  "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Ludwig Bauer",
+ "ref":
+ "pmb10848"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
+ {
+ "persName":
+ "Emilie Dorothea Popper",
+ "ref":
+ "pmb22798"},
+ {
+ "persName":
+ "Karl Eduard Vehse",
+ "ref":
+ "pmb27903"},
+ {
+ "persName":
+ "?? [Berliner Musikkorrespondent der National-Zeitung]",
+ "ref":
+ "pmb147198"},
  {
  "persName":
  "Olga Schnitzler",
@@ -152,76 +182,21 @@
  "pmb12692"},
  {
  "persName":
- "Emilie Dorothea Popper",
- "ref":
- "pmb22798"},
- {
- "persName":
  "Louise Schnitzler",
  "ref":
  "pmb12701"},
  {
  "persName":
- "?? [Berliner Musikkorrespondent der National-Zeitung]",
- "ref":
- "pmb147198"},
- {
- "persName":
- "Ludwig Bauer",
- "ref":
- "pmb10848"},
- {
- "persName":
- "Karl Eduard Vehse",
- "ref":
- "pmb27903"},
- {
- "persName":
  "Theodore Rottenberg",
  "ref":
- "pmb23674"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Elisabeth von Heyking",
- "ref":
- "pmb143417"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb23674"}],
  "listBibl":
   [
  {
  "title":
- "Theater- und Kunstnachrichten. [Man schreibt uns aus Berlin]",
+ "Briefe, die ihn nicht erreichten",
  "ref":
- "pmb147196"}
- ,  {
- "title":
- "Die Gouvernante",
- "ref":
- "pmb33784"}
+ "pmb146972"}
  ,  {
  "title":
  "[Aus Berlin wird uns gemeldet: »Der einsame Weg«]",
@@ -229,14 +204,19 @@
  "pmb147110"}
  ,  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Theater- und Kunstnachrichten. [Man schreibt uns aus Berlin]",
  "ref":
- "pmb29985"}
+ "pmb147196"}
  ,  {
  "title":
- "Briefe, die ihn nicht erreichten",
+ "Der Meister. Komödie in drei Akten",
  "ref":
- "pmb146972"}
+ "pmb29983"}
+ ,  {
+ "title":
+ "Die Gouvernante",
+ "ref":
+ "pmb33784"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -244,27 +224,22 @@
  "pmb36374"}
  ,  {
  "title":
- "Der Meister. Komödie in drei Akten",
+ "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
- "pmb29983"}
+ "pmb29985"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
  ,  {
  "placeName":
  "Semmering",
@@ -272,27 +247,32 @@
  "pmb189"}
  ,  {
  "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
  "Ägypten",
  "ref":
  "pmb211"}
+ ,  {
+ "placeName":
+ "Dessauer Straße",
+ "ref":
+ "pmb40583"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "National-Zeitung",
- "ref":
- "pmb147105"}
- ,  {
- "orgName":
  "Reichstag",
  "ref":
  "pmb144185"}
+ ,  {
+ "orgName":
+ "National-Zeitung",
+ "ref":
+ "pmb147105"}
  ,  {
  "orgName":
  "Verein zur Förderung der Künste",

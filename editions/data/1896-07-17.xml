@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -91,6 +91,113 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-07-17.html</idno>
             </event>
             <event when-iso="1896-07-17">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 17. 7. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1119">Stockholm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36296">Oslo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40700">Göteborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb42542">Tromsø</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43570">Dänemark</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb333759">Sig Jarl</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00565.html</idno>
+            </event>
+            <event when-iso="1896-07-17">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 17. 7. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12064">Georg Christoph Lichtenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb154784">Eugen Reichel</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb333764">Georg Christ. Lichtenbergs ausgewählte Schriften</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb299563">Recepte. Ein Kochbuch für Schriftsteller und Künstler</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb333768">Ein neues Gesetz. Novelle</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb42542">Tromsø</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb958">Skodsborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb333759">Sig Jarl</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29666">Philipp Reclam jun.</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04116.html</idno>
+            </event>
+            <event when-iso="1896-07-17">
                <head>Paul Goldmann an Arthur Schnitzler, 17. 7. [1896]</head>
                <desc>
                   <listPerson>
@@ -117,25 +224,25 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40290">Trondheim</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36296">Oslo</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb958">Skodsborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1091">Badehotellet</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1091">Badehotellet</placeName>
+                        <placeName ref="pmb36296">Oslo</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

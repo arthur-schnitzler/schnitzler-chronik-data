@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -121,10 +121,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb24239">Hans Bernhard Schlesinger</persName>
@@ -132,16 +135,13 @@
                      <person>
                         <persName ref="pmb26046">Christiane von Thun-Hohenstein-Salm-Reifferscheidt</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb31091">Das gerettete Venedig. Trauerspiel in fünf Aufzügen</title>
+                        <title ref="pmb31165">Der arme Heinrich – Eine deutsche Sage</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31165">Der arme Heinrich – Eine deutsche Sage</title>
+                        <title ref="pmb31091">Das gerettete Venedig. Trauerspiel in fünf Aufzügen</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -149,10 +149,10 @@
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb462">Venedig</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -177,49 +177,28 @@
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb145901">Marie Suin Beausacq</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12899">Hermann Sudermann</persName>
+                        <persName ref="pmb11581">Maximilian Harden</persName>
                      </person>
                      <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11581">Maximilian Harden</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12899">Hermann Sudermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb145901">Marie Suin Beausacq</persName>
                      </person>
                      <person>
                         <persName ref="pmb17164">Eva Marie Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb89450">Sully Prudhomme</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb145944">Gaston Bergeret</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb145949">Berliner Theater. (»König Laurin« von Ernst v. Wildenbruch.)</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb145900">Maximes de la vie. Préface par Sully Prud’homme</title>
                      </bibl>
@@ -227,28 +206,34 @@
                         <title ref="pmb145940">Livre d’or de la comtesse Diane, préface par Gaston Bergeret</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31817">Verrohung in der Theaterkritik</title>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb147030">Die Kritik und Herr Sudermann</title>
+                        <title ref="pmb145949">Berliner Theater. (»König Laurin« von Ernst v. Wildenbruch.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb145952">Theater [Erwiderung auf Sudermanns Verrohung in der Literaturkritik]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb41560">Der Tag</title>
+                        <title ref="pmb147030">Die Kritik und Herr Sudermann</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb147037">Herr Sudermann, der D .. Di .. Dichter. Ein kritisches Vademecum</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb147057">Theater [Erwiderung auf Sudermanns Verrohung in der Literaturkritik, II]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb40042">Die Zukunft</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb147057">Theater [Erwiderung auf Sudermanns Verrohung in der Literaturkritik, II]</title>
+                        <title ref="pmb41560">Der Tag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31817">Verrohung in der Theaterkritik</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -256,10 +241,10 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>

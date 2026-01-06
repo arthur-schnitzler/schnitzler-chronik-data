@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -173,6 +173,79 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00951.html</idno>
             </event>
             <event when-iso="1899-07-27">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 27. 7. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2461">Gisela Hajek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11707">Robert Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24420">Hans Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24430">Karl Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb909">Velden am Wörthersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36282">Pension Pundschu</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb987">Toblach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40454">Villach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb954">Trient</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36284">Südbahnhotel [Toblach]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb432">Thüringen</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04043.html</idno>
+            </event>
+            <event when-iso="1899-07-27">
                <head>Paul Goldmann an Arthur Schnitzler, 27. 7. [1899]</head>
                <desc>
                   <listPerson>
@@ -183,22 +256,22 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4216">Alfred Dreyfus</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb4986">Fedor Mamroth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb13024">Richard Wagner</persName>
                      </person>
                      <person>
                         <persName ref="pmb26555">Cosima Wagner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4216">Alfred Dreyfus</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -208,28 +281,28 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb734">Bayreuth</placeName>
+                        <placeName ref="pmb142348">Grönland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40454">Villach</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb909">Velden am Wörthersee</placeName>
+                        <placeName ref="pmb55293">Rennes</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb430">Wörthersee</placeName>
+                        <placeName ref="pmb734">Bayreuth</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb909">Velden am Wörthersee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb55293">Rennes</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb142348">Grönland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40306">Italien</placeName>
+                        <placeName ref="pmb430">Wörthersee</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -286,12 +359,6 @@
                         <title ref="pmb143251">Wiener Allgemeine Montags-Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb146069">?? [Feuilleton über Paul Goldmann]</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb33346">Ein Sommer in China. Reisebilder</title>
                      </bibl>
                      <bibl>
@@ -299,6 +366,12 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb118028">Neue französische Humoristen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb146069">?? [Feuilleton über Paul Goldmann]</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -321,7 +394,7 @@
                         <placeName ref="pmb34824">Seeboden</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91350">Niederdorf</placeName>
+                        <placeName ref="pmb40556">Niederdorf</placeName>
                      </place>
                   </listPlace>
                </desc>

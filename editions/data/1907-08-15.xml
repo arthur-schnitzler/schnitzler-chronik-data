@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,7 +90,27 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11246">Julius Elias</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11813">Siegfried Jacobsohn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12460">Eduard Pötzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb169265">
+      ?? [Kinderbetreuerin bei Salten]
+  </persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23915">Anna Katharina Rehmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb23918">Ottilie Salten</persName>
@@ -99,44 +119,9 @@
                         <persName ref="pmb2922">Paul Salten</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23915">Anna Katharina Rehmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb169265">
-                  ?? [Kinderbetreuerin bei Salten]
-               </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11246">Julius Elias</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb147714">
-                  ?? [Mädchen, das Tennis spielt]
-               </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11813">Siegfried Jacobsohn</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12671">Paul Schlenther</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12460">Eduard Pötzl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb9931">Werner Sombart</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12870">Richard Strauss</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10992">Georg Brandes</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12319">Richard Muther</persName>
+      ?? [Mädchen, das Tennis spielt]
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -144,10 +129,13 @@
                         <title ref="pmb147719">Rotkäppchen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76527">Vom andern Ufer. Einakter</title>
+                        <title ref="pmb147720">?? [Englische Reise]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76503">Auferstehung. Komödie in einem Akt</title>
+                        <title ref="pmb41630">Morgen. Wochenschrift für deutsche Kultur</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76509">Der Hund von Florenz</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb145211">Der Graf. Komödie in einem Akt</title>
@@ -156,16 +144,13 @@
                         <title ref="pmb145239">Der Ernst des Lebens. Schauspiel in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76509">Der Hund von Florenz</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb31293">Der Wiener Korrespondent</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb41630">Morgen. Wochenschrift für deutsche Kultur</title>
+                        <title ref="pmb76503">Auferstehung. Komödie in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb147720">?? [Englische Reise]</title>
+                        <title ref="pmb76527">Vom andern Ufer. Einakter</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31713">Das gelobte Wien</title>
@@ -173,10 +158,49 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb772">Marienbad</placeName>
+                        <placeName ref="pmb147704">Ferdinandquelle</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147706">Café Nimrod</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147708">Hotel Rübezahl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147710">Café Egerländer</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147712">Café Forstwarte</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147717">Ambrosiusquelle</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb169267">?? [Delikatessenhandlung in Marienbad]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb27068">Schneeberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb428">Welsberg-Taisten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb46224">Lviv</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb509">Hotel Quisisana</placeName>
@@ -185,49 +209,10 @@
                         <placeName ref="pmb708">Kreuzbrunnen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb147704">Ferdinandquelle</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb147708">Hotel Rübezahl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb147712">Café Forstwarte</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb147706">Café Nimrod</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb147710">Café Egerländer</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb169267">?? [Delikatessenhandlung in Marienbad]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb46224">Lviv</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb772">Marienbad</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb881">Mannheim</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb147717">Ambrosiusquelle</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb39975">Lago di Garda</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb189">Semmering</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb27068">Schneeberg</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

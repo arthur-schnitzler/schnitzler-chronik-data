@@ -48,6 +48,16 @@
  "pmb2121"},
  {
  "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -58,19 +68,9 @@
  "pmb11673"},
  {
  "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
  "Emil Schiff",
  "ref":
  "pmb34173"},
- {
- "persName":
- "N.",
- "ref":
- "pmb135043"},
  {
  "persName":
  "Fedor Mamroth",
@@ -78,86 +78,26 @@
  "pmb4986"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"},
- {
- "persName":
  "Moriz Benedikt",
  "ref":
  "pmb10875"},
  {
  "persName":
- "Otto Julius Bierbaum",
+ "N.",
  "ref":
- "pmb10928"},
+ "pmb135043"},
  {
  "persName":
- "Oskar Bie",
+ "Marie Reinhard",
  "ref":
- "pmb2914"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb2378"}],
  "listBibl":
   [
  {
  "title":
- "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
- "ref":
- "pmb32562"}
- ,  {
- "title":
  "Der grüne Kakadu. Groteske in einem Akt",
  "ref":
  "pmb29843"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Paracelsus. Versspiel in einem Akt",
- "ref":
- "pmb30403"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
@@ -165,14 +105,29 @@
  "pmb29845"}
  ,  {
  "title":
- "Neue Deutsche Rundschau",
+ "Paracelsus. Versspiel in einem Akt",
  "ref":
- "pmb36152"}
+ "pmb30403"}
+ ,  {
+ "title":
+ "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
+ "ref":
+ "pmb32562"}
  ,  {
  "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Neue Deutsche Rundschau",
+ "ref":
+ "pmb36152"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
  ],
  "listPlace":
   [
@@ -183,34 +138,9 @@
  "pmb146"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Redaktion der Frankfurter Zeitung",
- "ref":
- "pmb144603"}
- ,  {
- "placeName":
- "Bastille",
- "ref":
- "pmb518"}
- ,  {
- "placeName":
  "Deutschland",
  "ref":
  "pmb151"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
  ,  {
  "placeName":
  "Berlin",
@@ -218,27 +148,52 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
  "Russland",
  "ref":
  "pmb34438"}
  ,  {
  "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Bastille",
+ "ref":
+ "pmb518"}
+ ,  {
+ "placeName":
  "Central-Hotel",
  "ref":
  "pmb88597"}
+ ,  {
+ "placeName":
+ "Redaktion der Frankfurter Zeitung",
+ "ref":
+ "pmb144603"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
  ,  {
  "orgName":
  "Burgtheater",

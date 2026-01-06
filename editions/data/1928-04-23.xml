@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -124,22 +124,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb966">Istanbul</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb52752">Goldenes Horn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb966">Istanbul</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -155,7 +155,30 @@
                      <person>
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                     </person>
                   </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb235784">Oppolzergasse 6</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb90386">Bosporus</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb966">Istanbul</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03986.html</idno>
             </event>

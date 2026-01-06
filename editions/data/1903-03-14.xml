@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,6 +104,53 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1903-03-14.html</idno>
+            </event>
+            <event when-iso="1903-03-14">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 14. 3. 1903</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12618">Adele Sandrock</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26880">Adolf Weisse</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44092">Jihlava</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04061.html</idno>
             </event>
             <event when-iso="1903-03-14">
                <head corresp="#pmb50">Wien</head>
@@ -190,6 +237,36 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2959">Lantz, Adolf</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb26880">Weisse, Adolf</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb8841">Martinelli, Ludwig</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb16952">Geisendörfer, Julius</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb26873">Weiss, Theodor</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12618">Sandrock, Adele</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb11981">Kramer, Leopold</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb4124">Eppens, Otto</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb10995">Brandt, Theodor</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb154113">Wierth, Alexander</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2868">Kutschera, Victor</persName>
                      </person>
                   </listPerson>
                   <listPlace>

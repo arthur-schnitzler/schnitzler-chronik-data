@@ -110,14 +110,14 @@
  "pmb13212"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Jakob Wassermann",
  "ref":
- "pmb13055"}],
+ "pmb13055"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listBibl":
   [
  {
@@ -135,24 +135,24 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Kochgasse 8",
  "ref":
  "pmb249577"}
  ,  {
  "placeName":
- "Semmering",
+ "Wien",
  "ref":
- "pmb189"}
+ "pmb50"}
  ,  {
  "placeName":
  "Burgtheater",
  "ref":
  "pmb14"}
+ ,  {
+ "placeName":
+ "Semmering",
+ "ref":
+ "pmb189"}
  ]
 }
 }, {
@@ -198,9 +198,9 @@
   [
  {
  "placeName":
- "Wien",
+ "Sternwartestraße 71",
  "ref":
- "pmb50"}
+ "pmb168815"}
  ,  {
  "placeName":
  "London",
@@ -208,9 +208,9 @@
  "pmb224"}
  ,  {
  "placeName":
- "Sternwartestraße 71",
+ "Wien",
  "ref":
- "pmb168815"}
+ "pmb50"}
  ]
 }
 }, {
@@ -246,24 +246,19 @@
  "pmb11740"},
  {
  "persName":
- "Karl Max Lichnowsky",
- "ref":
- "pmb39994"},
- {
- "persName":
  "Mechtilde Lichnowsky",
  "ref":
  "pmb38988"},
  {
  "persName":
- "Josef Kainz",
+ "Karl Max Lichnowsky",
  "ref":
- "pmb11851"},
+ "pmb39994"},
  {
  "persName":
- "Richard Strauss",
+ "Josef Kainz",
  "ref":
- "pmb12870"}],
+ "pmb11851"}],
  "listBibl":
   [
  {
@@ -273,14 +268,14 @@
  "pmb30207"}
  ,  {
  "title":
+ "Die Weissagung",
+ "ref":
+ "pmb30683"}
+ ,  {
+ "title":
  "Der Thor und der Tod",
  "ref":
  "pmb30279"}
- ,  {
- "title":
- "Saul. Ein Tragödienfragment",
- "ref":
- "pmb39985"}
  ,  {
  "title":
  "Der Rosenkavalier",
@@ -288,9 +283,9 @@
  "pmb30341"}
  ,  {
  "title":
- "Die Weissagung",
+ "Saul. Ein Tragödienfragment",
  "ref":
- "pmb30683"}
+ "pmb39985"}
  ],
  "listPlace":
   [
@@ -301,11 +296,6 @@
  "pmb173"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Neubeuern",
  "ref":
  "pmb33996"}
@@ -314,6 +304,11 @@
  "Hradec nad Moravicí",
  "ref":
  "pmb36534"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [

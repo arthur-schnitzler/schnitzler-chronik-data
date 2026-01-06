@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,13 +79,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb7253">Alfred Friedmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -93,28 +96,10 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12671">Paul Schlenther</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144562">Theater- und Kunstnachrichten [Uraufführung von Lebendige Stunden]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
@@ -122,19 +107,25 @@
                      <bibl>
                         <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb144562">Theater- und Kunstnachrichten [Uraufführung von Lebendige Stunden]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
@@ -142,13 +133,13 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb36430">Volkstheater</orgName>
+                        <orgName ref="pmb144185">Reichstag</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29767">Akademischer Verein für Kunst und Literatur</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb144185">Reichstag</orgName>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>

@@ -142,29 +142,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
  "Samuel Fischer",
  "ref":
  "pmb11324"},
  {
  "persName":
- "Wilhelm Friedrich",
+ "Paul Goldmann",
  "ref":
- "pmb89803"},
- {
- "persName":
- "Salo Schottlaender",
- "ref":
- "pmb89393"},
+ "pmb11485"},
  {
  "persName":
  "Edgar Pierson",
@@ -175,6 +160,21 @@
  "Carl Freund",
  "ref":
  "pmb39775"},
+ {
+ "persName":
+ "Fedor Mamroth",
+ "ref":
+ "pmb4986"},
+ {
+ "persName":
+ "Salo Schottlaender",
+ "ref":
+ "pmb89393"},
+ {
+ "persName":
+ "Wilhelm Friedrich",
+ "ref":
+ "pmb89803"},
  {
  "persName":
  "Max Jeckel",
@@ -197,26 +197,6 @@
  "pmb146"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Leipzig",
- "ref":
- "pmb864"}
- ,  {
- "placeName":
- "Breslau",
- "ref":
- "pmb677"}
- ,  {
- "placeName":
- "Dresden",
- "ref":
- "pmb866"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -225,6 +205,26 @@
  "Köthenerstraße",
  "ref":
  "pmb359"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Breslau",
+ "ref":
+ "pmb677"}
+ ,  {
+ "placeName":
+ "Leipzig",
+ "ref":
+ "pmb864"}
+ ,  {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
  ,  {
  "placeName":
  "Altonaer Straße",
@@ -240,14 +240,9 @@
  "pmb29442"}
  ,  {
  "orgName":
- "Verlag Wilhelm Friedrich",
+ "S. Fischer Verlag",
  "ref":
- "pmb89810"}
- ,  {
- "orgName":
- "S. Schottländer",
- "ref":
- "pmb89394"}
+ "pmb29639"}
  ,  {
  "orgName":
  "E. Pierson’s Verlag",
@@ -255,14 +250,19 @@
  "pmb29771"}
  ,  {
  "orgName":
- "S. Fischer Verlag",
- "ref":
- "pmb29639"}
- ,  {
- "orgName":
  "Freund &amp; Jeckel",
  "ref":
  "pmb39772"}
+ ,  {
+ "orgName":
+ "S. Schottländer",
+ "ref":
+ "pmb89394"}
+ ,  {
+ "orgName":
+ "Verlag Wilhelm Friedrich",
+ "ref":
+ "pmb89810"}
  ]
 }
 }, {

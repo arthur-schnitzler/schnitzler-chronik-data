@@ -74,34 +74,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Josef Rosengart",
- "ref":
- "pmb23593"},
- {
- "persName":
- "Paul Schlenther",
- "ref":
- "pmb12671"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
  {
  "persName":
- "Isidor Singer",
+ "Paul Goldmann",
  "ref":
- "pmb12790"},
+ "pmb11485"},
  {
  "persName":
  "Heinrich Kanner",
@@ -109,14 +89,24 @@
  "pmb11867"},
  {
  "persName":
- "Alice Ziegler",
+ "Paul Schlenther",
  "ref":
- "pmb118324"},
+ "pmb12671"},
  {
  "persName":
- "Marie Reinhard",
+ "Isidor Singer",
  "ref":
- "pmb2378"},
+ "pmb12790"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Max Eugen Burckhard",
+ "ref":
+ "pmb11036"},
  {
  "persName":
  "Theodor Fontane",
@@ -124,17 +114,22 @@
  "pmb11342"},
  {
  "persName":
- "Max Eugen Burckhard",
+ "Alice Ziegler",
  "ref":
- "pmb11036"}],
+ "pmb118324"},
+ {
+ "persName":
+ "Josef Rosengart",
+ "ref":
+ "pmb23593"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"}],
  "listBibl":
   [
  {
- "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
- ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
  "ref":
@@ -144,29 +139,24 @@
  "Das Vermächtnis. Schauspiel in drei Akten",
  "ref":
  "pmb30219"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue de la Bourse",
- "ref":
- "pmb43397"}
- ,  {
- "placeName":
  "China",
  "ref":
  "pmb1108"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
  ,  {
  "placeName":
  "Österreich",
@@ -174,27 +164,37 @@
  "pmb41240"}
  ,  {
  "placeName":
+ "rue de la Bourse",
+ "ref":
+ "pmb43397"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Prag",
  "ref":
  "pmb652"}
  ,  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Burgtheater",
  "ref":
  "pmb14"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
+ "Die Zeit. Wiener Wochenschrift",
  "ref":
- "pmb29442"}
+ "pmb29209"}
  ,  {
  "orgName":
  "Vossische Zeitung",
@@ -202,9 +202,9 @@
  "pmb29331"}
  ,  {
  "orgName":
- "Die Zeit. Wiener Wochenschrift",
+ "Frankfurter Zeitung",
  "ref":
- "pmb29209"}
+ "pmb29442"}
  ,  {
  "orgName":
  "Burgtheater",

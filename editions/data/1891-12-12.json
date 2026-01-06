@@ -98,24 +98,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Émile Augier",
- "ref":
- "pmb2815"},
- {
- "persName":
- "Émile Zola",
- "ref":
- "pmb13194"},
- {
- "persName":
- "Hermann Sudermann",
- "ref":
- "pmb12899"},
  {
  "persName":
  "Gerhart Hauptmann",
@@ -128,19 +118,29 @@
  "pmb11673"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
  {
  "persName":
+ "Hermann Sudermann",
+ "ref":
+ "pmb12899"},
+ {
+ "persName":
+ "Émile Zola",
+ "ref":
+ "pmb13194"},
+ {
+ "persName":
  "Friedrich Kapper",
  "ref":
- "pmb19106"}],
+ "pmb19106"},
+ {
+ "persName":
+ "Émile Augier",
+ "ref":
+ "pmb2815"}],
  "listBibl":
   [
  {
@@ -152,6 +152,11 @@
  "listPlace":
   [
  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
  "placeName":
  "Paris",
  "ref":
@@ -166,11 +171,6 @@
  "Brüssel",
  "ref":
  "pmb862"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Sankt Petersburg",

@@ -53,29 +53,14 @@
  "pmb2121"},
  {
  "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
  {
  "persName":
  "Jean Thorel",
@@ -83,14 +68,29 @@
  "pmb3966"},
  {
  "persName":
- "?? [Mitarbeiterin von La Vie Parisienne]",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb93196"},
+ "pmb10863"},
  {
  "persName":
- "Hermann Bahr",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb10815"},
+ "pmb11740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Carl Pietzner",
+ "ref":
+ "pmb2374"},
  {
  "persName":
  "Auguste Vaillant",
@@ -98,16 +98,16 @@
  "pmb93187"},
  {
  "persName":
- "Carl Pietzner",
+ "?? [Mitarbeiterin von La Vie Parisienne]",
  "ref":
- "pmb2374"}],
+ "pmb93196"}],
  "listBibl":
   [
  {
  "title":
- "Arthur Schnitzler (1893)",
+ "Anatol",
  "ref":
- "pmb93194"}
+ "pmb29935"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -115,19 +115,19 @@
  "pmb29917"}
  ,  {
  "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
  "Deutsche Zeitung",
  "ref":
  "pmb41471"}
+ ,  {
+ "title":
+ "Arthur Schnitzler (1893)",
+ "ref":
+ "pmb93194"}
+ ,  {
+ "title":
+ "Sterben. Novelle",
+ "ref":
+ "pmb30117"}
  ],
  "listPlace":
   [
@@ -146,6 +146,11 @@
   [
  {
  "orgName":
+ "Deutsche Zeitung",
+ "ref":
+ "pmb29424"}
+ ,  {
+ "orgName":
  "Französische Abgeordnetenkammer",
  "ref":
  "pmb92784"}
@@ -154,11 +159,6 @@
  "La Vie Parisienne",
  "ref":
  "pmb93197"}
- ,  {
- "orgName":
- "Deutsche Zeitung",
- "ref":
- "pmb29424"}
  ,  {
  "orgName":
  "Französische Nationalversammlung",

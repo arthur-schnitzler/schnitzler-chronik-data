@@ -73,14 +73,14 @@
  "pmb11740"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
  {
  "persName":
  "Heinrich Schnitzler",
@@ -88,9 +88,9 @@
  "pmb12692"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Olga Schnitzler",
  "ref":
- "pmb10863"},
+ "pmb2173"},
  {
  "persName":
  "Karl Werkmann",
@@ -100,14 +100,14 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Semmering",
  "ref":
  "pmb189"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -146,21 +146,6 @@
  "pmb2167"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
@@ -171,19 +156,24 @@
  "pmb11324"},
  {
  "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
  "Ottilie Salten",
  "ref":
  "pmb23918"},
- {
- "persName":
- "Paul Salten",
- "ref":
- "pmb2922"},
- {
- "persName":
- "Anna Katharina Rehmann",
- "ref":
- "pmb23915"},
  {
  "persName":
  "Louise Schnitzler",
@@ -193,7 +183,17 @@
  "persName":
  "Hedwig Fischer",
  "ref":
- "pmb2657"}],
+ "pmb2657"},
+ {
+ "persName":
+ "Anna Katharina Rehmann",
+ "ref":
+ "pmb23915"},
+ {
+ "persName":
+ "Paul Salten",
+ "ref":
+ "pmb2922"}],
  "listBibl":
   [
  {
@@ -206,14 +206,14 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Semmering",
  "ref":
  "pmb189"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [

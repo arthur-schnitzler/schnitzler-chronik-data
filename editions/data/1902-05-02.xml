@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -130,7 +130,13 @@
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb17461">Ernest von Gréger-Jurco</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb4794">Karl Strecker</persName>
@@ -138,22 +144,10 @@
                      <person>
                         <persName ref="pmb12749">Karl Schönherr</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb41550">Tägliche Rundschau</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb88182">Ein litterarisch-dramatisches Hochstapler-Stücklein</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
@@ -161,19 +155,25 @@
                      <bibl>
                         <title ref="pmb76925">Die Weber</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb88182">Ein litterarisch-dramatisches Hochstapler-Stücklein</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb75">Hinterbrühl</placeName>

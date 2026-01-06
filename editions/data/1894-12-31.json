@@ -186,19 +186,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
+ "Hermann Bahr",
  "ref":
- "pmb11485"},
+ "pmb10815"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb87771"},
- {
- "persName":
- "Ludwig Speidel",
- "ref":
- "pmb12816"},
+ "pmb10863"},
  {
  "persName":
  "Max Eugen Burckhard",
@@ -206,14 +201,24 @@
  "pmb11036"},
  {
  "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
  "Adele Sandrock",
  "ref":
  "pmb12618"},
  {
  "persName":
- "Stella Hohenfels",
+ "Ludwig Speidel",
  "ref":
- "pmb2850"},
+ "pmb12816"},
+ {
+ "persName":
+ "Clemens Sokal",
+ "ref":
+ "pmb25076"},
  {
  "persName":
  "Henri Albert",
@@ -221,9 +226,14 @@
  "pmb2801"},
  {
  "persName":
- "Hermann Bahr",
+ "Stella Hohenfels",
  "ref":
- "pmb10815"},
+ "pmb2850"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
  {
  "persName":
  "André Hallays",
@@ -246,34 +256,24 @@
  "pmb88138"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Édouard Drumont",
  "ref":
  "pmb88149"},
  {
  "persName":
- "Clemens Sokal",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb25076"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Karl Lindau",
- "ref":
- "pmb20456"},
+ "pmb11740"},
  {
  "persName":
  "Leopold Krenn",
  "ref":
  "pmb11999"},
+ {
+ "persName":
+ "Karl Lindau",
+ "ref":
+ "pmb20456"},
  {
  "persName":
  "Georg Ruttkay",
@@ -286,19 +286,9 @@
  "pmb4464"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Louise Schnitzler",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"}],
+ "pmb12701"}],
  "listBibl":
   [
  {
@@ -306,11 +296,6 @@
  "Liebelei. Schauspiel in drei Akten",
  "ref":
  "pmb29917"}
- ,  {
- "title":
- "Les Jeunes Viennois",
- "ref":
- "pmb30441"}
  ,  {
  "title":
  "Sterben. Novelle",
@@ -323,9 +308,19 @@
  "pmb88148"}
  ,  {
  "title":
+ "Les Jeunes Viennois",
+ "ref":
+ "pmb30441"}
+ ,  {
+ "title":
  "Das arme Mädel",
  "ref":
  "pmb32630"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
  ,  {
  "title":
  "Az Est",
@@ -341,11 +336,6 @@
  "Camille Mauclair",
  "ref":
  "pmb88119"}
- ,  {
- "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
  ],
  "listPlace":
   [
@@ -356,9 +346,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "Bad Ischl",
  "ref":
- "pmb50"}
+ "pmb213"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -366,37 +356,17 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Bad Ischl",
+ "Wien",
  "ref":
- "pmb213"}
+ "pmb50"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
- "Volkstheater",
- "ref":
- "pmb36430"}
- ,  {
- "orgName":
- "Mercure de France",
- "ref":
- "pmb34301"}
- ,  {
- "orgName":
  "Die Zeit. Wiener Wochenschrift",
  "ref":
  "pmb29209"}
- ,  {
- "orgName":
- "Le Journal",
- "ref":
- "pmb87844"}
  ,  {
  "orgName":
  "Journal des débats",
@@ -404,9 +374,29 @@
  "pmb29221"}
  ,  {
  "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
+ ,  {
+ "orgName":
+ "Mercure de France",
+ "ref":
+ "pmb34301"}
+ ,  {
+ "orgName":
+ "Volkstheater",
+ "ref":
+ "pmb36430"}
+ ,  {
+ "orgName":
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "Le Journal",
+ "ref":
+ "pmb87844"}
  ]
 }
 }, {
@@ -457,14 +447,14 @@
  "pmb182"}
  ,  {
  "placeName":
+ "8, rue de Monceau",
+ "ref":
+ "pmb296731"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "8, Rue de Monceau",
- "ref":
- "pmb296731"}
  ],
  "listOrg":
   [

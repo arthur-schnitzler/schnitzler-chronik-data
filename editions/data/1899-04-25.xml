@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -119,7 +119,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-25</idno>
             </event>
             <event when-iso="1899-04-25">
-               <head>Aufführung von Hans, 25.4.1899</head>
+               <head>Aufführung von Hans, Mutterherz, 25.4.1899</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -128,7 +128,11 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb77357">Hans</title>
+                        <title key="pmb77357">Hans. Drama in drei Aufzügen</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
+                        <title key="pmb333842">Mutterherz</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>

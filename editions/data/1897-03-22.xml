@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,13 +116,13 @@
                         <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
                         <persName ref="pmb2147">Peter Altenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -197,58 +197,52 @@
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2357">Peter Nansen</persName>
                      </person>
                      <person>
-                        <persName ref="pmb58998">William Norrie</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb63606">Carl Ludwig Emil Jensen</persName>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb30470">Arthur Schnitzler. »Elskovsleg«s Forfatter</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb63602">Elskovsleg. Skuespil i 3 akter</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb30470">Arthur Schnitzler. »Elskovsleg«s Forfatter</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb926">Nizza</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
+                     <place>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb926">Nizza</placeName>
+                     </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
+                        <orgName ref="pmb118432">Französisches Finanzministerium</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb118432">Französisches Finanzministerium</orgName>
+                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb63620">Folketeatret</orgName>
@@ -286,39 +280,17 @@
                      </bibl>
                   </listBibl>
                   <listPerson>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2378">Reinhard, Marie</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb168581">?? [»bei Uns«, Absteigequartier IV Marie Reinhard und Arthur Schnitzler]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
-            </event>
-            <event when-iso="1897-03-22">
-               <head>Private Lesung von Der Ehrentag, 22.3.1897</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb29831">Der Ehrentag</title>
-                        <note type="relation-type">ist Lesung von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb11701">Hirschfeld, Georg</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2378">Reinhard, Marie</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -331,6 +303,7 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
             </event>
             <event when-iso="1897-03-22">
                <head>Bahr an Schnitzler, 22. 3. 1897</head>

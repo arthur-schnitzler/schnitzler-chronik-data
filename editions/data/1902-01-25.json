@@ -117,6 +117,11 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -127,9 +132,9 @@
  "pmb11673"},
  {
  "persName":
- "Fedor Mamroth",
+ "Heinrich Kanner",
  "ref":
- "pmb4986"},
+ "pmb11867"},
  {
  "persName":
  "Olga Schnitzler",
@@ -137,14 +142,9 @@
  "pmb2173"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Paul Schlenther",
  "ref":
- "pmb10863"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
+ "pmb12671"},
  {
  "persName":
  "Émile Zola",
@@ -157,66 +157,16 @@
  "pmb2161"},
  {
  "persName":
- "Paul Schlenther",
+ "Fedor Mamroth",
  "ref":
- "pmb12671"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb4986"}],
  "listBibl":
   [
  {
  "title":
- "Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)",
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
- "pmb144122"}
+ "pmb29857"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -224,37 +174,42 @@
  "pmb29863"}
  ,  {
  "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)",
  "ref":
- "pmb29857"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
+ "pmb144122"}
  ,  {
  "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Frankreich",
@@ -265,11 +220,6 @@
  "Rodaun",
  "ref":
  "pmb173"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
  ],
  "listOrg":
   [
@@ -285,14 +235,14 @@
  "pmb36247"}
  ,  {
  "orgName":
- "Die Zeit",
- "ref":
- "pmb29626"}
- ,  {
- "orgName":
  "Volkstheater",
  "ref":
  "pmb36430"}
+ ,  {
+ "orgName":
+ "Die Zeit",
+ "ref":
+ "pmb29626"}
  ]
 }
 }, {

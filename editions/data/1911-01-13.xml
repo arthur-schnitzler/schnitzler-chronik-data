@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -127,31 +127,22 @@
                      <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144087">Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)</title>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29935">Anatol</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                        <title ref="pmb144087">Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
@@ -169,27 +160,27 @@
                         <title ref="pmb147672">Literatenstücke und Ausstattungsregie. Polemische Aufsätze über Berliner Theater-Aufführungen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29869">Literatur</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31281">Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb147807">Berliner Theater. »Der Ruf des Lebens« von Arthur Schnitzler</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31281">Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -198,13 +189,10 @@
                         <placeName ref="pmb57358">Schöneberger Ufer</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                   </listPlace>
                </desc>

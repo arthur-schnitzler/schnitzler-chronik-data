@@ -81,69 +81,9 @@
  "pmb2167"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Albert Bassermann",
  "ref":
  "pmb10844"},
- {
- "persName":
- "Emanuel Reicher",
- "ref":
- "pmb12491"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
- {
- "persName":
- "Jacob Pollak",
- "ref":
- "pmb22733"},
- {
- "persName":
- "Julius von Gans-Ludassy",
- "ref":
- "pmb11406"},
- {
- "persName":
- "Olga von Gans-Ludassy",
- "ref":
- "pmb16902"},
- {
- "persName":
- "Dora Erl",
- "ref":
- "pmb15983"},
- {
- "persName":
- "Arthur Kaufmann",
- "ref":
- "pmb2496"},
- {
- "persName":
- "Felix Speidel",
- "ref":
- "pmb2646"},
- {
- "persName":
- "Else Speidel-Haeberle",
- "ref":
- "pmb2642"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
  {
  "persName":
  "Paula Beer-Hofmann",
@@ -151,24 +91,24 @@
  "pmb10860"},
  {
  "persName":
- "Mirjam Beer-Hofmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2668"},
+ "pmb10863"},
  {
  "persName":
- "Anna Loew",
+ "Julius von Gans-Ludassy",
  "ref":
- "pmb20562"},
+ "pmb11406"},
  {
  "persName":
- "Johann Loew",
+ "Theodor Herzl",
  "ref":
- "pmb142527"},
+ "pmb11673"},
  {
  "persName":
- "Charlotte Pohl-Glas",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb3784"},
+ "pmb11740"},
  {
  "persName":
  "Alfred Kerr",
@@ -176,21 +116,86 @@
  "pmb11910"},
  {
  "persName":
- "Heinrich Kanner",
+ "Emanuel Reicher",
  "ref":
- "pmb11867"},
+ "pmb12491"},
  {
  "persName":
- "Isidor Singer",
+ "Johann Loew",
  "ref":
- "pmb12790"}],
+ "pmb142527"},
+ {
+ "persName":
+ "Dora Erl",
+ "ref":
+ "pmb15983"},
+ {
+ "persName":
+ "Anna Loew",
+ "ref":
+ "pmb20562"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Jacob Pollak",
+ "ref":
+ "pmb22733"},
+ {
+ "persName":
+ "Arthur Kaufmann",
+ "ref":
+ "pmb2496"},
+ {
+ "persName":
+ "Else Speidel-Haeberle",
+ "ref":
+ "pmb2642"},
+ {
+ "persName":
+ "Felix Speidel",
+ "ref":
+ "pmb2646"},
+ {
+ "persName":
+ "Mirjam Beer-Hofmann",
+ "ref":
+ "pmb2668"},
+ {
+ "persName":
+ "Charlotte Pohl-Glas",
+ "ref":
+ "pmb3784"},
+ {
+ "persName":
+ "Olga von Gans-Ludassy",
+ "ref":
+ "pmb16902"}],
  "listBibl":
   [
  {
  "title":
+ "Der einsame Weg",
+ "ref":
+ "pmb144926"}
+ ,  {
+ "title":
+ "Altern",
+ "ref":
+ "pmb144930"}
+ ,  {
+ "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
  "pmb29985"}
+ ,  {
+ "title":
+ "Die Zeit",
+ "ref":
+ "pmb35935"}
  ,  {
  "title":
  "Herr Wenzel auf Rehberg. Novelle",
@@ -203,32 +208,22 @@
  "pmb142524"}
  ,  {
  "title":
- "Die Zeit",
- "ref":
- "pmb35935"}
- ,  {
- "title":
  "Die Historie von König David. Ein Zyklus",
  "ref":
  "pmb76591"}
- ,  {
- "title":
- "Der einsame Weg",
- "ref":
- "pmb144926"}
- ,  {
- "title":
- "Altern",
- "ref":
- "pmb144930"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Świnoujście",
  "ref":
- "pmb50"}
+ "pmb142880"}
+ ,  {
+ "placeName":
+ "Wartburg",
+ "ref":
+ "pmb143185"}
  ,  {
  "placeName":
  "Berlin",
@@ -241,49 +236,9 @@
  "pmb168940"}
  ,  {
  "placeName":
- "Theater an der Wien",
- "ref":
- "pmb37"}
- ,  {
- "placeName":
- "Meissl &amp; Schadn",
- "ref":
- "pmb96"}
- ,  {
- "placeName":
- "Hinterbrühl",
- "ref":
- "pmb75"}
- ,  {
- "placeName":
- "Hotel Radetzky",
- "ref":
- "pmb44510"}
- ,  {
- "placeName":
- "Wartburg",
- "ref":
- "pmb143185"}
- ,  {
- "placeName":
  "Spanien",
  "ref":
  "pmb388"}
- ,  {
- "placeName":
- "Heringsdorf",
- "ref":
- "pmb64659"}
- ,  {
- "placeName":
- "Świnoujście",
- "ref":
- "pmb142880"}
- ,  {
- "placeName":
- "Dresden",
- "ref":
- "pmb866"}
  ,  {
  "placeName":
  "Griechenland",
@@ -291,9 +246,34 @@
  "pmb44293"}
  ,  {
  "placeName":
+ "Hotel Radetzky",
+ "ref":
+ "pmb44510"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Heringsdorf",
+ "ref":
+ "pmb64659"}
+ ,  {
+ "placeName":
+ "Hinterbrühl",
+ "ref":
+ "pmb75"}
+ ,  {
+ "placeName":
  "Brüssel",
  "ref":
  "pmb862"}
+ ,  {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
  ,  {
  "placeName":
  "Waterloo",
@@ -304,6 +284,16 @@
  "Deutsches Theater Berlin",
  "ref":
  "pmb3"}
+ ,  {
+ "placeName":
+ "Theater an der Wien",
+ "ref":
+ "pmb37"}
+ ,  {
+ "placeName":
+ "Meissl &amp; Schadn",
+ "ref":
+ "pmb96"}
  ],
  "listOrg":
   [

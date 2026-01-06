@@ -184,6 +184,131 @@
  "color":
  "#A63437",
  "filename":
+ "L04043",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04043.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 27. 7. 1899",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gisela Hajek",
+ "ref":
+ "pmb2461"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Robert Hirschfeld",
+ "ref":
+ "pmb11707"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
+ {
+ "persName":
+ "Hans Schnitzler",
+ "ref":
+ "pmb24420"},
+ {
+ "persName":
+ "Karl Schnitzler",
+ "ref":
+ "pmb24430"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Pension Pundschu",
+ "ref":
+ "pmb36282"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
+ ,  {
+ "placeName":
+ "Villach",
+ "ref":
+ "pmb40454"}
+ ,  {
+ "placeName":
+ "Bozen",
+ "ref":
+ "pmb40260"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
+ ,  {
+ "placeName":
+ "Südbahnhotel [Toblach]",
+ "ref":
+ "pmb36284"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
+ ,  {
+ "placeName":
+ "Thüringen",
+ "ref":
+ "pmb432"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L02881",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -206,24 +331,19 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
  {
  "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"},
- {
- "persName":
  "Fedor Mamroth",
  "ref":
  "pmb4986"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
  {
  "persName":
  "Richard Wagner",
@@ -233,7 +353,12 @@
  "persName":
  "Cosima Wagner",
  "ref":
- "pmb26555"}],
+ "pmb26555"},
+ {
+ "persName":
+ "Alfred Dreyfus",
+ "ref":
+ "pmb4216"}],
  "listBibl":
   [
  {
@@ -246,36 +371,6 @@
   [
  {
  "placeName":
- "Bayreuth",
- "ref":
- "pmb734"}
- ,  {
- "placeName":
- "Villach",
- "ref":
- "pmb40454"}
- ,  {
- "placeName":
- "Velden am Wörthersee",
- "ref":
- "pmb909"}
- ,  {
- "placeName":
- "Wörthersee",
- "ref":
- "pmb430"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Rennes",
- "ref":
- "pmb55293"}
- ,  {
- "placeName":
  "Grönland",
  "ref":
  "pmb142348"}
@@ -284,6 +379,36 @@
  "Italien",
  "ref":
  "pmb40306"}
+ ,  {
+ "placeName":
+ "Villach",
+ "ref":
+ "pmb40454"}
+ ,  {
+ "placeName":
+ "Rennes",
+ "ref":
+ "pmb55293"}
+ ,  {
+ "placeName":
+ "Bayreuth",
+ "ref":
+ "pmb734"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
  ],
  "listOrg":
   [
@@ -379,16 +504,6 @@
  "pmb143251"}
  ,  {
  "title":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb39950"}
- ,  {
- "title":
- "?? [Feuilleton über Paul Goldmann]",
- "ref":
- "pmb146069"}
- ,  {
- "title":
  "Ein Sommer in China. Reisebilder",
  "ref":
  "pmb33346"}
@@ -402,6 +517,16 @@
  "Neue französische Humoristen",
  "ref":
  "pmb118028"}
+ ,  {
+ "title":
+ "Wiener Allgemeine Zeitung",
+ "ref":
+ "pmb39950"}
+ ,  {
+ "title":
+ "?? [Feuilleton über Paul Goldmann]",
+ "ref":
+ "pmb146069"}
  ],
  "listPlace":
   [
@@ -439,7 +564,7 @@
  "placeName":
  "Niederdorf",
  "ref":
- "pmb91350"}
+ "pmb40556"}
  ]
 }
 }, {

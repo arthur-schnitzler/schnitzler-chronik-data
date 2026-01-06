@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -120,6 +120,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1905-10-13.html</idno>
             </event>
             <event when-iso="1905-10-13">
+               <head>Arthur Schnitzler an Max Schwarzkopf, 13. 10. 1905</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Schwarzkopf, Max</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04017.html</idno>
+            </event>
+            <event when-iso="1905-10-13">
                <head>Hermann Bahr an Arthur Schnitzler, 13. 10. 1905</head>
                <desc>
                   <listPerson>
@@ -171,10 +185,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb189">Semmering</placeName>
@@ -207,25 +221,16 @@
                      <person>
                         <persName ref="pmb11798">Henrik Ibsen</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29903">Zwischenspiel. Komödie in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb50599">Burgtheater. [Zwischenspiel]</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb50599">Burgtheater. [Zwischenspiel]</title>
                      </bibl>
                   </listBibl>
                   <listPlace>

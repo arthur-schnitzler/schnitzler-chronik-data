@@ -180,16 +180,6 @@
  "pmb423"}
  ,  {
  "placeName":
- "Orahovica",
- "ref":
- "pmb42960"}
- ,  {
- "placeName":
- "Budapest",
- "ref":
- "pmb43471"}
- ,  {
- "placeName":
  "San Martino di Castrozza",
  "ref":
  "pmb44311"}
@@ -210,11 +200,6 @@
  "pmb714"}
  ,  {
  "placeName":
- "Belišće",
- "ref":
- "pmb90320"}
- ,  {
- "placeName":
  "Trient",
  "ref":
  "pmb954"}
@@ -228,6 +213,21 @@
  "Bad Vöslau",
  "ref":
  "pmb992"}
+ ,  {
+ "placeName":
+ "Orahovica",
+ "ref":
+ "pmb42960"}
+ ,  {
+ "placeName":
+ "Budapest",
+ "ref":
+ "pmb43471"}
+ ,  {
+ "placeName":
+ "Belišće",
+ "ref":
+ "pmb90320"}
  ],
  "listOrg":
   [
@@ -321,9 +321,14 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
+ "Paul Goldmann",
  "ref":
- "pmb2167"},
+ "pmb11485"},
+ {
+ "persName":
+ "Georg Hirschfeld",
+ "ref":
+ "pmb11701"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -336,14 +341,9 @@
  "pmb12740"},
  {
  "persName":
- "Georg Hirschfeld",
+ "Felix Salten",
  "ref":
- "pmb11701"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
+ "pmb2167"},
  {
  "persName":
  "Julius Szeps",
@@ -353,19 +353,14 @@
   [
  {
  "title":
- "Wiener Allgemeine Montags-Zeitung",
- "ref":
- "pmb143251"}
- ,  {
- "title":
  "Wiener Allgemeine Rundschau",
  "ref":
  "pmb167898"}
  ,  {
  "title":
- "Reigen. Zehn Dialoge",
+ "Wiener Allgemeine Montags-Zeitung",
  "ref":
- "pmb29855"}
+ "pmb143251"}
  ,  {
  "title":
  "Scene aus der »Hochzeit der Sobeide«. (Ältere Niederschrift. Wien 1897. — Ungedruckt.)",
@@ -376,14 +371,19 @@
  "?? [Feuilleton über Paul Goldmann]",
  "ref":
  "pmb146069"}
+ ,  {
+ "title":
+ "Reigen. Zehn Dialoge",
+ "ref":
+ "pmb29855"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
  ,  {
  "placeName":
  "Pelikangasse",
@@ -391,14 +391,14 @@
  "pmb198"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Schulerstraße",
  "ref":
  "pmb729"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Slawonien",

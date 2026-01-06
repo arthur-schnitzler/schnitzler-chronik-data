@@ -71,14 +71,9 @@
   [
  {
  "placeName":
- "place de la Bourse",
+ "Frankgasse 1",
  "ref":
- "pmb87780"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Paris",
@@ -86,19 +81,24 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Österreich",
  "ref":
  "pmb41240"}
  ,  {
  "placeName":
- "Frankgasse 1",
+ "Wien",
  "ref":
- "pmb168934"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "place de la Bourse",
+ "ref":
+ "pmb87780"}
  ]
 }
 }, {
@@ -134,6 +134,21 @@
  "pmb11673"},
  {
  "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
+ {
+ "persName":
+ "Paul Marx",
+ "ref":
+ "pmb21647"},
+ {
+ "persName":
+ "Johann Schnitzler",
+ "ref":
+ "pmb12695"},
+ {
+ "persName":
  "Julius Schnitzler",
  "ref":
  "pmb12698"},
@@ -144,9 +159,9 @@
  "pmb12701"},
  {
  "persName":
- "Johann Schnitzler",
+ "Olga Schnitzler",
  "ref":
- "pmb12695"}],
+ "pmb2173"}],
  "listPlace":
   [
  {
@@ -156,14 +171,22 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Bad Aussee",
  "ref":
  "pmb415"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Landesmuseum Burgenland",
+ "ref":
+ "pmb298922"}
  ]
 }
 }, {
@@ -201,14 +224,14 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Café Arkaden",
  "ref":
  "pmb104"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

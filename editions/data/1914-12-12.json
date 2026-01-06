@@ -40,7 +40,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L03648.html",
  "head":
- "Stefan Zweig an Arthur Schnitzler, 12. 12. [1914]",
+ "Stefan Zweig an Arthur Schnitzler, 12. 12. [1914?]",
  "desc":
 {"listPerson":
   [
@@ -56,14 +56,14 @@
  "pmb2121"},
  {
  "persName":
- "Stefan Zweig",
- "ref":
- "pmb13212"},
- {
- "persName":
  "Romain Rolland",
  "ref":
  "pmb12543"},
+ {
+ "persName":
+ "Stefan Zweig",
+ "ref":
+ "pmb13212"},
  {
  "persName":
  "Paul Seippel",
@@ -71,22 +71,17 @@
  "pmb259326"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Detlev von Liliencron",
  "ref":
- "pmb12071"}],
+ "pmb12071"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listBibl":
   [
  {
- "title":
- "Une protestation d’Arthur Schnitzler",
- "ref":
- "pmb58490"}
- ,  {
  "title":
  "Journal de Genève",
  "ref":
@@ -98,6 +93,11 @@
  "pmb42406"}
  ,  {
  "title":
+ "Une protestation d’Arthur Schnitzler",
+ "ref":
+ "pmb58490"}
+ ,  {
+ "title":
  "?? [Gedicht, das Stefan Zweig für Olga Schnitzler übersetzen soll]",
  "ref":
  "pmb294020"}
@@ -106,9 +106,9 @@
   [
  {
  "placeName":
- "Wien",
+ "Frankreich",
  "ref":
- "pmb50"}
+ "pmb166"}
  ,  {
  "placeName":
  "Kochgasse 8",
@@ -116,14 +116,9 @@
  "pmb249577"}
  ,  {
  "placeName":
- "Schweiz",
+ "Hôtel Beau-Séjour",
  "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Frankreich",
- "ref":
- "pmb166"}
+ "pmb294001"}
  ,  {
  "placeName":
  "Russland",
@@ -131,9 +126,14 @@
  "pmb34438"}
  ,  {
  "placeName":
- "Hôtel Beau-Séjour",
+ "Schweiz",
  "ref":
- "pmb294001"}
+ "pmb43435"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

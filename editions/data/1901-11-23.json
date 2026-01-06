@@ -66,14 +66,14 @@
  "pmb2121"},
  {
  "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
  {
  "persName":
  "Gerhart Hauptmann",
@@ -81,24 +81,9 @@
  "pmb11617"},
  {
  "persName":
- "Otto Brahm",
+ "Siegfried Loewy",
  "ref":
- "pmb10986"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
- {
- "persName":
- "Josef Rosengart",
- "ref":
- "pmb23593"},
- {
- "persName":
- "Vally Rosengart",
- "ref":
- "pmb34971"},
+ "pmb12101"},
  {
  "persName":
  "Wilhelm Meyer-Förster",
@@ -111,19 +96,9 @@
  "pmb2167"},
  {
  "persName":
- "Siegfried Loewy",
+ "Olga Schnitzler",
  "ref":
- "pmb12101"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
+ "pmb2173"},
  {
  "persName":
  "Moriz Neuda",
@@ -131,22 +106,47 @@
  "pmb115482"},
  {
  "persName":
- "Eduard Bacher",
+ "Leo Ebermann",
  "ref":
- "pmb10809"},
+ "pmb2157"},
  {
  "persName":
- "Moriz Benedikt",
+ "Clementine Goldmann",
  "ref":
- "pmb10875"},
+ "pmb17163"},
  {
  "persName":
- "Ernst Benedikt",
+ "Elisabeth Steinrück",
  "ref":
- "pmb10872"}],
+ "pmb2315"},
+ {
+ "persName":
+ "Josef Rosengart",
+ "ref":
+ "pmb23593"},
+ {
+ "persName":
+ "Vally Rosengart",
+ "ref":
+ "pmb34971"}],
  "listBibl":
   [
  {
+ "title":
+ "Der rothe Hahn. Tragikomödie in vier Akten",
+ "ref":
+ "pmb144168"}
+ ,  {
+ "title":
+ "Berliner Theater. »Der Rothe Hahn.«",
+ "ref":
+ "pmb144164"}
+ ,  {
+ "title":
+ "Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«",
+ "ref":
+ "pmb144201"}
+ ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
  "ref":
@@ -158,42 +158,27 @@
  "pmb31505"}
  ,  {
  "title":
- "Berliner Theater. »Der Rothe Hahn.«",
+ "Neue Freie Presse",
  "ref":
- "pmb144164"}
- ,  {
- "title":
- "Der rothe Hahn. Tragikomödie in vier Akten",
- "ref":
- "pmb144168"}
- ,  {
- "title":
- "Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«",
- "ref":
- "pmb144201"}
+ "pmb36374"}
  ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
  "pmb29985"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Dessauer Straße",
@@ -206,13 +191,18 @@
  "pmb483"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Wien",
  "ref":
- "pmb146"}
+ "pmb50"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Jung-Wiener Theater zum Lieben Augustin",
+ "ref":
+ "pmb143199"}
+ ,  {
  "orgName":
  "Reichstag",
  "ref":
@@ -222,11 +212,6 @@
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
- ,  {
- "orgName":
- "Jung-Wiener Theater zum Lieben Augustin",
- "ref":
- "pmb143199"}
  ,  {
  "orgName":
  "Berliner Theater",

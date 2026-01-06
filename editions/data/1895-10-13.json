@@ -61,24 +61,19 @@
  "pmb2121"},
  {
  "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Fritz Mauthner",
- "ref":
- "pmb3386"},
- {
- "persName":
- "Émile Augier",
- "ref":
- "pmb2815"},
  {
  "persName":
  "Max Kalbeck",
@@ -91,6 +86,21 @@
  "pmb12816"},
  {
  "persName":
+ "Friedrich Uhl",
+ "ref":
+ "pmb12987"},
+ {
+ "persName":
+ "Theodor Wolff",
+ "ref":
+ "pmb13163"},
+ {
+ "persName":
+ "Georges Aubry",
+ "ref":
+ "pmb13561"},
+ {
+ "persName":
  "Paul von Schönthan-Pernwald",
  "ref":
  "pmb24705"},
@@ -101,9 +111,14 @@
  "pmb2586"},
  {
  "persName":
- "Friedrich Uhl",
+ "Émile Augier",
  "ref":
- "pmb12987"},
+ "pmb2815"},
+ {
+ "persName":
+ "Fritz Mauthner",
+ "ref":
+ "pmb3386"},
  {
  "persName":
  "Julius Konried",
@@ -111,59 +126,14 @@
  "pmb8057"},
  {
  "persName":
- "Hermann Bahr",
+ "Leopold Sonnemann",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Theodor Wolff",
- "ref":
- "pmb13163"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
- {
- "persName":
- "Josef Rosengart",
- "ref":
- "pmb23593"},
+ "pmb87771"},
  {
  "persName":
  "Hippolyte Fierens-Gevaert",
  "ref":
  "pmb93109"},
- {
- "persName":
- "Georges Aubry",
- "ref":
- "pmb13561"},
- {
- "persName":
- "[MMe. Georges] Aubry",
- "ref":
- "pmb93009"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Jakob Julius David",
- "ref":
- "pmb2416"},
  {
  "persName":
  "Adele Sandrock",
@@ -176,29 +146,34 @@
  "pmb12809"},
  {
  "persName":
- "Moriz Szeps",
+ "Jakob Julius David",
  "ref":
- "pmb25798"},
+ "pmb2416"},
  {
  "persName":
- "Eduard Bacher",
+ "Louise Schnitzler",
  "ref":
- "pmb10809"},
+ "pmb12701"},
  {
  "persName":
- "Moriz Benedikt",
+ "Clementine Goldmann",
  "ref":
- "pmb10875"},
+ "pmb17163"},
  {
  "persName":
- "Ernst Benedikt",
+ "Josef Rosengart",
  "ref":
- "pmb10872"},
+ "pmb23593"},
  {
  "persName":
- "Desiderius Papp",
+ "Fedor Mamroth",
  "ref":
- "pmb36371"}],
+ "pmb4986"},
+ {
+ "persName":
+ "[MMe. Georges] Aubry",
+ "ref":
+ "pmb93009"}],
  "listBibl":
   [
  {
@@ -208,9 +183,94 @@
  "pmb29917"}
  ,  {
  "title":
+ "Die kleine Komödie",
+ "ref":
+ "pmb31975"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
+ ,  {
+ "title":
+ "Neues Wiener Tagblatt",
+ "ref":
+ "pmb41321"}
+ ,  {
+ "title":
+ "Berliner Tageblatt",
+ "ref":
+ "pmb41531"}
+ ,  {
+ "title":
+ "Wiener Tagblatt",
+ "ref":
+ "pmb42146"}
+ ,  {
+ "title":
+ "Berliner Lokal-Anzeiger",
+ "ref":
+ "pmb59803"}
+ ,  {
+ "title":
+ "Das Kleine Journal",
+ "ref":
+ "pmb62394"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
+ ,  {
+ "title":
+ "Neues Wiener Journal",
+ "ref":
+ "pmb36376"}
+ ,  {
+ "title":
+ "Die Presse",
+ "ref":
+ "pmb41189"}
+ ,  {
+ "title":
  "Theater- und Kunstnachrichten. [Burgtheater] [Liebelei, Rechte der Seele]",
  "ref":
  "pmb42512"}
+ ,  {
+ "title":
+ "Journal des débats. Politiques et littéraires",
+ "ref":
+ "pmb92648"}
+ ,  {
+ "title":
+ "La Liberté",
+ "ref":
+ "pmb93004"}
+ ,  {
+ "title":
+ "La petite comédie. Mœurs viennois",
+ "ref":
+ "pmb93019"}
+ ,  {
+ "title":
+ "Théâtres. [Notre correspondant de Vienne]",
+ "ref":
+ "pmb93049"}
+ ,  {
+ "title":
+ "Der zerbrochene Krug im Deutschen Theater",
+ "ref":
+ "pmb93074"}
+ ,  {
+ "title":
+ "Deutsches Theater",
+ "ref":
+ "pmb93080"}
+ ,  {
+ "title":
+ "Courrier des Théâtres [Liebelei]",
+ "ref":
+ "pmb93096"}
  ,  {
  "title":
  "Theater, Kunst und Literatur. Burgtheater [Liebelei, Rechte der Seele]",
@@ -248,79 +308,9 @@
  "pmb93147"}
  ,  {
  "title":
- "»Liebelei« [Telegramm zur Uraufführung]",
- "ref":
- "pmb93155"}
- ,  {
- "title":
  "[Wien, 9. Oktober] [Liebelei]",
  "ref":
  "pmb93174"}
- ,  {
- "title":
- "Wiener Tagblatt",
- "ref":
- "pmb42146"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Berliner Tageblatt",
- "ref":
- "pmb41531"}
- ,  {
- "title":
- "Berliner Lokal-Anzeiger",
- "ref":
- "pmb59803"}
- ,  {
- "title":
- "Das Kleine Journal",
- "ref":
- "pmb62394"}
- ,  {
- "title":
- "Neues Wiener Tagblatt",
- "ref":
- "pmb41321"}
- ,  {
- "title":
- "Théâtres. [Notre correspondant de Vienne]",
- "ref":
- "pmb93049"}
- ,  {
- "title":
- "Courrier des Théâtres [Liebelei]",
- "ref":
- "pmb93096"}
- ,  {
- "title":
- "Die kleine Komödie",
- "ref":
- "pmb31975"}
- ,  {
- "title":
- "La petite comédie. Mœurs viennois",
- "ref":
- "pmb93019"}
- ,  {
- "title":
- "Deutsches Theater",
- "ref":
- "pmb93080"}
- ,  {
- "title":
- "Der zerbrochene Krug im Deutschen Theater",
- "ref":
- "pmb93074"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ,  {
  "title":
  "Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa, deutsch von Otto Eisenschitz.)",
@@ -328,37 +318,22 @@
  "pmb93273"}
  ,  {
  "title":
- "Neues Wiener Journal",
+ "»Liebelei« [Telegramm zur Uraufführung]",
  "ref":
- "pmb36376"}
- ,  {
- "title":
- "Die Presse",
- "ref":
- "pmb41189"}
- ,  {
- "title":
- "La Liberté",
- "ref":
- "pmb93004"}
- ,  {
- "title":
- "Journal des débats. Politiques et littéraires",
- "ref":
- "pmb92648"}
+ "pmb93155"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -366,14 +341,14 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Berlin",
+ "Wien",
  "ref":
- "pmb168"}
+ "pmb50"}
  ,  {
  "placeName":
- "Deutschland",
+ "Rue du Général Camou",
  "ref":
- "pmb151"}
+ "pmb93103"}
  ,  {
  "placeName":
  "Rue Des Prêtres Saint-Germain L'Auxerrois",
@@ -381,17 +356,17 @@
  "pmb93106"}
  ,  {
  "placeName":
- "Rue du Général Camou",
+ "Deutschland",
  "ref":
- "pmb93103"}
+ "pmb151"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
+ "Journal des débats",
  "ref":
- "pmb29442"}
+ "pmb29221"}
  ,  {
  "orgName":
  "Berliner Tageblatt",
@@ -399,9 +374,9 @@
  "pmb29329"}
  ,  {
  "orgName":
- "Burgtheater",
+ "Frankfurter Zeitung",
  "ref":
- "pmb36247"}
+ "pmb29442"}
  ,  {
  "orgName":
  "La Liberté",
@@ -409,9 +384,9 @@
  "pmb93006"}
  ,  {
  "orgName":
- "Journal des débats",
+ "Burgtheater",
  "ref":
- "pmb29221"}
+ "pmb36247"}
  ]
 }
 }, {

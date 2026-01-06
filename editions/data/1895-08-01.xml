@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,19 +100,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb298721">Villa Fuchs</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263516">Bahnhof Bad Aussee</placeName>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263516">Bahnhof Bad Aussee</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -129,39 +129,24 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb143356">Maria Charlotte Lamberg</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
                      </person>
                      <person>
+                        <persName ref="pmb143356">Maria Charlotte Lamberg</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb144685">
-                  ?? [Kostfrau von Charlotte Lamberg]
-               </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb25793">Julius Szeps</persName>
+      ?? [Kostfrau von Charlotte Lamberg]
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb144705">Die Münchener Kunstausstellungen. I. Im königl. Glaspalast</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144701">Die Münchener Kunstausstellungen. II. Im königl. Glaspalast</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144711">Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144715">Die Münchener Kunstausstellungen. IV. Die Secession</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                      </bibl>
@@ -169,12 +154,27 @@
                         <title ref="pmb30437">Das Kind</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb144715">Die Münchener Kunstausstellungen. IV. Die Secession</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144701">Die Münchener Kunstausstellungen. II. Im königl. Glaspalast</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144705">Die Münchener Kunstausstellungen. I. Im königl. Glaspalast</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144711">Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb143360">Gerasdorf bei Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb144719">Friedhof Gerasdorf</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
@@ -183,10 +183,7 @@
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb143360">Gerasdorf bei Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb144719">Friedhof Gerasdorf</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

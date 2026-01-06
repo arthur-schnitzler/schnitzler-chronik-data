@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,6 +105,96 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-04-14.html</idno>
             </event>
             <event when-iso="1904-04-14">
+               <head>Detlev von Liliencron, Paul Stefan, Charlotte Horwitz, Erich Kahler, Peter Altenberg, Karl Kraus, Wilhelm von Wymetal, Lina Loos, Anton von Webern, Max Devrient an Arthur Schnitzler, 14. 4. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12071">Liliencron, Detlev von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12826">Stefan, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb29184">Horwitz, Charlotte</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5830">Kahler, Erich</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2147">Altenberg, Peter</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Kraus, Karl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb146651">Wymetal, Wilhelm von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3004">Loos, Lina</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13064">Webern, Anton von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2446">Devrient, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12071">Detlev von Liliencron</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12826">Paul Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13064">Anton von Webern</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb146651">Wilhelm Wymetal [Musikschriftsteller]</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2147">Peter Altenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2446">Max Devrient</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb29184">Charlotte Horwitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3004">Lina Loos</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5830">Erich  Kahler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb300200">Eisenbahnbeamtenclub</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb300204">Eschenbachgasse 11</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb4">Bösendorfer-Saal</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29596">Ansorge-Verein. Verein zur Förderung moderner Kunst</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01391.html</idno>
+            </event>
+            <event when-iso="1904-04-14">
                <head>Felix Salten an Arthur Schnitzler, [14. 4. 1904]</head>
                <desc>
                   <listPerson>
@@ -115,22 +205,22 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb19419">Richard Klein</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3475">Hugo Haberfeld</persName>
                      </person>
                      <person>
                         <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
+                        <persName ref="pmb19419">Richard Klein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb23918">Ottilie Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3475">Hugo Haberfeld</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -141,6 +231,9 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb1283">Pompeji</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
@@ -148,9 +241,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb595">Neapel</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1283">Pompeji</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb901">Palermo</placeName>

@@ -26,24 +26,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
  {
  "persName":
- "Nanette Speyer",
+ "Paul Goldmann",
  "ref":
- "pmb25187"},
- {
- "persName":
- "Albert Speyer",
- "ref":
- "pmb25179"},
+ "pmb11485"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -54,6 +44,16 @@
  "Jakob Wassermann",
  "ref":
  "pmb13055"},
+ {
+ "persName":
+ "Albert Speyer",
+ "ref":
+ "pmb25179"},
+ {
+ "persName":
+ "Nanette Speyer",
+ "ref":
+ "pmb25187"},
  {
  "persName":
  "Olga Schnitzler",
@@ -68,6 +68,21 @@
   [
  {
  "placeName":
+ "Hotel Baur",
+ "ref":
+ "pmb144279"}
+ ,  {
+ "placeName":
+ "Monte Cristallo",
+ "ref":
+ "pmb43157"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Höhlenstein",
  "ref":
  "pmb758"}
@@ -81,21 +96,6 @@
  "Klobenstein",
  "ref":
  "pmb50822"}
- ,  {
- "placeName":
- "Hotel Baur",
- "ref":
- "pmb144279"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Monte Cristallo",
- "ref":
- "pmb43157"}
  ]
 }
 }, {
@@ -108,7 +108,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-08-05",
  "head":
- "Vahrn"
+ "Vahrn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof und Pension Waldsacker",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-cmif",

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,19 +79,19 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb144451">Oscar Tietz</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11707">Robert Hirschfeld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11910">Alfred Kerr</persName>
+                        <persName ref="pmb144451">Oscar Tietz</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -99,22 +99,13 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb144455">Insolvenz des großen Berliner Waarenhauses Tietz</title>
+                        <title ref="pmb144273">Baedeker-Reiseführer</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144273">Baedeker-Reiseführer</title>
+                        <title ref="pmb144455">Insolvenz des großen Berliner Waarenhauses Tietz</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
@@ -125,22 +116,16 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
+                        <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb677">Breslau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb430">Wörthersee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91729">Sekirn</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb58636">Dolomiten</placeName>
@@ -149,7 +134,13 @@
                         <placeName ref="pmb65733">Val Gardena</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39975">Lago di Garda</placeName>
+                        <placeName ref="pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91729">Sekirn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb954">Trient</placeName>
@@ -157,10 +148,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                        <orgName ref="pmb144442">Hermann Tietz und Co.</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb144442">Hermann Tietz und Co.</orgName>
+                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -168,7 +159,13 @@
             </event>
             <event when-iso="1901-07-19">
                <head corresp="#pmb946">Vahrn</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb333628">
+                        <placeName>Gasthof und Pension Waldsacker</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-07-19</idno>
             </event>
          </listEvent>

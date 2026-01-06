@@ -71,19 +71,24 @@
  "pmb2312"},
  {
  "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"},
- {
- "persName":
- "Paul Géraldy",
- "ref":
- "pmb3138"},
- {
- "persName":
  "Geneviève Bianquis",
  "ref":
  "pmb14187"},
+ {
+ "persName":
+ "Émile Fabre",
+ "ref":
+ "pmb16075"},
+ {
+ "persName":
+ "Bernard Grasset",
+ "ref":
+ "pmb17333"},
+ {
+ "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
  {
  "persName":
  "Maurice Rémon",
@@ -91,9 +96,9 @@
  "pmb23787"},
  {
  "persName":
- "Bernard Grasset",
+ "Paul Géraldy",
  "ref":
- "pmb17333"},
+ "pmb3138"},
  {
  "persName":
  "Henri-René Lenormand",
@@ -102,6 +107,16 @@
  "listBibl":
   [
  {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
+ ,  {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ "pmb29865"}
+ ,  {
  "title":
  "Fräulein Else",
  "ref":
@@ -113,14 +128,9 @@
  "pmb29985"}
  ,  {
  "title":
- "Das Bacchusfest",
+ "Komödie der Worte. Drei Einakter",
  "ref":
- "pmb32097"}
- ,  {
- "title":
- "Stunde des Erkennens",
- "ref":
- "pmb31447"}
+ "pmb30717"}
  ,  {
  "title":
  "Große Szene",
@@ -128,27 +138,22 @@
  "pmb31429"}
  ,  {
  "title":
- "Komödie der Worte. Drei Einakter",
+ "Stunde des Erkennens",
  "ref":
- "pmb30717"}
+ "pmb31447"}
  ,  {
  "title":
- "Der grüne Kakadu. Groteske in einem Akt",
+ "Das Bacchusfest",
  "ref":
- "pmb29843"}
- ,  {
- "title":
- "Die Frau mit dem Dolche",
- "ref":
- "pmb29865"}
+ "pmb32097"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Frankreich",
  "ref":
- "pmb50"}
+ "pmb166"}
  ,  {
  "placeName":
  "Paris",
@@ -156,9 +161,22 @@
  "pmb182"}
  ,  {
  "placeName":
- "Frankreich",
+ "Wien",
  "ref":
- "pmb166"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Comédie française",
+ "ref":
+ "pmb554"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "La Revue de Paris",
+ "ref":
+ "pmb299701"}
  ]
 }
 }, {

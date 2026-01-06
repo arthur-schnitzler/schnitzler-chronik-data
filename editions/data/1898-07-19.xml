@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -162,7 +162,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb34194">Fusch an der Großglocknerstraße</placeName>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36229">Hotel Weilguni</placeName>
@@ -220,14 +220,13 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00825.html</idno>
             </event>
             <event when-iso="1898-07-19">
-               <head corresp="#pmb34194">Fusch an der Großglocknerstraße</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb40632">
-                        <placeName>Ferleiten</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
+               <head corresp="#pmb305739">Bad Fusch</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-07-19</idno>
+            </event>
+            <event when-iso="1898-07-19">
+               <head corresp="#pmb40632">Ferleiten</head>
+               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-07-19</idno>
             </event>
             <event when-iso="1898-07-19">

@@ -39,44 +39,9 @@
  "pmb11740"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
- {
- "persName":
- "Hans Bernhard Schlesinger",
- "ref":
- "pmb24239"},
- {
- "persName":
- "Bertha Ober",
- "ref":
- "pmb27700"},
- {
- "persName":
- "Elisa Béha",
- "ref":
- "pmb28511"},
- {
- "persName":
- "Bernardino Luini",
- "ref":
- "pmb20676"},
- {
- "persName":
- "Alexandre père Dumas",
- "ref":
- "pmb11190"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
  {
  "persName":
  "Paula Beer-Hofmann",
@@ -84,14 +49,19 @@
  "pmb10860"},
  {
  "persName":
- "Mirjam Beer-Hofmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2668"},
+ "pmb10863"},
  {
  "persName":
- "Frank Wedekind",
+ "Alexandre père Dumas",
  "ref":
- "pmb13068"},
+ "pmb11190"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
  {
  "persName":
  "Emanuel Reicher",
@@ -99,17 +69,67 @@
  "pmb12491"},
  {
  "persName":
+ "Frank Wedekind",
+ "ref":
+ "pmb13068"},
+ {
+ "persName":
+ "Bernardino Luini",
+ "ref":
+ "pmb20676"},
+ {
+ "persName":
  "Gertrude von Hofmannsthal",
  "ref":
  "pmb2292"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Hans Bernhard Schlesinger",
  "ref":
- "pmb11461"}],
+ "pmb24239"},
+ {
+ "persName":
+ "Mirjam Beer-Hofmann",
+ "ref":
+ "pmb2668"},
+ {
+ "persName":
+ "Elisa Béha",
+ "ref":
+ "pmb28511"},
+ {
+ "persName":
+ "Bertha Ober",
+ "ref":
+ "pmb27700"}],
  "listBibl":
   [
  {
+ "title":
+ "Erdgeist. Tragödie in vier Aufzügen",
+ "ref":
+ "pmb31323"}
+ ,  {
+ "title":
+ "Die drei Musketiere",
+ "ref":
+ "pmb31517"}
+ ,  {
+ "title":
+ "Elektra. Tragödie in einem Aufzug",
+ "ref":
+ "pmb30633"}
+ ,  {
+ "title":
+ "Das gerettete Venedig. Trauerspiel in fünf Aufzügen",
+ "ref":
+ "pmb31091"}
+ ,  {
+ "title":
+ "Der Weg ins Freie. Roman",
+ "ref":
+ "pmb29923"}
+ ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
@@ -121,82 +141,27 @@
  "pmb30203"}
  ,  {
  "title":
- "Der Weg ins Freie. Roman",
- "ref":
- "pmb29923"}
- ,  {
- "title":
- "Fink und Fliederbusch. Komödie in drei Akten",
- "ref":
- "pmb30881"}
- ,  {
- "title":
- "Die drei Musketiere",
- "ref":
- "pmb31517"}
- ,  {
- "title":
- "Erdgeist. Tragödie in vier Aufzügen",
- "ref":
- "pmb31323"}
- ,  {
- "title":
  "Faust. Eine Tragödie",
  "ref":
  "pmb30247"}
  ,  {
  "title":
- "Elektra. Tragödie in einem Aufzug",
+ "Fink und Fliederbusch. Komödie in drei Akten",
  "ref":
- "pmb30633"}
- ,  {
- "title":
- "Das gerettete Venedig. Trauerspiel in fünf Aufzügen",
- "ref":
- "pmb31091"}
+ "pmb30881"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Schall und Rauch",
  "ref":
- "pmb50"}
+ "pmb128"}
  ,  {
  "placeName":
- "Venedig",
+ "Mendelgebirge",
  "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Lugano",
- "ref":
- "pmb885"}
- ,  {
- "placeName":
- "Hôtel du Parc",
- "ref":
- "pmb513"}
- ,  {
- "placeName":
- "Monte Generoso",
- "ref":
- "pmb548"}
- ,  {
- "placeName":
- "Varese",
- "ref":
- "pmb928"}
- ,  {
- "placeName":
- "Grand Hotel Varese",
- "ref":
- "pmb547"}
- ,  {
- "placeName":
- "Torcello",
- "ref":
- "pmb44094"}
+ "pmb147362"}
  ,  {
  "placeName":
  "Ponte di Rialto",
@@ -204,9 +169,19 @@
  "pmb148"}
  ,  {
  "placeName":
- "Padua",
+ "Deutschland",
  "ref":
- "pmb44156"}
+ "pmb151"}
+ ,  {
+ "placeName":
+ "Madonna di Campiglio",
+ "ref":
+ "pmb427"}
+ ,  {
+ "placeName":
+ "Torcello",
+ "ref":
+ "pmb44094"}
  ,  {
  "placeName":
  "Vicenza",
@@ -219,34 +194,54 @@
  "pmb44153"}
  ,  {
  "placeName":
+ "Padua",
+ "ref":
+ "pmb44156"}
+ ,  {
+ "placeName":
+ "Venedig",
+ "ref":
+ "pmb462"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hôtel du Parc",
+ "ref":
+ "pmb513"}
+ ,  {
+ "placeName":
+ "Grand Hotel Varese",
+ "ref":
+ "pmb547"}
+ ,  {
+ "placeName":
+ "Monte Generoso",
+ "ref":
+ "pmb548"}
+ ,  {
+ "placeName":
+ "Lugano",
+ "ref":
+ "pmb885"}
+ ,  {
+ "placeName":
  "Mailand",
  "ref":
  "pmb886"}
  ,  {
  "placeName":
- "Deutschland",
+ "Varese",
  "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Schall und Rauch",
- "ref":
- "pmb128"}
+ "pmb928"}
  ,  {
  "placeName":
  "Südtirol",
  "ref":
  "pmb969"}
- ,  {
- "placeName":
- "Mendelgebirge",
- "ref":
- "pmb147362"}
- ,  {
- "placeName":
- "Madonna di Campiglio",
- "ref":
- "pmb427"}
  ]
 }
 }, {

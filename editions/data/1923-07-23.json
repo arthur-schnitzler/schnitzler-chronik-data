@@ -154,14 +154,14 @@
  "pmb2121"},
  {
  "persName":
- "Therese Rie",
- "ref":
- "pmb4836"},
- {
- "persName":
  "Romain Rolland",
  "ref":
- "pmb12543"}],
+ "pmb12543"},
+ {
+ "persName":
+ "Therese Rie",
+ "ref":
+ "pmb4836"}],
  "listBibl":
   [
  {
@@ -171,9 +171,9 @@
  "pmb29957"}
  ,  {
  "title":
- "Musikalische Reise ins Land der Vergangenheit",
+ "Das weite Land. Tragikomödie in fünf Akten",
  "ref":
- "pmb56170"}
+ "pmb30207"}
  ,  {
  "title":
  "Gesammelte Werke",
@@ -181,19 +181,9 @@
  "pmb30313"}
  ,  {
  "title":
- "Das weite Land. Tragikomödie in fünf Akten",
- "ref":
- "pmb30207"}
- ,  {
- "title":
  "Fink und Fliederbusch. Komödie in drei Akten",
  "ref":
  "pmb30881"}
- ,  {
- "title":
- "Frau Beate und ihr Sohn. Novelle",
- "ref":
- "pmb32133"}
  ,  {
  "title":
  "Casanovas Heimfahrt",
@@ -201,13 +191,33 @@
  "pmb30971"}
  ,  {
  "title":
+ "Frau Beate und ihr Sohn. Novelle",
+ "ref":
+ "pmb32133"}
+ ,  {
+ "title":
  "Professor Bernhardi. Komödie in fünf Akten",
  "ref":
  "pmb30203"}
+ ,  {
+ "title":
+ "Musikalische Reise ins Land der Vergangenheit",
+ "ref":
+ "pmb56170"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Oberbayern",
+ "ref":
+ "pmb1201"}
+ ,  {
+ "placeName":
+ "New York City",
+ "ref":
+ "pmb44053"}
+ ,  {
  "placeName":
  "Bernried",
  "ref":
@@ -222,16 +232,6 @@
  "Hotel Seeblick",
  "ref":
  "pmb56099"}
- ,  {
- "placeName":
- "Oberbayern",
- "ref":
- "pmb1201"}
- ,  {
- "placeName":
- "New York City",
- "ref":
- "pmb44053"}
  ]
 }
 }, {
@@ -262,31 +262,31 @@
  "pmb2121"},
  {
  "persName":
- "Stefan Zweig",
- "ref":
- "pmb13212"},
- {
- "persName":
  "Romain Rolland",
  "ref":
- "pmb12543"}],
+ "pmb12543"},
+ {
+ "persName":
+ "Stefan Zweig",
+ "ref":
+ "pmb13212"}],
  "listPlace":
   [
  {
+ "placeName":
+ "Paschinger Schlössl",
+ "ref":
+ "pmb253003"}
+ ,  {
  "placeName":
  "Salzburg",
  "ref":
  "pmb30"}
  ,  {
  "placeName":
- "Wien",
+ "Bayern",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Paschinger Schlössl",
- "ref":
- "pmb253003"}
+ "pmb314"}
  ,  {
  "placeName":
  "Salzkammergut",
@@ -294,9 +294,9 @@
  "pmb429"}
  ,  {
  "placeName":
- "Bayern",
+ "Wien",
  "ref":
- "pmb314"}
+ "pmb50"}
  ]
 }
 }, {

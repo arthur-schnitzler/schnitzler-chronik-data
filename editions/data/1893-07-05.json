@@ -107,6 +107,14 @@
  "?? [Badekabinenvermieterin in Strobl]",
  "ref":
  "pmb27762"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Artifex",
+ "ref":
+ "pmb29821"}
+ ],
  "listPlace":
   [
  {
@@ -159,24 +167,9 @@
  "pmb2167"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
- {
- "persName":
- "Josef Jarno",
- "ref":
- "pmb2601"},
- {
- "persName":
- "Ignaz Wild",
- "ref":
- "pmb5336"},
  {
  "persName":
  "Paul Horn",
@@ -184,14 +177,29 @@
  "pmb18523"},
  {
  "persName":
- "Grethe Wreden",
+ "Felix Salten",
  "ref":
- "pmb27355"},
+ "pmb2167"},
  {
  "persName":
  "Richard Specht",
  "ref":
  "pmb2456"},
+ {
+ "persName":
+ "Josef Jarno",
+ "ref":
+ "pmb2601"},
+ {
+ "persName":
+ "Grethe Wreden",
+ "ref":
+ "pmb27355"},
+ {
+ "persName":
+ "Ignaz Wild",
+ "ref":
+ "pmb5336"},
  {
  "persName":
  "Marie Glümer",
@@ -201,29 +209,14 @@
  "persName":
  "Rudolf Eduard von Cuny-Pierron",
  "ref":
- "pmb22574"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"}],
+ "pmb22574"}],
  "listBibl":
   [
  {
  "title":
- "Artifex",
- "ref":
- "pmb29821"}
- ,  {
- "title":
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
  "pmb29823"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
  ,  {
  "title":
  "Abschiedssouper",
@@ -234,24 +227,44 @@
  "Die Frage an das Schicksal",
  "ref":
  "pmb30749"}
+ ,  {
+ "title":
+ "Artifex",
+ "ref":
+ "pmb29821"}
+ ,  {
+ "title":
+ "Anatol",
+ "ref":
+ "pmb29935"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Lehártheater",
+ "ref":
+ "pmb1179"}
+ ,  {
  "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
  ,  {
  "placeName":
- "Wien",
+ "Salzburg",
  "ref":
- "pmb50"}
+ "pmb30"}
  ,  {
  "placeName":
  "Hotel und Pension Rudolfshöhe (Leopold Petter)",
  "ref":
  "pmb414"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Strobl",
@@ -264,32 +277,120 @@
  "pmb90254"}
  ,  {
  "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
  "Ungarn",
  "ref":
  "pmb35512"}
- ,  {
- "placeName":
- "Lehártheater",
- "ref":
- "pmb1179"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Saisontheater Ischl",
- "ref":
- "pmb42649"}
- ,  {
- "orgName":
  "Salzkammergut-Lokalbahn",
  "ref":
  "pmb167893"}
+ ,  {
+ "orgName":
+ "Saisontheater Ischl",
+ "ref":
+ "pmb42649"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04217",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04217.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 5. 7. 1893",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Rudolf Schwarzkopf",
+ "ref":
+ "pmb24651"},
+ {
+ "persName":
+ "Felix Viktor Wachtel",
+ "ref":
+ "pmb26537"},
+ {
+ "persName":
+ "Christine Kepert",
+ "ref":
+ "pmb24686"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Emil Schwarzkopf",
+ "ref":
+ "pmb24645"},
+ {
+ "persName":
+ "Max Schwarzkopf",
+ "ref":
+ "pmb24648"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Artifex",
+ "ref":
+ "pmb29821"}
+ ,  {
+ "title":
+ "Die kleine Komödie",
+ "ref":
+ "pmb31975"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
+ ,  {
+ "placeName":
+ "Mödling",
+ "ref":
+ "pmb968"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ "pmb414"}
  ]
 }
 }, {

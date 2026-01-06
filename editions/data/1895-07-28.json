@@ -66,6 +66,11 @@
  "pmb11740"},
  {
  "persName":
+ "Arthur Schopenhauer",
+ "ref":
+ "pmb5787"},
+ {
+ "persName":
  "Ernst Otto Lindner",
  "ref":
  "pmb33941"},
@@ -78,12 +83,7 @@
  "persName":
  "Ludwig Schemann",
  "ref":
- "pmb33958"},
- {
- "persName":
- "Arthur Schopenhauer",
- "ref":
- "pmb5787"}],
+ "pmb33958"}],
  "listBibl":
   [
  {
@@ -98,14 +98,14 @@
  "pmb33937"}
  ,  {
  "title":
- "Arthur Schopenhauer. Von ihm. Über ihn",
- "ref":
- "pmb33939"}
- ,  {
- "title":
  "Schopenhauer-Briefe",
  "ref":
  "pmb33954"}
+ ,  {
+ "title":
+ "Arthur Schopenhauer. Von ihm. Über ihn",
+ "ref":
+ "pmb33939"}
  ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
@@ -152,6 +152,94 @@
  "color":
  "#A63437",
  "filename":
+ "L04110",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04110.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 28. 7. 1895",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Helene Keßler",
+ "ref":
+ "pmb19296"},
+ {
+ "persName":
+ "Rudolf Goldscheid",
+ "ref":
+ "pmb11488"},
+ {
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "pmb11324"},
+ {
+ "persName":
+ "Oskar Blumenthal",
+ "ref":
+ "pmb14328"},
+ {
+ "persName":
+ "Alfred Mandl",
+ "ref":
+ "pmb20883"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Ein Narr. Roman",
+ "ref":
+ "pmb333715"}
+ ,  {
+ "title":
+ "Der alte Adam und die neue Eva. Ein Roman unserer Übergangszeit",
+ "ref":
+ "pmb333718"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L03894",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -181,11 +269,6 @@
   [
  {
  "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
- ,  {
- "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -196,14 +279,19 @@
  "pmb298721"}
  ,  {
  "placeName":
- "Bahnhof Bad Aussee",
+ "Bad Aussee",
  "ref":
- "pmb263516"}
+ "pmb415"}
  ,  {
  "placeName":
  "Paris",
  "ref":
  "pmb182"}
+ ,  {
+ "placeName":
+ "Bahnhof Bad Aussee",
+ "ref":
+ "pmb263516"}
  ]
 }
 }, {

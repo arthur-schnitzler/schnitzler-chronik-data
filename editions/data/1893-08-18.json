@@ -159,14 +159,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
  {
  "persName":
  "Knut Hamsun",
@@ -174,29 +174,29 @@
  "pmb11570"},
  {
  "persName":
- "Hermann Sudermann",
- "ref":
- "pmb12899"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Hermann Sudermann",
  "ref":
- "pmb10863"},
+ "pmb12899"},
  {
  "persName":
- "Jean Casimir-Perier",
+ "Leopold Sonnemann",
  "ref":
- "pmb88076"},
+ "pmb87771"},
  {
  "persName":
- "Georges Clemenceau",
+ "Gabriele D’Annunzio",
  "ref":
- "pmb4719"},
+ "pmb2142"},
+ {
+ "persName":
+ "Emerich von Bukovics",
+ "ref":
+ "pmb2161"},
  {
  "persName":
  "Willy Gretor",
@@ -209,56 +209,51 @@
  "pmb3379"},
  {
  "persName":
- "Emerich von Bukovics",
+ "Georges Clemenceau",
  "ref":
- "pmb2161"},
+ "pmb4719"},
  {
  "persName":
- "Gabriele D’Annunzio",
+ "Jean Casimir-Perier",
  "ref":
- "pmb2142"},
+ "pmb88076"},
  {
  "persName":
  "Fedor Mamroth",
  "ref":
- "pmb4986"},
- {
- "persName":
- "Wilhelm Liebknecht",
- "ref":
- "pmb51864"},
- {
- "persName":
- "Marie von Borch",
- "ref":
- "pmb93012"}],
+ "pmb4986"}],
  "listBibl":
   [
  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
  "title":
  "Anatol",
  "ref":
  "pmb29935"}
  ,  {
  "title":
- "Vermischtes",
+ "Frankfurter Zeitung",
  "ref":
- "pmb89938"}
+ "pmb36344"}
+ ,  {
+ "title":
+ "Das Märchen. Schauspiel in drei Aufzügen",
+ "ref":
+ "pmb29823"}
+ ,  {
+ "title":
+ "Die Ehre. Schauspiel in 4 Akten",
+ "ref":
+ "pmb30255"}
+ ,  {
+ "title":
+ "Gabriele d’Annunzio",
+ "ref":
+ "pmb31873"}
  ,  {
  "title":
  "Vorwärts",
  "ref":
  "pmb58129"}
- ,  {
- "title":
- "Sult",
- "ref":
- "pmb78051"}
  ,  {
  "title":
  "Mysterien. Roman",
@@ -271,6 +266,16 @@
  "pmb78041"}
  ,  {
  "title":
+ "Sult",
+ "ref":
+ "pmb78051"}
+ ,  {
+ "title":
+ "Vermischtes",
+ "ref":
+ "pmb89938"}
+ ,  {
+ "title":
  "Im Zwielicht. Zwanglose Geschichten",
  "ref":
  "pmb89947"}
@@ -281,21 +286,6 @@
  "pmb89950"}
  ,  {
  "title":
- "Die Ehre. Schauspiel in 4 Akten",
- "ref":
- "pmb30255"}
- ,  {
- "title":
- "Das Märchen. Schauspiel in drei Aufzügen",
- "ref":
- "pmb29823"}
- ,  {
- "title":
- "Gabriele d’Annunzio",
- "ref":
- "pmb31873"}
- ,  {
- "title":
  "Sterben. Novelle",
  "ref":
  "pmb30117"}
@@ -304,34 +294,9 @@
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Richelieu",
- "ref":
- "pmb34187"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
  "Deutschland",
  "ref":
  "pmb151"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
  ,  {
  "placeName":
  "Berlin",
@@ -339,29 +304,29 @@
  "pmb168"}
  ,  {
  "placeName":
- "Frankreich",
+ "Paris",
  "ref":
- "pmb166"}
+ "pmb182"}
  ,  {
  "placeName":
- "Tirol",
+ "Salzburg",
  "ref":
- "pmb423"}
+ "pmb30"}
  ,  {
  "placeName":
- "Südtirol",
+ "rue Richelieu",
  "ref":
- "pmb969"}
+ "pmb34187"}
  ,  {
  "placeName":
- "Italien",
+ "Österreich",
  "ref":
- "pmb40306"}
+ "pmb41240"}
  ,  {
  "placeName":
- "Kärnten",
+ "Wien",
  "ref":
- "pmb651"}
+ "pmb50"}
  ,  {
  "placeName":
  "Niederösterreich",
@@ -369,14 +334,14 @@
  "pmb1003"}
  ,  {
  "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
+ "placeName":
  "Steiermark",
  "ref":
  "pmb17"}
- ,  {
- "placeName":
- "Reichenau an der Rax",
- "ref":
- "pmb483"}
  ,  {
  "placeName":
  "England",
@@ -384,9 +349,9 @@
  "pmb254"}
  ,  {
  "placeName":
- "Vereinigte Staaten von Amerika [USA]",
+ "Russland",
  "ref":
- "pmb43406"}
+ "pmb34438"}
  ,  {
  "placeName":
  "Mexiko",
@@ -399,14 +364,39 @@
  "pmb388"}
  ,  {
  "placeName":
- "Russland",
+ "Italien",
  "ref":
- "pmb34438"}
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
+ ,  {
+ "placeName":
+ "Vereinigte Staaten von Amerika [USA]",
+ "ref":
+ "pmb43406"}
+ ,  {
+ "placeName":
+ "Reichenau an der Rax",
+ "ref":
+ "pmb483"}
+ ,  {
+ "placeName":
+ "Kärnten",
+ "ref":
+ "pmb651"}
  ,  {
  "placeName":
  "rue de Vaugirard",
  "ref":
  "pmb93001"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
  ],
  "listOrg":
   [
@@ -465,24 +455,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
+ "Franz Defregger",
  "ref":
- "pmb2167"},
- {
- "persName":
- "Michael Emil Salzmann",
- "ref":
- "pmb45493"},
- {
- "persName":
- "Philipp Salzmann",
- "ref":
- "pmb142892"},
- {
- "persName":
- "Josefine Lydia von Weisswasser",
- "ref":
- "pmb26888"},
+ "pmb113222"},
  {
  "persName":
  "Marie Glümer",
@@ -490,9 +465,9 @@
  "pmb14953"},
  {
  "persName":
- "Theodor Salzmann",
+ "Felix Salten",
  "ref":
- "pmb142928"},
+ "pmb2167"},
  {
  "persName":
  "Hermine von Schaffgotsch",
@@ -500,9 +475,24 @@
  "pmb24033"},
  {
  "persName":
- "Franz Defregger",
+ "Josefine Lydia von Weisswasser",
  "ref":
- "pmb113222"}],
+ "pmb26888"},
+ {
+ "persName":
+ "Philipp Salzmann",
+ "ref":
+ "pmb142892"},
+ {
+ "persName":
+ "Theodor Salzmann",
+ "ref":
+ "pmb142928"},
+ {
+ "persName":
+ "Michael Emil Salzmann",
+ "ref":
+ "pmb45493"}],
  "listPlace":
   [
  {
@@ -512,54 +502,9 @@
  "pmb141909"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dölsach",
- "ref":
- "pmb945"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Toblach",
- "ref":
- "pmb987"}
- ,  {
- "placeName":
- "Cortina d’Ampezzo",
- "ref":
- "pmb34199"}
- ,  {
- "placeName":
- "Lienz",
- "ref":
- "pmb897"}
- ,  {
- "placeName":
  "Mittewald an der Drau",
  "ref":
  "pmb144475"}
- ,  {
- "placeName":
- "Großglockner",
- "ref":
- "pmb90779"}
- ,  {
- "placeName":
- "Ampezzo",
- "ref":
- "pmb39757"}
- ,  {
- "placeName":
- "Heiligenblut am Großglockner",
- "ref":
- "pmb90843"}
  ,  {
  "placeName":
  "Kaiser-Franz-Josefs-Höhe",
@@ -567,9 +512,54 @@
  "pmb144485"}
  ,  {
  "placeName":
+ "Cortina d’Ampezzo",
+ "ref":
+ "pmb34199"}
+ ,  {
+ "placeName":
+ "Ampezzo",
+ "ref":
+ "pmb39757"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Lienz",
+ "ref":
+ "pmb897"}
+ ,  {
+ "placeName":
  "Pasterze Glacier",
  "ref":
  "pmb90060"}
+ ,  {
+ "placeName":
+ "Großglockner",
+ "ref":
+ "pmb90779"}
+ ,  {
+ "placeName":
+ "Heiligenblut am Großglockner",
+ "ref":
+ "pmb90843"}
+ ,  {
+ "placeName":
+ "Dölsach",
+ "ref":
+ "pmb945"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
  ]
 }
 }, {

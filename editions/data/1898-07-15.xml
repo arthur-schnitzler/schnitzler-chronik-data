@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -190,6 +190,9 @@
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
                      </place>
                      <place>
@@ -202,14 +205,106 @@
                         <placeName ref="pmb521">Bad Gastein</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb573">Bad Fusch</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb860">Graz</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00820.html</idno>
+            </event>
+            <event when-iso="1898-07-15">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 15. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35493">Steinach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35496">Schladming</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41003">Bischofshofen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40336">Zell am See</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34191">Bruck an der Großglocknerstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40632">Ferleiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04125.html</idno>
+            </event>
+            <event when-iso="1898-07-15">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 15. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04128.html</idno>
             </event>
             <event when-iso="1898-07-15">
                <head corresp="#pmb860">Graz</head>

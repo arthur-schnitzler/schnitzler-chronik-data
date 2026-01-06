@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,13 +95,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10666">Bogumil Zepler</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb3167">Hugo Felix</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10666">Bogumil Zepler</persName>
+                        <persName ref="pmb10973">Friedrich von Bodenstedt</persName>
                      </person>
                      <person>
                         <persName ref="pmb145820">Josef Willomitzer</persName>
@@ -109,20 +112,14 @@
                      <person>
                         <persName ref="pmb145825">Mirzä Şäfi Vazeh</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10973">Friedrich von Bodenstedt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb7855">Alfred Walter von Heymel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12722">Rudolf Alexander Schröder</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb40598">Die Insel. Monatsschrift mit Buchschmuck und Illustrationen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76511">Die Gedenktafel der Prinzessin Anna</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb145819">Neue Loreley</title>
                      </bibl>
@@ -132,46 +129,40 @@
                      <bibl>
                         <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb76511">Die Gedenktafel der Prinzessin Anna</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb40598">Die Insel. Monatsschrift mit Buchschmuck und Illustrationen</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44153">Verona</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb462">Venedig</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb44153">Verona</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb462">Venedig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb1">Jung-Wiener Theater zum Lieben Augustin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44368">Feldkirch</placeName>
+                        <placeName ref="pmb212">St. Anton am Arlberg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb212">St. Anton am Arlberg</placeName>
+                        <placeName ref="pmb44368">Feldkirch</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -179,7 +170,13 @@
             </event>
             <event when-iso="1901-07-28">
                <head corresp="#pmb946">Vahrn</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb333628">
+                        <placeName>Gasthof und Pension Waldsacker</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-07-28</idno>
             </event>
          </listEvent>

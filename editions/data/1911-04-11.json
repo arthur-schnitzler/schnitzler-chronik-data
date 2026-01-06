@@ -79,19 +79,19 @@
  "pmb2121"},
  {
  "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"},
- {
- "persName":
  "Sophie Clemenceau",
  "ref":
  "pmb15024"},
  {
  "persName":
- "Georges Clemenceau",
+ "André Antoine",
  "ref":
- "pmb4719"},
+ "pmb2211"},
+ {
+ "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
  {
  "persName":
  "Albert Clemenceau",
@@ -99,9 +99,9 @@
  "pmb299874"},
  {
  "persName":
- "André Antoine",
+ "Georges Clemenceau",
  "ref":
- "pmb2211"}],
+ "pmb4719"}],
  "listBibl":
   [
  {
@@ -111,33 +111,23 @@
  "pmb29937"}
  ,  {
  "title":
- "Le Temps",
- "ref":
- "pmb58327"}
- ,  {
- "title":
  "Das weite Land. Tragikomödie in fünf Akten",
  "ref":
  "pmb30207"}
  ,  {
  "title":
- "Chronique théatrale. Le théatre di Vienne. Revue de l’ anné",
+ "Le Temps",
+ "ref":
+ "pmb58327"}
+ ,  {
+ "title":
+ "Chronique théatrale. Le théatre di Vienne. Revue de l’ année",
  "ref":
  "pmb299880"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Menton",
- "ref":
- "pmb36456"}
- ,  {
  "placeName":
  "Frankreich",
  "ref":
@@ -152,6 +142,16 @@
  "Nusswaldgasse 22",
  "ref":
  "pmb238485"}
+ ,  {
+ "placeName":
+ "Menton",
+ "ref":
+ "pmb36456"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -197,20 +197,10 @@
  "persName":
  "Georg Brandes",
  "ref":
- "pmb10992"},
- {
- "persName":
- "Ernst von Dohnányi",
- "ref":
- "pmb11165"}],
+ "pmb10992"}],
  "listBibl":
   [
  {
- "title":
- "Det kgl. Teater [Der Schleier der Pierrette]",
- "ref":
- "pmb33360"}
- ,  {
  "title":
  "Der Schleier der Pierrette. Pantomime in drei Bildern",
  "ref":
@@ -220,29 +210,24 @@
  "Før og nu. To tragiske Skaebner",
  "ref":
  "pmb33358"}
+ ,  {
+ "title":
+ "Det kgl. Teater [Der Schleier der Pierrette]",
+ "ref":
+ "pmb33360"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Kopenhagen",
+ "Boulevard Raspail",
  "ref":
- "pmb36300"}
+ "pmb1094"}
  ,  {
  "placeName":
- "Menton",
+ "Hôtel Lutetia",
  "ref":
- "pmb36456"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
+ "pmb1095"}
  ,  {
  "placeName":
  "Havnegade",
@@ -255,19 +240,29 @@
  "pmb151"}
  ,  {
  "placeName":
+ "Sternwartestraße 71",
+ "ref":
+ "pmb168815"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Menton",
+ "ref":
+ "pmb36456"}
+ ,  {
+ "placeName":
  "Dänemark",
  "ref":
  "pmb43570"}
  ,  {
  "placeName":
- "Hôtel Lutetia",
+ "XVIII., Währing",
  "ref":
- "pmb1095"}
- ,  {
- "placeName":
- "Boulevard Raspail",
- "ref":
- "pmb1094"}
+ "pmb68"}
  ]
 }
 }, {

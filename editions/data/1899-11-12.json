@@ -56,34 +56,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Paul Schlenther",
- "ref":
- "pmb12671"},
- {
- "persName":
- "Johanna Mamroth",
- "ref":
- "pmb94397"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
  {
  "persName":
  "Robert Hirschfeld",
@@ -91,24 +71,19 @@
  "pmb11707"},
  {
  "persName":
- "Theodore Rottenberg",
+ "Paul Schlenther",
  "ref":
- "pmb23674"},
+ "pmb12671"},
  {
  "persName":
- "Ludwig Rottenberg",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb9598"},
+ "pmb12740"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Jakob Wassermann",
  "ref":
- "pmb87771"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
+ "pmb13055"},
  {
  "persName":
  "Berthold Frischauer",
@@ -116,29 +91,9 @@
  "pmb16710"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Wilhelmine Mitterwurzer",
  "ref":
- "pmb10863"},
- {
- "persName":
- "Julius Schnitzler",
- "ref":
- "pmb12698"},
- {
- "persName":
- "Markus Hajek",
- "ref":
- "pmb2284"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Gisela von Österreich",
- "ref":
- "pmb4420"},
+ "pmb12268"},
  {
  "persName":
  "Else Speidel-Haeberle",
@@ -146,51 +101,71 @@
  "pmb2642"},
  {
  "persName":
- "Wilhelmine Mitterwurzer",
+ "Gisela von Österreich",
  "ref":
- "pmb12268"},
+ "pmb4420"},
  {
  "persName":
- "Peter Michael Braunwarth",
+ "Fedor Mamroth",
  "ref":
- "pmb119261"},
+ "pmb4986"},
  {
  "persName":
- "Reinhard Urbach",
+ "Johanna Mamroth",
  "ref":
- "pmb65504"},
+ "pmb94397"},
  {
  "persName":
- "Werner Welzig",
+ "Julius Schnitzler",
  "ref":
- "pmb143327"},
+ "pmb12698"},
  {
  "persName":
- "Richard Miklin",
+ "Louise Schnitzler",
  "ref":
- "pmb143331"},
+ "pmb12701"},
  {
  "persName":
- "Konstanze Fliedl",
+ "Clementine Goldmann",
  "ref":
- "pmb119271"},
+ "pmb17163"},
  {
  "persName":
- "Walter Ruprechter",
+ "Markus Hajek",
  "ref":
- "pmb143334"},
+ "pmb2284"},
  {
  "persName":
- "Susanne Pertlik",
+ "Theodore Rottenberg",
  "ref":
- "pmb143337"}],
+ "pmb23674"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Ludwig Rottenberg",
+ "ref":
+ "pmb9598"}],
  "listBibl":
   [
  {
  "title":
+ "Die Sonne",
+ "ref":
+ "pmb140905"}
+ ,  {
+ "title":
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
+ ,  {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
  ,  {
  "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
@@ -203,19 +178,9 @@
  "pmb32562"}
  ,  {
  "title":
- "Die Sonne",
+ "Tagebuch",
  "ref":
- "pmb140905"}
- ,  {
- "title":
- "?? [Zur Affaire von Paul Goldmann und Theodore Rottenberg]",
- "ref":
- "pmb140907"}
- ,  {
- "title":
- "Der grüne Kakadu. Groteske in einem Akt",
- "ref":
- "pmb29843"}
+ "pmb33243"}
  ,  {
  "title":
  "Der Leuchtkäfer",
@@ -223,9 +188,9 @@
  "pmb33752"}
  ,  {
  "title":
- "Tagebuch",
+ "?? [Zur Affaire von Paul Goldmann und Theodore Rottenberg]",
  "ref":
- "pmb33243"}
+ "pmb140907"}
  ],
  "listPlace":
   [
@@ -236,19 +201,9 @@
  "pmb146"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Deutschland",
  "ref":
  "pmb151"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
  ,  {
  "placeName":
  "Berlin",
@@ -261,6 +216,21 @@
  "pmb182"}
  ,  {
  "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
+ ,  {
+ "placeName":
  "Lobe-Theater",
  "ref":
  "pmb525"}
@@ -269,15 +239,15 @@
  "Breslau",
  "ref":
  "pmb677"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
+ ,  {
  "orgName":
  "Burgtheater",
  "ref":
@@ -287,11 +257,6 @@
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
- ,  {
- "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
  ,  {
  "orgName":
  "K. u. k. Zensurstelle",

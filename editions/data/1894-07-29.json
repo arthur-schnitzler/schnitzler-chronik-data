@@ -152,14 +152,14 @@
  "pmb2121"},
  {
  "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
  {
  "persName":
  "Hilda von Mitis",
@@ -167,9 +167,19 @@
  "pmb65913"},
  {
  "persName":
- "Maximilian von Mitis",
+ "Leopold Sonnemann",
  "ref":
- "pmb65917"},
+ "pmb87771"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
  {
  "persName":
  "Julius Schnitzler",
@@ -187,54 +197,9 @@
  "pmb2801"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Maximilian von Mitis",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb65917"}],
  "listBibl":
   [
  {
@@ -242,11 +207,6 @@
  "Lehmann’s Allgemeiner Wohnungs-Anzeiger",
  "ref":
  "pmb32580"}
- ,  {
- "title":
- "Les Emplettes de Noël",
- "ref":
- "pmb88052"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -257,6 +217,11 @@
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Les Emplettes de Noël",
+ "ref":
+ "pmb88052"}
  ],
  "listPlace":
   [
@@ -267,14 +232,29 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "Versailles",
  "ref":
- "pmb50"}
+ "pmb36549"}
+ ,  {
+ "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
  ,  {
  "placeName":
  "rue Feydeau",
  "ref":
  "pmb42671"}
+ ,  {
+ "placeName":
+ "Schweiz",
+ "ref":
+ "pmb43435"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Alser Straße",
@@ -287,11 +267,6 @@
  "pmb87802"}
  ,  {
  "placeName":
- "Versailles",
- "ref":
- "pmb36549"}
- ,  {
- "placeName":
  "Petit Trianon",
  "ref":
  "pmb87808"}
@@ -300,16 +275,6 @@
  "Grand Trianon",
  "ref":
  "pmb87811"}
- ,  {
- "placeName":
- "Schweiz",
- "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Tirol",
- "ref":
- "pmb423"}
  ,  {
  "placeName":
  "Südtirol",

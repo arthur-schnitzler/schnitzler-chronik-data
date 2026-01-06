@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,13 +90,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb21236">Oskar Mayer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb21236">Oskar Mayer</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb146046">Traunkai</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
@@ -104,19 +107,13 @@
                         <placeName ref="pmb38711">Schruns</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146046">Traunkai</placeName>
+                        <placeName ref="pmb40260">Bozen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb842">Karlsbad</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43520">Meran</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40260">Bozen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44153">Verona</placeName>
@@ -125,19 +122,22 @@
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb90366">Bludenz</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb842">Karlsbad</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb867">Innsbruck</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb90204">Ala</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb873">Triest</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
+                        <placeName ref="pmb90204">Ala</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb90366">Bludenz</placeName>
                      </place>
                   </listPlace>
                </desc>

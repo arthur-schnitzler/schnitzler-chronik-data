@@ -71,24 +71,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
- {
- "persName":
- "Siegfried Trebitsch",
- "ref":
- "pmb12968"},
- {
- "persName":
- "George Bernard Shaw",
- "ref":
- "pmb2381"},
  {
  "persName":
  "Maximilian Harden",
@@ -96,14 +81,19 @@
  "pmb11581"},
  {
  "persName":
- "Elisabeth Steinrück",
+ "Siegfried Trebitsch",
  "ref":
- "pmb2315"},
+ "pmb12968"},
  {
  "persName":
- "Ottilie Salten",
+ "Felix Salten",
  "ref":
- "pmb23918"},
+ "pmb2167"},
+ {
+ "persName":
+ "George Bernard Shaw",
+ "ref":
+ "pmb2381"},
  {
  "persName":
  "Siegfried Jacobsohn",
@@ -116,51 +106,21 @@
  "pmb12837"},
  {
  "persName":
- "William Siegmund Schlamm",
+ "Elisabeth Steinrück",
  "ref":
- "pmb43666"},
+ "pmb2315"},
  {
  "persName":
- "Emil Rosenow",
+ "Ottilie Salten",
  "ref":
- "pmb12560"},
- {
- "persName":
- "Alfred Halm",
- "ref":
- "pmb2385"},
- {
- "persName":
- "August Strindberg",
- "ref":
- "pmb12877"},
- {
- "persName":
- "Arthur Pserhofer",
- "ref":
- "pmb3747"},
- {
- "persName":
- "Johannes Schlaf",
- "ref":
- "pmb12664"},
- {
- "persName":
- "Friedrich Hotho",
- "ref":
- "pmb60271"}],
+ "pmb23918"}],
  "listBibl":
   [
  {
  "title":
- "Cäsar und Cleopatra. Eine historische Komödie",
+ "Kater Lampe",
  "ref":
- "pmb77092"}
- ,  {
- "title":
- "Bühnenvertrieb",
- "ref":
- "pmb32516"}
+ "pmb32514"}
  ,  {
  "title":
  "Die Schaubühne",
@@ -168,24 +128,19 @@
  "pmb41564"}
  ,  {
  "title":
- "Theater",
- "ref":
- "pmb32518"}
- ,  {
- "title":
  "Russisches Theater. II",
  "ref":
  "pmb32428"}
  ,  {
  "title":
- "Kater Lampe",
+ "»Kater Lampe«",
  "ref":
- "pmb32514"}
+ "pmb32430"}
  ,  {
  "title":
- "Bund der Bühnendichter. II",
+ "Bühnenvertrieb",
  "ref":
- "pmb60265"}
+ "pmb32516"}
  ,  {
  "title":
  "B.Z. am Mittag",
@@ -193,67 +148,32 @@
  "pmb58435"}
  ,  {
  "title":
- "»Kater Lampe«",
+ "Bund der Bühnendichter. II",
  "ref":
- "pmb32430"}
+ "pmb60265"}
+ ,  {
+ "title":
+ "Cäsar und Cleopatra. Eine historische Komödie",
+ "ref":
+ "pmb77092"}
+ ,  {
+ "title":
+ "Theater",
+ "ref":
+ "pmb32518"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Kochstraße",
- "ref":
- "pmb855"}
- ,  {
- "placeName":
- "Thüringen",
- "ref":
- "pmb432"}
- ,  {
  "placeName":
  "Rheinland",
  "ref":
  "pmb135046"}
  ,  {
  "placeName":
- "Tirol",
+ "Berlin",
  "ref":
- "pmb423"}
- ,  {
- "placeName":
- "Südtirol",
- "ref":
- "pmb969"}
- ,  {
- "placeName":
- "Schweiz",
- "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Lugano",
- "ref":
- "pmb885"}
- ,  {
- "placeName":
- "Genfer See",
- "ref":
- "pmb512"}
- ,  {
- "placeName":
- "Magdeburg",
- "ref":
- "pmb918"}
+ "pmb168"}
  ,  {
  "placeName":
  "Genthin",
@@ -261,39 +181,19 @@
  "pmb37728"}
  ,  {
  "placeName":
- "Niederlande",
+ "Tirol",
  "ref":
- "pmb44016"}
+ "pmb423"}
  ,  {
  "placeName":
- "Kiel",
+ "Thüringen",
  "ref":
- "pmb907"}
+ "pmb432"}
  ,  {
  "placeName":
- "Deutschland",
+ "Schweiz",
  "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Rothenburg ob der Tauber",
- "ref":
- "pmb856"}
- ,  {
- "placeName":
- "Bayreuth",
- "ref":
- "pmb734"}
- ,  {
- "placeName":
- "Marienlyst",
- "ref":
- "pmb959"}
- ,  {
- "placeName":
- "Ostsee",
- "ref":
- "pmb44599"}
+ "pmb43435"}
  ,  {
  "placeName":
  "Dänemark",
@@ -301,18 +201,78 @@
  "pmb43570"}
  ,  {
  "placeName":
+ "Niederlande",
+ "ref":
+ "pmb44016"}
+ ,  {
+ "placeName":
+ "Ostsee",
+ "ref":
+ "pmb44599"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Genfer See",
+ "ref":
+ "pmb512"}
+ ,  {
+ "placeName":
+ "Bayreuth",
+ "ref":
+ "pmb734"}
+ ,  {
+ "placeName":
+ "Kochstraße",
+ "ref":
+ "pmb855"}
+ ,  {
+ "placeName":
+ "Rothenburg ob der Tauber",
+ "ref":
+ "pmb856"}
+ ,  {
+ "placeName":
+ "Lugano",
+ "ref":
+ "pmb885"}
+ ,  {
+ "placeName":
+ "Kiel",
+ "ref":
+ "pmb907"}
+ ,  {
+ "placeName":
+ "Magdeburg",
+ "ref":
+ "pmb918"}
+ ,  {
+ "placeName":
+ "Marienlyst",
+ "ref":
+ "pmb959"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
+ ,  {
+ "placeName":
  "Gilleleje",
  "ref":
  "pmb44252"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "B.Z. am Mittag",
- "ref":
- "pmb29702"}
- ,  {
  "orgName":
  "Neue Freie Presse",
  "ref":
@@ -324,14 +284,19 @@
  "pmb29631"}
  ,  {
  "orgName":
- "Berliner Morgenpost",
+ "B.Z. am Mittag",
  "ref":
- "pmb46218"}
+ "pmb29702"}
  ,  {
  "orgName":
  "Neues Theater",
  "ref":
  "pmb45434"}
+ ,  {
+ "orgName":
+ "Berliner Morgenpost",
+ "ref":
+ "pmb46218"}
  ]
 }
 }, {

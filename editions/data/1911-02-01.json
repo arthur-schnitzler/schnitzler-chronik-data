@@ -88,19 +88,14 @@
  "pmb11485"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Otto Brahm",
  "ref":
  "pmb10986"},
  {
  "persName":
- "Louise Schnitzler",
+ "Paul Goldmann",
  "ref":
- "pmb12701"},
+ "pmb11485"},
  {
  "persName":
  "Gerhart Hauptmann",
@@ -108,14 +103,19 @@
  "pmb11617"},
  {
  "persName":
- "Gustaf Linden",
+ "Ugo Piperno",
  "ref":
- "pmb20474"},
+ "pmb167722"},
  {
  "persName":
  "Christopher Horne",
  "ref":
  "pmb167728"},
+ {
+ "persName":
+ "Gustaf Linden",
+ "ref":
+ "pmb20474"},
  {
  "persName":
  "Cesare Levi",
@@ -128,24 +128,9 @@
  "pmb2500"},
  {
  "persName":
- "Ugo Piperno",
+ "Louise Schnitzler",
  "ref":
- "pmb167722"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb12701"}],
  "listBibl":
   [
  {
@@ -155,14 +140,14 @@
  "pmb29857"}
  ,  {
  "title":
- "Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)",
- "ref":
- "pmb144087"}
- ,  {
- "title":
  "Lebendige Stunden. Vier Einakter",
  "ref":
  "pmb29863"}
+ ,  {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ "pmb29865"}
  ,  {
  "title":
  "Literatur",
@@ -175,14 +160,69 @@
  "pmb29877"}
  ,  {
  "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
  "Lebendige Stunden",
  "ref":
  "pmb29957"}
  ,  {
  "title":
- "Die Frau mit dem Dolche",
+ "»Michael Kramer.«",
  "ref":
- "pmb29865"}
+ "pmb142613"}
+ ,  {
+ "title":
+ "Damen med dolken",
+ "ref":
+ "pmb147869"}
+ ,  {
+ "title":
+ "Den gröna papegojan",
+ "ref":
+ "pmb147873"}
+ ,  {
+ "title":
+ "Comtesse Mizzi [schwedisch]",
+ "ref":
+ "pmb147878"}
+ ,  {
+ "title":
+ "Le ultime maschere. Drama in un atto",
+ "ref":
+ "pmb147900"}
+ ,  {
+ "title":
+ "Cena d’addio",
+ "ref":
+ "pmb167711"}
+ ,  {
+ "title":
+ "Monsignore in vacanza. Commedia in un atto",
+ "ref":
+ "pmb167720"}
+ ,  {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
+ ,  {
+ "title":
+ "Komtesse Mizzi oder: Der Familientag",
+ "ref":
+ "pmb29931"}
+ ,  {
+ "title":
+ "Abschiedssouper",
+ "ref":
+ "pmb30005"}
+ ,  {
+ "title":
+ "Ein Sommer in China. Reisebilder",
+ "ref":
+ "pmb33346"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -190,14 +230,19 @@
  "pmb36374"}
  ,  {
  "title":
+ "In the Hospital",
+ "ref":
+ "pmb89679"}
+ ,  {
+ "title":
+ "Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)",
+ "ref":
+ "pmb144087"}
+ ,  {
+ "title":
  "Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)",
  "ref":
  "pmb144122"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
  ,  {
  "title":
  "Aus dem dramatischen Irrgarten. Polemische Aufsätze über Berliner Theateraufführungen",
@@ -213,109 +258,19 @@
  "Literatenstücke und Ausstattungsregie. Polemische Aufsätze über Berliner Theater-Aufführungen",
  "ref":
  "pmb147672"}
- ,  {
- "title":
- "»Michael Kramer.«",
- "ref":
- "pmb142613"}
- ,  {
- "title":
- "Comtesse Mizzi [schwedisch]",
- "ref":
- "pmb147878"}
- ,  {
- "title":
- "Komtesse Mizzi oder: Der Familientag",
- "ref":
- "pmb29931"}
- ,  {
- "title":
- "Damen med dolken",
- "ref":
- "pmb147869"}
- ,  {
- "title":
- "Den gröna papegojan",
- "ref":
- "pmb147873"}
- ,  {
- "title":
- "Der grüne Kakadu. Groteske in einem Akt",
- "ref":
- "pmb29843"}
- ,  {
- "title":
- "In the Hospital",
- "ref":
- "pmb89679"}
- ,  {
- "title":
- "Le ultime maschere. Drama in un atto",
- "ref":
- "pmb147900"}
- ,  {
- "title":
- "Cena d’addio",
- "ref":
- "pmb167711"}
- ,  {
- "title":
- "Abschiedssouper",
- "ref":
- "pmb30005"}
- ,  {
- "title":
- "Monsignore in vacanza. Commedia in un atto",
- "ref":
- "pmb167720"}
- ,  {
- "title":
- "Ein Sommer in China. Reisebilder",
- "ref":
- "pmb33346"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Welsberg-Taisten",
- "ref":
- "pmb428"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
- ,  {
- "placeName":
- "Residenztheater München",
- "ref":
- "pmb635"}
- ,  {
  "placeName":
  "Münchner Schauspielhaus",
  "ref":
  "pmb11"}
  ,  {
  "placeName":
- "München",
+ "Berlin",
  "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Schweden",
- "ref":
- "pmb44335"}
+ "pmb168"}
  ,  {
  "placeName":
  "England",
@@ -328,9 +283,24 @@
  "pmb40306"}
  ,  {
  "placeName":
- "Frankgasse 1",
+ "Welsberg-Taisten",
  "ref":
- "pmb168934"}
+ "pmb428"}
+ ,  {
+ "placeName":
+ "Schweden",
+ "ref":
+ "pmb44335"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Residenztheater München",
+ "ref":
+ "pmb635"}
  ,  {
  "placeName":
  "Kungliga Dramatiska Teatern",
@@ -338,14 +308,19 @@
  "pmb147893"}
  ,  {
  "placeName":
- "London",
- "ref":
- "pmb224"}
- ,  {
- "placeName":
  "Royal Court Theatre",
  "ref":
  "pmb147907"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "London",
+ "ref":
+ "pmb224"}
  ,  {
  "placeName":
  "Teatro Alfieri",
@@ -358,22 +333,32 @@
  "pmb917"}
  ,  {
  "placeName":
- "Paris",
+ "Frankgasse 1",
  "ref":
- "pmb182"}
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Residenztheater München",
- "ref":
- "pmb48177"}
- ,  {
- "orgName":
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
+ ,  {
+ "orgName":
+ "Residenztheater München",
+ "ref":
+ "pmb48177"}
  ]
 }
 }, {

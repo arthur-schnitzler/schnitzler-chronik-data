@@ -56,6 +56,16 @@
  "pmb2121"},
  {
  "persName":
+ "Arthur Rosthorn",
+ "ref":
+ "pmb102825"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -66,9 +76,14 @@
  "pmb2570"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Theodor Herzl",
  "ref":
- "pmb10863"},
+ "pmb11673"},
+ {
+ "persName":
+ "Louis Philipp Friedmann",
+ "ref":
+ "pmb16658"},
  {
  "persName":
  "Clementine Goldmann",
@@ -78,30 +93,10 @@
  "persName":
  "Marie Reinhard",
  "ref":
- "pmb2378"},
- {
- "persName":
- "Louis Philipp Friedmann",
- "ref":
- "pmb16658"},
- {
- "persName":
- "Arthur Rosthorn",
- "ref":
- "pmb102825"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"}],
+ "pmb2378"}],
  "listBibl":
   [
  {
- "title":
- "Die Frau des Weisen. Novelletten",
- "ref":
- "pmb32460"}
- ,  {
  "title":
  "Briefe an eine Dame",
  "ref":
@@ -116,6 +111,11 @@
  "Die Wage. Eine Wiener Wochenschrift",
  "ref":
  "pmb43198"}
+ ,  {
+ "title":
+ "Die Frau des Weisen. Novelletten",
+ "ref":
+ "pmb32460"}
  ],
  "listPlace":
   [
@@ -124,21 +124,6 @@
  "Peking",
  "ref":
  "pmb118369"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Luzern",
- "ref":
- "pmb967"}
- ,  {
- "placeName":
- "China",
- "ref":
- "pmb1108"}
  ,  {
  "placeName":
  "Tianjin",
@@ -151,19 +136,14 @@
  "pmb37885"}
  ,  {
  "placeName":
- "Österreich",
+ "Wien",
  "ref":
- "pmb41240"}
+ "pmb50"}
  ,  {
  "placeName":
- "Frankreich",
+ "Luzern",
  "ref":
- "pmb166"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
+ "pmb967"}
  ,  {
  "placeName":
  "Berlin",
@@ -171,9 +151,29 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
+ ,  {
+ "placeName":
  "Basel",
  "ref":
  "pmb854"}
+ ,  {
+ "placeName":
+ "China",
+ "ref":
+ "pmb1108"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
  ]
 }
 }, {

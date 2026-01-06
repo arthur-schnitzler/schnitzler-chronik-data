@@ -81,14 +81,14 @@
  "pmb11910"},
  {
  "persName":
- "Olga Wohlbrück",
- "ref":
- "pmb13145"},
- {
- "persName":
  "Leo Feld",
  "ref":
- "pmb18308"}],
+ "pmb18308"},
+ {
+ "persName":
+ "Olga Wohlbrück",
+ "ref":
+ "pmb13145"}],
  "listBibl":
   [
  {
@@ -228,6 +228,89 @@
  "color":
  "#A63437",
  "filename":
+ "L04082",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04082.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 8. 10. 1899",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Elisabeth Steinrück",
+ "ref":
+ "pmb2315"},
+ {
+ "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Das Vermächtnis. Schauspiel in drei Akten",
+ "ref":
+ "pmb30219"}
+ ,  {
+ "title":
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29857"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Luzern",
+ "ref":
+ "pmb967"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L02889",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -250,6 +333,11 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -260,9 +348,9 @@
  "pmb135001"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Johann Nepomuk Fuchs",
  "ref":
- "pmb10863"},
+ "pmb140824"},
  {
  "persName":
  "Ludwig Rottenberg",
@@ -270,31 +358,21 @@
  "pmb9598"},
  {
  "persName":
- "Johann Nepomuk Fuchs",
+ "Gertrud Rottenberg",
  "ref":
- "pmb140824"},
+ "pmb140820"},
  {
  "persName":
  "Theodore Rottenberg",
  "ref":
- "pmb23674"},
- {
- "persName":
- "Gertrud Rottenberg",
- "ref":
- "pmb140820"}],
+ "pmb23674"}],
  "listPlace":
   [
  {
  "placeName":
- "Florenz",
+ "Lungarno Guicciardini",
  "ref":
- "pmb263"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
+ "pmb134996"}
  ,  {
  "placeName":
  "Hôtel Pension Barbensi",
@@ -302,14 +380,19 @@
  "pmb134998"}
  ,  {
  "placeName":
- "Lungarno Guicciardini",
+ "Frankfurt am Main",
  "ref":
- "pmb134996"}
+ "pmb146"}
  ,  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Florenz",
+ "ref":
+ "pmb263"}
  ,  {
  "placeName":
  "Venedig",
@@ -317,9 +400,9 @@
  "pmb462"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Wien",
  "ref":
- "pmb146"}
+ "pmb50"}
  ],
  "listOrg":
   [

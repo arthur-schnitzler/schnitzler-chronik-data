@@ -78,11 +78,6 @@
   [
  {
  "placeName":
- "London",
- "ref":
- "pmb224"}
- ,  {
- "placeName":
  "Altaussee",
  "ref":
  "pmb34401"}
@@ -96,6 +91,11 @@
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "London",
+ "ref":
+ "pmb224"}
  ]
 }
 }, {
@@ -197,14 +197,19 @@
  "pmb2121"},
  {
  "persName":
+ "Albert Bassermann",
+ "ref":
+ "pmb10844"},
+ {
+ "persName":
+ "Alfred von Berger",
+ "ref":
+ "pmb10883"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Paul Schlenther",
- "ref":
- "pmb12671"},
  {
  "persName":
  "Georg Hirschfeld",
@@ -217,19 +222,9 @@
  "pmb12078"},
  {
  "persName":
- "Albert Bassermann",
+ "Paul Schlenther",
  "ref":
- "pmb10844"},
- {
- "persName":
- "Alfred von Berger",
- "ref":
- "pmb10883"},
- {
- "persName":
- "Stella Hohenfels",
- "ref":
- "pmb2850"},
+ "pmb12671"},
  {
  "persName":
  "Irene Triesch",
@@ -237,14 +232,19 @@
  "pmb12977"},
  {
  "persName":
- "Marie Glümer",
+ "Stella Hohenfels",
  "ref":
- "pmb14953"},
+ "pmb2850"},
  {
  "persName":
  "Auguste Glümer",
  "ref":
- "pmb14948"}],
+ "pmb14948"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"}],
  "listBibl":
   [
  {
@@ -257,29 +257,14 @@
   [
  {
  "placeName":
- "Berlin",
+ "Alpen",
  "ref":
- "pmb168"}
+ "pmb117"}
  ,  {
  "placeName":
- "Wien",
+ "Vorarlberg",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
- "Schlesien",
- "ref":
- "pmb1122"}
- ,  {
- "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
+ "pmb141756"}
  ,  {
  "placeName":
  "Frankfurt am Main",
@@ -287,9 +272,24 @@
  "pmb146"}
  ,  {
  "placeName":
- "Alpen",
+ "Berlin",
  "ref":
- "pmb117"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Dessauer Straße",
+ "ref":
+ "pmb40583"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
  ,  {
  "placeName":
  "Dolomiten",
@@ -297,13 +297,18 @@
  "pmb58636"}
  ,  {
  "placeName":
- "Vorarlberg",
+ "Schlesien",
  "ref":
- "pmb141756"}
+ "pmb1122"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Berliner Theater",
+ "ref":
+ "pmb29380"}
+ ,  {
  "orgName":
  "Burgtheater",
  "ref":
@@ -313,11 +318,6 @@
  "Volkstheater",
  "ref":
  "pmb36430"}
- ,  {
- "orgName":
- "Berliner Theater",
- "ref":
- "pmb29380"}
  ,  {
  "orgName":
  "Deutsches Schauspielhaus in Hamburg",

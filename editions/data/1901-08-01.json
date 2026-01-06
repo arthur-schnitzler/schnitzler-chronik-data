@@ -126,24 +126,19 @@
   [
  {
  "placeName":
- "Pörtschach am Wörthersee",
- "ref":
- "pmb44278"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Dolomiten",
- "ref":
- "pmb58636"}
- ,  {
- "placeName":
  "Valle d’Ampezzo",
  "ref":
  "pmb34207"}
+ ,  {
+ "placeName":
+ "Lago di Garda",
+ "ref":
+ "pmb39975"}
+ ,  {
+ "placeName":
+ "Pörtschach am Wörthersee",
+ "ref":
+ "pmb44278"}
  ,  {
  "placeName":
  "Wien",
@@ -151,9 +146,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "Lago di Garda",
+ "Dolomiten",
  "ref":
- "pmb39975"}
+ "pmb58636"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
  ]
 }
 }, {
@@ -166,5 +166,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-08-01",
  "head":
- "Vahrn"
+ "Vahrn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof und Pension Waldsacker",
+ "ref":
+ ""}
+ ]
+}
 }] 

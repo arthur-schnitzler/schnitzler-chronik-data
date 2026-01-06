@@ -39,14 +39,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
  {
  "persName":
  "Olga Schnitzler",
@@ -54,29 +54,14 @@
  "pmb2173"},
  {
  "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Emil Rechert",
  "ref":
  "pmb23113"},
  {
  "persName":
- "Rosa Freudenthal",
+ "Elisabeth Steinrück",
  "ref":
- "pmb16560"},
- {
- "persName":
- "Johannes von Miquel",
- "ref":
- "pmb144365"},
+ "pmb2315"},
  {
  "persName":
  "Ernst von Hammerstein-Loxten",
@@ -84,12 +69,32 @@
  "pmb144360"},
  {
  "persName":
+ "Johannes von Miquel",
+ "ref":
+ "pmb144365"},
+ {
+ "persName":
  "Ludwig Brefeld",
  "ref":
- "pmb144370"}],
+ "pmb144370"},
+ {
+ "persName":
+ "Rosa Freudenthal",
+ "ref":
+ "pmb16560"},
+ {
+ "persName":
+ "Clementine Goldmann",
+ "ref":
+ "pmb17163"}],
  "listBibl":
   [
  {
+ "title":
+ "Frau Bertha Garlan. Roman",
+ "ref":
+ "pmb30486"}
+ ,  {
  "title":
  "Frankfurter Zeitung",
  "ref":
@@ -99,34 +104,14 @@
  "Die verhaßte Korrektheit. Wiener Novellette",
  "ref":
  "pmb144382"}
- ,  {
- "title":
- "Frau Bertha Garlan. Roman",
- "ref":
- "pmb30486"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berlin",
+ "Engadin",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
- "Nordmazedonien",
- "ref":
- "pmb54247"}
+ "pmb1061"}
  ,  {
  "placeName":
  "Makedonien",
@@ -134,14 +119,19 @@
  "pmb144291"}
  ,  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Preußen",
  "ref":
  "pmb206"}
  ,  {
  "placeName":
- "Engadin",
+ "Dessauer Straße",
  "ref":
- "pmb1061"}
+ "pmb40583"}
  ,  {
  "placeName":
  "Wörthersee",
@@ -149,9 +139,24 @@
  "pmb430"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Nordmazedonien",
+ "ref":
+ "pmb54247"}
+ ,  {
+ "placeName":
  "Mittellandkanal",
  "ref":
  "pmb144357"}
+ ,  {
+ "placeName":
+ "Welsberg-Taisten",
+ "ref":
+ "pmb428"}
  ,  {
  "placeName":
  "Hannover",
@@ -162,11 +167,6 @@
  "Elbe",
  "ref":
  "pmb90577"}
- ,  {
- "placeName":
- "Welsberg-Taisten",
- "ref":
- "pmb428"}
  ],
  "listOrg":
   [

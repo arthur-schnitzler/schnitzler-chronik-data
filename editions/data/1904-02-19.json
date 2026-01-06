@@ -40,6 +40,61 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04055",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04055.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 19. 2. 1904",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Max Schwarzkopf",
+ "ref":
+ "pmb24648"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -48,7 +103,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1904-02-19",
  "head":
- "Dresden"
+ "Dresden",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Dresden Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

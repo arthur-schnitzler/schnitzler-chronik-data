@@ -32,6 +32,178 @@
  "color":
  "#A63437",
  "filename":
+ "L04004",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04004.html",
+ "head":
+ "Berta Zuckerkandl an Arthur Schnitzler, [7. oder
+                  14. 11. 1911?]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
+ {
+ "persName":
+ "Maurice Rémon",
+ "ref":
+ "pmb23787"},
+ {
+ "persName":
+ "Lucien Guitry",
+ "ref":
+ "pmb17533"},
+ {
+ "persName":
+ "William Shakespeare",
+ "ref":
+ "pmb2412"},
+ {
+ "persName":
+ "Josef Kainz",
+ "ref":
+ "pmb11851"},
+ {
+ "persName":
+ "Wilhelm Bauer",
+ "ref":
+ "pmb13833"},
+ {
+ "persName":
+ "Ivan Sergeevič Turgenev",
+ "ref":
+ "pmb26238"},
+ {
+ "persName":
+ "Henri de Rochefort",
+ "ref":
+ "pmb23481"},
+ {
+ "persName":
+ "Maurice Vaucaire",
+ "ref":
+ "pmb26414"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Le Figaro",
+ "ref":
+ "pmb88803"}
+ ,  {
+ "title":
+ "Courrier des Théatres. Au jour le jour. Shakespeare disait [...] [Über die Wiener Uraufführung von Das weite Land]",
+ "ref":
+ "pmb300097"}
+ ,  {
+ "title":
+ "Souper d’Adieu",
+ "ref":
+ "pmb185653"}
+ ,  {
+ "title":
+ "Abschiedssouper",
+ "ref":
+ "pmb30005"}
+ ,  {
+ "title":
+ "Das weite Land. Tragikomödie in fünf Akten",
+ "ref":
+ "pmb30207"}
+ ,  {
+ "title":
+ "Dvorjanskoe gnezdo",
+ "ref":
+ "pmb80013"}
+ ,  {
+ "title":
+ "Das adelige Nest",
+ "ref":
+ "pmb80007"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Europa",
+ "ref":
+ "pmb468"}
+ ,  {
+ "placeName":
+ "Österreich-Ungarn",
+ "ref":
+ "pmb687"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Garmisch-Partenkirchen",
+ "ref":
+ "pmb667"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Burgtheater",
+ "ref":
+ "pmb36247"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L03789",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -66,20 +238,10 @@
  "persName":
  "Maurice Rémon",
  "ref":
- "pmb23787"},
- {
- "persName":
- "Noémi Valentin",
- "ref":
- "pmb46140"}],
+ "pmb23787"}],
  "listBibl":
   [
  {
- "title":
- "La femme au poignard",
- "ref":
- "pmb46129"}
- ,  {
  "title":
  "Les Morts se taisent",
  "ref":
@@ -89,34 +251,19 @@
  "Jour de gloire",
  "ref":
  "pmb296467"}
+ ,  {
+ "title":
+ "La femme au poignard",
+ "ref":
+ "pmb46129"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "VIII., Josefstadt",
- "ref":
- "pmb58"}
- ,  {
- "placeName":
  "Kochgasse 8",
  "ref":
  "pmb249577"}
- ,  {
- "placeName":
- "Hotel Atlantic",
- "ref":
- "pmb774"}
  ,  {
  "placeName":
  "Restaurant Pfordte im Hotel Atlantic",
@@ -127,6 +274,26 @@
  "Meran",
  "ref":
  "pmb43520"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
+ ,  {
+ "placeName":
+ "VIII., Josefstadt",
+ "ref":
+ "pmb58"}
+ ,  {
+ "placeName":
+ "Hotel Atlantic",
+ "ref":
+ "pmb774"}
  ]
 }
 }, {

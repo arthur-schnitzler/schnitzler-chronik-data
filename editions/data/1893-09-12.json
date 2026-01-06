@@ -73,14 +73,14 @@
  "pmb30"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Grillparzerstraße",
  "ref":
  "pmb412"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Hotel Goldenes Horn",
@@ -123,24 +123,47 @@
  "persName":
  "Theodor Herzl",
  "ref":
- "pmb11673"}],
+ "pmb11673"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
+ {
+ "persName":
+ "Paul Marx",
+ "ref":
+ "pmb21647"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listPlace":
   [
  {
- "placeName":
- "Baden bei Wien",
- "ref":
- "pmb662"}
- ,  {
  "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
+ "Baden bei Wien",
+ "ref":
+ "pmb662"}
+ ,  {
+ "placeName":
  "Salzburg",
  "ref":
  "pmb30"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Landesmuseum Burgenland",
+ "ref":
+ "pmb298922"}
  ]
 }
 }, {

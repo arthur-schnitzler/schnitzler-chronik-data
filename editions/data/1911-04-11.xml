@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,19 +109,19 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb15024">Sophie Clemenceau</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4719">Georges Clemenceau</persName>
+                        <persName ref="pmb2211">André Antoine</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
                      </person>
                      <person>
                         <persName ref="pmb299874">Albert Clemenceau</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2211">André Antoine</persName>
+                        <persName ref="pmb4719">Georges Clemenceau</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -129,22 +129,16 @@
                         <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb58327">Le Temps</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb299880">Chronique théatrale. Le théatre di Vienne. Revue de l’ anné</title>
+                        <title ref="pmb58327">Le Temps</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb299880">Chronique théatrale. Le théatre di Vienne. Revue de l’ année</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36456">Menton</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>
                      </place>
@@ -153,6 +147,12 @@
                      </place>
                      <place>
                         <placeName ref="pmb238485">Nusswaldgasse 22</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36456">Menton</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -179,33 +179,24 @@
                      <person>
                         <persName ref="pmb10992">Georg Brandes</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb33360">Det kgl. Teater [Der Schleier der Pierrette]</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb30215">Der Schleier der Pierrette. Pantomime in drei Bildern</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33358">Før og nu. To tragiske Skaebner</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33360">Det kgl. Teater [Der Schleier der Pierrette]</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                        <placeName ref="pmb1094">Boulevard Raspail</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36456">Menton</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                        <placeName ref="pmb1095">Hôtel Lutetia</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb1111">Havnegade</placeName>
@@ -214,13 +205,19 @@
                         <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36456">Menton</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1095">Hôtel Lutetia</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1094">Boulevard Raspail</placeName>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
                      </place>
                   </listPlace>
                </desc>

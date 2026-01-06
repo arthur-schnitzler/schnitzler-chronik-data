@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -141,28 +141,28 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40101">Liesingerstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb959">Marienlyst</placeName>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb909">Velden am Wörthersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb959">Marienlyst</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -185,26 +185,26 @@
                         <persName ref="pmb12050">Emil Lessing</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29913">Der Faun. Ein Akt</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30001">Der arme Narr. Lustspiel in einem Akt</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb118890">Nordsee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -213,10 +213,10 @@
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb959">Marienlyst</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb118890">Nordsee</placeName>
+                        <placeName ref="pmb959">Marienlyst</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb960">Noordwijk</placeName>
@@ -229,6 +229,45 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01604.html</idno>
+            </event>
+            <event when-iso="1906-06-24">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 24. 6. 1906</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9131">Jacques Offenbach</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb77025">Orpheus in der Unterwelt</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04027.html</idno>
             </event>
             <event when-iso="1906-06-24">
                <head>Hugo von Hofmannsthal an Arthur Schnitzler, [zwischen 24. und 27. 6. 1906]</head>
@@ -244,13 +283,13 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb6596">Ignaz Franz Castelli</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12468">Ferdinand Raimund</persName>
                      </person>
                      <person>
                         <persName ref="pmb39512">Hans Pöhnl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb6596">Ignaz Franz Castelli</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -263,16 +302,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb189">Semmering</placeName>
+                        <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb189">Semmering</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb413">Südbahnhotel [Semmering]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

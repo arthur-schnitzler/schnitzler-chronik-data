@@ -63,6 +63,11 @@
  "pmb2121"},
  {
  "persName":
+ "Ludwig Fulda",
+ "ref":
+ "pmb11391"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -71,16 +76,6 @@
  "Paul Lindau",
  "ref":
  "pmb12078"},
- {
- "persName":
- "Hugo Felix",
- "ref":
- "pmb3167"},
- {
- "persName":
- "Ludwig Fulda",
- "ref":
- "pmb11391"},
  {
  "persName":
  "Alfred de Musset",
@@ -98,26 +93,16 @@
  "pmb2173"},
  {
  "persName":
- "Heinrich Kanner",
+ "Hugo Felix",
  "ref":
- "pmb11867"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"}],
+ "pmb3167"}],
  "listBibl":
   [
  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Die Zeit",
  "ref":
- "pmb29985"}
- ,  {
- "title":
- "Kaltwasser. Lustspiel in drei Aufzügen",
- "ref":
- "pmb145920"}
+ "pmb35935"}
  ,  {
  "title":
  "Il ne faut jurer de rien",
@@ -130,14 +115,19 @@
  "pmb145669"}
  ,  {
  "title":
- "Die Zeit",
+ "Kaltwasser. Lustspiel in drei Aufzügen",
  "ref":
- "pmb35935"}
+ "pmb145920"}
  ,  {
  "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
  "pmb29857"}
+ ,  {
+ "title":
+ "Der einsame Weg. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29985"}
  ],
  "listPlace":
   [
@@ -148,19 +138,24 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
+ ,  {
+ "placeName":
+ "Volkstheater",
+ "ref":
+ "pmb20"}
  ,  {
  "placeName":
  "Ständetheater",
@@ -171,29 +166,24 @@
  "Prag",
  "ref":
  "pmb652"}
- ,  {
- "placeName":
- "Volkstheater",
- "ref":
- "pmb20"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
+ ,  {
  "orgName":
  "Volkstheater",
  "ref":
  "pmb36430"}
  ,  {
  "orgName":
- "Burgtheater",
+ "Rütten &amp; Loening",
  "ref":
- "pmb36247"}
- ,  {
- "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
+ "pmb29309"}
  ,  {
  "orgName":
  "Berliner Theater",
@@ -206,9 +196,9 @@
  "pmb35053"}
  ,  {
  "orgName":
- "Rütten &amp; Loening",
+ "Burgtheater",
  "ref":
- "pmb29309"}
+ "pmb36247"}
  ]
 }
 }, {

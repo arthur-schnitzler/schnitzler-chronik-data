@@ -91,11 +91,6 @@
  "pmb11867"},
  {
  "persName":
- "Karl Kraus",
- "ref":
- "pmb11988"},
- {
- "persName":
  "Isidor Singer",
  "ref":
  "pmb12790"},
@@ -103,7 +98,12 @@
  "persName":
  "Peter Altenberg",
  "ref":
- "pmb2147"}],
+ "pmb2147"},
+ {
+ "persName":
+ "Karl Kraus",
+ "ref":
+ "pmb11988"}],
  "listBibl":
   [
  {
@@ -232,32 +232,17 @@
  "pmb11485"},
  {
  "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
  "Peter Nansen",
  "ref":
  "pmb2357"},
  {
  "persName":
- "William Norrie",
+ "Leopold Sonnemann",
  "ref":
- "pmb58998"},
- {
- "persName":
- "Carl Ludwig Emil Jensen",
- "ref":
- "pmb63606"}],
+ "pmb87771"}],
  "listBibl":
   [
  {
- "title":
- "Arthur Schnitzler. »Elskovsleg«s Forfatter",
- "ref":
- "pmb30470"}
- ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
@@ -267,24 +252,19 @@
  "Elskovsleg. Skuespil i 3 akter",
  "ref":
  "pmb63602"}
+ ,  {
+ "title":
+ "Arthur Schnitzler. »Elskovsleg«s Forfatter",
+ "ref":
+ "pmb30470"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Paris",
+ "Frankfurt am Main",
  "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
+ "pmb146"}
  ,  {
  "placeName":
  "Frankreich",
@@ -292,32 +272,42 @@
  "pmb166"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Paris",
  "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Nizza",
- "ref":
- "pmb926"}
+ "pmb182"}
  ,  {
  "placeName":
  "Kopenhagen",
  "ref":
  "pmb36300"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Nizza",
+ "ref":
+ "pmb926"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
  "Französisches Finanzministerium",
  "ref":
  "pmb118432"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
  ,  {
  "orgName":
  "Folketeatret",
@@ -357,47 +347,6 @@
  "subtype":
  "schnitzler-kultur",
  "filename":
- "pmb184192",
- "idno":
- "https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html",
- "head":
- "Private Lesung von Der Ehrentag, 22.3.1897",
- "desc":
-{"listBibl":
-  [
- {
- "title":
- "Der Ehrentag",
- "ref":
- ""}
- ],
- "listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- ""},
- {
- "persName":
- "Marie Reinhard",
- "ref":
- ""}],
- "listPlace":
-  [
- {
- "placeName":
- "?? [»bei Uns«, Absteigequartier IV Marie Reinhard und Arthur Schnitzler]",
- "ref":
- ""}
- ]
-}
-}, {
- "type":
- "URL",
- "subtype":
- "schnitzler-kultur",
- "filename":
  "pmb183906",
  "idno":
  "https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html",
@@ -416,17 +365,22 @@
   [
 {
  "persName":
- "Arthur Schnitzler",
- "ref":
- ""},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  ""},
  {
  "persName":
  "Georg Hirschfeld",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Marie Reinhard",
  "ref":
  ""}],
  "listPlace":

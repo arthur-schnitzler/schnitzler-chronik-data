@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -127,7 +127,7 @@
                         <persName ref="pmb13212">Zweig, Stefan</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13212">Stefan Zweig</persName>
+                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
                      </person>
                      <person>
                         <persName ref="pmb12543">Romain Rolland</persName>
@@ -139,56 +139,39 @@
                         <persName ref="pmb13136">Alfred von Winterstein</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3068">Isabella Vengerova</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb21549">Alice Moller</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3739">Lew Nikolajewitsch Tolstoi</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4279">Anatole France</persName>
+                        <persName ref="pmb13212">Stefan Zweig</persName>
                      </person>
                      <person>
                         <persName ref="pmb2412">William Shakespeare</persName>
                      </person>
                      <person>
-                        <persName ref="pmb15271">Eugen Deimel</persName>
+                        <persName ref="pmb3739">Lew Nikolajewitsch Tolstoi</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4829">Friderike Maria Zweig</persName>
+                        <persName ref="pmb4279">Anatole France</persName>
                      </person>
                      <person>
                         <persName ref="pmb298330">Felix Adolf von Winternitz</persName>
                      </person>
                      <person>
-                        <persName ref="pmb27739">
-                  ?? [Journalist, der fiktives russisches Interview verantwortet]
-               </persName>
+                        <persName ref="pmb4829">Friderike Maria Zweig</persName>
                      </person>
                      <person>
-                        <persName ref="pmb259326">Paul Seippel</persName>
+                        <persName ref="pmb15271">Eugen Deimel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21549">Alice Moller</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3068">Isabella Vengerova</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb296393">Ein Brief Artur Schnitzlers</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32959">?? [Fiktives Interview aus St. Petersburg, 1914]</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb58400">New Yorker Staats-Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb58394">Artur Schnitzler über den Krieg. Brief an einen Schulfreund in New York</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58493">Journal de Genève</title>
+                        <title ref="pmb296393">Ein Brief Artur Schnitzlers</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb42406">Neue Zürcher Zeitung</title>
@@ -196,11 +179,17 @@
                      <bibl>
                         <title ref="pmb58490">Une protestation d’Arthur Schnitzler</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb58493">Journal de Genève</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32959">?? [Fiktives Interview aus St. Petersburg, 1914]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58394">Artur Schnitzler über den Krieg. Brief an einen Schulfreund in New York</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
@@ -211,18 +200,21 @@
                         <placeName ref="pmb433">Sankt Petersburg</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb44053">New York City</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb293828">Kriegsarchiv</orgName>
+                        <orgName ref="pmb293721">Außenministerium</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb293721">Außenministerium</orgName>
+                        <orgName ref="pmb293828">Kriegsarchiv</orgName>
                      </org>
                   </listOrg>
                </desc>

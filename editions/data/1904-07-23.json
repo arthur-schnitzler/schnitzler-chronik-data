@@ -61,69 +61,14 @@
  "pmb2121"},
  {
  "persName":
+ "Paula Beer-Hofmann",
+ "ref":
+ "pmb10860"},
+ {
+ "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
- {
- "persName":
- "Arthur Kaufmann",
- "ref":
- "pmb2496"},
- {
- "persName":
- "Gustav Charlé",
- "ref":
- "pmb6621"},
- {
- "persName":
- "Gustav Müller",
- "ref":
- "pmb21716"},
- {
- "persName":
- "Emmy Förster",
- "ref":
- "pmb16826"},
- {
- "persName":
- "Annie Neumann-Hofer",
- "ref":
- "pmb51433"},
- {
- "persName":
- "Oskar Beraun",
- "ref":
- "pmb51458"},
- {
- "persName":
- "Theodor Robert",
- "ref":
- "pmb51474"},
- {
- "persName":
- "Rosa Vennyer",
- "ref":
- "pmb51472"},
- {
- "persName":
- "Friedrich Schönhof",
- "ref":
- "pmb51466"},
- {
- "persName":
- "Helene Robert",
- "ref":
- "pmb51476"},
- {
- "persName":
- "Arthur Pserhofer",
- "ref":
- "pmb3747"},
- {
- "persName":
- "Marie Madeleine",
- "ref":
- "pmb51448"},
  {
  "persName":
  "Otto Julius Bierbaum",
@@ -131,9 +76,64 @@
  "pmb10928"},
  {
  "persName":
+ "Emmy Förster",
+ "ref":
+ "pmb16826"},
+ {
+ "persName":
+ "Gustav Müller",
+ "ref":
+ "pmb21716"},
+ {
+ "persName":
+ "Arthur Kaufmann",
+ "ref":
+ "pmb2496"},
+ {
+ "persName":
+ "Arthur Pserhofer",
+ "ref":
+ "pmb3747"},
+ {
+ "persName":
+ "Annie Neumann-Hofer",
+ "ref":
+ "pmb51433"},
+ {
+ "persName":
+ "Marie Madeleine",
+ "ref":
+ "pmb51448"},
+ {
+ "persName":
+ "Oskar Beraun",
+ "ref":
+ "pmb51458"},
+ {
+ "persName":
  "Hilda Jenik",
  "ref":
  "pmb51463"},
+ {
+ "persName":
+ "Friedrich Schönhof",
+ "ref":
+ "pmb51466"},
+ {
+ "persName":
+ "Rosa Vennyer",
+ "ref":
+ "pmb51472"},
+ {
+ "persName":
+ "Theodor Robert",
+ "ref":
+ "pmb51474"},
+ {
+ "persName":
+ "Helene Robert",
+ "ref":
+ "pmb51476"},
  {
  "persName":
  "Friedrich Digruber",
@@ -141,17 +141,22 @@
  "pmb51482"},
  {
  "persName":
- "Olga Schnitzler",
+ "Gustav Charlé",
  "ref":
- "pmb2173"},
+ "pmb6621"},
  {
  "persName":
- "Paula Beer-Hofmann",
+ "Olga Schnitzler",
  "ref":
- "pmb10860"}],
+ "pmb2173"}],
  "listBibl":
   [
  {
+ "title":
+ "Literatur",
+ "ref":
+ "pmb29869"}
+ ,  {
  "title":
  "Kollegen!",
  "ref":
@@ -163,28 +168,28 @@
  "pmb51439"}
  ,  {
  "title":
- "Auf Kypros",
- "ref":
- "pmb51454"}
- ,  {
- "title":
  "Das Mädchen ohne Bräutigam",
  "ref":
  "pmb51442"}
  ,  {
  "title":
+ "Auf Kypros",
+ "ref":
+ "pmb51454"}
+ ,  {
+ "title":
  "Am Theater und im Leben",
  "ref":
  "pmb51460"}
- ,  {
- "title":
- "Literatur",
- "ref":
- "pmb29869"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
  "placeName":
  "Bad Aussee",
  "ref":
@@ -194,11 +199,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Ischler Straße",
@@ -259,8 +259,24 @@
  "XVIII., Währing",
  "ref":
  ""}
+ ,  {
+ "placeName":
+ "X., Favoriten",
+ "ref":
+ ""}
  ]
 }
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1904-07-23",
+ "head":
+ "Bahnhof Payerbach-Reichenau"
 }, {
  "type":
  "schnitzler-cmif",

@@ -68,14 +68,14 @@
   [
  {
  "placeName":
+ "Hôtel de France",
+ "ref":
+ "pmb135155"}
+ ,  {
+ "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
- ,  {
- "placeName":
- "Toblach",
- "ref":
- "pmb987"}
  ,  {
  "placeName":
  "Rennes",
@@ -83,9 +83,9 @@
  "pmb55293"}
  ,  {
  "placeName":
- "Hôtel de France",
+ "Toblach",
  "ref":
- "pmb135155"}
+ "pmb987"}
  ,  {
  "placeName":
  "Wien",
@@ -103,7 +103,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1899-08-03",
  "head":
- "Toblach"
+ "Toblach",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Südbahnhotel [Toblach]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

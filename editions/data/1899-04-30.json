@@ -72,51 +72,36 @@
  "color":
  "#A63437",
  "filename":
- "L03543",
+ "L04123",
  "caption":
  "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03543.html",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04123.html",
  "head":
- "Ludwig Ganghofer an Arthur Schnitzler, 30. 4. [1899]",
+ "Arthur Schnitzler an Gustav Schwarzkopf, 30. 4. 1899",
  "desc":
 {"listPerson":
   [
 {
- "persName":
- "Ludwig Ganghofer",
- "ref":
- "pmb11402"},
- {
  "persName":
  "Arthur Schnitzler",
  "ref":
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb10863"},
+ "pmb12740"},
  {
  "persName":
- "Frimmel",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb148058"},
+ "pmb12740"},
  {
  "persName":
- "Ludwig Ganghofer",
+ "Marie Reinhard",
  "ref":
- "pmb11402"},
- {
- "persName":
- "Gabriele D’Annunzio",
- "ref":
- "pmb2142"},
- {
- "persName":
- "Wilhelm von Scholz",
- "ref":
- "pmb9756"}],
+ "pmb2378"}],
  "listBibl":
   [
  {
@@ -126,14 +111,9 @@
  "pmb29843"}
  ,  {
  "title":
- "Traum eines Frühlingsmorgens",
+ "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
  "ref":
- "pmb50633"}
- ,  {
- "title":
- "Mein Fürst",
- "ref":
- "pmb50636"}
+ "pmb32562"}
  ],
  "listPlace":
   [
@@ -144,37 +124,19 @@
  "pmb168"}
  ,  {
  "placeName":
- "Haupttelegrafenamt",
+ "I., Innere Stadt",
  "ref":
- "pmb148055"}
+ "pmb51"}
  ,  {
  "placeName":
- "Hotel Savoy [Berlin]",
+ "Wien",
  "ref":
- "pmb545"}
+ "pmb50"}
  ,  {
  "placeName":
- "Friedrichstraße [Berlin]",
+ "Tiefer Graben 23",
  "ref":
- "pmb482"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Residenztheater München",
- "ref":
- "pmb635"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Residenztheater München",
- "ref":
- "pmb48177"}
+ "pmb207296"}
  ]
 }
 }, {
@@ -235,9 +197,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
+ "Alfred Gold",
  "ref":
- "pmb2167"},
+ "pmb11469"},
  {
  "persName":
  "Georg Hirschfeld",
@@ -255,26 +217,114 @@
  "pmb2147"},
  {
  "persName":
- "Alfred Gold",
+ "Felix Salten",
  "ref":
- "pmb11469"},
- {
- "persName":
- "Elly Petersen",
- "ref":
- "pmb9233"},
+ "pmb2167"},
  {
  "persName":
  "Ottilie Salten",
  "ref":
- "pmb23918"}],
+ "pmb23918"},
+ {
+ "persName":
+ "Elly Petersen",
+ "ref":
+ "pmb9233"}],
  "listPlace":
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ "pmb545"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L03543",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L03543.html",
+ "head":
+ "Ludwig Ganghofer an Arthur Schnitzler, 30. 4. [1899]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Ludwig Ganghofer",
+ "ref":
+ "pmb11402"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Ludwig Ganghofer",
+ "ref":
+ "pmb11402"},
+ {
+ "persName":
+ "Frimmel",
+ "ref":
+ "pmb148058"},
+ {
+ "persName":
+ "Gabriele D’Annunzio",
+ "ref":
+ "pmb2142"},
+ {
+ "persName":
+ "Wilhelm von Scholz",
+ "ref":
+ "pmb9756"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
+ ,  {
+ "title":
+ "Traum eines Frühlingsmorgens",
+ "ref":
+ "pmb50633"}
+ ,  {
+ "title":
+ "Mein Fürst",
+ "ref":
+ "pmb50636"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Haupttelegrafenamt",
+ "ref":
+ "pmb148055"}
  ,  {
  "placeName":
  "Berlin",
@@ -282,9 +332,32 @@
  "pmb168"}
  ,  {
  "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Friedrichstraße [Berlin]",
+ "ref":
+ "pmb482"}
+ ,  {
+ "placeName":
  "Hotel Savoy [Berlin]",
  "ref":
  "pmb545"}
+ ,  {
+ "placeName":
+ "Residenztheater München",
+ "ref":
+ "pmb635"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Residenztheater München",
+ "ref":
+ "pmb48177"}
  ]
 }
 }, {

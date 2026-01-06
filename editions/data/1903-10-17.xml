@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -84,6 +84,9 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
@@ -91,12 +94,6 @@
                      </person>
                      <person>
                         <persName ref="pmb2922">Paul Salten</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143560">Richard Lux</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -134,22 +131,13 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50087">Türkenstraße [München]</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb1166">Arcisstraße</placeName>
                      </place>
@@ -158,6 +146,15 @@
                      </place>
                      <place>
                         <placeName ref="pmb254">England</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50087">Türkenstraße [München]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>

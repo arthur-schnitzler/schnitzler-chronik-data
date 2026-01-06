@@ -48,24 +48,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
  {
  "persName":
- "Heinrich Kanner",
+ "Paul Goldmann",
  "ref":
- "pmb11867"},
+ "pmb11485"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -73,9 +63,9 @@
  "pmb11740"},
  {
  "persName":
- "Albert Langen",
+ "Heinrich Kanner",
  "ref":
- "pmb3379"},
+ "pmb11867"},
  {
  "persName":
  "Willy Gretor",
@@ -83,9 +73,19 @@
  "pmb2896"},
  {
  "persName":
+ "Albert Langen",
+ "ref":
+ "pmb3379"},
+ {
+ "persName":
  "Albrecht Altdorfer",
  "ref":
  "pmb65530"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
  {
  "persName":
  "Richard Beer-Hofmann",
@@ -100,69 +100,14 @@
  "persName":
  "Fedor Mamroth",
  "ref":
- "pmb4986"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"},
- {
- "persName":
- "J. Schwarz",
- "ref":
- "pmb42204"}],
+ "pmb4986"}],
  "listBibl":
   [
  {
  "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
- ,  {
- "title":
  "Sterben. Novelle",
  "ref":
  "pmb30117"}
- ,  {
- "title":
- "Laubwald mit dem heiligen Georg",
- "ref":
- "pmb65529"}
  ,  {
  "title":
  "Das junge Österreich",
@@ -170,9 +115,9 @@
  "pmb30271"}
  ,  {
  "title":
- "Deutsche Zeitung",
+ "Die überspannte Person",
  "ref":
- "pmb41471"}
+ "pmb30391"}
  ,  {
  "title":
  "Studien zur Kritik der Moderne",
@@ -185,24 +130,34 @@
  "pmb33243"}
  ,  {
  "title":
- "Simplicissimus",
- "ref":
- "pmb50245"}
- ,  {
- "title":
- "Die überspannte Person",
- "ref":
- "pmb30391"}
- ,  {
- "title":
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
  ,  {
  "title":
+ "Deutsche Zeitung",
+ "ref":
+ "pmb41471"}
+ ,  {
+ "title":
  "Belletristische Rundschau",
  "ref":
  "pmb42201"}
+ ,  {
+ "title":
+ "Simplicissimus",
+ "ref":
+ "pmb50245"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
+ ,  {
+ "title":
+ "Laubwald mit dem heiligen Georg",
+ "ref":
+ "pmb65529"}
  ],
  "listPlace":
   [
@@ -213,11 +168,6 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "rue Feydeau",
  "ref":
  "pmb42671"}
@@ -226,6 +176,11 @@
  "München",
  "ref":
  "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Alte Pinakothek",

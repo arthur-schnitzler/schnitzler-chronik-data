@@ -67,6 +67,64 @@
  "color":
  "#A63437",
  "filename":
+ "L04041",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04041.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [23. oder 24. 11. 1896?]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Oskar Blumenthal",
+ "ref":
+ "pmb14328"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L00624",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -164,6 +222,11 @@
  "pmb11485"},
  {
  "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
  "Leopold Sonnemann",
  "ref":
  "pmb87771"},
@@ -176,35 +239,10 @@
  "persName":
  "Lucien Millevoye",
  "ref":
- "pmb21481"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Benjamin Constant",
- "ref":
- "pmb15088"}],
+ "pmb21481"}],
  "listBibl":
   [
  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Die Affaire Goldmann–Millevoye",
- "ref":
- "pmb141940"}
- ,  {
- "title":
- "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
- "ref":
- "pmb92876"}
- ,  {
  "title":
  "Mercure de France",
  "ref":
@@ -214,6 +252,21 @@
  "Adolphe. Anecdote trouvée dans les papiers d’un inconnu",
  "ref":
  "pmb79281"}
+ ,  {
+ "title":
+ "Die Affaire Goldmann–Millevoye",
+ "ref":
+ "pmb141940"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
+ ,  {
+ "title":
+ "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
+ "ref":
+ "pmb92876"}
  ],
  "listPlace":
   [
@@ -224,14 +277,14 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "rue Feydeau",
  "ref":
  "pmb42671"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [

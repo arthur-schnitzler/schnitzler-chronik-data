@@ -57,6 +57,11 @@
  "pmb2121"},
  {
  "persName":
+ "Bogumil Zepler",
+ "ref":
+ "pmb10666"},
+ {
+ "persName":
  "Felix Salten",
  "ref":
  "pmb2167"},
@@ -67,9 +72,9 @@
  "pmb3167"},
  {
  "persName":
- "Bogumil Zepler",
+ "Friedrich von Bodenstedt",
  "ref":
- "pmb10666"},
+ "pmb10973"},
  {
  "persName":
  "Josef Willomitzer",
@@ -79,30 +84,20 @@
  "persName":
  "Mirzä Şäfi Vazeh",
  "ref":
- "pmb145825"},
- {
- "persName":
- "Friedrich von Bodenstedt",
- "ref":
- "pmb10973"},
- {
- "persName":
- "Otto Julius Bierbaum",
- "ref":
- "pmb10928"},
- {
- "persName":
- "Alfred Walter von Heymel",
- "ref":
- "pmb7855"},
- {
- "persName":
- "Rudolf Alexander Schröder",
- "ref":
- "pmb12722"}],
+ "pmb145825"}],
  "listBibl":
   [
  {
+ "title":
+ "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
+ "ref":
+ "pmb40598"}
+ ,  {
+ "title":
+ "Die Gedenktafel der Prinzessin Anna",
+ "ref":
+ "pmb76511"}
+ ,  {
  "title":
  "Neue Loreley",
  "ref":
@@ -117,54 +112,19 @@
  "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
  "pmb29985"}
- ,  {
- "title":
- "Die Gedenktafel der Prinzessin Anna",
- "ref":
- "pmb76511"}
- ,  {
- "title":
- "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
- "ref":
- "pmb40598"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
- "Verona",
+ "Bad Ischl",
  "ref":
- "pmb44153"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
+ "pmb213"}
  ,  {
  "placeName":
  "Lago di Garda",
@@ -172,19 +132,44 @@
  "pmb39975"}
  ,  {
  "placeName":
+ "Verona",
+ "ref":
+ "pmb44153"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Venedig",
+ "ref":
+ "pmb462"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
  "Jung-Wiener Theater zum Lieben Augustin",
  "ref":
  "pmb1"}
  ,  {
  "placeName":
- "Feldkirch",
- "ref":
- "pmb44368"}
- ,  {
- "placeName":
  "St. Anton am Arlberg",
  "ref":
  "pmb212"}
+ ,  {
+ "placeName":
+ "Feldkirch",
+ "ref":
+ "pmb44368"}
  ]
 }
 }, {
@@ -197,5 +182,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-07-28",
  "head":
- "Vahrn"
+ "Vahrn",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Gasthof und Pension Waldsacker",
+ "ref":
+ ""}
+ ]
+}
 }] 

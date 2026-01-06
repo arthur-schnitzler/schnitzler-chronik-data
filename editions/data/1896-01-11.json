@@ -124,29 +124,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Henri de Riaz",
- "ref":
- "pmb93707"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
  {
  "persName":
  "Ludwig Speidel",
@@ -154,14 +139,14 @@
  "pmb12816"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Jean Thorel",
  "ref":
- "pmb10863"},
+ "pmb3966"},
  {
  "persName":
- "Justin de Selves",
+ "Leopold Sonnemann",
  "ref":
- "pmb93756"},
+ "pmb87771"},
  {
  "persName":
  "[Bl]an[qui?]",
@@ -169,32 +154,22 @@
  "pmb93760"},
  {
  "persName":
- "Eduard Bacher",
+ "Fedor Mamroth",
  "ref":
- "pmb10809"},
+ "pmb4986"},
  {
  "persName":
- "Moriz Benedikt",
+ "Henri de Riaz",
  "ref":
- "pmb10875"},
+ "pmb93707"},
  {
  "persName":
- "Ernst Benedikt",
+ "Justin de Selves",
  "ref":
- "pmb10872"}],
+ "pmb93756"}],
  "listBibl":
   [
  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Deux sœurs, pièce en 3 actes",
- "ref":
- "pmb93497"}
- ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
@@ -206,9 +181,9 @@
  "pmb29899"}
  ,  {
  "title":
- "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
+ "Neue Freie Presse",
  "ref":
- "pmb92876"}
+ "pmb36374"}
  ,  {
  "title":
  "Theater- und Kunstnachrichten. [Burgtheater] [Liebelei, Rechte der Seele]",
@@ -216,42 +191,32 @@
  "pmb42512"}
  ,  {
  "title":
- "Neue Freie Presse",
+ "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
  "ref":
- "pmb36374"}
+ "pmb92876"}
  ,  {
  "title":
  "Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa, deutsch von Otto Eisenschitz.)",
  "ref":
  "pmb93273"}
+ ,  {
+ "title":
+ "Deux sœurs, pièce en 3 actes",
+ "ref":
+ "pmb93497"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Lyon",
- "ref":
- "pmb63779"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Deutschland",
@@ -264,9 +229,14 @@
  "pmb166"}
  ,  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
  ,  {
  "placeName":
  "Österreich",
@@ -274,19 +244,34 @@
  "pmb41240"}
  ,  {
  "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Lyon",
+ "ref":
+ "pmb63779"}
+ ,  {
+ "placeName":
  "Rue de Milan",
  "ref":
  "pmb93477"}
  ,  {
  "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
  "Deutsches Theater Berlin",
  "ref":
  "pmb3"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
  ],
  "listOrg":
   [
@@ -295,6 +280,16 @@
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
+ ,  {
+ "orgName":
+ "Théâtre de l’Œuvre",
+ "ref":
+ "pmb88605"}
+ ,  {
+ "orgName":
+ "Théâtre Libre",
+ "ref":
+ "pmb88609"}
  ,  {
  "orgName":
  "Französische Post",
@@ -310,16 +305,6 @@
  "Odéon",
  "ref":
  "pmb93494"}
- ,  {
- "orgName":
- "Théâtre de l’Œuvre",
- "ref":
- "pmb88605"}
- ,  {
- "orgName":
- "Théâtre Libre",
- "ref":
- "pmb88609"}
  ,  {
  "orgName":
  "Ministère du Commerce, de l’Industrie et des Colonies",

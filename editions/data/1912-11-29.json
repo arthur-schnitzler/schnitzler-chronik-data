@@ -121,14 +121,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Paula Beer-Hofmann",
  "ref":
- "pmb10860"}],
+ "pmb10860"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"}],
  "listBibl":
   [
  {
@@ -141,11 +141,6 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -154,6 +149,11 @@
  "Kleines Theater",
  "ref":
  "pmb208"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -184,6 +184,11 @@
  "pmb2121"},
  {
  "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"},
+ {
+ "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
@@ -191,34 +196,29 @@
  "persName":
  "Gustav Geier",
  "ref":
- "pmb45332"},
- {
- "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"}],
+ "pmb45332"}],
  "listPlace":
   [
  {
- "placeName":
- "Hotel Esplanade [Berlin]",
- "ref":
- "pmb245"}
- ,  {
  "placeName":
  "Hotel Adlon",
  "ref":
  "pmb1090"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Hotel Esplanade [Berlin]",
+ "ref":
+ "pmb245"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -249,24 +249,19 @@
  "pmb2121"},
  {
  "persName":
- "Therese Rie",
- "ref":
- "pmb4836"},
- {
- "persName":
  "Johann Wolfgang von Goethe",
  "ref":
  "pmb11461"},
  {
  "persName":
- "Maximilian Herz",
+ "Therese Rie",
  "ref":
- "pmb56051"},
+ "pmb4836"},
  {
  "persName":
- "Johann Schnitzler",
+ "Ferdinand Onno",
  "ref":
- "pmb12695"},
+ "pmb12378"},
  {
  "persName":
  "Julius von Hochenegg",
@@ -274,9 +269,14 @@
  "pmb7882"},
  {
  "persName":
- "Ferdinand Onno",
+ "Johann Schnitzler",
  "ref":
- "pmb12378"}],
+ "pmb12695"},
+ {
+ "persName":
+ "Maximilian Herz",
+ "ref":
+ "pmb56051"}],
  "listBibl":
   [
  {

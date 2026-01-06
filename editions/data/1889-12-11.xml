@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,33 +114,6 @@
                         <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
                      </org>
                   </listOrg>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb14953">Glümer, Marie</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
-                        <location>
-                           <geo>48,210333 16,37084</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
-            </event>
-            <event when-iso="1889-12-11">
-               <head>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                     </org>
-                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb31729">Die Journalisten. Lustspiel in vier Akten</title>
@@ -165,6 +138,7 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
             </event>
          </listEvent>
       </body>

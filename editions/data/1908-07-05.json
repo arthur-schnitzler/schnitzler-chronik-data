@@ -84,6 +84,11 @@
  "pmb13212"},
  {
  "persName":
+ "Honoré de Balzac",
+ "ref":
+ "pmb10825"},
+ {
+ "persName":
  "Stefan Zweig",
  "ref":
  "pmb13212"},
@@ -92,11 +97,6 @@
  "Franz August Carl Maria Reisch",
  "ref":
  "pmb27687"},
- {
- "persName":
- "Honoré de Balzac",
- "ref":
- "pmb10825"},
  {
  "persName":
  "Lothar Brieger",
@@ -124,21 +124,6 @@
   [
  {
  "placeName":
- "Seis am Schlern",
- "ref":
- "pmb988"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "VIII., Josefstadt",
- "ref":
- "pmb58"}
- ,  {
- "placeName":
  "Kochgasse 8",
  "ref":
  "pmb249577"}
@@ -159,14 +144,29 @@
  "pmb296525"}
  ,  {
  "placeName":
+ "Meran",
+ "ref":
+ "pmb43520"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "VIII., Josefstadt",
+ "ref":
+ "pmb58"}
+ ,  {
+ "placeName":
  "Südtirol",
  "ref":
  "pmb969"}
  ,  {
  "placeName":
- "Meran",
+ "Seis am Schlern",
  "ref":
- "pmb43520"}
+ "pmb988"}
  ],
  "listOrg":
   [
@@ -210,16 +210,6 @@
  "pmb2167"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Michael Emil Salzmann",
- "ref":
- "pmb45493"},
- {
- "persName":
  "Ottilie Salten",
  "ref":
  "pmb23918"},
@@ -227,24 +217,34 @@
  "persName":
  "Marie Salzmann",
  "ref":
- "pmb142895"}],
+ "pmb142895"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Michael Emil Salzmann",
+ "ref":
+ "pmb45493"}],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Noordwijk",
- "ref":
- "pmb960"}
- ,  {
- "placeName":
  "Franzensbad",
  "ref":
  "pmb390"}
+ ,  {
+ "placeName":
+ "Salzkammergut",
+ "ref":
+ "pmb429"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Bayreuth",
@@ -252,9 +252,9 @@
  "pmb734"}
  ,  {
  "placeName":
- "Salzkammergut",
+ "Noordwijk",
  "ref":
- "pmb429"}
+ "pmb960"}
  ]
 }
 }, {

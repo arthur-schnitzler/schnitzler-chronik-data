@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -151,9 +151,6 @@
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2147">Peter Altenberg</persName>
                      </person>
                      <person>
@@ -166,31 +163,13 @@
                         <persName ref="pmb24705">Paul von Schönthan-Pernwald</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb12414">Felix Philippi</persName>
                      </person>
                      <person>
                         <persName ref="pmb11933">Heinrich von Kleist</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb119261">Peter Michael Braunwarth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb65504">Reinhard Urbach</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143327">Werner Welzig</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143331">Richard Miklin</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb119271">Konstanze Fliedl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143334">Walter Ruprechter</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143337">Susanne Pertlik</persName>
                      </person>
                      <person>
                         <persName ref="pmb25793">Julius Szeps</persName>
@@ -198,16 +177,7 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb93080">Deutsches Theater</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb36352">Mährisches Tagblatt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144859">»Liebelei«. Schauspiel in 3 Acten von Arthur Schnitzler</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144869">Wilhelmine Mitterwurzer</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144893">Gelegenheitskauf</title>
@@ -234,7 +204,16 @@
                         <title ref="pmb41531">Berliner Tageblatt</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb93080">Deutsches Theater</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb93074">Der zerbrochene Krug im Deutschen Theater</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144859">»Liebelei«. Schauspiel in 3 Acten von Arthur Schnitzler</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144869">Wilhelmine Mitterwurzer</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
@@ -277,9 +256,6 @@
                         <orgName ref="pmb29414">Neues Wiener Tagblatt</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29670">Wiener Allgemeine Zeitung</orgName>
-                     </org>
-                     <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
                      </org>
                      <org>
@@ -293,6 +269,9 @@
                      </org>
                      <org>
                         <orgName ref="pmb144863">Mährisches Theater Olmütz</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29670">Wiener Allgemeine Zeitung</orgName>
                      </org>
                   </listOrg>
                </desc>

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,7 +109,7 @@
                         <title ref="pmb30433">Fédora</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31417">Julius Caesar</title>
+                        <title ref="pmb31417">The Tragedy of Julius Caesar</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -143,16 +143,13 @@
                         <persName ref="pmb11673">Herzl, Theodor</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11673">Theodor Herzl</persName>
                      </person>
                      <person>
                         <persName ref="pmb2980">Miguel de Cervantes Saavedra</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb94369">Emil Gött</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -162,10 +159,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb14">Burgtheater</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb14">Burgtheater</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -200,7 +197,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb31417">Julius Caesar</title>
+                        <title key="pmb31417">The Tragedy of Julius Caesar</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>

@@ -34,6 +34,64 @@
  "color":
  "#A63437",
  "filename":
+ "L04083",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04083.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 27. 6. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die Quellen des Nil",
+ "ref":
+ "pmb30625"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
+ ,  {
+ "placeName":
+ "Gesäuse",
+ "ref":
+ "pmb90707"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L02922",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -56,14 +114,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
  {
  "persName":
  "Robert Hirschfeld",
@@ -73,42 +131,7 @@
  "persName":
  "Leo Van-Jung",
  "ref":
- "pmb26392"},
- {
- "persName":
- "Peter Michael Braunwarth",
- "ref":
- "pmb119261"},
- {
- "persName":
- "Reinhard Urbach",
- "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"}],
+ "pmb26392"}],
  "listBibl":
   [
  {
@@ -180,6 +203,11 @@
   [
  {
  "placeName":
+ "X., Favoriten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
  "IX., Alsergrund",
  "ref":
  ""}
@@ -195,5 +223,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1900-06-27",
  "head":
- "Baden bei Wien"
+ "Baden bei Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Baden bei Wien",
+ "ref":
+ ""}
+ ]
+}
 }] 

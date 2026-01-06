@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,9 +108,6 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12303">Wolfgang Amadeus Mozart</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12608">Charles Augustin de Sainte-Beuve</persName>
                      </person>
                      <person>
@@ -128,10 +125,16 @@
                      <person>
                         <persName ref="pmb5860">Hugh Conway</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12303">Wolfgang Amadeus Mozart</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb30141">Gestern. Dramatische Studie in einem Akt in Versen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41466">Allgemeine Kunst-Chronik</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31947">Die Mozart-Centenarfeier in Salzburg</title>
@@ -144,9 +147,6 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb35942">Moderne Rundschau</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb41466">Allgemeine Kunst-Chronik</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32272">Age of Innocence</title>
@@ -168,13 +168,13 @@
                   </listPlace>
                   <listOrg>
                      <org>
+                        <orgName ref="pmb29781">»Freie Bühne« Verein für moderne Literatur</orgName>
+                     </org>
+                     <org>
                         <orgName ref="pmb29608">Mozart Zentenarfeier 14.–17. 7. 1891</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29639">S. Fischer Verlag</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29781">»Freie Bühne« Verein für moderne Literatur</orgName>
                      </org>
                   </listOrg>
                </desc>

@@ -63,24 +63,9 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb11485"},
- {
- "persName":
- "Recha Wolff",
- "ref":
- "pmb118064"},
- {
- "persName":
- "Theodor Wolff",
- "ref":
- "pmb13163"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
+ "pmb10863"},
  {
  "persName":
  "Georg Brandes",
@@ -88,19 +73,9 @@
  "pmb10992"},
  {
  "persName":
- "Theodor Herzl",
+ "Paul Goldmann",
  "ref":
- "pmb11673"},
- {
- "persName":
- "Maurice Leudet",
- "ref":
- "pmb112502"},
- {
- "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"},
+ "pmb11485"},
  {
  "persName":
  "Stefan Großmann",
@@ -108,19 +83,14 @@
  "pmb11527"},
  {
  "persName":
- "Felix Salten",
+ "Theodor Herzl",
  "ref":
- "pmb2167"},
+ "pmb11673"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Recha Wolff",
  "ref":
- "pmb10863"},
- {
- "persName":
- "Leo Van-Jung",
- "ref":
- "pmb26392"},
+ "pmb118064"},
  {
  "persName":
  "Marta Wolff",
@@ -128,19 +98,29 @@
  "pmb118066"},
  {
  "persName":
- "Samuel Fischer",
+ "Theodor Wolff",
  "ref":
- "pmb11324"},
+ "pmb13163"},
  {
  "persName":
- "Olga von Gans-Ludassy",
+ "Felix Salten",
  "ref":
- "pmb16902"},
+ "pmb2167"},
  {
  "persName":
- "Julius von Gans-Ludassy",
+ "Leo Van-Jung",
  "ref":
- "pmb11406"},
+ "pmb26392"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Maurice Leudet",
+ "ref":
+ "pmb112502"},
  {
  "persName":
  "August Krawani",
@@ -148,9 +128,14 @@
  "pmb112764"},
  {
  "persName":
- "Julian Sternberg",
+ "Samuel Fischer",
  "ref":
- "pmb3021"},
+ "pmb11324"},
+ {
+ "persName":
+ "Julius von Gans-Ludassy",
+ "ref":
+ "pmb11406"},
  {
  "persName":
  "Josef Münz",
@@ -158,61 +143,26 @@
  "pmb118062"},
  {
  "persName":
- "Henri de Rochefort",
+ "Olga von Gans-Ludassy",
  "ref":
- "pmb23481"},
+ "pmb16902"},
  {
  "persName":
- "Peter Michael Braunwarth",
+ "Julian Sternberg",
  "ref":
- "pmb119261"},
+ "pmb3021"},
  {
  "persName":
- "Reinhard Urbach",
+ "Alfred Dreyfus",
  "ref":
- "pmb65504"},
- {
- "persName":
- "Werner Welzig",
- "ref":
- "pmb143327"},
- {
- "persName":
- "Richard Miklin",
- "ref":
- "pmb143331"},
- {
- "persName":
- "Konstanze Fliedl",
- "ref":
- "pmb119271"},
- {
- "persName":
- "Walter Ruprechter",
- "ref":
- "pmb143334"},
- {
- "persName":
- "Susanne Pertlik",
- "ref":
- "pmb143337"},
- {
- "persName":
- "Václav Kovanda",
- "ref":
- "pmb59249"}],
+ "pmb4216"}],
  "listBibl":
   [
  {
  "title":
- "Frankfurter Zeitung",
+ "Freiwild. Schauspiel in 3 Akten",
  "ref":
- "pmb36344"}
- ,  {
- "title":
- "Verschiedenes [Goldmann und Millevoye]",
- "ref":
- "pmb118052"}
+ "pmb29899"}
  ,  {
  "title":
  "Le Figaro",
@@ -220,9 +170,19 @@
  "pmb88803"}
  ,  {
  "title":
- "Berliner Börsen-Zeitung",
+ "L’Affaire Millevoye-Goldmann",
  "ref":
- "pmb54745"}
+ "pmb112498"}
+ ,  {
+ "title":
+ "Verschiedenes [Goldmann und Millevoye]",
+ "ref":
+ "pmb118052"}
+ ,  {
+ "title":
+ "Verhaftung eines Wiener Anarchisten in Berlin",
+ "ref":
+ "pmb118058"}
  ,  {
  "title":
  "Reigen. Zehn Dialoge",
@@ -235,47 +195,42 @@
  "pmb32460"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
- "L’Affaire Millevoye-Goldmann",
- "ref":
- "pmb112498"}
- ,  {
- "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
  ,  {
  "title":
- "Verhaftung eines Wiener Anarchisten in Berlin",
- "ref":
- "pmb118058"}
- ,  {
- "title":
  "Arbeiter-Zeitung",
  "ref":
  "pmb41202"}
+ ,  {
+ "title":
+ "Berliner Börsen-Zeitung",
+ "ref":
+ "pmb54745"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
  "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
+ "pmb3"}
  ,  {
  "placeName":
  "Kopenhagen",
@@ -283,14 +238,14 @@
  "pmb36300"}
  ,  {
  "placeName":
- "Berlin",
+ "rue Feydeau",
  "ref":
- "pmb168"}
+ "pmb42671"}
  ,  {
  "placeName":
- "Deutsches Theater Berlin",
+ "Wien",
  "ref":
- "pmb3"}
+ "pmb50"}
  ,  {
  "placeName":
  "Dänemark",
@@ -321,11 +276,6 @@
  "pmb29639"}
  ,  {
  "orgName":
- "Polizeidirektion Berlin",
- "ref":
- "pmb36860"}
- ,  {
- "orgName":
  "Wiener Allgemeine Zeitung",
  "ref":
  "pmb29670"}
@@ -334,6 +284,11 @@
  "Deutsches Theater Berlin",
  "ref":
  "pmb35597"}
+ ,  {
+ "orgName":
+ "Polizeidirektion Berlin",
+ "ref":
+ "pmb36860"}
  ]
 }
 }, {

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,19 +106,19 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb91729">Sekirn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -126,7 +126,13 @@
             </event>
             <event when-iso="1901-07-21">
                <head corresp="#pmb946">Vahrn</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb333628">
+                        <placeName>Gasthof und Pension Waldsacker</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-07-21</idno>
             </event>
             <event when-iso="1901-07-21">

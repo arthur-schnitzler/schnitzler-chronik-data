@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2025-11-20.">20.11.2025</date>
+            <date when-iso="2026-01-06.">06.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -107,32 +107,35 @@
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb14328">Oskar Blumenthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb2827">Richard Skowronnek</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb93031">Der erste seines Stammes. Lustspiel in vier Akten</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31709">Eine Palastrevolution</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb93031">Der erste seines Stammes. Lustspiel in vier Akten</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34187">rue Richelieu</placeName>
@@ -141,13 +144,10 @@
                         <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb724">Pustertal</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
