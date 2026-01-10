@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-06.">06.01.2026</date>
+            <date when-iso="2026-01-10.">10.01.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -156,20 +156,6 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1916-09-02.html</idno>
             </event>
             <event when-iso="1916-09-02">
-               <head corresp="#pmb213">Bad Ischl</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb248791">
-                        <placeName>Bahnhof Bad Ischl</placeName>
-                     </place>
-                     <place corresp="#pmb84">
-                        <placeName>Hotel zum goldenen Kreuz [Bad Ischl]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-09-02</idno>
-            </event>
-            <event when-iso="1916-09-02">
                <head corresp="#pmb30">Salzburg</head>
                <desc>
                   <listPlace>
@@ -192,6 +178,20 @@
                      </place>
                      <place corresp="#pmb264887">
                         <placeName>Villa Hellmann</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-09-02</idno>
+            </event>
+            <event when-iso="1916-09-02">
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb248791">
+                        <placeName>Bahnhof Bad Ischl</placeName>
+                     </place>
+                     <place corresp="#pmb84">
+                        <placeName>Hotel zum goldenen Kreuz [Bad Ischl]</placeName>
                      </place>
                   </listPlace>
                </desc>
