@@ -3,8 +3,13 @@ name: Schnitzler digital Import normalisieren
 on:
   push:
     paths:
-      - 'import-lists/schnitzler-digital_tage.xml'
+      - 'import-lists/ASd_Export_Schnitzler_Tage.xml'
   workflow_dispatch:
+    inputs:
+      input_file:
+        description: 'Name der Import-Datei in import-lists/'
+        required: true
+        default: 'ASd_Export_Schnitzler_Tage.xml'
 
 jobs:
   normalize:
@@ -16,9 +21,9 @@ jobs:
     - name: Install Saxon
       run: |
         ./dl_saxon.sh
-    - name: Transform schnitzler-digital_tage.xml
+    - name: Transform to schnitzler-digital_tage.xml
       run: |
-        java -jar saxon/saxon9he.jar -xsl:xslts/diverses/1_arthur-schnitzler-digital-zu-import-listel.xsl -s:import-lists/schnitzler-digital_tage.xml -o:import-lists/schnitzler-digital_tage.xml
+        java -jar saxon/saxon9he.jar -xsl:xslts/diverses/1_arthur-schnitzler-digital-zu-import-listel.xsl -s:import-lists/${{ inputs.input_file || 'ASd_Export_Schnitzler_Tage.xml' }} -o:import-lists/schnitzler-digital_tage.xml
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Normalize schnitzler-digital_tage.xml
