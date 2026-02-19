@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -139,37 +139,72 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb15015">Suzanne Clauser</persName>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
                      </person>
                      <person>
                         <persName ref="pmb15024">Sophie Clemenceau</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                        <persName ref="pmb15015">Suzanne Clauser</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb6369">Georgette Boner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334697">?? [französische Übersetzung von Das Bacchusfest]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334693">?? [französische Übersetzung von Große Szene]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334701">?? [französische Übersetzung von Stunde des Erkennens]</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334705">?? [französische Übersetzung von Professor Bernhardi]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
+                        <title ref="pmb32097">Das Bacchusfest</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31447">Stunde des Erkennens</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31429">Große Szene</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334681">Théâtre des Champs-Élysées</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb334738">Studio Allemand</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03980.html</idno>
             </event>

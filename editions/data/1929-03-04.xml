@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,10 +104,10 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2211">André Antoine</persName>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                        <persName ref="pmb2211">André Antoine</persName>
                      </person>
                      <person>
                         <persName ref="pmb38364">Wolfgang Heine</persName>
@@ -116,13 +116,19 @@
                         <persName ref="pmb11284">Gertrud Eysoldt</persName>
                      </person>
                      <person>
-                        <persName ref="pmb114855">Fritz Kampers</persName>
+                        <persName ref="pmb4441">Maximilian Sladek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23307">Hubert Reusch</persName>
                      </person>
                      <person>
                         <persName ref="pmb16412">Robert Forster-Larrinaga</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23307">Hubert Reusch</persName>
+                        <persName ref="pmb9803">Viktor Schwanneke</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb114855">Fritz Kampers</persName>
                      </person>
                      <person>
                         <persName ref="pmb299427">Vera Skidelsky</persName>
@@ -143,10 +149,19 @@
                         <persName ref="pmb299445">Hedwig Therese Anna Sulzer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4441">Maximilian Sladek</persName>
+                        <persName ref="pmb22728">Frieda Pollak</persName>
                      </person>
                      <person>
-                        <persName ref="pmb9803">Viktor Schwanneke</persName>
+                        <persName ref="pmb26414">Maurice Vaucaire</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2199">Stephan Epstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2206">Émile Lutz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23787">Maurice Rémon</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -156,13 +171,37 @@
                      <bibl>
                         <title ref="pmb33015">Der Kampf um den Reigen. Vollständiger Bericht über die sechstägige Verhandlung gegen Direktion und Darsteller des Kleinen Schauspielhauses Berlin</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb59837">La Compagne. Comédie en une acte</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58367">Au Perroquet Vert</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29877">Die letzten Masken</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb299697">Les Derniers masques. Comédie en un act</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -171,18 +210,18 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
+                        <orgName ref="pmb61824">Kleines Schauspielhaus [Berlin]</orgName>
+                     </org>
+                     <org>
                         <orgName ref="pmb29756">Ernst Rowohlt Verlag</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb61824">Kleines Schauspielhaus [Berlin]</orgName>
+                        <orgName ref="pmb88613">Théâtre Antoine</orgName>
                      </org>
                   </listOrg>
                </desc>

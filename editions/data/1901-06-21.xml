@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,25 +101,28 @@
                      <person>
                         <persName ref="pmb11036">Max Eugen Burckhard</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb144424">Leutnant Gustl. Parodie</title>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb43151">Wien, 20. Juni</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb43151">Wien, 20. Juni</title>
+                        <title ref="pmb144424">Leutnant Gustl. Parodie</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
@@ -130,12 +133,18 @@
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb334886">[Ehrenrat der österreichisch-ungarischen Armee zur Veröffentlichung von Lieutenant Gustl, 1901]</orgName>
                      </org>
                   </listOrg>
                </desc>

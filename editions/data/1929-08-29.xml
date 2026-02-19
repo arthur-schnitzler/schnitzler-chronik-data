@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,7 +93,8 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-08-29.html</idno>
             </event>
             <event when-iso="1929-08-29">
-               <head>Arthur Schnitzler an Berta Zuckerkandl, [zwischen 27. und 29. 8. 1929?]</head>
+               <head>Arthur Schnitzler an Berta Zuckerkandl, [zwischen 27. und
+                  29. 8. 1929?]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -103,37 +104,74 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb299474">Irénée Mauget</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23787">Maurice Rémon</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
                      </person>
                      <person>
                         <persName ref="pmb15015">Suzanne Clauser</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                        <persName ref="pmb334641">Pierre-Victor Stock</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23787">Maurice Rémon</persName>
+                        <persName ref="pmb14442">Édouard Bourdet</persName>
                      </person>
                      <person>
-                        <persName ref="pmb299474">Irénée Mauget</persName>
+                        <persName ref="pmb3138">Paul Géraldy</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb15296">Maurice Delamain</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb259336">Jacques Chardonne</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb334646">
+                  ?? [Person, die gute Erfahrungen mit Maurice Rémon gemacht hat]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13833">Wilhelm Bauer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb254275">La ronde. Dix scènes dialoguées</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb90460">Caux</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb52051">Territet</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb53208">Hôtel des Alpes-Grand Hôtel</placeName>
                      </place>
-                     <place>
-                        <placeName ref="pmb90460">Caux</placeName>
-                     </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29741">Éditions Stock</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29397">Société des Auteurs et Compositeurs Dramatiques</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03985.html</idno>
             </event>

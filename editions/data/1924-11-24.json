@@ -126,11 +126,6 @@
  "pmb2312"},
  {
  "persName":
- "Geneviève Bianquis",
- "ref":
- "pmb14187"},
- {
- "persName":
  "Berta Zuckerkandl",
  "ref":
  "pmb2312"},
@@ -143,19 +138,24 @@
  "persName":
  "Aurélien-Marie Lugné-Poe",
  "ref":
- "pmb3690"}],
+ "pmb3690"},
+ {
+ "persName":
+ "Geneviève Bianquis",
+ "ref":
+ "pmb14187"}],
  "listBibl":
   [
  {
  "title":
- "",
+ "Stunde des Erkennens",
  "ref":
- "pmb"}
+ "pmb31447"}
  ,  {
  "title":
- "Zwischenspiel. Komödie in drei Akten",
+ "?? [französische Übersetzung von Stunde des Erkennens]",
  "ref":
- "pmb29903"}
+ "pmb334048"}
  ,  {
  "title":
  "Komödie der Worte. Drei Einakter",
@@ -163,13 +163,18 @@
  "pmb30717"}
  ,  {
  "title":
- "Stunde des Erkennens",
+ "Zwischenspiel. Komödie in drei Akten",
  "ref":
- "pmb31447"}
+ "pmb29903"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
  "placeName":
  "Paris",
  "ref":
@@ -179,11 +184,14 @@
  "10, Rue Daubigny",
  "ref":
  "pmb299303"}
- ,  {
- "placeName":
- "Wien",
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Théâtre des Mathurins",
  "ref":
- "pmb50"}
+ "pmb334028"}
  ]
 }
 }, {

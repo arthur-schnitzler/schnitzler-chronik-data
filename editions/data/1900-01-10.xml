@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,9 +95,6 @@
                      <person>
                         <persName ref="pmb2128">Elsa Plessner</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb296121">Ferdinand Derfler</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -109,15 +106,17 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb295173">Kärntner Straße 10</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb20">Volkstheater</placeName>
+                        <placeName ref="pmb295173">Kärntner Straße 10</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03724.html</idno>
             </event>

@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -186,6 +186,53 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01753.html</idno>
+            </event>
+            <event when-iso="1908-01-17">
+               <head>Marie Holzer an Arthur Schnitzler, 17. 1. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb260732">Holzer, Marie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb260732">Marie Holzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb333999">Johann Holzer</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb41507">Prager Tagblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb333996">Arthur Schnitzler</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb652">Prag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb104997">Vinohrady</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb333990">Korunní 1153/78</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29677">Franz-Grillparzer-Preis</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04221.html</idno>
             </event>
             <event when-iso="1908-01-17">
                <head corresp="#pmb50">Wien</head>

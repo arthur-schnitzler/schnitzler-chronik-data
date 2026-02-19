@@ -79,14 +79,24 @@
  "pmb2312"},
  {
  "persName":
- "Robert Blum",
+ "Berta Zuckerkandl",
  "ref":
- "pmb10966"},
+ "pmb2312"},
  {
  "persName":
- "Geneviève Bianquis",
+ "Alzir Hella",
  "ref":
- "pmb14187"},
+ "pmb18065"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
+ "Henri-René Lenormand",
+ "ref":
+ "pmb8576"},
  {
  "persName":
  "Emma Cabire",
@@ -99,19 +109,9 @@
  "pmb17611"},
  {
  "persName":
- "Alzir Hella",
+ "Geneviève Bianquis",
  "ref":
- "pmb18065"},
- {
- "persName":
- "André Antoine",
- "ref":
- "pmb2211"},
- {
- "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"},
+ "pmb14187"},
  {
  "persName":
  "Maurice Rémon",
@@ -119,31 +119,76 @@
  "pmb23787"},
  {
  "persName":
- "Nicolas Nathan",
- "ref":
- "pmb299366"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
  "Noémi Valentin",
  "ref":
  "pmb46140"},
  {
  "persName":
- "Henri-René Lenormand",
+ "André Antoine",
  "ref":
- "pmb8576"}],
+ "pmb2211"},
+ {
+ "persName":
+ "Robert Blum",
+ "ref":
+ "pmb10966"},
+ {
+ "persName":
+ "Nicolas Nathan",
+ "ref":
+ "pmb299366"},
+ {
+ "persName":
+ "Aurélien-Marie Lugné-Poe",
+ "ref":
+ "pmb3690"},
+ {
+ "persName":
+ "Maurice Vaucaire",
+ "ref":
+ "pmb26414"},
+ {
+ "persName":
+ "Stephan Epstein",
+ "ref":
+ "pmb2199"},
+ {
+ "persName":
+ "Émile Lutz",
+ "ref":
+ "pmb2206"},
+ {
+ "persName":
+ "Olivier Bournac",
+ "ref":
+ "pmb60636"}],
  "listBibl":
   [
  {
  "title":
- "Der grüne Kakadu. Groteske in einem Akt",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
- "pmb29843"}
+ "pmb29917"}
+ ,  {
+ "title":
+ "Das weite Land. Tragikomödie in fünf Akten",
+ "ref":
+ "pmb30207"}
+ ,  {
+ "title":
+ "Der einsame Weg. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29985"}
+ ,  {
+ "title":
+ "Das Bacchusfest",
+ "ref":
+ "pmb32097"}
+ ,  {
+ "title":
+ "Zwischenspiel. Komödie in drei Akten",
+ "ref":
+ "pmb29903"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -156,34 +201,19 @@
  "pmb29877"}
  ,  {
  "title":
- "Zwischenspiel. Komödie in drei Akten",
+ "Les Derniers masques. Comédie en un act",
  "ref":
- "pmb29903"}
+ "pmb299697"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "Die Gefährtin. Schauspiel in einem Akt",
  "ref":
- "pmb29917"}
+ "pmb29845"}
  ,  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Der grüne Kakadu. Groteske in einem Akt",
  "ref":
- "pmb29985"}
- ,  {
- "title":
- "Das weite Land. Tragikomödie in fünf Akten",
- "ref":
- "pmb30207"}
- ,  {
- "title":
- "Casanovas Heimfahrt",
- "ref":
- "pmb30971"}
- ,  {
- "title":
- "Das Bacchusfest",
- "ref":
- "pmb32097"}
+ "pmb29843"}
  ,  {
  "title":
  "Frau Beate und ihr Sohn. Novelle",
@@ -191,27 +221,72 @@
  "pmb32133"}
  ,  {
  "title":
+ "Casanovas Heimfahrt",
+ "ref":
+ "pmb30971"}
+ ,  {
+ "title":
+ "Le Retour de Casanova",
+ "ref":
+ "pmb298823"}
+ ,  {
+ "title":
+ "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
+ "ref":
+ "pmb92876"}
+ ,  {
+ "title":
+ "La Compagne. Comédie en une acte",
+ "ref":
+ "pmb59837"}
+ ,  {
+ "title":
+ "Au Perroquet Vert",
+ "ref":
+ "pmb58367"}
+ ,  {
+ "title":
  "Le Pays de l’âme. Drame en 5 actes",
  "ref":
  "pmb299314"}
+ ,  {
+ "title":
+ "?? [französische Übersetzung von Der einsame Weg]",
+ "ref":
+ "pmb334064"}
+ ,  {
+ "title":
+ "?? [französische Übersetzung von Das Bacchusfest]",
+ "ref":
+ "pmb334052"}
+ ,  {
+ "title":
+ "?? [französische Übersetzung von Zwischenspiel]",
+ "ref":
+ "pmb334521"}
+ ,  {
+ "title":
+ "Heures vives [Einakterzyklus]",
+ "ref":
+ "pmb333956"}
+ ,  {
+ "title":
+ "Madame Beate et son fils",
+ "ref":
+ "pmb298812"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Frankreich",
+ "Wien",
  "ref":
- "pmb166"}
+ "pmb50"}
  ,  {
  "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "10, Rue Daubigny",
- "ref":
- "pmb299303"}
  ,  {
  "placeName":
  "27, Rue Lemercier",
@@ -224,14 +299,32 @@
  "pmb299328"}
  ,  {
  "placeName":
+ "10, Rue Daubigny",
+ "ref":
+ "pmb299303"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
+ "placeName":
  "Hôtel Ronceray",
  "ref":
  "pmb299345"}
  ,  {
  "placeName":
- "Wien",
+ "Théâtre Antoine-Simone Berriau",
  "ref":
- "pmb50"}
+ "pmb610"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Théâtre de l’Œuvre",
+ "ref":
+ "pmb88605"}
  ]
 }
 }, {

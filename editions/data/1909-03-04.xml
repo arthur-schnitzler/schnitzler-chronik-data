@@ -25,7 +25,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                 Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-01-10.">10.01.2026</date>
+            <date when-iso="2026-02-19.">19.02.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -167,6 +167,9 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -182,15 +185,56 @@
             <event when-iso="1909-03-04">
                <head>Generalprobe von Le devin du village, 4.3.1909</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb333937">Verein Settlement</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb77017">Le devin du village</title>
+                        <title key="pmb333940">Le devin du village [Bearbeitung Robert Gound]</title>
                         <note type="relation-type">ist Generalprobe von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb3073">Spitzer, Friedrich Viktor</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2292">Hofmannsthal, Gertrude von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb13055">Wassermann, Jakob</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb13058">Wassermann, Julie</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10860">Beer-Hofmann, Paula</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb17540">Gund, Robert</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb20166">Lauterburg, Elisabeth</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb19011">Kalbeck, Florentine</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb333949">Rumpler, Julie</persName>
                      </person>
                   </listPerson>
                   <listPlace>

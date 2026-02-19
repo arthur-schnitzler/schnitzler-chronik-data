@@ -63,7 +63,8 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L03985.html",
  "head":
- "Arthur Schnitzler an Berta Zuckerkandl, [zwischen 27. und 29. 8. 1929?]",
+ "Arthur Schnitzler an Berta Zuckerkandl, [zwischen 27. und
+                  29. 8. 1929?]",
  "desc":
 {"listPerson":
   [
@@ -79,6 +80,21 @@
  "pmb2312"},
  {
  "persName":
+ "Berta Zuckerkandl",
+ "ref":
+ "pmb2312"},
+ {
+ "persName":
+ "Irénée Mauget",
+ "ref":
+ "pmb299474"},
+ {
+ "persName":
+ "Maurice Rémon",
+ "ref":
+ "pmb23787"},
+ {
+ "persName":
  "Clara Katharina Pollaczek",
  "ref":
  "pmb12435"},
@@ -89,19 +105,41 @@
  "pmb15015"},
  {
  "persName":
- "Berta Zuckerkandl",
+ "Pierre-Victor Stock",
  "ref":
- "pmb2312"},
+ "pmb334641"},
  {
  "persName":
- "Maurice Rémon",
+ "Édouard Bourdet",
  "ref":
- "pmb23787"},
+ "pmb14442"},
  {
  "persName":
- "Irénée Mauget",
+ "Paul Géraldy",
  "ref":
- "pmb299474"}],
+ "pmb3138"},
+ {
+ "persName":
+ "Maurice Delamain",
+ "ref":
+ "pmb15296"},
+ {
+ "persName":
+ "Jacques Chardonne",
+ "ref":
+ "pmb259336"},
+ {
+ "persName":
+ "die gute Erfahrungen mit Maurice Rémon gemacht hat]
+                
+                  ?? [Person",
+ "ref":
+ "pmb334646"},
+ {
+ "persName":
+ "Wilhelm Bauer",
+ "ref":
+ "pmb13833"}],
  "listBibl":
   [
  {
@@ -109,10 +147,25 @@
  "Reigen. Zehn Dialoge",
  "ref":
  "pmb29855"}
+ ,  {
+ "title":
+ "La ronde. Dix scènes dialoguées",
+ "ref":
+ "pmb254275"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Caux",
+ "ref":
+ "pmb90460"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
  "placeName":
  "Territet",
  "ref":
@@ -122,11 +175,19 @@
  "Hôtel des Alpes-Grand Hôtel",
  "ref":
  "pmb53208"}
- ,  {
- "placeName":
- "Caux",
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Éditions Stock",
  "ref":
- "pmb90460"}
+ "pmb29741"}
+ ,  {
+ "orgName":
+ "Société des Auteurs et Compositeurs Dramatiques",
+ "ref":
+ "pmb29397"}
  ]
 }
 }, {
