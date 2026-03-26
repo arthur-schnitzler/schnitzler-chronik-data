@@ -133,7 +133,7 @@
                 </xsl:element>
                 <xsl:element name="publicationStmt" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:element name="publisher" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:text>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</xsl:text>
+                        <xsl:text>Austrian Centre for Digital Humanities (ACDH)</xsl:text>
                     </xsl:element>
                     <xsl:element name="pubPlace" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:text>Vienna, Austria</xsl:text>

@@ -50,8 +50,7 @@
                             </respStmt>
                         </titleStmt>
                         <publicationStmt>
-                            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+                            <publisher>Austrian Centre for Digital Humanities</publisher>
                             <pubPlace>Vienna</pubPlace>
                             <xsl:variable name="heute" select="fn:current-date()"/>
                             <xsl:element name="date" namespace="http://www.tei-c.org/ns/1.0">

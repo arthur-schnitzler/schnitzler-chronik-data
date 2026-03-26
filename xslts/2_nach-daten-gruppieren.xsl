@@ -38,6 +38,8 @@
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-bahr' or tei:idno[1]/@subtype = 'schnitzler-bahr']"/>
                     <xsl:apply-templates select="current-group()[tei:idno[1]/@type = 'pmb' or tei:idno[1]/@subtype = 'pmb' or tei:idno[1]/@type = 'schnitzler-events']"/>
                     <xsl:apply-templates
+                        select="current-group()[tei:idno[1]/@type = 'schnitzler-fischer' or tei:idno[1]/@subtype = 'schnitzler-fischer']"/>
+                    <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-mikrofilme-daten' or tei:idno[1]/@subtype = 'schnitzler-mikrofilme-daten']"/>
                     <xsl:apply-templates
                         select="current-group()[tei:idno[1]/@type = 'schnitzler-chronik-manuell' or tei:idno[1]/@subtype = 'schnitzler-chronik-manuell']"/>

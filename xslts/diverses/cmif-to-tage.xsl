@@ -298,6 +298,12 @@
                         </xsl:attribute>
                         <xsl:value-of select="$entry/@ref"/>
                     </xsl:when>
+                    <xsl:when test="starts-with($entry/@ref, 'https://biblio.ub.uni-freiburg.de/sf/')">
+                        <xsl:attribute name="type">
+                            <xsl:text>schnitzler-fischer</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="$entry/@ref"/>
+                    </xsl:when>
                     <xsl:otherwise>
                         <xsl:attribute name="type">
                         <xsl:text>schnitzler-cmif</xsl:text>
