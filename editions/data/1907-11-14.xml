@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -143,6 +142,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-11-14</idno>
+            </event>
+            <event when-iso="1907-11-14">
+               <head>Samuel Fischer an Arthur Schnitzler, 1907-11-14</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10201</idno>
             </event>
             <event when-iso="1907-11-14">
                <head>Samuel Fischer an Arthur Schnitzler, 14.11.1907</head>

@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -86,6 +85,63 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-03-03.html</idno>
+            </event>
+            <event when-iso="1902-03-03">
+               <head>Theodor von Sosnosky an Arthur Schnitzler, 3. 2. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9941">Sosnosky, Theodor von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9941">Theodor von Sosnosky</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9146">Georg von Ompteda</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335078">Maximilian von Rosenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335086">Wolf von Tainach</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4223">Emil Marriot</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24705">Paul von Schönthan-Pernwald</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41321">Neues Wiener Tagblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334898">Norddeutsche Allgemeine Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334897">Bücher und Zeitschriftenschau [Frau Bertha Garlan]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb335073">Neue Erzählungsliteratur</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb90217">Alland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04322.html</idno>
             </event>
             <event when-iso="1902-03-03">
                <head corresp="#pmb50">Wien</head>

@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -117,8 +116,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-06-13.html</idno>
             </event>
             <event when-iso="1911-06-13">
-               <head>Berta Zuckerkandl an Arthur Schnitzler, [zwischen 11. und
-                  13. 6. 1911?]</head>
+               <head>Berta Zuckerkandl an Arthur Schnitzler, [13. 6. 1911?]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -146,16 +144,19 @@
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb334987">Der junge Medardus. (Zur Übersetzung ins Französische)</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                   </listPlace>
                </desc>

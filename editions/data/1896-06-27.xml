@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,10 +94,10 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb10986">Otto Brahm</persName>
@@ -106,10 +105,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
+                        <placeName ref="pmb35625">Bergen [Norwegen]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36296">Oslo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40290">Trondheim</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -118,13 +123,7 @@
                         <placeName ref="pmb506">Hamburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb35625">Bergen [Norwegen]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40290">Trondheim</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36296">Oslo</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -188,6 +187,23 @@
                <head corresp="#pmb992">Bad Vöslau</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-06-27</idno>
+            </event>
+            <event when-iso="1896-06-27">
+               <head>Samuel Fischer, Oskar Bie an Arthur Schnitzler, 1896-06-27</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb2914">Bie, Oskar</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10053</idno>
             </event>
             <event when-iso="1896-06-27">
                <head>Olga Waissnix an Arthur Schnitzler, 27.6.1896</head>

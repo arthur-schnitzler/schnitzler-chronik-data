@@ -63,6 +63,76 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04256",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04256.html",
+ "head":
+ "Gustav Schwarzkopf an Arthur Schnitzler, 5. 6. 1913",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Lili Cappellini",
+ "ref":
+ "pmb2238"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Baden bei Wien",
+ "ref":
+ "pmb662"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
+ ,  {
+ "placeName":
+ "Sternwartestraße 71",
+ "ref":
+ "pmb168815"}
+ ,  {
+ "placeName":
+ "Burgruine Rauhenstein",
+ "ref":
+ "pmb186454"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -231,5 +301,31 @@
  "ref":
  "pmb103"}
  ]
+}
+}, {
+ "type":
+ "schnitzler-fischer",
+ "idno":
+ "https://biblio.ub.uni-freiburg.de/sf/details/10508",
+ "head":
+ "Samuel Fischer, Ernst Peter Tal an Arthur Schnitzler, 1913-06-05",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Ernst Peter Tal",
+ "ref":
+ "#pmb4621"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "#pmb2121"}]
 }
 }] 

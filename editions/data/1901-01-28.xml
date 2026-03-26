@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -86,7 +85,8 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-01-28.html</idno>
             </event>
             <event when-iso="1901-01-28">
-               <head>Arthur Schnitzler an Theodor von Sosnosky, [zwischen 24. 1. 1901 und 30. 1. 1901?]</head>
+               <head>Arthur Schnitzler an Theodor von Sosnosky, [zwischen 26. 1. 1901 und
+                  29. 1. 1901?]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -101,18 +101,24 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb33560">Ohnmacht</title>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30181">Anfang vom Ende</title>
+                        <title ref="pmb334964">»Jung-Wien«. Studienblätter</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb334908">Wie wir so still</title>
+                        <title ref="pmb334898">Norddeutsche Allgemeine Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41321">Neues Wiener Tagblatt</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb48393">Kremsmünster</placeName>
                      </place>
                   </listPlace>
                </desc>

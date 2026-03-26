@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -225,6 +224,23 @@
                <head>Tagebuch von Clara Katharina Pollaczek, 13.–18. Februar 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp888.html</idno>
+            </event>
+            <event when-iso="1931-02-17">
+               <head>Samuel Fischer, Konrad Maril an Arthur Schnitzler, 1931-02-17</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11632</idno>
             </event>
             <event when-iso="1931-02-17">
                <head>Schnitzler, Arthur an Wellesz, Egon [Briefe]</head>

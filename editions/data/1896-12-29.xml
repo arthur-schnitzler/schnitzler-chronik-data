@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,10 +104,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb113878">Henning von Brüsewitz</persName>
+                        <persName ref="pmb2128">Elsa Plessner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2128">Elsa Plessner</persName>
+                        <persName ref="pmb113878">Henning von Brüsewitz</persName>
                      </person>
                      <person>
                         <persName ref="pmb296053">
@@ -119,13 +118,13 @@
                         <persName ref="pmb114034">Theodor Siepmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb296070">
-                  Tullia Minor
+                        <persName ref="pmb296073">
+                  Tullia Major
                </persName>
                      </person>
                      <person>
-                        <persName ref="pmb296073">
-                  Tullia Major
+                        <persName ref="pmb296070">
+                  Tullia Minor
                </persName>
                      </person>
                   </listPerson>
@@ -136,13 +135,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
                      </place>
                   </listPlace>
                </desc>

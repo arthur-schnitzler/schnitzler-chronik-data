@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,6 +91,113 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-06-22.html</idno>
+            </event>
+            <event when-iso="1900-06-22">
+               <head>Theodor von Sosnosky an Arthur Schnitzler, 22. 6. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9941">Sosnosky, Theodor von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9941">Theodor von Sosnosky</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb60111">Giovanni Boccaccio</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2780">Marguerite de Navarre</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb181519">Alexander von Weismayr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3379">Albert Langen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb334974">Johann Seidl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9386">Marcel Prévost</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb142595">Decamerone</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30367">Heptameron</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334976">Lettres de femmes</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334964">»Jung-Wien«. Studienblätter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334898">Norddeutsche Allgemeine Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334957">Artur Schnitzler als Lyriker. Ein Gedenkblatt zu seinem 70. Geburtstag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36376">Neues Wiener Journal</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334978">Pariserinnen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334903">Die deutsche Lyrik des 19. Jahrhunderts. Eine poetische Revue</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334908">Wie wir so still</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30181">Anfang vom Ende</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33560">Ohnmacht</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb48393">Kremsmünster</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92585">Volksgartenrestaurant</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb90217">Alland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb103">Volksgarten</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29215">J.G. Cotta’sche Buchhandlung Nachfolger</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29654">Albert Langen</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04227.html</idno>
             </event>
             <event when-iso="1900-06-22">
                <head corresp="#pmb50">Wien</head>

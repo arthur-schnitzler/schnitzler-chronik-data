@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -125,24 +124,27 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2128">Elsa Plessner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb294750">Clementine Plessner</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
                         <persName ref="pmb12183">Laura Marholm</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2128">Elsa Plessner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb294750">Clementine Plessner</persName>
+                        <persName ref="pmb2157">Leo Ebermann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb296028">Heimweh [dreiaktige Tragikomödie]</title>
+                        <title ref="pmb30417">Die Athenerin. Drama in drei Aufzügen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30417">Die Athenerin. Drama in drei Aufzügen</title>
+                        <title ref="pmb296028">Heimweh [dreiaktige Tragikomödie]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296032">Karla Bühring. Ein Frauendrama in vier Acten</title>
@@ -153,13 +155,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -174,6 +176,9 @@
                      </org>
                      <org>
                         <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -302,6 +307,20 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041356.html</idno>
+            </event>
+            <event when-iso="1896-12-01">
+               <head>Samuel Fischer an Arthur Schnitzler, 1896-12-01</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10062</idno>
             </event>
          </listEvent>
       </body>

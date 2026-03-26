@@ -59,14 +59,14 @@
  "pmb2312"},
  {
  "persName":
- "André Antoine",
- "ref":
- "pmb2211"},
- {
- "persName":
  "Berta Zuckerkandl",
  "ref":
  "pmb2312"},
+ {
+ "persName":
+ "André Antoine",
+ "ref":
+ "pmb2211"},
  {
  "persName":
  "Maurice Rémon",
@@ -74,31 +74,51 @@
  "pmb23787"},
  {
  "persName":
- "Aurélien-Marie Lugné-Poe",
- "ref":
- "pmb3690"},
- {
- "persName":
  "Noémi Valentin",
  "ref":
  "pmb46140"},
  {
  "persName":
+ "Aurélien-Marie Lugné-Poe",
+ "ref":
+ "pmb3690"},
+ {
+ "persName":
  "Suzanne Desprès",
  "ref":
- "pmb3659"}],
+ "pmb3659"},
+ {
+ "persName":
+ "Maurice Vaucaire",
+ "ref":
+ "pmb26414"},
+ {
+ "persName":
+ "Stephan Epstein",
+ "ref":
+ "pmb2199"},
+ {
+ "persName":
+ "Émile Lutz",
+ "ref":
+ "pmb2206"}],
  "listBibl":
   [
  {
  "title":
- "Der grüne Kakadu. Groteske in einem Akt",
+ "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
  "ref":
- "pmb29843"}
+ "pmb29937"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
  "ref":
  "pmb29845"}
+ ,  {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -111,14 +131,24 @@
  "pmb29917"}
  ,  {
  "title":
- "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
- "ref":
- "pmb29937"}
- ,  {
- "title":
  "Das weite Land. Tragikomödie in fünf Akten",
  "ref":
  "pmb30207"}
+ ,  {
+ "title":
+ "La Compagne. Comédie en une acte",
+ "ref":
+ "pmb59837"}
+ ,  {
+ "title":
+ "Au Perroquet Vert",
+ "ref":
+ "pmb58367"}
+ ,  {
+ "title":
+ "La femme au poignard",
+ "ref":
+ "pmb46129"}
  ,  {
  "title":
  "La Revue de Paris",
@@ -126,14 +156,14 @@
  "pmb296458"}
  ,  {
  "title":
- "La Revue politique et littéraire",
- "ref":
- "pmb296465"}
- ,  {
- "title":
  "Les Derniers masques. Comédie en un act",
  "ref":
  "pmb299697"}
+ ,  {
+ "title":
+ "La Revue politique et littéraire",
+ "ref":
+ "pmb296465"}
  ,  {
  "title":
  "Littérature. Comédie en en act",
@@ -144,40 +174,10 @@
  "Tagebuch",
  "ref":
  "pmb33243"}
- ,  {
- "title":
- "La femme au poignard",
- "ref":
- "pmb46129"}
- ,  {
- "title":
- "Au Perroquet Vert",
- "ref":
- "pmb58367"}
- ,  {
- "title":
- "La Compagne. Comédie en une acte",
- "ref":
- "pmb59837"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Frankreich",
- "ref":
- "pmb166"}
- ,  {
- "placeName":
- "Grand Hôtel National [Menton]",
- "ref":
- "pmb251927"}
- ,  {
- "placeName":
- "England",
- "ref":
- "pmb254"}
- ,  {
  "placeName":
  "Menton",
  "ref":
@@ -189,19 +189,19 @@
  "pmb50"}
  ,  {
  "placeName":
- "Ligurien",
+ "Grand Hôtel National [Menton]",
  "ref":
- "pmb43180"}
+ "pmb251927"}
  ,  {
  "placeName":
- "München",
+ "Frankreich",
  "ref":
- "pmb45258"}
+ "pmb166"}
  ,  {
  "placeName":
- "Monte Carlo",
+ "England",
  "ref":
- "pmb5862"}
+ "pmb254"}
  ,  {
  "placeName":
  "Théâtre Antoine-Simone Berriau",
@@ -209,9 +209,24 @@
  "pmb610"}
  ,  {
  "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
  "Garmisch-Partenkirchen",
  "ref":
  "pmb667"}
+ ,  {
+ "placeName":
+ "Ligurien",
+ "ref":
+ "pmb43180"}
+ ,  {
+ "placeName":
+ "Monte Carlo",
+ "ref":
+ "pmb5862"}
  ,  {
  "placeName":
  "Nizza",

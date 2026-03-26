@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,6 +67,127 @@
    <text>
       <body>
          <listEvent>
+            <event when-iso="1901-07-06">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 6. 7. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4295">Josef Gregorig</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb114834">Karl Hermann Wolf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2566">
+                  Wilhelm II. von Preußen
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13913">Hermann Beer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb34918">Rosa Beer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10364">Berthold Viertel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10574">Fritz Wittels</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41244">Die Fackel</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb300307">Kikeriki</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb43151">Wien, 20. Juni</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb300310">(Wieder ein Märtyrer.)</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb300306">Das Unrecht an Aaron Schnitzler</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb430">Wörthersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44278">Pörtschach am Wörthersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb118599">Schall und Rauch</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04308.html</idno>
+            </event>
             <event when-iso="1901-07-06">
                <head corresp="#pmb212">St. Anton am Arlberg</head>
                <desc>

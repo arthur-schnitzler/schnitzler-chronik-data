@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -167,6 +166,40 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244737.html</idno>
+            </event>
+            <event when-iso="1931-01-19">
+               <head>Arthur Schnitzler an Samuel Fischer, Konrad Maril, 1931-01-19</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11615</idno>
+            </event>
+            <event when-iso="1931-01-19">
+               <head>Samuel Fischer, Gottfried Bermann an Arthur Schnitzler, 1931-01-19</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb10889">Bermann, Gottfried</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11616</idno>
             </event>
             <event when-iso="1931-01-19">
                <head>Arthur Schnitzler an Book-of-the-Month Club, 19. 1. 1931</head>

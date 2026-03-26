@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -83,6 +82,70 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1898-07-22.html</idno>
+            </event>
+            <event when-iso="1898-07-22">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 22. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11707">Robert Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb19140">Emilie Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb335150">Heindorf</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb88392">Traunkirchen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40384">Hotel Bristol Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb335041">Johann Pachler’s Hotel zur Neuen Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb335039">Haydnstraße [Salzburg]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91928">Traunsee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50792">Hauptbahnhof Salzburg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04289.html</idno>
             </event>
             <event when-iso="1898-07-22">
                <head corresp="#pmb521">Bad Gastein</head>

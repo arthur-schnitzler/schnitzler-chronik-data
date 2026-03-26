@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,6 +127,103 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04234.html</idno>
+            </event>
+            <event when-iso="1901-05-26">
+               <head>Theodor von Sosnosky an Arthur Schnitzler, 26. 5. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9941">Sosnosky, Theodor von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9941">Theodor von Sosnosky</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335055">
+                  ?? [Vater von Theodor von Sosnosky]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335057">
+                  ?? [Großvater väterlicherseits von Theodor von Sosnosky]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335060">
+                  ?? [Großvater mütterlicherseits von Theodor von Sosnosky]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335062">
+                  ?? [Urgroßvater von Theodor von Sosnosky]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335051">
+                  ?? [Herausgeber einer reichsdeutschen Zeitschrift]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58341">Das literarische Echo</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41321">Neues Wiener Tagblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334897">Bücher und Zeitschriftenschau [Frau Bertha Garlan]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb335010">?? [Zeitschrift, die Theodor von Sosnoskys Besprechung von »Bertha Garlan«
+                  zurückweist]</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb48393">Kremsmünster</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb89143">Jung Wien</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04231.html</idno>
             </event>
             <event when-iso="1901-05-26">
                <head corresp="#pmb50">Wien</head>

@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -216,6 +215,58 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00224.html</idno>
+            </event>
+            <event when-iso="1893-06-21">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 21. 6. 1893</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb54776">Christine Schönberger</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb968">Mödling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334846">Hotel Stadt Mödling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334848">Deisenhofers Hotel »zum goldenen Lamm«</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb192771">Hotel Hajek</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334850">Hotel-Restauration »zum Jordan«</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334853">Brühler Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334860">Hotel zur Helmstreitmühle</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb625">Zum goldenen Stern</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04275.html</idno>
             </event>
             <event when-iso="1893-06-21">
                <head corresp="#pmb50">Wien</head>

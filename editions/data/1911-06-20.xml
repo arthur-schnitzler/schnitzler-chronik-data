@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -156,19 +155,24 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf
-            Aufzügen</title>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb334987">Der junge Medardus. (Zur Übersetzung ins Französische)</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -194,6 +198,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-06-20</idno>
+            </event>
+            <event when-iso="1911-06-20">
+               <head>Samuel Fischer an Arthur Schnitzler, 1911-06-20</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10388</idno>
             </event>
             <event when-iso="1911-06-20">
                <head>Arthur Schnitzler an Julius Kapp, 20. 6. 1911</head>

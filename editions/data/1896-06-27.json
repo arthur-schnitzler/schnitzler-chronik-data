@@ -56,14 +56,14 @@
  "pmb10863"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Paula Beer-Hofmann",
  "ref":
  "pmb10860"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "Otto Brahm",
@@ -73,14 +73,24 @@
   [
  {
  "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ,  {
- "placeName":
  "Salzburg",
  "ref":
  "pmb30"}
+ ,  {
+ "placeName":
+ "Bergen [Norwegen]",
+ "ref":
+ "pmb35625"}
+ ,  {
+ "placeName":
+ "Oslo",
+ "ref":
+ "pmb36296"}
+ ,  {
+ "placeName":
+ "Trondheim",
+ "ref":
+ "pmb40290"}
  ,  {
  "placeName":
  "Wien",
@@ -93,19 +103,9 @@
  "pmb506"}
  ,  {
  "placeName":
- "Bergen [Norwegen]",
+ "I., Innere Stadt",
  "ref":
- "pmb35625"}
- ,  {
- "placeName":
- "Trondheim",
- "ref":
- "pmb40290"}
- ,  {
- "placeName":
- "Oslo",
- "ref":
- "pmb36296"}
+ "pmb51"}
  ]
 }
 }, {
@@ -198,6 +198,32 @@
  "https://wienerschnitzler.org/tag.html#1896-06-27",
  "head":
  "Bad Vöslau"
+}, {
+ "type":
+ "schnitzler-fischer",
+ "idno":
+ "https://biblio.ub.uni-freiburg.de/sf/details/10053",
+ "head":
+ "Samuel Fischer, Oskar Bie an Arthur Schnitzler, 1896-06-27",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "#pmb2914"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "#pmb2121"}]
+}
 }, {
  "type":
  "schnitzler-cmif",

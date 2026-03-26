@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -247,7 +246,7 @@
                         <placeName ref="pmb253003">Paschinger Schlössl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb687">Österreich-Ungarn</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -371,6 +370,40 @@
                <head>Tagebuch von Clara Katharina Pollaczek, 2.–20. Mai 1928</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp547.html</idno>
+            </event>
+            <event when-iso="1928-05-15">
+               <head>Samuel Fischer, Konrad Maril an Arthur Schnitzler, 1928-05-15</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11411</idno>
+            </event>
+            <event when-iso="1928-05-15">
+               <head>Samuel Fischer, Konrad Maril an Arthur Schnitzler, 1928-05-15</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Fischer, Samuel</persName>
+                     </person>
+                     <person>
+                        <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+               </desc>
+               <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11412</idno>
             </event>
             <event when-iso="1928-05-15">
                <head>Arthur Schnitzler an Heinrich Schnitzler, 15. 5. 1928</head>

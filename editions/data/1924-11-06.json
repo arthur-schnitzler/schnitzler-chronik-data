@@ -187,36 +187,36 @@
  "pmb13212"},
  {
  "persName":
- "Georg Brandes",
- "ref":
- "pmb10992"},
- {
- "persName":
  "Stefan Zweig",
  "ref":
  "pmb13212"},
  {
  "persName":
- "Fjodor Mihajlovič Dostojevskij",
- "ref":
- "pmb4006"},
- {
- "persName":
  "Édouard Dujardin",
  "ref":
- "pmb4974"}],
+ "pmb4974"},
+ {
+ "persName":
+ "Georg Brandes",
+ "ref":
+ "pmb10992"},
+ {
+ "persName":
+ "Fjodor Mihajlovič Dostojevskij",
+ "ref":
+ "pmb4006"}],
  "listBibl":
   [
  {
  "title":
- "Lieutenant Gustl. Novelle",
- "ref":
- "pmb29853"}
- ,  {
- "title":
  "Fräulein Else",
  "ref":
  "pmb29941"}
+ ,  {
+ "title":
+ "Lieutenant Gustl. Novelle",
+ "ref":
+ "pmb29853"}
  ,  {
  "title":
  "Les lauriers sont coupés",
@@ -232,9 +232,9 @@
   [
  {
  "placeName":
- "Sternwartestraße 71",
+ "Wien",
  "ref":
- "pmb168815"}
+ "pmb50"}
  ,  {
  "placeName":
  "Salzburg",
@@ -242,14 +242,14 @@
  "pmb30"}
  ,  {
  "placeName":
+ "Sternwartestraße 71",
+ "ref":
+ "pmb168815"}
+ ,  {
+ "placeName":
  "Österreich",
  "ref":
  "pmb41240"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {
@@ -318,6 +318,27 @@
  "ref":
  ""}
  ]
+}
+}, {
+ "type":
+ "schnitzler-fischer",
+ "idno":
+ "https://biblio.ub.uni-freiburg.de/sf/details/11138",
+ "head":
+ "Samuel Fischer an Arthur Schnitzler, 1924-11-06",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "#pmb2121"}]
 }
 }, {
  "type":

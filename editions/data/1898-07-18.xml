@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -112,10 +111,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb34860">Steindorf am Ossiacher See</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb996">St. Johann im Pongau</placeName>
+                        <placeName ref="pmb35499">Liechtensteinklamm</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40374">Ossiacher See</placeName>
@@ -124,13 +129,7 @@
                         <placeName ref="pmb651">Kärnten</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb35499">Liechtensteinklamm</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                        <placeName ref="pmb996">St. Johann im Pongau</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -150,27 +149,18 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb18404">Anna von Hofmannsthal</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45274">Tschortkiw</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb996">St. Johann im Pongau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb644">Galizien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb35499">Liechtensteinklamm</placeName>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb35493">Steinach</placeName>
@@ -179,11 +169,63 @@
                         <placeName ref="pmb35496">Schladming</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                        <placeName ref="pmb35499">Liechtensteinklamm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45274">Tschortkiw</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb644">Galizien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb996">St. Johann im Pongau</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00823.html</idno>
+            </event>
+            <event when-iso="1898-07-18">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 18. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb230">Österreichischer Hof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04290.html</idno>
             </event>
             <event when-iso="1898-07-18">
                <head corresp="#pmb35496">Schladming</head>

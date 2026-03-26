@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -193,22 +192,16 @@
                         <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12358">Friedrich Nietzsche</persName>
+                        <persName ref="pmb12163">Gustav Mahler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12163">Gustav Mahler</persName>
+                        <persName ref="pmb12358">Friedrich Nietzsche</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb13024">Richard Wagner</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb30063">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29851">Der Franzl. Fünf Bilder aus dem Leben eines guten Mannes</title>
                      </bibl>
@@ -216,13 +209,16 @@
                         <title ref="pmb29887">Der Apostel. Schauspiel in drei Aufzügen</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb30063"/>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb30805">Genesung. Roman</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30611">Also sprach Zarathustra</title>
+                        <title ref="pmb30123">3. Sinfonie in d-Moll</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30123">3. Sinfonie in d-Moll</title>
+                        <title ref="pmb30611">Also sprach Zarathustra</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29897">Tristan und Isolde</title>
@@ -230,13 +226,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb186">Lueg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb15">Oper</placeName>

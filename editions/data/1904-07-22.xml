@@ -22,10 +22,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-02-19.">19.02.2026</date>
+            <date when-iso="2026-03-26.">26.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,6 +102,67 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-07-22.html</idno>
+            </event>
+            <event when-iso="1904-07-22">
+               <head>Gustav Schwarzkopf, Emilie Hirschfeld, Robert Hirschfeld, Vinzenz Chiavacci, Malvine Chiavacci an Arthur Schnitzler, 22. 7. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb19140">Hirschfeld, Emilie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11707">Hirschfeld, Robert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2154">Chiavacci, Vinzenz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24700">Chiavacci, Malvine</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb19140">Emilie Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11707">Robert Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2154">Vincenz Chiavacci</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24700">Malvine Schönherr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb91729">Sekirn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb875">Klagenfurt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb335087">Restauration Jungbauer am Wörthersee</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04311.html</idno>
             </event>
             <event when-iso="1904-07-22">
                <head corresp="#pmb483">Reichenau an der Rax</head>

@@ -83,14 +83,24 @@
   [
  {
  "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Villa Dr. Wassing",
+ "ref":
+ "pmb34014"}
+ ,  {
+ "placeName":
  "Steindorf am Ossiacher See",
  "ref":
  "pmb34860"}
  ,  {
  "placeName":
- "St. Johann im Pongau",
+ "Liechtensteinklamm",
  "ref":
- "pmb996"}
+ "pmb35499"}
  ,  {
  "placeName":
  "Ossiacher See",
@@ -103,19 +113,9 @@
  "pmb651"}
  ,  {
  "placeName":
- "Liechtensteinklamm",
+ "St. Johann im Pongau",
  "ref":
- "pmb35499"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Villa Dr. Wassing",
- "ref":
- "pmb34014"}
+ "pmb996"}
  ]
 }
 }, {
@@ -151,6 +151,11 @@
  "pmb11740"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Hugo August von Hofmannsthal",
  "ref":
  "pmb11737"},
@@ -158,34 +163,14 @@
  "persName":
  "Anna von Hofmannsthal",
  "ref":
- "pmb18404"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"}],
+ "pmb18404"}],
  "listPlace":
   [
  {
  "placeName":
- "Tschortkiw",
+ "Bad Fusch",
  "ref":
- "pmb45274"}
- ,  {
- "placeName":
- "St. Johann im Pongau",
- "ref":
- "pmb996"}
- ,  {
- "placeName":
- "Galizien",
- "ref":
- "pmb644"}
- ,  {
- "placeName":
- "Liechtensteinklamm",
- "ref":
- "pmb35499"}
+ "pmb305739"}
  ,  {
  "placeName":
  "Steinach",
@@ -198,9 +183,99 @@
  "pmb35496"}
  ,  {
  "placeName":
- "Bad Fusch",
+ "Liechtensteinklamm",
  "ref":
- "pmb305739"}
+ "pmb35499"}
+ ,  {
+ "placeName":
+ "Tschortkiw",
+ "ref":
+ "pmb45274"}
+ ,  {
+ "placeName":
+ "Galizien",
+ "ref":
+ "pmb644"}
+ ,  {
+ "placeName":
+ "St. Johann im Pongau",
+ "ref":
+ "pmb996"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04290",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04290.html",
+ "head":
+ "Gustav Schwarzkopf an Arthur Schnitzler, 18. 7. 1898",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Max Schwarzkopf",
+ "ref":
+ "pmb24648"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Bad Gastein",
+ "ref":
+ "pmb521"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Villa Dr. Wassing",
+ "ref":
+ "pmb34014"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Österreichischer Hof",
+ "ref":
+ "pmb230"}
  ]
 }
 }, {
