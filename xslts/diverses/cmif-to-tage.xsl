@@ -128,6 +128,52 @@
                 <xsl:copy-of select="descendant::tei:ab[@type='entitaeten']"/>
             </xsl:if>
         </xsl:variable>
+        <xsl:variable name="erwaehnte-personen" as="node()?">
+            <xsl:if test="tei:note/tei:ref[ends-with(@type, 'mentionsPerson')]">
+                <xsl:element name="listPerson" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:for-each select="tei:note/tei:ref[ends-with(@type, 'mentionsPerson')]">
+                        <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:element name="persName" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:attribute name="ref">
+                                    <xsl:value-of select="concat('#', @target)"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="."/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                </xsl:element>
+            </xsl:if>
+        </xsl:variable>
+        <xsl:variable name="erwaehnte-werke" as="node()?">
+            <xsl:if test="tei:note/tei:ref[ends-with(@type, 'mentionsBibl')]">
+                <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:for-each select="tei:note/tei:ref[ends-with(@type, 'mentionsBibl')]">
+                        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:attribute name="ref">
+                                <xsl:value-of select="concat('#', @target)"/>
+                            </xsl:attribute>
+                            <xsl:value-of select="."/>
+                        </xsl:element>
+                    </xsl:for-each>
+                </xsl:element>
+            </xsl:if>
+        </xsl:variable>
+        <xsl:variable name="erwaehnte-orte" as="node()?">
+            <xsl:if test="tei:note/tei:ref[ends-with(@type, 'mentionsPlace')]">
+                <xsl:element name="listPlace" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:for-each select="tei:note/tei:ref[ends-with(@type, 'mentionsPlace')]">
+                        <xsl:element name="place" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:element name="placeName" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:attribute name="ref">
+                                    <xsl:value-of select="concat('#', @target)"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="."/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                </xsl:element>
+            </xsl:if>
+        </xsl:variable>
         <!-- 1) Alle Briefe -->
         <xsl:variable name="zeitraum" as="node()">
             <xsl:element name="dates">
@@ -284,6 +330,15 @@
                             </xsl:if>
                         </xsl:otherwise>
                     </xsl:choose>
+                    <xsl:if test="$erwaehnte-personen//tei:person">
+                        <xsl:copy-of select="$erwaehnte-personen"/>
+                    </xsl:if>
+                    <xsl:if test="$erwaehnte-werke//tei:bibl">
+                        <xsl:copy-of select="$erwaehnte-werke"/>
+                    </xsl:if>
+                    <xsl:if test="$erwaehnte-orte//tei:place">
+                        <xsl:copy-of select="$erwaehnte-orte"/>
+                    </xsl:if>
                     <xsl:if test="$werk-inhalt and not($werk-inhalt='')">
                         <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:value-of select="$werk-inhalt"/>
@@ -473,6 +528,15 @@
                         </xsl:if>
                         <xsl:if test="$beteiligte-organisationen//tei:org">
                             <xsl:copy-of select="$beteiligte-organisationen"/>
+                        </xsl:if>
+                        <xsl:if test="$erwaehnte-personen//tei:person">
+                            <xsl:copy-of select="$erwaehnte-personen"/>
+                        </xsl:if>
+                        <xsl:if test="$erwaehnte-werke//tei:bibl">
+                            <xsl:copy-of select="$erwaehnte-werke"/>
+                        </xsl:if>
+                        <xsl:if test="$erwaehnte-orte//tei:place">
+                            <xsl:copy-of select="$erwaehnte-orte"/>
                         </xsl:if>
                         <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:value-of select="$werk-inhalt"/>
