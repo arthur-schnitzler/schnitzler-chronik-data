@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -172,6 +172,22 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10834</idno>
             </event>
@@ -189,6 +205,47 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11981">Leopold Kramer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12274">Alexander Moissi</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30403">Paracelsus. Versspiel in einem Akt</bibl>
+                     <bibl ref="#pmb31429">Große Szene</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb1119">Stockholm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40700">Göteborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb745">Skandinavien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10835</idno>
             </event>

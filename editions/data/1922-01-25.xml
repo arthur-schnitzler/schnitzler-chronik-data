@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -160,6 +160,34 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10998">Paul Brann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336018">Maurits Wagenvoort</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30005">Abschiedssouper</bibl>
+                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
+                     <bibl ref="#pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</bibl>
+                     <bibl ref="#pmb336219">De fortuintjes van Casanova. Tooneelspel in 4 bedrijven</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44016">Niederlande</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10881</idno>
             </event>

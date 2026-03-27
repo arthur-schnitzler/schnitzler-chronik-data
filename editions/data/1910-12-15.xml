@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -177,6 +177,44 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb14182">László Beöthy</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2657">Hedwig Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2989">Alfred Polgar</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb35512">Ungarn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43471">Budapest</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10351</idno>
             </event>

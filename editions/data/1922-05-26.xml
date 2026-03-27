@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -181,6 +181,33 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13920">Rudolf Beer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2456">Richard Specht</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
+                     <bibl ref="#pmb30167">Die griechische Tänzerin. Novellette</bibl>
+                     <bibl ref="#pmb30219">Das Vermächtnis. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                     <bibl ref="#pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</bibl>
+                     <bibl ref="#pmb30881">Fink und Fliederbusch. Komödie in drei Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10910</idno>
             </event>
@@ -198,6 +225,28 @@
                         <persName type="coworker" ref="#pmb11515">Greiner, Leo</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30201">Doktor Gräsler, Badearzt</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10911</idno>
             </event>

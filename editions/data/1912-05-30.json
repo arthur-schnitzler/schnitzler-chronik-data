@@ -216,6 +216,10 @@
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/10440",
  "head":
@@ -232,11 +236,73 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Peter Paul Schmitt",
+ "ref":
+ "#pmb267651"},
+ {
+ "persName":
+ "Carl Schur",
+ "ref":
+ "#pmb335601"},
+ {
+ "persName":
+ "Edmund Sós",
+ "ref":
+ "#pmb336013"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "",
+ "ref":
+ ""}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ]
 }
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/10441",
  "head":
@@ -253,11 +319,49 @@
  "persName":
  "Carl Schur",
  "ref":
- "#pmb335980"},
+ "#pmb335601"},
  {
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Carl Schur",
+ "ref":
+ "#pmb335601"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "",
+ "ref":
+ ""}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "Schweden",
+ "ref":
+ "#pmb44335"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ]
 }
 }] 

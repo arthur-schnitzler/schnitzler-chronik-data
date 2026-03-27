@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -196,6 +196,59 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10828">Herman Bang</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11605">Otto Erich Hartleben</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12435">Clara Katharina Pollaczek</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12514">Gabriele Reuter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2147">Peter Altenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2357">Peter Nansen</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb64831">Maria Janitschek</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb7610">Alice Gurschner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29899">Freiwild. Schauspiel in 3 Akten</bibl>
+                     <bibl ref="#pmb30075">Die Frau des Weisen. Erzählung</bibl>
+                     <bibl ref="#pmb31735">Die versunkene Glocke. Ein deutsches Märchendrama in fünf Aufzügen</bibl>
+                     <bibl ref="#pmb31975">Die kleine Komödie</bibl>
+                     <bibl ref="#pmb335703">Collection Ollendorff illustrée</bibl>
+                     <bibl ref="#pmb34096">Mimi. Schattenbilder aus einem Mädchenleben</bibl>
+                     <bibl ref="#pmb36152">Neue Deutsche Rundschau</bibl>
+                     <bibl ref="#pmb42334">Collection Fischer</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10064</idno>
             </event>

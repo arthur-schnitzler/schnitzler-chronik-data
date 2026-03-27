@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -205,9 +205,47 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb20474">Gustaf Linden</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335837">Albert Bonnier</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30117">Sterben. Novelle</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb145">Köln</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb652">Prag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb871">Karlsruhe</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb872">Stuttgart</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10334</idno>
             </event>

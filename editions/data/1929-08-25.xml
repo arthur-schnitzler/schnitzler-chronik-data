@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,6 +118,54 @@
                         <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11165">Ernst von Dohnányi</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb119724">Olga Baclanova</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb15173">Albert Curtis Brown</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb178500">Eduard Bloch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb21891">Franz Neumann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2871">Theodor Entsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3105">Wilhelm Karczag</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335861">Albert Entsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30215">Der Schleier der Pierrette. Pantomime in drei Bildern</bibl>
+                     <bibl ref="#pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44053">New York City</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb90460">Caux</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11498</idno>
             </event>

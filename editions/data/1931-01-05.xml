@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -130,6 +130,30 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30201">Doktor Gräsler, Badearzt</bibl>
+                     <bibl ref="#pmb30213">Die Hirtenflöte. Novelle</bibl>
+                     <bibl ref="#pmb30349">Das Tagebuch der Redegonda</bibl>
+                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
+                     <bibl ref="#pmb30851">Traumnovelle</bibl>
+                     <bibl ref="#pmb32131">Spiel im Morgengrauen. Novelle</bibl>
+                     <bibl ref="#pmb33754">Der Mörder. Novelle</bibl>
+                     <bibl ref="#pmb33776">Dämmerseele</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11610</idno>
             </event>
@@ -147,6 +171,36 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336337">Stefano Rökk-Richter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb30163">Weihnachts-Einkäufe</bibl>
+                     <bibl ref="#pmb336186">Der Deutsche Rundfunk. Rundschau und Programm für alle Funk-Teilnehmer</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11611</idno>
             </event>

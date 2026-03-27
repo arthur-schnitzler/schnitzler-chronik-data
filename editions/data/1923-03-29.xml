@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -160,6 +160,61 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11679">Hermann Hesse</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11900">Bernhard Kellermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12176">Thomas Mann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23320">August Reyding</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23675">Alfred Rotter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3876">Fritz Rotter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4423">Alfred A. Knopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb5031">Horace Samuel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb92768">Edward Woticky</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb33187">Buddenbrooks</bibl>
+                     <bibl ref="#pmb78498">Demian</bibl>
+                     <bibl ref="#pmb78902">Der Tunnel. Roman</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10989</idno>
             </event>

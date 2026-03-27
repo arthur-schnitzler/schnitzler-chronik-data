@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,6 +110,48 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11981">Leopold Kramer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12877">August Strindberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23675">Alfred Rotter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2874">Oskar Friedrich Eirich</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4040">Alfred Bernau</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb77072">Fräulein Julie</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb833">Brünn</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10697</idno>
             </event>
@@ -124,6 +166,41 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12556">Richard Rosenbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb162348">Konstantin Sergejwitsch Stanislawski</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb178500">Eduard Bloch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb17899">Benjamin Harz</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30971">Casanovas Heimfahrt</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb34438">Russland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10699</idno>
             </event>

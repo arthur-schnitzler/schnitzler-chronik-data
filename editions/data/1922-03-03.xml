@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -181,6 +181,57 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb142471">Erich Ziegel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb22595">Leo Pinner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23320">August Reyding</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb118073">Nieuwe Rotterdamsche Courant</bibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29903">Zwischenspiel. Komödie in drei Akten</bibl>
+                     <bibl ref="#pmb335627">Rotterdams Nieuwsblad</bibl>
+                     <bibl ref="#pmb336157">Algemeen Handelsblad</bibl>
+                     <bibl ref="#pmb336159">De Haagse Post</bibl>
+                     <bibl ref="#pmb336161">De Maasbode</bibl>
+                     <bibl ref="#pmb336163">De Telegraaf</bibl>
+                     <bibl ref="#pmb336165">?? [Scheveninger Telegrammheft]</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40709">Amsterdam</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44016">Niederlande</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44303">Rotterdam</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44313">Scheveningen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb53150">Feldafing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb58810">Den Haag</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10926</idno>
             </event>

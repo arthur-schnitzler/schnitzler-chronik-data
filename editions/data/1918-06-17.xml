@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -169,6 +169,47 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10896">Rudolf Bernauer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb8889">Carl Meinhard</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
+                     <bibl ref="#pmb29859">Marionetten. Drei Einakter</bibl>
+                     <bibl ref="#pmb29865">Die Frau mit dem Dolche</bibl>
+                     <bibl ref="#pmb29873">Der Puppenspieler. Studie in einem Aufzuge</bibl>
+                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
+                     <bibl ref="#pmb29951">Zum großen Wurstel. Burleske in einem Akt</bibl>
+                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
+                     <bibl ref="#pmb30899">Das Gänsemännchen. Roman</bibl>
+                     <bibl ref="#pmb31429">Große Szene</bibl>
+                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
+                     <bibl ref="#pmb76920">Der Ketzer von Soana</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb866">Dresden</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10663</idno>
             </event>

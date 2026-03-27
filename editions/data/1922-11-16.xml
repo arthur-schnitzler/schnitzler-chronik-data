@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -165,6 +165,53 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11454">Heinrich Glücksmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11646">Hugo Heller</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2312">Berta Zuckerkandl</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2327">Emma Löwenstamm</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</bibl>
+                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
+                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
+                     <bibl ref="#pmb30167">Die griechische Tänzerin. Novellette</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb254">England</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb47966">Liberec</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb864">Leipzig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb955">Teplice</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10947</idno>
             </event>
@@ -182,6 +229,44 @@
                         <persName type="coworker" ref="#pmb11515">Greiner, Leo</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb92768">Edward Woticky</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29873">Der Puppenspieler. Studie in einem Aufzuge</bibl>
+                     <bibl ref="#pmb29899">Freiwild. Schauspiel in 3 Akten</bibl>
+                     <bibl ref="#pmb29921">Dämmerseelen. Novellen</bibl>
+                     <bibl ref="#pmb30215">Der Schleier der Pierrette. Pantomime in drei Bildern</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                     <bibl ref="#pmb30717">Komödie der Worte. Drei Einakter</bibl>
+                     <bibl ref="#pmb33806">Ein Abschied</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb313">Polen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb34438">Russland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb506">Hamburg</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10948</idno>
             </event>

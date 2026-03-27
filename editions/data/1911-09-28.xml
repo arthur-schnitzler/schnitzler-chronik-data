@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -144,6 +144,25 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb6648">Franz Christophe</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30213">Die Hirtenflöte. Novelle</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10396</idno>
             </event>
@@ -155,12 +174,42 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                      <person>
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2874">Oskar Friedrich Eirich</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336009">Julius Szalit</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
+                     <bibl ref="#pmb29845">Die Gefährtin. Schauspiel in einem Akt</bibl>
+                     <bibl ref="#pmb30403">Paracelsus. Versspiel in einem Akt</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb313">Polen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10397</idno>
             </event>

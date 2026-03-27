@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,6 +111,36 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2657">Hedwig Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9999">Hermann Stehr</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb29985">Der einsame Weg. Schauspiel in fünf Akten</bibl>
+                     <bibl ref="#pmb30167">Die griechische Tänzerin. Novellette</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                     <bibl ref="#pmb30717">Komödie der Worte. Drei Einakter</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb915">Dortmund</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10601</idno>
             </event>

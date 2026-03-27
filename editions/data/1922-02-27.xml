@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -146,6 +146,51 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb19941">Karl König</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb22388">Grete Paukner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb25499">Josef von Sternberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb8288">Leopoldine Konstantin</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb92768">Edward Woticky</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30005">Abschiedssouper</bibl>
+                     <bibl ref="#pmb30201">Doktor Gräsler, Badearzt</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
+                     <bibl ref="#pmb41296">The Dial</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44016">Niederlande</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10891</idno>
             </event>

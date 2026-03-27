@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -187,6 +187,56 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb10889">Gottfried Bermann Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11198">Tilla Durieux</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb114855">Fritz Kampers</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11842">Egon von Jordan</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336732">Theo Modes</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9539">Ralph Arthur Roberts</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9632">Heinz Salfner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29931">Komtesse Mizzi oder: Der Familientag</bibl>
+                     <bibl ref="#pmb30051">Der Geist im Wort und der Geist in der Tat</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb866">Dresden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb915">Dortmund</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11264</idno>
             </event>
@@ -204,6 +254,43 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11198">Tilla Durieux</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb114855">Fritz Kampers</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11842">Egon von Jordan</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9539">Ralph Arthur Roberts</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9632">Heinz Salfner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29931">Komtesse Mizzi oder: Der Familientag</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11265</idno>
             </event>

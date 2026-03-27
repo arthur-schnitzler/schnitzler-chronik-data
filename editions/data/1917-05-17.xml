@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -226,6 +226,38 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb10844">Albert Bassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2167">Felix Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb274306">Kinder der Freude</bibl>
+                     <bibl ref="#pmb29863">Lebendige Stunden. Vier Einakter</bibl>
+                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb30201">Doktor Gräsler, Badearzt</bibl>
+                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10613</idno>
             </event>

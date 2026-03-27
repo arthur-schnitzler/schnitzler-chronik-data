@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -189,6 +189,57 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335898">Carl Iban</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336299">Paolo Giordani</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4076">Otto Eisenschitz</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4441">Maximilian Sladek</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb30005">Abschiedssouper</bibl>
+                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30971">Casanovas Heimfahrt</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb14491">Köpenick</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44016">Niederlande</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb890">Hannover</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb891">Bremen</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10799</idno>
             </event>

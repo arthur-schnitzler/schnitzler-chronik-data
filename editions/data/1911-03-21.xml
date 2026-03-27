@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -201,6 +201,47 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11590">Gustav Harpner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb21365">Richard Metzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2242">Cesare Levi</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb25995">Emil Thieben</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb26414">Maurice Vaucaire</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</bibl>
+                     <bibl ref="#pmb30005">Abschiedssouper</bibl>
+                     <bibl ref="#pmb30033">Anatols Hochzeitsmorgen</bibl>
+                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb652">Prag</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10370</idno>
             </event>
@@ -212,12 +253,31 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                      <person>
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2874">Oskar Friedrich Eirich</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10371</idno>
             </event>

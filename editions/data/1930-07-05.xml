@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -152,6 +152,48 @@
                         <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23787">Maurice Rémon</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336308">Jaroslava Knésková</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
+                     <bibl ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</bibl>
+                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30817">Therese. Chronik eines Frauenlebens</bibl>
+                     <bibl ref="#pmb30971">Casanovas Heimfahrt</bibl>
+                     <bibl ref="#pmb32131">Spiel im Morgengrauen. Novelle</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43430">Tschechische Republik</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb955">Teplice</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11586</idno>
             </event>

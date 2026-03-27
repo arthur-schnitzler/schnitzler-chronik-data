@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -137,6 +137,48 @@
                         <persName type="coworker" ref="#pmb11515">Greiner, Leo</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb18383">Rudolf Stephan Hoffmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2249">Arnold Korff</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb92768">Edward Woticky</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30005">Abschiedssouper</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb335756">Christiania</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43570">Dänemark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb506">Hamburg</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10985</idno>
             </event>

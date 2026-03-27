@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -190,6 +190,52 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11679">Hermann Hesse</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12176">Thomas Mann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb17899">Benjamin Harz</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb291990">Alice van Nahuys-von Eugen</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb54787">Victor Zuckerkandl</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb7000">Fritz Engel</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb168310">Die Erwachenden. Novellen</bibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30117">Sterben. Novelle</bibl>
+                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
+                     <bibl ref="#pmb30817">Therese. Chronik eines Frauenlebens</bibl>
+                     <bibl ref="#pmb335709">Die Alternden. Novellen</bibl>
+                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44016">Niederlande</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11432</idno>
             </event>

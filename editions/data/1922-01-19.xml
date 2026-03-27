@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,6 +111,49 @@
                         <persName type="coworker" ref="#pmb11515">Greiner, Leo</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10836">Rudolf Hans Bartsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11515">Leo Greiner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb22388">Grete Paukner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb24825">Thomas Seltzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb25499">Josef von Sternberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3105">Wilhelm Karczag</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb92768">Edward Woticky</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</bibl>
+                     <bibl ref="#pmb30971">Casanovas Heimfahrt</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10879</idno>
             </event>

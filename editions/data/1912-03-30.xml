@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -121,6 +121,40 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb15764">Otto Eirich</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb6648">Franz Christophe</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb29921">Dämmerseelen. Novellen</bibl>
+                     <bibl ref="#pmb30213">Die Hirtenflöte. Novelle</bibl>
+                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
+                     <bibl ref="#pmb30349">Das Tagebuch der Redegonda</bibl>
+                     <bibl ref="#pmb32816">Masken und Wunder. Novellen</bibl>
+                     <bibl ref="#pmb33061">Die dreifache Warnung</bibl>
+                     <bibl ref="#pmb33754">Der Mörder. Novelle</bibl>
+                     <bibl ref="#pmb33758">Der Tod des Junggesellen. Novelle</bibl>
+                     <bibl ref="#pmb33760">Der tote Gabriel. Novelle</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10430</idno>
             </event>

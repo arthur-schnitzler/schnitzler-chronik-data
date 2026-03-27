@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -230,6 +230,58 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13068">Frank Wedekind</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2381">George Bernard Shaw</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb28152">Herbert Beerbohm Tree</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335988">Charlotte Payne-Townshend</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336277">Grant Allan</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336359">Frederick Whelen</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb5369">Harley Granville-Barker</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb89676">John Eugene Vedrenne</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
+                     <bibl ref="#pmb29863">Lebendige Stunden. Vier Einakter</bibl>
+                     <bibl ref="#pmb30403">Paracelsus. Versspiel in einem Akt</bibl>
+                     <bibl ref="#pmb76460">Der Kammersänger. Drei Scenen</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb224">London</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb254">England</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10184</idno>
             </event>

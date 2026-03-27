@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -141,6 +141,39 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2959">Adolf Lantz</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
+                     <bibl ref="#pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</bibl>
+                     <bibl ref="#pmb29903">Zwischenspiel. Komödie in drei Akten</bibl>
+                     <bibl ref="#pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</bibl>
+                     <bibl ref="#pmb29985">Der einsame Weg. Schauspiel in fünf Akten</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30219">Das Vermächtnis. Schauspiel in drei Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb34438">Russland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10423</idno>
             </event>

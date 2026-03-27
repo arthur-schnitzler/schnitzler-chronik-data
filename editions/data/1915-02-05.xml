@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,6 +116,56 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11676">Wilhelm Herzog</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12543">Romain Rolland</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3256">Paul Block</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
+                     <bibl ref="#pmb41531">Berliner Tageblatt</bibl>
+                     <bibl ref="#pmb42406">Neue Zürcher Zeitung</bibl>
+                     <bibl ref="#pmb58490">Une protestation d’Arthur Schnitzler</bibl>
+                     <bibl ref="#pmb58493">Journal de Genève</bibl>
+                     <bibl ref="#pmb77692">Das Forum</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb652">Prag</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10550</idno>
             </event>

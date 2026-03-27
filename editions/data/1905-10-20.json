@@ -164,6 +164,10 @@
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/10157",
  "head":
@@ -180,11 +184,48 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "",
+ "ref":
+ ""}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "Russland",
+ "ref":
+ "#pmb34438"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ]
 }
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/10158",
  "head":
@@ -201,11 +242,79 @@
  "persName":
  "Carl Schur",
  "ref":
- "#pmb335980"},
+ "#pmb335601"},
  {
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Gustav Lindemann",
+ "ref":
+ "#pmb20466"},
+ {
+ "persName":
+ "Carl Schur",
+ "ref":
+ "#pmb335601"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "",
+ "ref":
+ ""}
+ ,  {
+ "title":
+ "",
+ "ref":
+ ""}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "Nürnberg",
+ "ref":
+ "#pmb44172"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "#pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "#pmb506"}
+ ,  {
+ "placeName":
+ "Düsseldorf",
+ "ref":
+ "#pmb863"}
+ ,  {
+ "placeName":
+ "Leipzig",
+ "ref":
+ "#pmb864"}
+ ]
 }
 }] 

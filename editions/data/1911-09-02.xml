@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -146,6 +146,51 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12085">Paul Linsemann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12701">Louise Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                     <bibl ref="#pmb33061">Die dreifache Warnung</bibl>
+                     <bibl ref="#pmb336182">Das XXV. Jahr</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb197">Weimar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44119">Mainz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb521">Bad Gastein</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10394</idno>
             </event>

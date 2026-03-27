@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -160,6 +160,42 @@
                         <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb142471">Erich Ziegel</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23675">Alfred Rotter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23921">Heinz Saltenburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb38364">Wolfgang Heine</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3876">Fritz Rotter</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb30775">Der Gang zum Weiher. Dramatische Dichtung</bibl>
+                     <bibl ref="#pmb33015">Der Kampf um den Reigen. Vollständiger Bericht über die sechstägige Verhandlung gegen Direktion und Darsteller des Kleinen Schauspielhauses Berlin</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11348</idno>
             </event>

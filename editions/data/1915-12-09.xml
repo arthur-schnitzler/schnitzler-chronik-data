@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -332,6 +332,54 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10788">Raoul Auernheimer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12170">Heinrich Mann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12176">Thomas Mann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12602">Ferdinand von Saar</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12848">Carl Sternheim</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13068">Frank Wedekind</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13777">Wolfgang von Bartels</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
+                     <bibl ref="#pmb32816">Masken und Wunder. Novellen</bibl>
+                     <bibl ref="#pmb33187">Buddenbrooks</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb864">Leipzig</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10587</idno>
             </event>

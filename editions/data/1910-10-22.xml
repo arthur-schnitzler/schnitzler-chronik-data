@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -398,9 +398,61 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11845">Gustav Kadelburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11851">Josef Kainz</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12414">Felix Philippi</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12899">Hermann Sudermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb14328">Oskar Blumenthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb19236">Alice Kauser</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2874">Oskar Friedrich Eirich</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb30033">Anatols Hochzeitsmorgen</bibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb833">Brünn</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10340</idno>
             </event>

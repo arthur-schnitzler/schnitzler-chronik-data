@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,6 +128,53 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11981">Leopold Kramer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb19465">Paul Knepler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb22388">Grete Paukner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4441">Maximilian Sladek</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb9756">Wilhelm von Scholz</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb33754">Der Mörder. Novelle</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb378">Rumänien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb506">Hamburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb652">Prag</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10815</idno>
             </event>

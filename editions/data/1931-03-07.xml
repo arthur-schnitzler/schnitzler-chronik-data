@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -180,6 +180,45 @@
                         <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12421">Luigi Pirandello</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb12504">Max Reinhardt</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23303">Alfred Reucker</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29845">Die Gefährtin. Schauspiel in einem Akt</bibl>
+                     <bibl ref="#pmb30775">Der Gang zum Weiher. Dramatische Dichtung</bibl>
+                     <bibl ref="#pmb335680">La Compagna</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb866">Dresden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb883">Wiesbaden</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11645</idno>
             </event>

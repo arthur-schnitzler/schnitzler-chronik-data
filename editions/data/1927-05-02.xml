@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -161,6 +161,51 @@
                         <persName type="coworker" ref="#pmb4374">Maril, Konrad</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23921">Heinz Saltenburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336004">Ferdinand Strassow</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4455">Paul Zsolnay</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb8201">Franziska Kinz</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl ref="#pmb29941">Fräulein Else</bibl>
+                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
+                     <bibl ref="#pmb30851">Traumnovelle</bibl>
+                     <bibl ref="#pmb32131">Spiel im Morgengrauen. Novelle</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43570">Dänemark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb462">Venedig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb553">Pilsen</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11301</idno>
             </event>

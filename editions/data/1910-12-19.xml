@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -165,12 +165,88 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                      <person>
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29935">Anatol</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb1223">Bern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb197">Weimar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb319">Straßburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb44172">Nürnberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb47053">Krefeld</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb506">Hamburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb55380">Chorzów</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb56015">Görlitz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb58556">Koblenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb58684">Regensburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb652">Prag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb863">Düsseldorf</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb864">Leipzig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb883">Wiesbaden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb890">Hannover</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb913">Bonn</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10355</idno>
             </event>

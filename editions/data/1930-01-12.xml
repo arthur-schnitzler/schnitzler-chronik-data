@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -172,6 +172,42 @@
                         <persName type="coworker" ref="#pmb10889">Bermann, Gottfried</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10889">Gottfried Bermann Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4455">Paul Zsolnay</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb168328">Traum und Schicksal. Sieben Novellen</bibl>
+                     <bibl ref="#pmb29853">Lieutenant Gustl. Novelle</bibl>
+                     <bibl ref="#pmb29941">Fräulein Else</bibl>
+                     <bibl ref="#pmb30057">Das Schicksal des Freiherrn von Leisenbohg. Novellette</bibl>
+                     <bibl ref="#pmb30201">Doktor Gräsler, Badearzt</bibl>
+                     <bibl ref="#pmb30213">Die Hirtenflöte. Novelle</bibl>
+                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
+                     <bibl ref="#pmb30751">Die Frau des Richters. Novelle</bibl>
+                     <bibl ref="#pmb30851">Traumnovelle</bibl>
+                     <bibl ref="#pmb30863">Flucht in die Finsternis</bibl>
+                     <bibl ref="#pmb32131">Spiel im Morgengrauen. Novelle</bibl>
+                     <bibl ref="#pmb32133">Frau Beate und ihr Sohn. Novelle</bibl>
+                     <bibl ref="#pmb33754">Der Mörder. Novelle</bibl>
+                     <bibl ref="#pmb33758">Der Tod des Junggesellen. Novelle</bibl>
+                     <bibl ref="#pmb52605">Vossische Zeitung</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11527</idno>
             </event>

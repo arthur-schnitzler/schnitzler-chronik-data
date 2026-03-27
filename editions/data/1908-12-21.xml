@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -194,6 +194,40 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11784">Engelbert Humperdinck</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336021">Heinrich Zöllner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb6274">Elsa Bernstein</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29859">Marionetten. Drei Einakter</bibl>
+                     <bibl ref="#pmb29873">Der Puppenspieler. Studie in einem Aufzuge</bibl>
+                     <bibl ref="#pmb29931">Komtesse Mizzi oder: Der Familientag</bibl>
+                     <bibl ref="#pmb29951">Zum großen Wurstel. Burleske in einem Akt</bibl>
+                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
+                     <bibl ref="#pmb31735">Die versunkene Glocke. Ein deutsches Märchendrama in fünf Aufzügen</bibl>
+                     <bibl ref="#pmb77248">Königskinder</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10251</idno>
             </event>

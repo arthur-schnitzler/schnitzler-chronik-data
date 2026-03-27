@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -115,12 +115,70 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                      <person>
-                        <persName type="coworker" ref="#pmb335980">Schur, Carl</persName>
+                        <persName type="coworker" ref="#pmb335601">Schur, Carl</persName>
                      </person>
                      <person>
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335601">Carl Schur</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb7528">Ferdinand Gregori</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb30207">Das weite Land. Tragikomödie in fünf Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb304404">Königsberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb319">Straßburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb833">Brünn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb863">Düsseldorf</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb864">Leipzig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb866">Dresden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb881">Mannheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb890">Hannover</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb913">Bonn</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10335</idno>
             </event>

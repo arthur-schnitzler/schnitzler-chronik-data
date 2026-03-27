@@ -67,6 +67,10 @@
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/11259",
  "head":
@@ -83,11 +87,35 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ]
 }
 }, {
  "type":
  "schnitzler-fischer",
+ "color":
+ "#3D4F9F",
+ "caption":
+ "Schnitzler – S. Fischer",
  "idno":
  "https://biblio.ub.uni-freiburg.de/sf/details/11260",
  "head":
@@ -109,6 +137,49 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "#pmb2121"}]
+ "#pmb2121"}],
+ "listPerson":
+  [
+{
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "#pmb11324"},
+ {
+ "persName":
+ "Oscar Straus",
+ "ref":
+ "#pmb12861"},
+ {
+ "persName":
+ "Konrad Maril",
+ "ref":
+ "#pmb4374"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "",
+ "ref":
+ ""}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "#pmb168"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "#pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "#pmb50"}
+ ]
 }
 }] 

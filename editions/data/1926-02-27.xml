@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -141,6 +141,57 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb10833">Victor Barnowsky</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb10886">Elisabeth Bergner</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb15449">Käthe Dorsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb18607">Ben W. Huebsch</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2381">George Bernard Shaw</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23921">Heinz Saltenburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4374">Konrad Maril</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb6715">Hedwig Courths-Mahler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb8201">Franziska Kinz</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30775">Der Gang zum Weiher. Dramatische Dichtung</bibl>
+                     <bibl ref="#pmb77100">Die heilige Johanna</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb35512">Ungarn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb91564">Rapallo</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11231</idno>
             </event>

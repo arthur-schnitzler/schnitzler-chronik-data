@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -179,6 +179,61 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb13091">Franz Wenzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb17899">Benjamin Harz</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb23409">Siegfried Rieser</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336020">Richard Wrede</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb8885">Hans Meid</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
+                     <bibl ref="#pmb29985">Der einsame Weg. Schauspiel in fünf Akten</bibl>
+                     <bibl ref="#pmb30971">Casanovas Heimfahrt</bibl>
+                     <bibl ref="#pmb31429">Große Szene</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb1119">Stockholm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb197">Weimar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb484">Zürich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10809</idno>
             </event>

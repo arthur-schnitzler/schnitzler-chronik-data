@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -117,6 +117,31 @@
                         <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb4785">Theodor Zasche</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb144228">Kölnische Zeitung</bibl>
+                     <bibl ref="#pmb30117">Sterben. Novelle</bibl>
+                     <bibl ref="#pmb31975">Die kleine Komödie</bibl>
+                     <bibl ref="#pmb36152">Neue Deutsche Rundschau</bibl>
+                     <bibl ref="#pmb39562">Allgemeine Zeitung</bibl>
+                     <bibl ref="#pmb40968">Magazin für die Literatur des Auslandes</bibl>
+                     <bibl ref="#pmb41264">Wiener Abendpost</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10024</idno>
             </event>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-26.">26.03.2026</date>
+            <date when-iso="2026-03-27.">27.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -223,6 +223,55 @@
                         <persName ref="#pmb11324">Fischer, Samuel</persName>
                      </person>
                   </listPerson>
+                  <listPerson>
+                     <person>
+                        <persName ref="#pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb19236">Alice Kauser</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb19651">Curt Kraatz</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2199">Stephan Epstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb2570">Rudolf Lothar</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb335827">Maurice Baumfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb336315">Robert de Machiels</persName>
+                     </person>
+                     <person>
+                        <persName ref="#pmb3966">Jean Thorel</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl ref="#pmb29903">Zwischenspiel. Komödie in drei Akten</bibl>
+                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
+                     <bibl ref="#pmb30631">König Harlekin. Maskenspiel in vier Aufzügen</bibl>
+                     <bibl ref="#pmb335706">Der Hochtourist. Schwank in drei Akten</bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="#pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb49803">Milwaukee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="#pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10326</idno>
             </event>
