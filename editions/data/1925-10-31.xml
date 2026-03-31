@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -248,10 +248,18 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb30751">Die Frau des Richters. Novelle</bibl>
-                     <bibl ref="#pmb30775">Der Gang zum Weiher. Dramatische Dichtung</bibl>
-                     <bibl ref="#pmb30851">Traumnovelle</bibl>
-                     <bibl ref="#pmb52605">Vossische Zeitung</bibl>
+                     <bibl>
+                        <title ref="#pmb30751">Die Frau des Richters. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30851">Traumnovelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb52605">Vossische Zeitung</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

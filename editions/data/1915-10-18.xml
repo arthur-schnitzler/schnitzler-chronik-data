@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -305,8 +305,12 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
-                     <bibl ref="#pmb30717">Komödie der Worte. Drei Einakter</bibl>
+                     <bibl>
+                        <title ref="#pmb30649">Der blinde Geronimo und sein Bruder</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30717">Komödie der Worte. Drei Einakter</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

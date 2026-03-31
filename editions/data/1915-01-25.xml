@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,9 +123,15 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
-                     <bibl ref="#pmb41531">Berliner Tageblatt</bibl>
-                     <bibl ref="#pmb58490">Une protestation d’Arthur Schnitzler</bibl>
+                     <bibl>
+                        <title ref="#pmb36156">Die neue Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb41531">Berliner Tageblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb58490">Une protestation d’Arthur Schnitzler</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -339,12 +339,24 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
-                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
-                     <bibl ref="#pmb29853">Lieutenant Gustl. Novelle</bibl>
-                     <bibl ref="#pmb29917">Liebelei. Schauspiel in drei Akten</bibl>
-                     <bibl ref="#pmb305785">Deutsche Chansons (Brettl-Lieder)</bibl>
-                     <bibl ref="#pmb41560">Der Tag</bibl>
+                     <bibl>
+                        <title ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb305785">Deutsche Chansons (Brettl-Lieder)</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb41560">Der Tag</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

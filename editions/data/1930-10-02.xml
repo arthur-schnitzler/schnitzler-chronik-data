@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -165,10 +165,18 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
-                     <bibl ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</bibl>
-                     <bibl ref="#pmb29863">Lebendige Stunden. Vier Einakter</bibl>
-                     <bibl ref="#pmb29935">Anatol</bibl>
+                     <bibl>
+                        <title ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29935">Anatol</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

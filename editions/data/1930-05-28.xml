@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -152,11 +152,21 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
-                     <bibl ref="#pmb30851">Traumnovelle</bibl>
-                     <bibl ref="#pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</bibl>
-                     <bibl ref="#pmb32133">Frau Beate und ihr Sohn. Novelle</bibl>
-                     <bibl ref="#pmb336155">Adevĕrul</bibl>
+                     <bibl>
+                        <title ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30851">Traumnovelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb32133">Frau Beate und ihr Sohn. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336155">Adevĕrul</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

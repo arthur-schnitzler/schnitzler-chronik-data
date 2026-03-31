@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -223,12 +223,24 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29921">Dämmerseelen. Novellen</bibl>
-                     <bibl ref="#pmb30057">Das Schicksal des Freiherrn von Leisenbohg. Novellette</bibl>
-                     <bibl ref="#pmb30647">Andreas Thameyers letzter Brief</bibl>
-                     <bibl ref="#pmb30655">Das neue Lied</bibl>
-                     <bibl ref="#pmb30683">Die Weissagung</bibl>
-                     <bibl ref="#pmb33776">Dämmerseele</bibl>
+                     <bibl>
+                        <title ref="#pmb29921">Dämmerseelen. Novellen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30057">Das Schicksal des Freiherrn von Leisenbohg. Novellette</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30647">Andreas Thameyers letzter Brief</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30655">Das neue Lied</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30683">Die Weissagung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33776">Dämmerseele</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

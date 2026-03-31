@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -167,8 +167,12 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
-                     <bibl ref="#pmb36166">Freie Bühne für den Entwickelungskampf der Zeit</bibl>
+                     <bibl>
+                        <title ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb36166">Freie Bühne für den Entwickelungskampf der Zeit</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -157,13 +157,27 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
-                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
-                     <bibl ref="#pmb30649">Der blinde Geronimo und sein Bruder</bibl>
-                     <bibl ref="#pmb30717">Komödie der Worte. Drei Einakter</bibl>
-                     <bibl ref="#pmb336172">?? [Neue Romanreihe/Der große Roman, S. Fischer?]</bibl>
-                     <bibl ref="#pmb336221">Monatsschrift für Geschichte und Wissenschaft des Judenthums</bibl>
-                     <bibl ref="#pmb80804">Österreichs Geist und Schwert</bibl>
+                     <bibl>
+                        <title ref="#pmb29923">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30486">Frau Bertha Garlan. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30649">Der blinde Geronimo und sein Bruder</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30717">Komödie der Worte. Drei Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336172">?? [Neue Romanreihe/Der große Roman, S. Fischer?]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336221">Monatsschrift für Geschichte und Wissenschaft des Judenthums</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb80804">Österreichs Geist und Schwert</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

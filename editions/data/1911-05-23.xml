@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -162,9 +162,15 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb30069">Amerika</bibl>
-                     <bibl ref="#pmb33710">Mein Freund Ypsilon. Aus den Papieren eines Arztes</bibl>
-                     <bibl ref="#pmb33746">Der Andere. Aus dem Tagebuch eines Hinterbliebenen</bibl>
+                     <bibl>
+                        <title ref="#pmb30069">Amerika</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33710">Mein Freund Ypsilon. Aus den Papieren eines Arztes</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33746">Der Andere. Aus dem Tagebuch eines Hinterbliebenen</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

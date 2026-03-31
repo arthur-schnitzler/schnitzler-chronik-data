@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -125,9 +125,15 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</bibl>
-                     <bibl ref="#pmb32816">Masken und Wunder. Novellen</bibl>
-                     <bibl ref="#pmb33760">Der tote Gabriel. Novelle</bibl>
+                     <bibl>
+                        <title ref="#pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb32816">Masken und Wunder. Novellen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33760">Der tote Gabriel. Novelle</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

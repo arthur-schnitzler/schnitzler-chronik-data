@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -253,11 +253,21 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29985">Der einsame Weg. Schauspiel in fünf Akten</bibl>
-                     <bibl ref="#pmb335613">Der klingende Garten. Eine Dichtergabe für die deutsche Schutzstiftung</bibl>
-                     <bibl ref="#pmb336166">Bücher der Morgenröte</bibl>
-                     <bibl ref="#pmb336168">Deutscher Dichtergarten</bibl>
-                     <bibl ref="#pmb77831">Die Warschauer Zitadelle</bibl>
+                     <bibl>
+                        <title ref="#pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb335613">Der klingende Garten. Eine Dichtergabe für die deutsche Schutzstiftung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336166">Bücher der Morgenröte</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336168">Deutscher Dichtergarten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb77831">Die Warschauer Zitadelle</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

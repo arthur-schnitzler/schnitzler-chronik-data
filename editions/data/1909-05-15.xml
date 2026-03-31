@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -273,10 +273,18 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29855">Reigen. Zehn Dialoge</bibl>
-                     <bibl ref="#pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</bibl>
-                     <bibl ref="#pmb336226">Das Leben im Dunkeln</bibl>
-                     <bibl ref="#pmb78613">Uferdasein. Abenteuer und Tägliches aus dem Blindenleben von heute. Mit einem Geleitwort von Max Brod</bibl>
+                     <bibl>
+                        <title ref="#pmb29855">Reigen. Zehn Dialoge</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb336226">Das Leben im Dunkeln</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb78613">Uferdasein. Abenteuer und Tägliches aus dem Blindenleben von heute. Mit einem Geleitwort von Max Brod</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

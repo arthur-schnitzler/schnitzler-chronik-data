@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -134,8 +134,12 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29845">Die Gefährtin. Schauspiel in einem Akt</bibl>
-                     <bibl ref="#pmb33061">Die dreifache Warnung</bibl>
+                     <bibl>
+                        <title ref="#pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33061">Die dreifache Warnung</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

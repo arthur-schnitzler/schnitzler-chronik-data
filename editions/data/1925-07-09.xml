@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -136,13 +136,27 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29853">Lieutenant Gustl. Novelle</bibl>
-                     <bibl ref="#pmb29941">Fräulein Else</bibl>
-                     <bibl ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</bibl>
-                     <bibl ref="#pmb30486">Frau Bertha Garlan. Roman</bibl>
-                     <bibl ref="#pmb33247">Der Zauberberg. Roman</bibl>
-                     <bibl ref="#pmb76923">Die Insel der großen Mutter oder Das Wunder von Île des Dames</bibl>
-                     <bibl ref="#pmb77100">Die heilige Johanna</bibl>
+                     <bibl>
+                        <title ref="#pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29941">Fräulein Else</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30217">Der tapfere Cassian. Puppenspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb30486">Frau Bertha Garlan. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb33247">Der Zauberberg. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb76923">Die Insel der großen Mutter oder Das Wunder von Île des Dames</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb77100">Die heilige Johanna</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>

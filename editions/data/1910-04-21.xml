@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-27.">27.03.2026</date>
+            <date when-iso="2026-03-31.">31.03.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -188,13 +188,27 @@
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</bibl>
-                     <bibl ref="#pmb29863">Lebendige Stunden. Vier Einakter</bibl>
-                     <bibl ref="#pmb29923">Der Weg ins Freie. Roman</bibl>
-                     <bibl ref="#pmb29931">Komtesse Mizzi oder: Der Familientag</bibl>
-                     <bibl ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</bibl>
-                     <bibl ref="#pmb36156">Die neue Rundschau</bibl>
-                     <bibl ref="#pmb76921">Der Narr in Christo Emanuel Quint</bibl>
+                     <bibl>
+                        <title ref="#pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29923">Der Weg ins Freie. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29931">Komtesse Mizzi oder: Der Familientag</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb36156">Die neue Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="#pmb76921">Der Narr in Christo Emanuel Quint</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
