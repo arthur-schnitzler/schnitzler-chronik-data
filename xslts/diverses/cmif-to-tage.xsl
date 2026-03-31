@@ -149,10 +149,12 @@
                 <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:for-each select="tei:note/tei:ref[ends-with(@type, 'mentionsBibl')]">
                         <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:element name="title"  namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:attribute name="ref">
                                 <xsl:value-of select="concat('#', @target)"/>
                             </xsl:attribute>
                             <xsl:value-of select="."/>
+                            </xsl:element>
                         </xsl:element>
                     </xsl:for-each>
                 </xsl:element>
