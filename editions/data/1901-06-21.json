@@ -49,11 +49,6 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
  "pmb2173"},
@@ -66,29 +61,19 @@
  "persName":
  "Max Eugen Burckhard",
  "ref":
- "pmb11036"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb11036"}],
  "listBibl":
   [
  {
  "title":
+ "Leutnant Gustl. Parodie",
+ "ref":
+ "pmb144424"}
+ ,  {
+ "title":
  "Lieutenant Gustl. Novelle",
  "ref":
  "pmb29853"}
- ,  {
- "title":
- "Wien, 20. Juni",
- "ref":
- "pmb43151"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -96,13 +81,18 @@
  "pmb36374"}
  ,  {
  "title":
- "Leutnant Gustl. Parodie",
+ "Wien, 20. Juni",
  "ref":
- "pmb144424"}
+ "pmb43151"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
+ ,  {
  "placeName":
  "Berlin",
  "ref":
@@ -117,11 +107,6 @@
  "Dessauer Straße",
  "ref":
  "pmb40583"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
  ,  {
  "placeName":
  "Österreich",
@@ -170,14 +155,9 @@
  "pmb2121"},
  {
  "persName":
- "Theodor von Sosnosky",
+ "Hermann Bahr",
  "ref":
- "pmb9941"},
- {
- "persName":
- "Georg von Ompteda",
- "ref":
- "pmb9146"},
+ "pmb10815"},
  {
  "persName":
  "Eduard Pötzl",
@@ -185,14 +165,29 @@
  "pmb12460"},
  {
  "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
  "W. Fred",
  "ref":
  "pmb2226"},
+ {
+ "persName":
+ "Georg von Ompteda",
+ "ref":
+ "pmb9146"},
+ {
+ "persName":
+ "Marie von Ebner-Eschenbach",
+ "ref":
+ "pmb11216"},
+ {
+ "persName":
+ "Jakob Julius David",
+ "ref":
+ "pmb2416"},
+ {
+ "persName":
+ "Paul von Schönthan-Pernwald",
+ "ref":
+ "pmb24705"},
  {
  "persName":
  "Maximilian von Rosenberg",
@@ -207,49 +202,14 @@
  "persName":
  "Emil Marriot",
  "ref":
- "pmb4223"},
- {
- "persName":
- "Paul von Schönthan-Pernwald",
- "ref":
- "pmb24705"},
- {
- "persName":
- "Jakob Julius David",
- "ref":
- "pmb2416"},
- {
- "persName":
- "Marie von Ebner-Eschenbach",
- "ref":
- "pmb11216"},
- {
- "persName":
- "Ottokar Stauf von der March",
- "ref":
- "pmb12823"}],
+ "pmb4223"}],
  "listBibl":
   [
  {
  "title":
- "Neues Wiener Tagblatt",
- "ref":
- "pmb41321"}
- ,  {
- "title":
- "Frau Bertha Garlan. Roman",
- "ref":
- "pmb30486"}
- ,  {
- "title":
  "Die Nation. Wochenschrift für Politik, Volkswirtschaft und Literatur",
  "ref":
  "pmb122344"}
- ,  {
- "title":
- "Norddeutsche Allgemeine Zeitung",
- "ref":
- "pmb334898"}
  ,  {
  "title":
  "Lieutenant Gustl. Novelle",
@@ -257,39 +217,24 @@
  "pmb29853"}
  ,  {
  "title":
- "Neue Erzählungsliteratur",
+ "Frau Bertha Garlan. Roman",
  "ref":
- "pmb335073"}
+ "pmb30486"}
  ,  {
  "title":
- "Bücher und Zeitschriftenschau [Frau Bertha Garlan]",
+ "Norddeutsche Allgemeine Zeitung",
  "ref":
- "pmb334897"}
+ "pmb334898"}
  ,  {
  "title":
- "Die Lebensgefährtinnen",
+ "Neues Wiener Tagblatt",
  "ref":
- "pmb335108"}
- ,  {
- "title":
- "Monte Carlo",
- "ref":
- "pmb335104"}
+ "pmb41321"}
  ,  {
  "title":
  "Stille Bücher",
  "ref":
  "pmb30147"}
- ,  {
- "title":
- "Die Troika",
- "ref":
- "pmb335112"}
- ,  {
- "title":
- "Aus Spätherbsttagen. Erzählungen",
- "ref":
- "pmb76624"}
  ,  {
  "title":
  "Der Fall Schnitzler. Eine unbefangene Betrachtung",
@@ -300,19 +245,49 @@
  "Neue Bahnen. Zeitschrift für Kunst und öffentliches Leben",
  "ref":
  "pmb334893"}
+ ,  {
+ "title":
+ "Bücher und Zeitschriftenschau [Frau Bertha Garlan]",
+ "ref":
+ "pmb334897"}
+ ,  {
+ "title":
+ "Neue Erzählungsliteratur",
+ "ref":
+ "pmb335073"}
+ ,  {
+ "title":
+ "Monte Carlo",
+ "ref":
+ "pmb335104"}
+ ,  {
+ "title":
+ "Die Lebensgefährtinnen",
+ "ref":
+ "pmb335108"}
+ ,  {
+ "title":
+ "Die Troika",
+ "ref":
+ "pmb335112"}
+ ,  {
+ "title":
+ "Aus Spätherbsttagen. Erzählungen",
+ "ref":
+ "pmb76624"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Alland",
- "ref":
- "pmb90217"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Alland",
+ "ref":
+ "pmb90217"}
  ],
  "listOrg":
   [

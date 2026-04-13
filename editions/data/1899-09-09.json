@@ -49,11 +49,6 @@
  "pmb10863"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
@@ -152,74 +147,14 @@
  "pmb12740"},
  {
  "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Marie Elsinger",
- "ref":
- "pmb2938"},
- {
- "persName":
- "Gilbert Otto Neumann-Hofer",
- "ref":
- "pmb12348"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"},
- {
- "persName":
- "Auguste Mercier",
- "ref":
- "pmb42048"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
  {
  "persName":
- "Gerhart Hauptmann",
+ "Otto Brahm",
  "ref":
- "pmb11617"},
- {
- "persName":
- "Gustav Maran",
- "ref":
- "pmb12179"},
- {
- "persName":
- "Karl Kraus",
- "ref":
- "pmb11988"},
- {
- "persName":
- "Jacques Offenbach",
- "ref":
- "pmb9131"},
- {
- "persName":
- "Karl Lueger",
- "ref":
- "pmb3561"},
+ "pmb10986"},
  {
  "persName":
  "Ernst Vergani",
@@ -232,9 +167,59 @@
  "pmb114834"},
  {
  "persName":
- "Alfred Dreyfus",
+ "Gerhart Hauptmann",
  "ref":
- "pmb4216"},
+ "pmb11617"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Karl Kraus",
+ "ref":
+ "pmb11988"},
+ {
+ "persName":
+ "Gustav Maran",
+ "ref":
+ "pmb12179"},
+ {
+ "persName":
+ "Gilbert Otto Neumann-Hofer",
+ "ref":
+ "pmb12348"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
+ {
+ "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
+ "Marie Elsinger",
+ "ref":
+ "pmb2938"},
+ {
+ "persName":
+ "Karl Lueger",
+ "ref":
+ "pmb3561"},
+ {
+ "persName":
+ "Auguste Mercier",
+ "ref":
+ "pmb42048"},
+ {
+ "persName":
+ "Jacques Offenbach",
+ "ref":
+ "pmb9131"},
  {
  "persName":
  "Josef Kainz",
@@ -242,14 +227,24 @@
  "pmb11851"},
  {
  "persName":
- "Maria von Berks",
+ "Guy de Maupassant",
+ "ref":
+ "pmb12201"},
+ {
+ "persName":
+ "Alfred Dreyfus",
+ "ref":
+ "pmb4216"},
+ {
+ "persName":
+ "Maria Berks",
  "ref":
  "pmb94876"},
  {
  "persName":
- "Guy de Maupassant",
+ "Rudolf Raimann",
  "ref":
- "pmb12201"},
+ "pmb102199"},
  {
  "persName":
  "Johanna Bergmeister",
@@ -259,22 +254,12 @@
  "persName":
  "Helene Samek",
  "ref":
- "pmb23934"},
- {
- "persName":
- "Rudolf Raimann",
- "ref":
- "pmb102199"},
- {
- "persName":
- "Julius Szeps",
- "ref":
- "pmb25793"}],
+ "pmb23934"}],
  "listBibl":
   [
  {
  "title":
- "Fuhrmann Henschel. Schauspiel in 5 Akten",
+ "Fuhrmann Henschel",
  "ref":
  "pmb33037"}
  ,  {
@@ -294,7 +279,7 @@
  "pmb39950"}
  ,  {
  "title":
- "Pierre &amp; Jean",
+ "Pierre et Jean",
  "ref":
  "pmb77872"}
  ,  {
@@ -309,32 +294,27 @@
  "pmb30005"}
  ,  {
  "title":
- "?? [Versdrama für Josef Kainz]",
- "ref":
- "pmb333854"}
- ,  {
- "title":
  "Der Graf von Charolais. Ein Trauerspiel",
  "ref":
  "pmb30233"}
+ ,  {
+ "title":
+ "?? [Versdrama für Josef Kainz]",
+ "ref":
+ "pmb333854"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)",
- "ref":
- "pmb414"}
  ,  {
  "placeName":
  "Altaussee",
@@ -342,14 +322,19 @@
  "pmb34401"}
  ,  {
  "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ "pmb414"}
+ ,  {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
  ,  {
  "placeName":
- "Berlin",
+ "Wien",
  "ref":
- "pmb168"}
+ "pmb50"}
  ,  {
  "placeName":
  "Frankreich",

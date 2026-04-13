@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,6 +94,95 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1892-02-06.html</idno>
+            </event>
+            <event when-iso="1892-02-06">
+               <head>Carl von Torresani an Arthur Schnitzler, 6. 2. 1892</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb26121">Torresani, Carl von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31637">Alkandi’s Lied</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41321">Neues Wiener Tagblatt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31645">Schwarzgelbe Reitergeschichten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31649">Auf gerettetem Kahn. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32402">Mit tausend Masten. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334616">Kinder der Weltstadt. Wiener Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb336849">»Die Juckerkomtesse«</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb336853">»Mit tausend Masken.« – »Auf gerettetem Kahn.«</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb336860">»Schwarzgelbe Reitergeschichten«</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41466">Allgemeine Kunst-Chronik</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30009">Hamlet</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb18">Lessing-Theater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb336799">rue Clément-Marot, 18</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29360">Allgemeine Kunst-Chronik</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04327.html</idno>
             </event>
             <event when-iso="1892-02-06">
                <head corresp="#pmb50">Wien</head>

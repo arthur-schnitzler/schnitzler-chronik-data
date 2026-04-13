@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -115,37 +115,28 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb9484">Ernest Renan</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb39417">Sébastien Roch Nicolas Chamfort</persName>
                      </person>
                      <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb89450">Sully Prudhomme</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2941">Theodor Loewe</persName>
+                        <persName ref="pmb9484">Ernest Renan</persName>
                      </person>
                      <person>
                         <persName ref="pmb12698">Julius Schnitzler</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2941">Theodor Loewe</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb4986">Fedor Mamroth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb89455">Alphonse Lemerre</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -153,19 +144,19 @@
                         <title ref="pmb89428">Das Leben Jesu. Vollständige Volks-Ausgabe</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb89447">Maximes et Pensées, Caractères et Anecdotes</title>
+                        <title ref="pmb89439">Œuvres choises de Chamfort, tome 2</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb89439">Œuvres choises de Chamfort, tome 2</title>
+                        <title ref="pmb89447">Maximes et Pensées, Caractères et Anecdotes</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb89460">Les caresses</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31637">Alkandi’s Lied</title>
+                        <title ref="pmb29935">Anatol</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29935">Anatol</title>
+                        <title ref="pmb31637">Alkandi’s Lied</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32276">Notizen zu Lektüre und Theaterbesuchen (1879-1927)</title>
@@ -176,25 +167,25 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34187">rue Richelieu</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                        <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb677">Breslau</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb652">Prag</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb462">Venedig</placeName>
+                        <placeName ref="pmb677">Breslau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -223,6 +214,9 @@
                            </place>
                            <place corresp="#pmb46">
                               <placeName>Café Kremser</placeName>
+                           </place>
+                           <place corresp="#pmb190427">
+                              <placeName>Wollzeile 15 (»Berthahof«)</placeName>
                            </place>
                            <place corresp="#pmb167805">
                               <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>

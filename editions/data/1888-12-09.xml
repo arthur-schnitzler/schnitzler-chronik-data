@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,15 +95,18 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
+                        <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
+                        <persName ref="pmb2570">Rudolf Lothar</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb33710">Mein Freund Ypsilon. Aus den Papieren eines Arztes</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33838">Jugend in Wien</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -116,6 +119,9 @@
                      <place>
                         <placeName ref="pmb53101">Seidengasse</placeName>
                      </place>
+                     <place>
+                        <placeName ref="pmb41">Allgemeine Poliklinik</placeName>
+                     </place>
                   </listPlace>
                   <listOrg>
                      <org>
@@ -123,6 +129,9 @@
                      </org>
                      <org>
                         <orgName ref="pmb53104">Josef Eberle  Stein-, Buch und Musikaliendruckerei</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29270">Die Presse</orgName>
                      </org>
                   </listOrg>
                </desc>

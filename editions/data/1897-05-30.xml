@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,30 +101,24 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2128">Elsa Plessner</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4887">Johanna Schopenhauer</persName>
                      </person>
                      <person>
                         <persName ref="pmb12582">Jean-Jacques Rousseau</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb4887">Johanna Schopenhauer</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb32161">Meine Freundin Clotilde</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb30265">Der gläserne Käfig. Eine Parabel</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32316">Warten. Novelle</title>
+                        <title ref="pmb32161">Meine Freundin Clotilde</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32386">Gabriele. Ein Roman</title>
+                        <title ref="pmb32316">Warten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb295255">Sämmtliche Schriften</title>
@@ -132,16 +126,19 @@
                      <bibl>
                         <title ref="pmb32328">Julie oder Die neue Heloise</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb32386">Gabriele. Ein Roman</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb224">London</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb295164">Fröschelgasse 6</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

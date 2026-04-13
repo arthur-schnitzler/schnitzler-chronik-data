@@ -50,12 +50,7 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "pmb2121"},
- {
- "persName":
- "Elsa Plessner",
- "ref":
- "pmb2128"}],
+ "pmb2121"}],
  "listBibl":
   [
  {
@@ -73,14 +68,14 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Kärntner Straße 10",
  "ref":
  "pmb295173"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Berlin",
@@ -113,6 +108,67 @@
  {
  "placeName":
  "IX., Alsergrund",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "URL",
+ "subtype":
+ "schnitzler-kultur",
+ "filename":
+ "pmb334624",
+ "idno":
+ "https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334624.html",
+ "head":
+ "Private Lesung von Die drei Musikanten, 10.1.1900",
+ "desc":
+{"listBibl":
+  [
+ {
+ "title":
+ "Die drei Musikanten",
+ "ref":
+ ""}
+ ],
+ "listPerson":
+  [
+{
+ "persName":
+ "Leopold von Andrian-Werburg",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Georg Hirschfeld",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Franz Servaes",
+ "ref":
+ ""},
+ {
+ "persName":
+ "Alfred Gold",
+ "ref":
+ ""}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
  "ref":
  ""}
  ]

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,9 +110,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12564">Karl Peter Rosner</persName>
                      </person>
                   </listPerson>
@@ -184,6 +181,31 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-07-08</idno>
+            </event>
+            <event when-iso="1894-07-08">
+               <head>Hochzeit von Helene Altmann und Julius Schnitzler, 8.7.1894</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12698">Schnitzler, Julius</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb24423">Schnitzler, Helene</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298917.html</idno>
             </event>
             <event when-iso="1894-07-08">
                <head>Adele Sandrock an Arthur Schnitzler, 8.7.1894</head>

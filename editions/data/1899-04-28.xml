@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,9 +92,6 @@
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
@@ -103,16 +100,10 @@
                      <person>
                         <persName ref="pmb2167">Felix Salten</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11175">Max Dreyer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13562">Edmond Audran</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb77357">Hans. Drama in drei Aufzügen</title>
+                        <title ref="pmb77357">Hans</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb80099">Die Puppe</title>
@@ -126,13 +117,13 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -147,9 +138,6 @@
                      </person>
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb10986">Otto Brahm</persName>
@@ -226,9 +214,6 @@
                         <persName ref="pmb11701">Georg Hirschfeld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb23918">Ottilie Salten</persName>
                      </person>
                      <person>
@@ -278,6 +263,36 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-28</idno>
+            </event>
+            <event when-iso="1899-04-28">
+               <head>Generalprobe von Der grüne Kakadu, 28.4.1899</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                        <note type="relation-type">ist Generalprobe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb3">Deutsches Theater Berlin</placeName>
+                        <location>
+                           <geo>52,524444 13,382222</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333837.html</idno>
             </event>
             <event when-iso="1899-04-28">
                <head>Schnitzler schreibt nicht erhaltene Karte an Paul Goldmann, 28. 4. 1899</head>

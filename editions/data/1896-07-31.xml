@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,11 +93,11 @@
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb44335">Schweden</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb1119">Stockholm</placeName>
                      </place>
@@ -109,9 +109,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb42675">Trollhättan-Fälle</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44335">Schweden</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -128,40 +125,34 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2154">Vincenz Chiavacci</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13082">Carl Karlweis</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14943">Ludwig Chiavacci</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb144115">Franz Hirschfeld</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12064">Georg Christoph Lichtenberg</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12614">Marcell Salzer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4884">Hermine von Sonnenthal</persName>
+                        <persName ref="pmb12064">Georg Christoph Lichtenberg</persName>
                      </person>
                      <person>
                         <persName ref="pmb12081">Anton Lindner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb154784">Eugen Reichel</persName>
+                        <persName ref="pmb12614">Marcell Salzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13082">Carl Karlweis</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb144115">Franz Hirschfeld</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14943">Ludwig Chiavacci</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2154">Vincenz Chiavacci</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4884">Hermine von Sonnenthal</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -183,7 +174,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb294370">Pertl’s Drittes Kaffeehaus</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
@@ -192,19 +183,19 @@
                         <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41945">Stilfser Joch</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb41083">Mendelpass</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb294370">Drittes Kaffeehaus</placeName>
+                        <placeName ref="pmb41945">Stilfser Joch</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb8">Prater</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb662">Baden bei Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb8">Prater</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb239736">Hotel Zur Stadt Wien</placeName>

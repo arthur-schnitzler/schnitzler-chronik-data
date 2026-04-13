@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -180,6 +180,10 @@
                         <title key="pmb30472">Die schöne Frau. Eine Anekdote</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
+                     <bibl>
+                        <title key="pmb335223">Jung-Wien bei Bösendorfer</title>
+                        <note type="relation-type">wird rezensiert in</note>
+                     </bibl>
                   </listBibl>
                   <listPerson>
                      <person role="hat mitwirkend">
@@ -220,6 +224,9 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                   </listPerson>
                   <listPlace>

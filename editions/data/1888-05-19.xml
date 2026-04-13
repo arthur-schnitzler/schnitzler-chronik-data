@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,9 +95,20 @@
                            </place>
                         </listPlace>
                      </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339163">
+                              <placeName>Zimmermanngasse 10</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
+                           <place corresp="#pmb294132">
+                              <placeName>Hotel Rabl</placeName>
+                           </place>
                            <place corresp="#pmb168765">
                               <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
                            </place>
@@ -106,6 +117,31 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-05-19</idno>
+            </event>
+            <event when-iso="1888-05-19">
+               <head>Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 19.5.1888</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb9855">Seidl, Wenzel</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb27090">Wiesberg, Wilhelm</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb294132">Hotel Rabl</placeName>
+                        <location>
+                           <geo>48,21038 16,37657</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208248.html</idno>
             </event>
          </listEvent>
       </body>

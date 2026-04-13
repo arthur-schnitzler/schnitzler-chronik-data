@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,39 +102,36 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb56">VI., Mariahilf</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb33">St. Gilgen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40276">Fürberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40290">Trondheim</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb40276">Fürberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43570">Dänemark</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb506">Hamburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb56">VI., Mariahilf</placeName>
+                        <placeName ref="pmb40290">Trondheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -150,16 +147,10 @@
                      <person>
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
@@ -171,7 +162,10 @@
                         <placeName ref="pmb34210">Café Kaiserhof (Inh. Johann Wortner) [Wien]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                   </listPlace>
                </desc>

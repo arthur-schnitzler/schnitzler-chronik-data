@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -120,51 +120,45 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8576">Henri-René Lenormand</persName>
+                        <persName ref="pmb14156">Lucien Besnard</persName>
                      </person>
                      <person>
                         <persName ref="pmb14794">Emma Cabire</persName>
                      </person>
                      <person>
-                        <persName ref="pmb7170">Edmond Fleg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14156">Lucien Besnard</persName>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
                      </person>
                      <person>
                         <persName ref="pmb299366">Nicolas Nathan</persName>
                      </person>
                      <person>
-                        <persName ref="pmb334138">Jean Nicollier</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb3145">Giacomo Girolamo Casanova</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
+                        <persName ref="pmb334138">Jean Nicollier</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb7170">Edmond Fleg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8576">Henri-René Lenormand</persName>
                      </person>
                      <person>
                         <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3966">Jean Thorel</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb92876">Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30971">Casanovas Heimfahrt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb92876">Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb299314">Le Pays de l’âme. Drame en 5 actes</title>
@@ -175,13 +169,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb228">Baden-Baden</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb969">Südtirol</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb194903">Am Kobenzl</placeName>
@@ -190,13 +178,22 @@
                         <placeName ref="pmb194907">Schlosshotel Cobenzl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb228">Baden-Baden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40260">Bozen</placeName>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,7 +95,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11098">Michael Georg Conrad</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2509">Heinrich Osten</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -111,7 +117,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1178">Mahlerstraße</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb412">Grillparzerstraße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -120,13 +132,7 @@
                         <placeName ref="pmb34">Café Griensteidl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb412">Grillparzerstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb1178">Mahlerstraße</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -157,17 +163,14 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
+                        <persName ref="pmb41906">
+                  ?? [Bote von Friedrich M. Fels]
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb41903">
-      ?? [Vermieter von F. M. Fels]
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb41906">
-      ?? [Bote von Friedrich M. Fels]
-  </persName>
+                  ?? [Vermieter von F. M. Fels]
+               </persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -191,16 +194,13 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb262">Café Central</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb262">Café Central</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb52">II., Leopoldstadt</placeName>

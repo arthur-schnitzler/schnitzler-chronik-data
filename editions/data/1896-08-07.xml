@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -80,16 +80,13 @@
                      <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10992">Georg Brandes</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1091">Badehotellet</placeName>
+                        <placeName ref="pmb958">Skodsborg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb958">Skodsborg</placeName>
+                        <placeName ref="pmb1091">Badehotellet</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -106,16 +103,13 @@
                         <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11798">Henrik Ibsen</persName>
@@ -125,18 +119,18 @@
                      </person>
                      <person>
                         <persName ref="pmb41699">
-      ?? [Leuchtturmwärter]
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb41701">
-      ?? [Teenagertochter eines Leuchtturmwärters]
-  </persName>
+                  ?? [Leuchtturmwärter]
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb41702">
-      ?? [Frau des Leuchtturmwärters]
-  </persName>
+                  ?? [Frau des Leuchtturmwärters]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb41701">
+                  ?? [Teenagertochter eines Leuchtturmwärters]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -149,19 +143,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1091">Badehotellet</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb958">Skodsborg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36140">Ven</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36296">Oslo</placeName>
+                        <placeName ref="pmb44599">Ostsee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                        <placeName ref="pmb41072">Nordkap</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40290">Trondheim</placeName>
@@ -170,16 +161,19 @@
                         <placeName ref="pmb40700">Göteborg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41072">Nordkap</placeName>
+                        <placeName ref="pmb36296">Oslo</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44599">Ostsee</placeName>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1091">Badehotellet</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb958">Skodsborg</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -197,9 +191,6 @@
                      </person>
                      <person>
                         <persName ref="pmb10992">Georg Brandes</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11666">Marie Herzfeld</persName>
                      </person>
                      <person>
                         <persName ref="pmb11212">Friedrich Düsel</persName>
@@ -243,6 +234,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb958">Skodsborg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb35513">Kőszeg</placeName>

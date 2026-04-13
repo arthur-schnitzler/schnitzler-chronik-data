@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -138,9 +138,6 @@
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb4311">Édouard Rod</persName>
                      </person>
                      <person>
@@ -149,39 +146,50 @@
                      <person>
                         <persName ref="pmb4315">Louis Charles de Bourbon</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb3124">
+                  Voltaire
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4874">Moritz August von Thümmel</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb34242">Pandore</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32117">Reise in die mittäglichen Provinzen von Frankreich</title>
+                        <title ref="pmb34239">A Midsommer nights dreame</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb34239">A Midsommer nights dreame</title>
+                        <title ref="pmb32117">Reise in die mittäglichen Provinzen von Frankreich</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb45896">Lélex</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb45896">Lélex</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb562">Genf</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb565">Mont Blanc</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb641">Arles</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb859">Buchs</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb562">Genf</placeName>
                      </place>
                   </listPlace>
                </desc>

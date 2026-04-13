@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -130,9 +130,6 @@
                         <persName ref="pmb12530">Rudolf Rittner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
@@ -169,6 +166,36 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03421.html</idno>
+            </event>
+            <event when-iso="1906-04-22">
+               <head>Carl von Torresani an Arthur Schnitzler, [22. 4. 1906]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb26121">Torresani, Carl von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb201441">Wiener Zeitung</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb40294">Torbole sul Garda</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39975">Lago di Garda</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04324.html</idno>
             </event>
             <event when-iso="1906-04-22">
                <head corresp="#pmb50">Wien</head>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,7 +106,13 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                        <persName ref="pmb12160">Alma Maria Mahler-Werfel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13094">Franz Werfel</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -116,15 +122,6 @@
                      </person>
                      <person>
                         <persName ref="pmb22728">Frieda Pollak</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12160">Alma Maria Mahler-Werfel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13094">Franz Werfel</persName>
                      </person>
                      <person>
                         <persName ref="pmb2461">Gisela Hajek</persName>
@@ -137,13 +134,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91067">Kreuzberg [Breitenstein]</placeName>
+                        <placeName ref="pmb34401">Altaussee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40884">Rax</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb521">Bad Gastein</placeName>
@@ -152,22 +155,16 @@
                         <placeName ref="pmb64247">Attnang-Puchheim</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34401">Altaussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb91067">Kreuzberg [Breitenstein]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36503">Breitenstein am Semmering</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
+                        <placeName ref="pmb36506">Haus Mahler</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36506">Haus Mahler</placeName>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                   </listPlace>
                </desc>

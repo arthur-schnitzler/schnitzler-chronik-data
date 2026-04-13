@@ -26,59 +26,14 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb11485"},
- {
- "persName":
- "Georg Hirschfeld",
- "ref":
- "pmb11701"},
- {
- "persName":
- "Franz Servaes",
- "ref":
- "pmb12772"},
- {
- "persName":
- "Max Klinger",
- "ref":
- "pmb11944"},
+ "pmb10863"},
  {
  "persName":
  "Ludwig van Beethoven",
  "ref":
  "pmb10866"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
- "Else Markbreiter",
- "ref":
- "pmb21025"},
- {
- "persName":
- "Margarethe Manasséwitsch",
- "ref":
- "pmb20861"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Victor Hehn",
- "ref":
- "pmb52648"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
  {
  "persName":
  "Max Eugen Burckhard",
@@ -91,14 +46,54 @@
  "pmb11384"},
  {
  "persName":
+ "Gerhart Hauptmann",
+ "ref":
+ "pmb11617"},
+ {
+ "persName":
+ "Georg Hirschfeld",
+ "ref":
+ "pmb11701"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
+ {
+ "persName":
+ "Max Klinger",
+ "ref":
+ "pmb11944"},
+ {
+ "persName":
+ "Franz Servaes",
+ "ref":
+ "pmb12772"},
+ {
+ "persName":
  "Heinrich Graetz",
  "ref":
  "pmb145447"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Margarethe Manasséwitsch",
  "ref":
- "pmb10863"},
+ "pmb20861"},
+ {
+ "persName":
+ "Else Markbreiter",
+ "ref":
+ "pmb21025"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Victor Hehn",
+ "ref":
+ "pmb52648"},
  {
  "persName":
  "Louise Schnitzler",
@@ -108,34 +103,14 @@
  "persName":
  "Clementine Goldmann",
  "ref":
- "pmb17163"},
- {
- "persName":
- "Gabriele D’Annunzio",
- "ref":
- "pmb2142"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb17163"}],
  "listBibl":
   [
  {
  "title":
- "Der Weg zum Licht. Ein Salzburger Märchendrama in vier Akten",
+ "Volkstümliche Geschichte der Juden in drei Bänden",
  "ref":
- "pmb93727"}
+ "pmb145452"}
  ,  {
  "title":
  "Gedanken über Goethe",
@@ -148,29 +123,19 @@
  "pmb145477"}
  ,  {
  "title":
- "Volkstümliche Geschichte der Juden in drei Bänden",
- "ref":
- "pmb145452"}
- ,  {
- "title":
  "Francesca da Rimini",
  "ref":
  "pmb31085"}
  ,  {
  "title":
- "Tagebuch",
+ "Der Weg zum Licht. Ein Salzburger Märchendrama in vier Akten",
  "ref":
- "pmb33243"}
+ "pmb93727"}
  ,  {
  "title":
  "Klinger’s »Beethoven«",
  "ref":
  "pmb145428"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ,  {
  "title":
  "Beethoven",
@@ -183,14 +148,24 @@
  "pmb145438"}
  ,  {
  "title":
+ "Der einsame Weg. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29985"}
+ ,  {
+ "title":
  "Der tapfere Cassian. Puppenspiel in einem Akt",
  "ref":
  "pmb30217"}
  ,  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Tagebuch",
  "ref":
- "pmb29985"}
+ "pmb33243"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
  ,  {
  "title":
  "Der Kampf um die Vorherrschaft in Deutschland 1859 bis 1866. 2 Bde.",
@@ -206,19 +181,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
  ,  {
  "placeName":
  "Pörtschach am Wörthersee",
@@ -226,28 +191,33 @@
  "pmb44278"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
  "Tierschutzhaus",
  "ref":
  "pmb690"}
  ,  {
  "placeName":
- "Stuttgart",
- "ref":
- "pmb872"}
- ,  {
- "placeName":
  "Leipzig",
  "ref":
  "pmb864"}
+ ,  {
+ "placeName":
+ "Stuttgart",
+ "ref":
+ "pmb872"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "Wiener Secession",
- "ref":
- "pmb44948"}
- ,  {
  "orgName":
  "Die Zeit",
  "ref":
@@ -264,14 +234,19 @@
  "pmb36430"}
  ,  {
  "orgName":
- "Wiener Tierschutz-Verein",
+ "Wiener Secession",
  "ref":
- "pmb29302"}
+ "pmb44948"}
  ,  {
  "orgName":
  "Buchhandlung L. Rosner",
  "ref":
  "pmb143542"}
+ ,  {
+ "orgName":
+ "Oskar Leiner GmbH &amp; Co. KG",
+ "ref":
+ "pmb145454"}
  ,  {
  "orgName":
  "Buchhandlung Gebrüder Bornträger",
@@ -284,9 +259,9 @@
  "pmb29215"}
  ,  {
  "orgName":
- "Oskar Leiner GmbH &amp; Co. KG",
+ "Wiener Tierschutz-Verein",
  "ref":
- "pmb145454"}
+ "pmb29302"}
  ]
 }
 }, {

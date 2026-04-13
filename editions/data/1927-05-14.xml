@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,7 +109,9 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
+                        <persName ref="pmb20459">
+      Lindauer
+  </persName>
                      </person>
                      <person>
                         <persName ref="pmb3138">Paul Géraldy</persName>
@@ -118,15 +120,21 @@
                         <persName ref="pmb4455">Paul Zsolnay</persName>
                      </person>
                      <person>
-                        <persName ref="pmb20459">Madeleine Lindauer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb31927">Les noces d’argent</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb334493">Du und ich. Gedichte</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334498">Theater</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb334505">Les Grands Garçons, comédie en un acte</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb78164">Aimer (Aimée)</title>
@@ -134,22 +142,13 @@
                      <bibl>
                         <title ref="pmb78166">Robert und Marianne</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb31927">Les noces d’argent</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334505">Les Grands Garçons, comédie en un acte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334498">Theater</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb299322">6, Rue Anatole de la Forge</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb299322">6, Rue Anatole de la Forge</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>

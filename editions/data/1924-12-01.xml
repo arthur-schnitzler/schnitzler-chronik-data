@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,21 +103,7 @@
                         <persName ref="pmb2312">Zuckerkandl, Berta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2312">Berta Zuckerkandl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3138">Paul Géraldy</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb334042">
-                  ?? [Verfasser einer französischen Übersetzung von Fräulein Else]
-               </persName>
-                     </person>
-                     <person>
                         <persName ref="pmb14187">Geneviève Bianquis</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23787">Maurice Rémon</persName>
                      </person>
                      <person>
                         <persName ref="pmb16075">Émile Fabre</persName>
@@ -126,13 +112,28 @@
                         <persName ref="pmb17333">Bernard Grasset</persName>
                      </person>
                      <person>
-                        <persName ref="pmb8576">Henri-René Lenormand</persName>
+                        <persName ref="pmb23787">Maurice Rémon</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
+                        <persName ref="pmb3138">Paul Géraldy</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb334042">
+      
+      ?? [Verfasser einer französischen Übersetzung von Fräulein Else]
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8576">Henri-René Lenormand</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29941">Fräulein Else</title>
                      </bibl>
@@ -140,7 +141,13 @@
                         <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb334064">?? [französische Übersetzung von Der einsame Weg]</title>
+                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31429">Große Szene</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31447">Stunde des Erkennens</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32097">Das Bacchusfest</title>
@@ -149,22 +156,10 @@
                         <title ref="pmb334052">?? [französische Übersetzung von Das Bacchusfest]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31447">Stunde des Erkennens</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31429">Große Szene</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb334056">?? [französische Übersetzung von Große Szene]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                        <title ref="pmb334064">?? [französische Übersetzung von Der einsame Weg]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb80870">Stimmen aus dem Dunkel. Ein Don Juan-Spiel in 16 Bildern</title>
@@ -173,21 +168,18 @@
                         <title ref="pmb334039">?? [Beginn einer französischen Übersetzung von Fräulein Else]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb295321">Madmoiselle Else</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb334048">?? [französische Übersetzung von Stunde des Erkennens]</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb554">Comédie française</placeName>

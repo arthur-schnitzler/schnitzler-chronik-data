@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -119,9 +119,6 @@
                      <person>
                         <persName ref="pmb2167">Salten, Felix</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -173,22 +170,28 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12816">Ludwig Speidel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb42508">Jenny Nordegg</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb43439">Gésa D’Ouvenou</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12816">Ludwig Speidel</persName>
                      </person>
                      <person>
                         <persName ref="pmb11555">Karl Gutzkow</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb93273">Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa, deutsch von Otto Eisenschitz.)</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
@@ -198,11 +201,17 @@
                      <bibl>
                         <title ref="pmb42545">Uriel Acosta. Trauerspiel in fünf Aufzügen</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb93273">Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa, deutsch von Otto Eisenschitz.)</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb484">Zürich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
@@ -214,15 +223,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb43440">Irrgarten (Irrgänge)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb484">Zürich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -243,9 +243,6 @@
                      </person>
                      <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11673">Theodor Herzl</persName>

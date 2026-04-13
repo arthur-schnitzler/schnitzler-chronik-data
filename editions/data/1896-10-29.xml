@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,17 +110,14 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb29145">
-      Maria Dorothea von Österreich
-  </persName>
+                  Maria Dorothea von Österreich
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb5617">
-      Louis Philippe Robert d’Orléans, duc d’Orléans
-  </persName>
+                  Louis Philippe Robert d’Orléans, duc d’Orléans
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -130,13 +127,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -158,13 +155,22 @@
                         <persName ref="pmb2147">Altenberg, Peter</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11988">Karl Kraus</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2147">Peter Altenberg</persName>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10364">Berthold Viertel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10574">Fritz Wittels</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -177,10 +183,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -109,14 +109,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2167"},
- {
- "persName":
- "Sigmund Hahn",
- "ref":
- "pmb144848"},
+ "pmb10863"},
  {
  "persName":
  "Julius von Gans-Ludassy",
@@ -124,19 +119,9 @@
  "pmb11406"},
  {
  "persName":
- "Fritz Mauthner",
+ "Friedrich Mitterwurzer",
  "ref":
- "pmb3386"},
- {
- "persName":
- "Rudolf Lothar",
- "ref":
- "pmb2570"},
- {
- "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
+ "pmb12265"},
  {
  "persName":
  "Wilhelmine Mitterwurzer",
@@ -144,9 +129,14 @@
  "pmb12268"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Adele Sandrock",
  "ref":
- "pmb10863"},
+ "pmb12618"},
+ {
+ "persName":
+ "Sigmund Hahn",
+ "ref":
+ "pmb144848"},
  {
  "persName":
  "Peter Altenberg",
@@ -154,14 +144,9 @@
  "pmb2147"},
  {
  "persName":
- "Friedrich Mitterwurzer",
+ "Ottilie Salten",
  "ref":
- "pmb12265"},
- {
- "persName":
- "Adele Sandrock",
- "ref":
- "pmb12618"},
+ "pmb23918"},
  {
  "persName":
  "Paul von Schönthan-Pernwald",
@@ -169,32 +154,22 @@
  "pmb24705"},
  {
  "persName":
+ "Rudolf Lothar",
+ "ref":
+ "pmb2570"},
+ {
+ "persName":
+ "Fritz Mauthner",
+ "ref":
+ "pmb3386"},
+ {
+ "persName":
  "Paula Beer-Hofmann",
  "ref":
- "pmb10860"},
- {
- "persName":
- "Felix Philippi",
- "ref":
- "pmb12414"},
- {
- "persName":
- "Heinrich von Kleist",
- "ref":
- "pmb11933"},
- {
- "persName":
- "Julius Szeps",
- "ref":
- "pmb25793"}],
+ "pmb10860"}],
  "listBibl":
   [
  {
- "title":
- "Mährisches Tagblatt",
- "ref":
- "pmb36352"}
- ,  {
  "title":
  "Gelegenheitskauf",
  "ref":
@@ -204,6 +179,31 @@
  "Der Dornenweg. Schauspiel in drei Aufzügen",
  "ref":
  "pmb30457"}
+ ,  {
+ "title":
+ "Mährisches Tagblatt",
+ "ref":
+ "pmb36352"}
+ ,  {
+ "title":
+ "»Liebelei«. Schauspiel in 3 Acten von Arthur Schnitzler",
+ "ref":
+ "pmb144859"}
+ ,  {
+ "title":
+ "Wilhelmine Mitterwurzer",
+ "ref":
+ "pmb144869"}
+ ,  {
+ "title":
+ "Matinée",
+ "ref":
+ "pmb144873"}
+ ,  {
+ "title":
+ "Theater und Kunst [Liebelei am Deutschen Theater]",
+ "ref":
+ "pmb167676"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -221,9 +221,9 @@
  "pmb33243"}
  ,  {
  "title":
- "Theater und Kunst [Liebelei am Deutschen Theater]",
+ "Wiener Allgemeine Zeitung",
  "ref":
- "pmb167676"}
+ "pmb39950"}
  ,  {
  "title":
  "Neues Wiener Tagblatt",
@@ -236,42 +236,22 @@
  "pmb41531"}
  ,  {
  "title":
- "Deutsches Theater",
- "ref":
- "pmb93080"}
- ,  {
- "title":
  "Der zerbrochene Krug im Deutschen Theater",
  "ref":
  "pmb93074"}
  ,  {
  "title":
- "»Liebelei«. Schauspiel in 3 Acten von Arthur Schnitzler",
+ "Deutsches Theater",
  "ref":
- "pmb144859"}
- ,  {
- "title":
- "Wilhelmine Mitterwurzer",
- "ref":
- "pmb144869"}
- ,  {
- "title":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb39950"}
- ,  {
- "title":
- "Matinée",
- "ref":
- "pmb144873"}
+ "pmb93080"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Frankfurt am Main",
  "ref":
- "pmb50"}
+ "pmb146"}
  ,  {
  "placeName":
  "Berlin",
@@ -279,24 +259,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Theater an der Wien",
  "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Olomouc",
- "ref":
- "pmb44176"}
- ,  {
- "placeName":
- "Brünn",
- "ref":
- "pmb833"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
+ "pmb37"}
  ,  {
  "placeName":
  "Theater in der Josefstadt",
@@ -304,9 +269,24 @@
  "pmb40"}
  ,  {
  "placeName":
- "Theater an der Wien",
+ "Olomouc",
  "ref":
- "pmb37"}
+ "pmb44176"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
+ "Brünn",
+ "ref":
+ "pmb833"}
  ,  {
  "placeName":
  "Burgtheater",
@@ -322,19 +302,19 @@
  "pmb29414"}
  ,  {
  "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
- ,  {
- "orgName":
  "Lessing-Theater",
  "ref":
  "pmb35053"}
  ,  {
  "orgName":
- "Deutsches Theater Berlin",
+ "Burgtheater",
  "ref":
- "pmb35597"}
+ "pmb36247"}
+ ,  {
+ "orgName":
+ "Mährisches Theater Olmütz",
+ "ref":
+ "pmb144863"}
  ,  {
  "orgName":
  "Frankfurter Stadttheater",
@@ -342,9 +322,9 @@
  "pmb34987"}
  ,  {
  "orgName":
- "Mährisches Theater Olmütz",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb144863"}
+ "pmb35597"}
  ,  {
  "orgName":
  "Wiener Allgemeine Zeitung",

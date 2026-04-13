@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,9 +95,6 @@
                         <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2450">Friedrich Michael Fels</persName>
                      </person>
                      <person>
@@ -112,21 +109,21 @@
                         <title ref="pmb41479">Wiener Sonn- und Montagszeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33696">»Anatol« von Arthur Schnitzler</title>
+                        <title ref="pmb41471">Deutsche Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb41471">Deutsche Zeitung</title>
+                        <title ref="pmb33696">»Anatol« von Arthur Schnitzler</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb34">Café Griensteidl</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb49">Café Pfob</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb34">Café Griensteidl</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -150,6 +147,28 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-01-07</idno>
+            </event>
+            <event when-iso="1893-01-07">
+               <head>Hausball Stein, 7.1.1893</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb25367">Stein</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333801.html</idno>
             </event>
             <event when-iso="1893-01-07">
                <head>Premiere von Die Rantzau, Vier Jahreszeiten, 7.1.1893</head>

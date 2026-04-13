@@ -48,11 +48,6 @@
  "pmb10815"},
  {
  "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
  "Georg Hirschfeld",
  "ref":
  "pmb11701"},
@@ -60,7 +55,17 @@
  "persName":
  "Hugo von Hofmannsthal",
  "ref":
- "pmb11740"}],
+ "pmb11740"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"}],
  "listBibl":
   [
  {
@@ -68,11 +73,6 @@
  "Bei Beiden",
  "ref":
  "pmb29835"}
- ,  {
- "title":
- "Das Tschaperl. Ein Wiener Stück in vier Aufzügen",
- "ref":
- "pmb29829"}
  ,  {
  "title":
  "Der Ehrentag",
@@ -85,9 +85,14 @@
  "pmb29833"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "Cosmopolis",
  "ref":
- "pmb29917"}
+ "pmb41521"}
+ ,  {
+ "title":
+ "Neue Deutsche Rundschau",
+ "ref":
+ "pmb36152"}
  ,  {
  "title":
  "Dämon Kleist",
@@ -100,19 +105,19 @@
  "pmb31385"}
  ,  {
  "title":
+ "Das Tschaperl. Ein Wiener Stück in vier Aufzügen",
+ "ref":
+ "pmb29829"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
  "Die Mütter. Schauspiel in vier Acten",
  "ref":
  "pmb31737"}
- ,  {
- "title":
- "Neue Deutsche Rundschau",
- "ref":
- "pmb36152"}
- ,  {
- "title":
- "Cosmopolis",
- "ref":
- "pmb41521"}
  ],
  "listPlace":
   [
@@ -141,11 +146,6 @@
  "pmb29213"}
  ,  {
  "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
- ,  {
- "orgName":
  "Romanwelt",
  "ref":
  "pmb29376"}
@@ -154,6 +154,11 @@
  "S. Fischer Verlag",
  "ref":
  "pmb29639"}
+ ,  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
  ,  {
  "orgName":
  "Volkstheater",
@@ -189,14 +194,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Isidor Singer",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
+ "pmb12790"},
  {
  "persName":
  "Heinrich Kanner",
@@ -204,9 +204,9 @@
  "pmb11867"},
  {
  "persName":
- "Isidor Singer",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb12790"},
+ "pmb11740"},
  {
  "persName":
  "Peter Altenberg",
@@ -216,14 +216,14 @@
   [
  {
  "placeName":
- "Günthergasse",
- "ref":
- "pmb296"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Günthergasse",
+ "ref":
+ "pmb296"}
  ],
  "listOrg":
   [
@@ -262,9 +262,9 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Isabella Vengerova",
  "ref":
- "pmb10863"},
+ "pmb3068"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -274,24 +274,19 @@
  "persName":
  "Alexander Brauner",
  "ref":
- "pmb14506"},
- {
- "persName":
- "Isabella Vengerova",
- "ref":
- "pmb3068"}],
+ "pmb14506"}],
  "listPlace":
   [
  {
  "placeName":
- "Russland",
- "ref":
- "pmb34438"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Russland",
+ "ref":
+ "pmb34438"}
  ]
 }
 }, {
@@ -322,11 +317,6 @@
  "pmb2121"},
  {
  "persName":
- "Elsa Plessner",
- "ref":
- "pmb2128"},
- {
- "persName":
  "Marie Bashkirtseff",
  "ref":
  "pmb13797"}],
@@ -334,14 +324,14 @@
   [
  {
  "title":
+ "Heimweh [dreiaktige Tragikomödie]",
+ "ref":
+ "pmb296028"}
+ ,  {
+ "title":
  "Orchideen [Schauspiel in drei Akten]",
  "ref":
  "pmb296030"}
- ,  {
- "title":
- "Neues Wiener Journal",
- "ref":
- "pmb36376"}
  ,  {
  "title":
  "Der gläserne Käfig. Eine Parabel",
@@ -349,28 +339,23 @@
  "pmb30265"}
  ,  {
  "title":
- "Heimweh [dreiaktige Tragikomödie]",
+ "Neues Wiener Journal",
  "ref":
- "pmb296028"}
- ,  {
- "title":
- "Journal",
- "ref":
- "pmb79230"}
+ "pmb36376"}
  ,  {
  "title":
  "Ein Brief",
  "ref":
  "pmb295194"}
+ ,  {
+ "title":
+ "Journal",
+ "ref":
+ "pmb79230"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
  "placeName":
  "Florianigasse 44",
  "ref":
@@ -380,6 +365,11 @@
  "Meran",
  "ref":
  "pmb43520"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

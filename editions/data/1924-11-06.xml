@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,9 +116,6 @@
                      <person>
                         <persName ref="pmb12176">Mann, Thomas</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12176">Thomas Mann</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -171,24 +168,21 @@
                         <persName ref="pmb13212">Zweig, Stefan</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13212">Stefan Zweig</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4974">Édouard Dujardin</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10992">Georg Brandes</persName>
                      </person>
                      <person>
                         <persName ref="pmb4006">Fjodor Mihajlovič Dostojevskij</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb4974">Édouard Dujardin</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29941">Fräulein Else</title>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb29941">Fräulein Else</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32676">Les lauriers sont coupés</title>
@@ -199,16 +193,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,9 +128,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb21647">Paul Marx</persName>
                      </person>
                      <person>
@@ -142,45 +139,10 @@
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb28938">
-                  Holger-Madsen
-               </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5042">August Blom</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12454">Valdemar Psilander</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb120980">Frederik Jacobsen</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb121935">Christel Holch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb120981">Carl Lauritzen</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb120979">Augusta Blad</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb24094">Carl Schenström</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12968">Siegfried Trebitsch</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb32800">Elskovsleg</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76460">Der Kammersänger</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
@@ -188,28 +150,34 @@
                      <bibl>
                         <title ref="pmb29869">Literatur</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76460">Der Kammersänger</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb401">Hotel Marienbad [München]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190590">Elitekino</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,28 +104,25 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2128">Elsa Plessner</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb113878">Henning von Brüsewitz</persName>
                      </person>
                      <person>
                         <persName ref="pmb296053">
-                  Servius Tullius
-               </persName>
+      Servius Tullius
+  </persName>
                      </person>
                      <person>
                         <persName ref="pmb114034">Theodor Siepmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb296073">
-                  Tullia Major
-               </persName>
+                        <persName ref="pmb296070">
+      Tullia Minor
+  </persName>
                      </person>
                      <person>
-                        <persName ref="pmb296070">
-                  Tullia Minor
-               </persName>
+                        <persName ref="pmb296073">
+      Tullia Major
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -135,13 +132,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,9 +102,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11687">Ludwig Hevesi</persName>
                      </person>
                      <person>
@@ -139,13 +136,13 @@
                      </person>
                      <person>
                         <persName ref="pmb93225">
-                  r. p.
-               </persName>
+      r. p.
+  </persName>
                      </person>
                      <person>
                         <persName ref="pmb93234">
-                  Alpha
-               </persName>
+      Alpha
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -270,26 +267,23 @@
                         <persName ref="pmb10883">Alfred von Berger</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb33970">
+                  Der Reporter
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb11988">Karl Kraus</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb33970">
-      Der Reporter
-  </persName>
-                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb33969">Jung-Wiener Dichter. (Zur Burgtheater-Première.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb50081">Extrapost. Unparteiische Montags-Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33965">Burgtheater [Rechte der Seele, Liebelei]</title>
@@ -333,6 +327,11 @@
             <event when-iso="1895-10-17">
                <head>Aufführung von Tutti frutti, 17.10.1895</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb336723">Barrison Sisters</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb80847">Tutti frutti</title>

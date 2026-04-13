@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,9 +105,6 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12438">Robert Adam</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -141,40 +138,37 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13212">Stefan Zweig</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb76769">Jeremias. Eine dramatische Dichtung in neun Bildern</title>
+                        <title ref="pmb76769">Jeremias. Ein dramatische Dichtung in neun Bildern</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb249577">Kochgasse 8</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                   </listPlace>
                   <listOrg>
-                     <org>
-                        <orgName ref="pmb293721">Außenministerium</orgName>
-                     </org>
                      <org>
                         <orgName ref="pmb144006">k. u. k. Kriegsministerium</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb293723">Österreichisches Staatsarchiv</orgName>
+                        <orgName ref="pmb293721">Außenministerium</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb293723">Österreichisches Staatsarchiv</orgName>
                      </org>
                   </listOrg>
                </desc>

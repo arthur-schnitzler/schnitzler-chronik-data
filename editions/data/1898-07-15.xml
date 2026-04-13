@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,9 +106,6 @@
                         <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
@@ -159,9 +156,6 @@
                      </person>
                      <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
@@ -220,22 +214,22 @@
                      <person>
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb860">Graz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34191">Bruck an der Großglocknerstraße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb35493">Steinach</placeName>
@@ -244,28 +238,25 @@
                         <placeName ref="pmb35496">Schladming</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41003">Bischofshofen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb40336">Zell am See</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34191">Bruck an der Großglocknerstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb305739">Bad Fusch</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40632">Ferleiten</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb41003">Bischofshofen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb521">Bad Gastein</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                        <placeName ref="pmb860">Graz</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -281,17 +272,8 @@
                      <person>
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb860">Graz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
@@ -300,6 +282,12 @@
                      </place>
                      <place>
                         <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
                      </place>
                   </listPlace>
                </desc>

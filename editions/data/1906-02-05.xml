@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -149,6 +149,55 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-02-05</idno>
+            </event>
+            <event when-iso="1906-02-05">
+               <head>Feier des 50. Geburtstages von Otto Brahm</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10986">Brahm, Otto</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb4532">Jonas, Paul</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb18900">Jonas, Clara</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb3593">Stein, Philipp</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb21137">Marx, Paul</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb20058">Landesmann, Adolf</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb20060">Landesmann, Alice</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2865">Lehmann, Else</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2292">Hofmannsthal, Gertrude von</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb237370">Kronprinzenufer 7/In den Zelten 14</placeName>
+                        <location>
+                           <geo>52,52031 13,36774</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb299618.html</idno>
             </event>
             <event when-iso="1906-02-05">
                <head>Arrangierprobe von Der Ruf des Lebens, 5.2.1906</head>

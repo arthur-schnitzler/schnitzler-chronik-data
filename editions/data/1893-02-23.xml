@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-03-31.">31.03.2026</date>
+            <date when-iso="2026-04-13.">13.04.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,44 +116,41 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb24499">Joseph Schreiber</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb16962">Ludwig Gelber</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25390">Josef Steinbach</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb16962">Ludwig Gelber</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb2147">Peter Altenberg</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb24499">Joseph Schreiber</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb25390">Josef Steinbach</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb41959">
-      ?? [Vermieterin von F. M. Fels]
-  </persName>
+                  ?? [Vermieterin von F. M. Fels]
+               </persName>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb11483">Obermais</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb11483">Obermais</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb864">Leipzig</placeName>
@@ -171,6 +168,14 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339289">
+                              <placeName>Aspernbrückengasse 5</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>

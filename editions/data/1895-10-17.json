@@ -69,11 +69,6 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Ludwig Hevesi",
  "ref":
  "pmb11687"},
@@ -345,27 +340,17 @@
  "pmb10883"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Der Reporter",
  "ref":
- "pmb11740"},
+ "pmb33970"},
  {
  "persName":
  "Karl Kraus",
  "ref":
- "pmb11988"},
- {
- "persName":
- "Der Reporter",
- "ref":
- "pmb33970"}],
+ "pmb11988"}],
  "listBibl":
   [
  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
  "title":
  "Jung-Wiener Dichter. (Zur Burgtheater-Première.)",
  "ref":
@@ -375,6 +360,11 @@
  "Extrapost. Unparteiische Montags-Zeitung",
  "ref":
  "pmb50081"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "Burgtheater [Rechte der Seele, Liebelei]",
@@ -433,7 +423,15 @@
  "head":
  "Aufführung von Tutti frutti, 17.10.1895",
  "desc":
-{"listBibl":
+{"listOrg":
+  [
+ {
+ "orgName":
+ "Barrison Sisters",
+ "ref":
+ ""}
+ ],
+ "listBibl":
   [
  {
  "title":

@@ -73,11 +73,6 @@
  "pmb11707"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Gustav Schwarzkopf",
  "ref":
  "pmb12740"},
@@ -206,21 +201,6 @@
  "pmb12740"},
  {
  "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Gisela Hajek",
- "ref":
- "pmb2461"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
@@ -229,6 +209,16 @@
  "Robert Hirschfeld",
  "ref":
  "pmb11707"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
+ {
+ "persName":
+ "Gisela Hajek",
+ "ref":
+ "pmb2461"},
  {
  "persName":
  "Louise Schnitzler",
@@ -256,14 +246,9 @@
   [
  {
  "placeName":
- "Velden am Wörthersee",
+ "Bad Ischl",
  "ref":
- "pmb909"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb213"}
  ,  {
  "placeName":
  "Pension Pundschu",
@@ -271,14 +256,9 @@
  "pmb36282"}
  ,  {
  "placeName":
- "Toblach",
+ "Südbahnhotel [Toblach]",
  "ref":
- "pmb987"}
- ,  {
- "placeName":
- "Villach",
- "ref":
- "pmb40454"}
+ "pmb36284"}
  ,  {
  "placeName":
  "Bozen",
@@ -286,24 +266,9 @@
  "pmb40260"}
  ,  {
  "placeName":
- "Trient",
+ "Villach",
  "ref":
- "pmb954"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Südbahnhotel [Toblach]",
- "ref":
- "pmb36284"}
- ,  {
- "placeName":
- "Südtirol",
- "ref":
- "pmb969"}
+ "pmb40454"}
  ,  {
  "placeName":
  "Wörthersee",
@@ -314,6 +279,31 @@
  "Thüringen",
  "ref":
  "pmb432"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
  ]
 }
 }, {
@@ -347,11 +337,6 @@
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
  {
  "persName":
  "Fedor Mamroth",
@@ -460,9 +445,19 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2167"},
+ "pmb10863"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
  {
  "persName":
  "Ottilie Salten",
@@ -480,29 +475,9 @@
  "pmb28530"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
  "Alfred Dreyfus",
  "ref":
- "pmb4216"},
- {
- "persName":
- "Julius Szeps",
- "ref":
- "pmb25793"}],
+ "pmb4216"}],
  "listBibl":
   [
  {
@@ -510,6 +485,11 @@
  "Wiener Allgemeine Rundschau",
  "ref":
  "pmb167898"}
+ ,  {
+ "title":
+ "Neue französische Humoristen",
+ "ref":
+ "pmb118028"}
  ,  {
  "title":
  "Wiener Allgemeine Montags-Zeitung",
@@ -527,19 +507,14 @@
  "pmb36344"}
  ,  {
  "title":
- "Neue französische Humoristen",
+ "?? [Feuilleton über Paul Goldmann]",
  "ref":
- "pmb118028"}
+ "pmb146069"}
  ,  {
  "title":
  "Wiener Allgemeine Zeitung",
  "ref":
  "pmb39950"}
- ,  {
- "title":
- "?? [Feuilleton über Paul Goldmann]",
- "ref":
- "pmb146069"}
  ],
  "listPlace":
   [
@@ -550,14 +525,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "Velden am Wörthersee",
- "ref":
- "pmb909"}
- ,  {
- "placeName":
  "Unterach am Attersee",
  "ref":
  "pmb877"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
  ,  {
  "placeName":
  "Frankreich",
@@ -565,14 +540,14 @@
  "pmb166"}
  ,  {
  "placeName":
+ "Seeboden am Millstättersee",
+ "ref":
+ "pmb34824"}
+ ,  {
+ "placeName":
  "Villach",
  "ref":
  "pmb40454"}
- ,  {
- "placeName":
- "Seeboden",
- "ref":
- "pmb34824"}
  ,  {
  "placeName":
  "Niederdorf",
