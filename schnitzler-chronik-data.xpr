@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>import-lists/schnitzler-briefe_tage.xml</String>
+                                    <String>import-lists/schnitzler-kultur_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>schnitzler-briefe_tage</String>
+                                        <String>UPDATE schnitzler-kultur_tage</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>import-lists/schnitzler-kultur_tage.xml</String>
+                                    <String>import-lists/schnitzler-briefe_tage.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>UPDATE schnitzler-kultur_tage</String>
+                                        <String>schnitzler-briefe_tage</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
