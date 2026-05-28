@@ -15,6 +15,20 @@ jobs:
     - name: Install Saxon, Ant
       run: |
         ./dl_saxon.sh
+    - name: Transform schnitzler-kultur-tage
+      run: |
+        java -jar ./saxon/saxon9he.jar -s:./import-lists/schnitzler-kultur_tage.xml -xsl:./xslts/schnitzler-kultur/1_listevent-kuerzen.xsl -o:./import-lists/schnitzler-kultur_tage.xml
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Transform schnitzler-kultur-tage
+        pull: '--rebase --autostash'
+    - name: Transform wienerschnitzler-tage
+      run: |
+        java -jar ./saxon/saxon9he.jar -s:./import-lists/wienerschnitzler_tage.xml -xsl:./xslts/diverses/wienerschnitzler-to-tage.xsl -o:./import-lists/wienerschnitzler_tage.xml
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Transform wienerschnitzler-tage
+        pull: '--rebase --autostash'
     - name: Process import files
       run: |
         ant
