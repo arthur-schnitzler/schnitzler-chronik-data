@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -69,7 +69,13 @@
          <listEvent>
             <event when-iso="1886-08-10">
                <head corresp="#pmb483">Reichenau an der Rax</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb796">
+                        <placeName>Thalhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-08-10</idno>
             </event>
             <event when-iso="1886-08-10">

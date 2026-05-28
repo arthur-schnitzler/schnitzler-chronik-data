@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -160,6 +160,12 @@
                            <place corresp="#pmb104">
                               <placeName>Café Arkaden</placeName>
                            </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                           <place corresp="#pmb233016">
+                              <placeName>Stadttempel</placeName>
+                           </place>
                         </listPlace>
                      </place>
                      <place corresp="#58">
@@ -198,9 +204,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
                         <location>
-                           <geo>48,208333 16,373056</geo>
+                           <geo>48,211649 16,374825</geo>
                         </location>
                      </place>
                   </listPlace>

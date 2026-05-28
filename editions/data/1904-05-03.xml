@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -91,12 +91,20 @@
                      <place corresp="#pmb233996">
                         <placeName>Gambrinus-Halle [Rom]</placeName>
                      </place>
+                     <place corresp="#pmb148287">
+                        <placeName>Roma Termini</placeName>
+                     </place>
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-03</idno>
             </event>
             <event when-iso="1904-05-03">
                <head corresp="#pmb44521">Ancona</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-03</idno>
+            </event>
+            <event when-iso="1904-05-03">
+               <head corresp="#pmb339367">Bahnhof Ancona</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-03</idno>
             </event>

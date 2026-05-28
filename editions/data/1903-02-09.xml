@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -88,6 +88,56 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1903-02-09.html</idno>
+            </event>
+            <event when-iso="1903-02-09">
+               <head>Emil Marriot an Arthur Schnitzler, 9. 2. 1903</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb4223">Marriot, Emil</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11581">Maximilian Harden</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21439">Helene Migerka</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb231967">Schüttelstraße 31</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168900">Österreichischer Ingenieur- und Architektenverein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339380">Czerningasse 7</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb339384">Frauenverein für sociale Hilfsthätigkeit</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29216">Manz’sche Verlags- und Universitätsbuchhandlung</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04338.html</idno>
             </event>
             <event when-iso="1903-02-09">
                <head corresp="#pmb50">Wien</head>

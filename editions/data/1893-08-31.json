@@ -73,7 +73,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1893-08-31",
  "head":
- "Graz"
+ "Graz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Graz Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -89,6 +99,11 @@
 {"listPlace":
   [
  {
+ "placeName":
+ "X., Favoriten",
+ "ref":
+ ""}
+ ,  {
  "placeName":
  "I., Innere Stadt",
  "ref":
@@ -126,7 +141,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1893-08-31",
  "head":
- "Semmering"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Semmering",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -138,4 +163,15 @@
  "https://wienerschnitzler.org/tag.html#1893-08-31",
  "head":
  "Neunkirchen"
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1893-08-31",
+ "head":
+ "Bahnhof Neunkirchen [Niederösterreich]"
 }] 

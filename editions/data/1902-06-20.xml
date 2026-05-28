@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -77,6 +77,51 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-06-20.html</idno>
+            </event>
+            <event when-iso="1902-06-20">
+               <head>Emil Marriot an Arthur Schnitzler, 20. 6. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb4223">Marriot, Emil</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb339427">Anständige Frauen. Roman</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb339388">Brodzany</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339390">Schloss Brodzany</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339393">Komitat Bars</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339399">Bahnhof Veľké Bielice</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35512">Ungarn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04336.html</idno>
             </event>
             <event when-iso="1902-06-20">
                <head>Paul Goldmann an Olga Gussmann, 20. 6. [1902]</head>

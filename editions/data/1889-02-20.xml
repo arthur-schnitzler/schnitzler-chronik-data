@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-04-13.">13.04.2026</date>
+            <date when-iso="2026-05-28.">28.05.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -98,6 +98,11 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-02-20</idno>
             </event>
             <event when-iso="1889-02-20">
+               <head corresp="#pmb340669">Judenplatz 5</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-02-20</idno>
+            </event>
+            <event when-iso="1889-02-20">
                <head>Maskenball, 20.2.1889</head>
                <desc>
                   <listPerson>
@@ -107,9 +112,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <placeName role="veranstaltet in" key="pmb340669">Judenplatz 5</placeName>
                         <location>
-                           <geo>48,208333 16,373056</geo>
+                           <geo>48,211391 16,3695</geo>
                         </location>
                      </place>
                   </listPlace>
