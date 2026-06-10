@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,17 +68,17 @@
       <body>
          <listEvent>
             <event when-iso="1923-09-14">
-               <head>Tagebuch, 14. September 1923</head>
+               <head>Tagebucheintrag zum 14. September 1923</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_14130">Lili Schnitzler</persName>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
                      </person>
                      <person>
-                        <persName ref="person_19106">Henri de Régnier</persName>
+                        <persName ref="pmb12591">Henri de Régnier</persName>
                      </person>
                      <person>
-                        <persName ref="person_19832">Olga Schnitzler</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -94,7 +94,7 @@
                         <placeName ref="pmb44368">Feldkirch</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb90260">Arlberg Höhe</placeName>
+                        <placeName ref="pmb90260"/>
                      </place>
                   </listPlace>
                </desc>

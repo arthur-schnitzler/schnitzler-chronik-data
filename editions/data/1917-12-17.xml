@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,20 +93,20 @@
                <idno type="Arthur-Schnitzler-digital">https://www.schnitzler-edition.net</idno>
             </event>
             <event when-iso="1917-12-17">
-               <head>Tagebuch, 17. Dezember 1917</head>
+               <head>Tagebucheintrag zum 17. Dezember 1917</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_17650">Emma Löwenstamm</persName>
+                        <persName ref="pmb2327">Emma Löwenstamm</persName>
                      </person>
                      <person>
-                        <persName ref="person_19822">Heinrich Schnitzler</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="person_20795">Martha Trebitsch</persName>
+                        <persName ref="pmb26162">Martha Trebitsch</persName>
                      </person>
                      <person>
-                        <persName ref="person_19902">Franz Peter Schubert</persName>
+                        <persName ref="pmb12729">Franz Peter Schubert</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -119,7 +119,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb92202">Deutsches Volkstheater</placeName>
+                        <placeName ref="pmb92202"/>
                      </place>
                   </listPlace>
                </desc>

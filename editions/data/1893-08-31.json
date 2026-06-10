@@ -10,7 +10,7 @@
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1893-08-31.html",
  "head":
- "Tagebuch, 31. August 1893",
+ "Tagebucheintrag zum 31. August 1893",
  "desc":
 {"listPerson":
   [
@@ -18,32 +18,32 @@
  "persName":
  "Emerich von Bukovics",
  "ref":
- "person_14056"},
+ "pmb2161"},
  {
  "persName":
  "Olga Waissnix",
  "ref":
- "person_21047"},
+ "pmb2453"},
  {
  "persName":
  "Adolf Weizmann",
  "ref":
- "person_21217"}],
+ "pmb26899"}],
  "listPlace":
   [
  {
  "placeName":
- "Semmering",
+ "",
  "ref":
  "pmb91735"}
  ,  {
  "placeName":
- "",
+ "Reichenau an der Rax",
  "ref":
- "pmb91574"}
+ "pmb483"}
  ,  {
  "placeName":
- "Gahns",
+ "Lackerboden",
  "ref":
  "pmb91101"}
  ,  {
@@ -162,16 +162,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1893-08-31",
  "head":
- "Neunkirchen"
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1893-08-31",
- "head":
- "Bahnhof Neunkirchen [Niederösterreich]"
+ "Neunkirchen",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Neunkirchen [Niederösterreich]",
+ "ref":
+ ""}
+ ]
+}
 }] 

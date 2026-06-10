@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,14 +68,14 @@
       <body>
          <listEvent>
             <event when-iso="1897-10-08">
-               <head>Tagebuch, 8. Oktober 1897</head>
+               <head>Tagebucheintrag zum 8. Oktober 1897</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_15485">Marie Glümer</persName>
+                        <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="person_15941">Otto Erich Hartleben</persName>
+                        <persName ref="pmb11605">Otto Erich Hartleben</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -88,10 +88,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb91217">Wien Mauer</placeName>
+                        <placeName ref="pmb91217">Mauer</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb92202">Deutsches Volkstheater</placeName>
+                        <placeName ref="pmb92202"/>
                      </place>
                   </listPlace>
                </desc>

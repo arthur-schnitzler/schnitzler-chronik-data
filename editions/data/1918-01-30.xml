@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -78,26 +78,29 @@
                <idno type="Arthur-Schnitzler-digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/KDV_K2_T5_0484</idno>
             </event>
             <event when-iso="1918-01-30">
-               <head>Tagebuch, 30. Januar 1918</head>
+               <head>Tagebucheintrag zum 30. Januar 1918</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_15827">Habsburg</persName>
+                        <persName ref="pmb17702">Habsburg</persName>
                      </person>
                      <person>
-                        <persName ref="person_17834">Heinrich Mann</persName>
+                        <persName ref="pmb12170">Heinrich Mann</persName>
                      </person>
                      <person>
-                        <persName ref="person_18282">Wolfgang Amadeus Mozart</persName>
+                        <persName ref="pmb12303">Wolfgang Amadeus Mozart</persName>
                      </person>
                      <person>
-                        <persName ref="person_19822">Heinrich Schnitzler</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="person_13374">Hermann Bahr</persName>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="person_19694">Friedrich von Schiller</persName>
+                        <persName ref="pmb12654">Friedrich von Schiller</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27903">Karl Eduard Vehse</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -111,7 +114,7 @@
                         <title ref="pmb30753">Landsknecht</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29829">Das Tschaperl</title>
+                        <title ref="pmb29829">Das Tschaperl. Ein Wiener Stück in vier Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31315">Geschichte der deutschen Höfe seit der Reformation</title>

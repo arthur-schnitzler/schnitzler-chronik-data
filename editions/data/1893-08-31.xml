@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,28 +68,28 @@
       <body>
          <listEvent>
             <event when-iso="1893-08-31">
-               <head>Tagebuch, 31. August 1893</head>
+               <head>Tagebucheintrag zum 31. August 1893</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_14056">Emerich von Bukovics</persName>
+                        <persName ref="pmb2161">Emerich von Bukovics</persName>
                      </person>
                      <person>
-                        <persName ref="person_21047">Olga Waissnix</persName>
+                        <persName ref="pmb2453">Olga Waissnix</persName>
                      </person>
                      <person>
-                        <persName ref="person_21217">Adolf Weizmann</persName>
+                        <persName ref="pmb26899">Adolf Weizmann</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb91735">Semmering</placeName>
+                        <placeName ref="pmb91735"/>
                      </place>
                      <place>
-                        <placeName ref="pmb91574"/>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91101">Gahns</placeName>
+                        <placeName ref="pmb91101">Lackerboden</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb91272">Mondsee</placeName>
@@ -163,12 +163,13 @@
             </event>
             <event when-iso="1893-08-31">
                <head corresp="#pmb91340">Neunkirchen</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-08-31</idno>
-            </event>
-            <event when-iso="1893-08-31">
-               <head corresp="#pmb339356">Bahnhof Neunkirchen [Niederösterreich]</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb339356">
+                        <placeName>Bahnhof Neunkirchen [Niederösterreich]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-08-31</idno>
             </event>
          </listEvent>

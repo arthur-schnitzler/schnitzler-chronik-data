@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,14 +68,14 @@
       <body>
          <listEvent>
             <event when-iso="1899-04-13">
-               <head>Tagebuch, 13. April 1899</head>
+               <head>Tagebucheintrag zum 13. April 1899</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13480">Eduard von Bauernfeld</persName>
+                        <persName ref="pmb10854">Eduard von Bauernfeld</persName>
                      </person>
                      <person>
-                        <persName ref="person_15661">Franz Grillparzer</persName>
+                        <persName ref="pmb11518">Franz Grillparzer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -85,7 +85,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb92202">Deutsches Volkstheater</placeName>
+                        <placeName ref="pmb92202"/>
                      </place>
                   </listPlace>
                </desc>
@@ -133,6 +133,11 @@
                         <placeName ref="pmb61048">Schmargendorf</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29619">Adolf Bonz &amp; Comp.</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04341.html</idno>
             </event>

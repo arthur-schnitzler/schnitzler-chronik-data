@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,16 +68,16 @@
       <body>
          <listEvent>
             <event when-iso="1888-05-19">
-               <head>Tagebuch, 19. Mai 1888</head>
+               <head>Tagebucheintrag zum 19. Mai 1888</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_16022">Jeanette Heeger</persName>
+                        <persName ref="pmb18007">Anna Heeger</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb91530">Prater</placeName>
+                        <placeName ref="pmb91530"/>
                      </place>
                   </listPlace>
                </desc>
@@ -95,6 +95,14 @@
                            </place>
                         </listPlace>
                      </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339163">
+                              <placeName>Zimmermanngasse 10</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
@@ -108,11 +116,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-05-19</idno>
-            </event>
-            <event when-iso="1888-05-19">
-               <head corresp="#pmb339163">Zimmermanngasse 10</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-05-19</idno>
             </event>
             <event when-iso="1888-05-19">

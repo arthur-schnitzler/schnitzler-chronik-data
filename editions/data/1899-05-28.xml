@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,19 +68,19 @@
       <body>
          <listEvent>
             <event when-iso="1899-05-28">
-               <head>Tagebuch, 28. Mai 1899</head>
+               <head>Tagebucheintrag zum 28. Mai 1899</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_15485">Marie Glümer</persName>
+                        <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="person_16293">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb91530">Prater</placeName>
+                        <placeName ref="pmb91530"/>
                      </place>
                      <place>
                         <placeName ref="pmb91749">Sigmundsherberg</placeName>
@@ -232,7 +232,13 @@
             </event>
             <event when-iso="1899-05-28">
                <head corresp="#pmb91749">Sigmundsherberg</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb353131">
+                        <placeName>Bahnhof Sigmundsherberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-28</idno>
             </event>
             <event when-iso="1899-05-28">
@@ -241,7 +247,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-28</idno>
             </event>
             <event when-iso="1899-05-28">
-               <head corresp="#pmb44102">Kaltenleutgeben</head>
+               <head corresp="#pmb55281">Horn</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-28</idno>
             </event>

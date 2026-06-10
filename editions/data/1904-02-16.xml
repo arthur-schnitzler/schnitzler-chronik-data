@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,35 +68,35 @@
       <body>
          <listEvent>
             <event when-iso="1904-02-16">
-               <head>Tagebuch, 16. Februar 1904</head>
+               <head>Tagebucheintrag zum 16. Februar 1904</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13913">Otto Brahm</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
-                        <persName ref="person_15529">Paul Goldmann</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="person_16041">Moritz Heimann</persName>
+                        <persName ref="pmb11632">Moritz Heimann</persName>
                      </person>
                      <person>
-                        <persName ref="person_16130">Aura Hertwig</persName>
+                        <persName ref="pmb2370">Aura Hertwig</persName>
                      </person>
                      <person>
-                        <persName ref="person_17958">Paul Marx</persName>
+                        <persName ref="pmb21647">Paul Marx</persName>
                      </person>
                      <person>
-                        <persName ref="person_20796">Siegfried Trebitsch</persName>
+                        <persName ref="pmb12968">Siegfried Trebitsch</persName>
                      </person>
                      <person>
-                        <persName ref="person_13131">Ida d’Albert</persName>
+                        <persName ref="pmb2537">Ida d’Albert</persName>
                      </person>
                      <person>
-                        <persName ref="person_15009">Samuel Fischer</persName>
+                        <persName ref="pmb11324">Samuel Fischer</persName>
                      </person>
                      <person>
-                        <persName ref="person_16574">Paul Jonas</persName>
+                        <persName ref="pmb4532">Paul Jonas</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -129,13 +129,11 @@
                      <place corresp="#pmb235295">
                         <placeName>S. Fischer Verlag</placeName>
                      </place>
+                     <place corresp="#pmb340619">
+                        <placeName>Kleiststraße 27</placeName>
+                     </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-16</idno>
-            </event>
-            <event when-iso="1904-02-16">
-               <head corresp="#pmb340619">Kleiststraße 27</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-16</idno>
             </event>
             <event when-iso="1904-02-16">

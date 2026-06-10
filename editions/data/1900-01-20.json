@@ -10,7 +10,7 @@
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-01-20.html",
  "head":
- "Tagebuch, 20. Januar 1900",
+ "Tagebucheintrag zum 20. Januar 1900",
  "desc":
 {"listPerson":
   [
@@ -18,7 +18,7 @@
  "persName":
  "Leopoldine Müller",
  "ref":
- "person_18303"}],
+ "pmb21727"}],
  "listPlace":
   [
  {
@@ -26,6 +26,72 @@
  "Tuchlauben",
  "ref":
  "pmb790"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04342",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04342.html",
+ "head":
+ "Arthur Schnitzler an Rainer Maria Rilke, 20. 1. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Rainer Maria Rilke",
+ "ref":
+ "pmb9531"},
+ {
+ "persName":
+ "Raphael Löwenfeld",
+ "ref":
+ "pmb12140"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Mir zur Feier",
+ "ref":
+ "pmb342703"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Schmargendorf",
+ "ref":
+ "pmb61048"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Georg Heinrich Meyer",
+ "ref":
+ "pmb342705"}
  ]
 }
 }, {

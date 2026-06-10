@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,17 +68,17 @@
       <body>
          <listEvent>
             <event when-iso="1918-12-26">
-               <head>Tagebuch, 26. Dezember 1918</head>
+               <head>Tagebucheintrag zum 26. Dezember 1918</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_19821">Hans Schnitzler</persName>
+                        <persName ref="pmb24420">Hans Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="person_15685">Wilhelm Grosz</persName>
+                        <persName ref="pmb3112">Wilhelm Grosz</persName>
                      </person>
                      <person>
-                        <persName ref="person_19076">Maurice Ravel</persName>
+                        <persName ref="pmb12474">Maurice Ravel</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -97,7 +97,7 @@
                         <placeName ref="pmb90969">Kahlenbergerdorf</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91367">Nussdorf</placeName>
+                        <placeName ref="pmb91367"/>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,29 +68,29 @@
       <body>
          <listEvent>
             <event when-iso="1894-10-22">
-               <head>Tagebuch, 22. Oktober 1894</head>
+               <head>Tagebucheintrag zum 22. Oktober 1894</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_15558">Olga von Golovin</persName>
+                        <persName ref="pmb17222">Olga von Golovin</persName>
                      </person>
                      <person>
-                        <persName ref="person_17343">Orlando di Lasso</persName>
+                        <persName ref="pmb2832">Orlando di Lasso</persName>
                      </person>
                      <person>
-                        <persName ref="person_19564">Adele Sandrock</persName>
+                        <persName ref="pmb12618">Adele Sandrock</persName>
                      </person>
                      <person>
-                        <persName ref="person_17114">Oscar Kraus</persName>
+                        <persName ref="pmb19723">Oscar Kraus</persName>
                      </person>
                      <person>
-                        <persName ref="person_19150">Marie Reinhard</persName>
+                        <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
                      <person>
-                        <persName ref="person_13374">Hermann Bahr</persName>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="person_15845">Baronin Hahn</persName>
+                        <persName ref="pmb27830">Hahn</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -101,11 +101,6 @@
                         <title ref="pmb30407">Der Witwer</title>
                      </bibl>
                   </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb91407">Orlando</placeName>
-                     </place>
-                  </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-10-22.html</idno>
             </event>

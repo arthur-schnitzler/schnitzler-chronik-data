@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,11 +68,11 @@
       <body>
          <listEvent>
             <event when-iso="1903-05-21">
-               <head>Tagebuch, 21. Mai 1903</head>
+               <head>Tagebucheintrag zum 21. Mai 1903</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_20796">Siegfried Trebitsch</persName>
+                        <persName ref="pmb12968">Siegfried Trebitsch</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -83,7 +83,7 @@
                         <placeName ref="pmb44394">Weidlingbach</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb64219">Döbling</placeName>
+                        <placeName ref="pmb64219"/>
                      </place>
                      <place>
                         <placeName ref="pmb40694">Gentzgasse</placeName>
@@ -135,24 +135,19 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
-                     <place corresp="#68">
-                        <placeName>XVIII., Währing</placeName>
-                        <listPlace>
-                           <place corresp="#pmb40694">
-                              <placeName>Gentzgasse</placeName>
-                              <listPlace>
-                                 <place corresp="#pmb232166">
-                                    <placeName>Gentzgasse 110</placeName>
-                                 </place>
-                              </listPlace>
-                           </place>
-                        </listPlace>
-                     </place>
                      <place corresp="#59">
                         <placeName>IX., Alsergrund</placeName>
                         <listPlace>
                            <place corresp="#pmb168934">
                               <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232166">
+                              <placeName>Gentzgasse 110</placeName>
                            </place>
                         </listPlace>
                      </place>

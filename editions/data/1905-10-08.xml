@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -73,17 +73,17 @@
                <idno type="Arthur-Schnitzler-digital">https://www.schnitzler-edition.net/Dokumentarisch/Dokumentklasse/BER_K5_*SH5</idno>
             </event>
             <event when-iso="1905-10-08">
-               <head>Tagebuch, 8. Oktober 1905</head>
+               <head>Tagebucheintrag zum 8. Oktober 1905</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13555">Ludwig van Beethoven</persName>
+                        <persName ref="pmb10866">Ludwig van Beethoven</persName>
                      </person>
                      <person>
-                        <persName ref="person_18334">Alfred de Musset</persName>
+                        <persName ref="pmb12311">Alfred de Musset</persName>
                      </person>
                      <person>
-                        <persName ref="person_19831">Louise Schnitzler</persName>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -105,7 +105,7 @@
                         <placeName ref="pmb91641">Salmannsdorf</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb64219">Döbling</placeName>
+                        <placeName ref="pmb64219"/>
                      </place>
                   </listPlace>
                </desc>

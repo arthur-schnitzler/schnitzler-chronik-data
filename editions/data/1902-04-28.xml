@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,26 +68,26 @@
       <body>
          <listEvent>
             <event when-iso="1902-04-28">
-               <head>Tagebuch, 28. April 1902</head>
+               <head>Tagebucheintrag zum 28. April 1902</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13410">Alice Barbi</persName>
+                        <persName ref="pmb3031">Alice Barbi</persName>
                      </person>
                      <person>
-                        <persName ref="person_19423">Bernhard Rothenstein</persName>
+                        <persName ref="pmb23658">Bernhard Rothenstein</persName>
                      </person>
                      <person>
-                        <persName ref="person_20925">Leo Van-Jung</persName>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                      <person>
-                        <persName ref="person_18358">Ella Naschauer</persName>
+                        <persName ref="pmb21801">Ella Naschauer</persName>
                      </person>
                      <person>
-                        <persName ref="person_16293">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="person_18320">Franziska Mütter</persName>
+                        <persName ref="pmb21766">Franziska Mütter</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -98,7 +98,7 @@
                         <placeName ref="pmb91091">Laab im Walde</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91552">Purkersdorf</placeName>
+                        <placeName ref="pmb91552"/>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -115,7 +115,7 @@
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
                            <place corresp="#pmb4">
-                              <placeName>Bösendorfer-Saal</placeName>
+                              <placeName>Bösendorfer Saal</placeName>
                            </place>
                         </listPlace>
                      </place>

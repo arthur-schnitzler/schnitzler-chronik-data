@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,7 +68,7 @@
       <body>
          <listEvent>
             <event when-iso="1904-05-03">
-               <head>Tagebuch, 3. Mai 1904</head>
+               <head>Tagebucheintrag zum 3. Mai 1904</head>
                <desc>
                   <listPlace>
                      <place>
@@ -100,12 +100,13 @@
             </event>
             <event when-iso="1904-05-03">
                <head corresp="#pmb44521">Ancona</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-03</idno>
-            </event>
-            <event when-iso="1904-05-03">
-               <head corresp="#pmb339367">Bahnhof Ancona</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb339367">
+                        <placeName>Bahnhof Ancona</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-03</idno>
             </event>
          </listEvent>

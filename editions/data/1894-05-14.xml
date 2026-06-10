@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,11 +68,11 @@
       <body>
          <listEvent>
             <event when-iso="1894-05-14">
-               <head>Tagebuch, 14. Mai 1894</head>
+               <head>Tagebucheintrag zum 14. Mai 1894</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_19564">Adele Sandrock</persName>
+                        <persName ref="pmb12618">Adele Sandrock</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -89,7 +89,7 @@
                         <placeName ref="pmb90727">Gloggnitz</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb92109">Wiener Neustadt</placeName>
+                        <placeName ref="pmb92109"/>
                      </place>
                   </listPlace>
                </desc>
@@ -121,13 +121,12 @@
             </event>
             <event when-iso="1894-05-14">
                <head corresp="#pmb91340">Neunkirchen</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb948">
-                        <placeName>Payerbach</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-05-14</idno>
+            </event>
+            <event when-iso="1894-05-14">
+               <head corresp="#pmb948">Payerbach</head>
+               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-05-14</idno>
             </event>
             <event when-iso="1894-05-14">

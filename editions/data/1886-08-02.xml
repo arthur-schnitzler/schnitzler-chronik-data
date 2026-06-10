@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,16 +79,11 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-08-02</idno>
             </event>
             <event when-iso="1886-08-02">
-               <head corresp="#pmb339559">Erzherzog-Rainer-Ring 9</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-08-02</idno>
-            </event>
-            <event when-iso="1886-08-02">
-               <head corresp="#pmb662">Baden bei Wien</head>
+               <head corresp="#pmb948">Payerbach</head>
                <desc>
                   <listPlace>
-                     <place corresp="#pmb249350">
-                        <placeName>Bahnhof Baden bei Wien</placeName>
+                     <place corresp="#pmb147590">
+                        <placeName>Bahnhof Payerbach-Reichenau</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -119,11 +114,14 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-08-02</idno>
             </event>
             <event when-iso="1886-08-02">
-               <head corresp="#pmb948">Payerbach</head>
+               <head corresp="#pmb662">Baden bei Wien</head>
                <desc>
                   <listPlace>
-                     <place corresp="#pmb147590">
-                        <placeName>Bahnhof Payerbach-Reichenau</placeName>
+                     <place corresp="#pmb249350">
+                        <placeName>Bahnhof Baden bei Wien</placeName>
+                     </place>
+                     <place corresp="#pmb339559">
+                        <placeName>Erzherzog-Rainer-Ring 9</placeName>
                      </place>
                   </listPlace>
                </desc>

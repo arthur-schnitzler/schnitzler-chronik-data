@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,7 +68,7 @@
       <body>
          <listEvent>
             <event when-iso="1898-07-17">
-               <head>Tagebuch, 17. Juli 1898</head>
+               <head>Tagebucheintrag zum 17. Juli 1898</head>
                <desc>
                   <listPlace>
                      <place>
@@ -78,7 +78,7 @@
                         <placeName ref="pmb35493">Steinach</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91681">Schladming</placeName>
+                        <placeName ref="pmb91681"/>
                      </place>
                   </listPlace>
                </desc>
@@ -129,7 +129,13 @@
             </event>
             <event when-iso="1898-07-17">
                <head corresp="#pmb860">Graz</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34018">
+                        <placeName>Hotel Elefant [Graz]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-07-17</idno>
             </event>
             <event when-iso="1898-07-17">

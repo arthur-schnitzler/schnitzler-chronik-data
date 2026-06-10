@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,53 +68,53 @@
       <body>
          <listEvent>
             <event when-iso="1889-09-18">
-               <head>Tagebuch, 18. September 1889</head>
+               <head>Tagebucheintrag zum 18. September 1889</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13162">Peter Altenberg</persName>
+                        <persName ref="pmb2147">Peter Altenberg</persName>
                      </person>
                      <person>
-                        <persName ref="person_14199">Auguste Chlum</persName>
+                        <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="person_15237">Theodor Friedmann</persName>
+                        <persName ref="pmb16672">Theodor Friedmann</persName>
                      </person>
                      <person>
-                        <persName ref="person_15485">Marie Glümer</persName>
+                        <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="person_15529">Paul Goldmann</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="person_15854">Gisela Hajek</persName>
+                        <persName ref="pmb2461">Gisela Hajek</persName>
                      </person>
                      <person>
-                        <persName ref="person_16022">Jeanette Heeger</persName>
+                        <persName ref="pmb18007">Anna Heeger</persName>
                      </person>
                      <person>
-                        <persName ref="person_19661">Anton Schey</persName>
+                        <persName ref="pmb24110">Anton Schey</persName>
                      </person>
                      <person>
-                        <persName ref="person_19663">Lina Schey</persName>
+                        <persName ref="pmb24115">Lina Schey</persName>
                      </person>
                      <person>
-                        <persName ref="person_20051">Lola von Selliers</persName>
+                        <persName ref="pmb24820">Lola Selliers von Moranville</persName>
                      </person>
                      <person>
-                        <persName ref="person_20262">Carl Johann Spielter</persName>
+                        <persName ref="pmb25208">Carl Johann Spielter</persName>
                      </person>
                      <person>
-                        <persName ref="person_20997">Anna W.</persName>
+                        <persName ref="pmb26518">Anna W.</persName>
                      </person>
                      <person>
-                        <persName ref="person_19824">Johann Schnitzler</persName>
+                        <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="person_19398">Mizi Rosner</persName>
+                        <persName ref="pmb23611">Mizi Rosner</persName>
                      </person>
                      <person>
-                        <persName ref="person_21516">Bruno Zappert</persName>
+                        <persName ref="pmb10652">Bruno Zappert</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -143,13 +143,16 @@
                            </place>
                         </listPlace>
                      </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339208">
+                              <placeName>Pelikangasse 15</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-09-18</idno>
-            </event>
-            <event when-iso="1889-09-18">
-               <head corresp="#pmb339208">Pelikangasse 15</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-09-18</idno>
             </event>
          </listEvent>

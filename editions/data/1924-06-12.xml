@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -73,17 +73,17 @@
                <idno type="Arthur-Schnitzler-digital">https://www.schnitzler-edition.net</idno>
             </event>
             <event when-iso="1924-06-12">
-               <head>Tagebuch, 12. Juni 1924</head>
+               <head>Tagebucheintrag zum 12. Juni 1924</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13285">Rudolf Askonas</persName>
+                        <persName ref="pmb13541">Rudolf Askonas</persName>
                      </person>
                      <person>
-                        <persName ref="person_14130">Lili Schnitzler</persName>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
                      </person>
                      <person>
-                        <persName ref="person_18881">Frieda Pollak</persName>
+                        <persName ref="pmb22728">Frieda Pollak</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -99,7 +99,7 @@
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb90979">Kalksburg</placeName>
+                        <placeName ref="pmb90979"/>
                      </place>
                   </listPlace>
                </desc>

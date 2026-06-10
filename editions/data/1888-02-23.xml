@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,14 +68,14 @@
       <body>
          <listEvent>
             <event when-iso="1888-02-23">
-               <head>Tagebuch, 23. Februar 1888</head>
+               <head>Tagebucheintrag zum 23. Februar 1888</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13582">Markus Benedict</persName>
+                        <persName ref="pmb13973">Markus Benedict</persName>
                      </person>
                      <person>
-                        <persName ref="person_17696">Rudolf Lothar</persName>
+                        <persName ref="pmb2570">Rudolf Lothar</persName>
                      </person>
                   </listPerson>
                </desc>
@@ -85,6 +85,14 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339289">
+                              <placeName>Aspernbrückengasse 5</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
@@ -95,11 +103,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-02-23</idno>
-            </event>
-            <event when-iso="1888-02-23">
-               <head corresp="#pmb339289">Aspernbrückengasse 5</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-02-23</idno>
             </event>
          </listEvent>

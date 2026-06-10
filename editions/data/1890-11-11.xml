@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,19 +68,19 @@
       <body>
          <listEvent>
             <event when-iso="1890-11-11">
-               <head>Tagebuch, 11. November 1890</head>
+               <head>Tagebucheintrag zum 11. November 1890</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_19351">Arnold Rosé</persName>
+                        <persName ref="pmb12570">Arnold Rosé</persName>
                      </person>
                      <person>
-                        <persName ref="person_20925">Leo Van-Jung</persName>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb92444">Pfob</placeName>
+                        <placeName ref="pmb92444"/>
                      </place>
                   </listPlace>
                </desc>
@@ -97,7 +97,7 @@
                               <placeName>Café Pfob</placeName>
                            </place>
                            <place corresp="#pmb4">
-                              <placeName>Bösendorfer-Saal</placeName>
+                              <placeName>Bösendorfer Saal</placeName>
                            </place>
                            <place corresp="#pmb167805">
                               <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>

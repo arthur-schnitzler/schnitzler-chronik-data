@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,11 +68,11 @@
       <body>
          <listEvent>
             <event when-iso="1900-01-20">
-               <head>Tagebuch, 20. Januar 1900</head>
+               <head>Tagebucheintrag zum 20. Januar 1900</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_18303">Leopoldine Müller</persName>
+                        <persName ref="pmb21727">Leopoldine Müller</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -82,6 +82,44 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-01-20.html</idno>
+            </event>
+            <event when-iso="1900-01-20">
+               <head>Arthur Schnitzler an Rainer Maria Rilke, 20. 1. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12140">Raphael Löwenfeld</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb342703">Mir zur Feier</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb61048">Schmargendorf</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb342705">Georg Heinrich Meyer</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04342.html</idno>
             </event>
             <event when-iso="1900-01-20">
                <head corresp="#pmb50">Wien</head>

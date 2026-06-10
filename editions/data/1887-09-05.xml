@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -74,8 +74,16 @@
                      <place corresp="#59">
                         <placeName>IX., Alsergrund</placeName>
                         <listPlace>
+                           <place corresp="#pmb339163">
+                              <placeName>Zimmermanngasse 10</placeName>
+                           </place>
                            <place corresp="#pmb546">
                               <placeName>Altes Allgemeines Krankenhaus</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb339282">
+                                    <placeName>?? [Spitalsstube von Arthur Schnitzler im Allgemeinen Krankenhaus]</placeName>
+                                 </place>
+                              </listPlace>
                            </place>
                         </listPlace>
                      </place>
@@ -89,16 +97,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-09-05</idno>
-            </event>
-            <event when-iso="1887-09-05">
-               <head corresp="#pmb339282">?? [Spitalsstube von Arthur Schnitzler im Allgemeinen Krankenhaus]</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-09-05</idno>
-            </event>
-            <event when-iso="1887-09-05">
-               <head corresp="#pmb339163">Zimmermanngasse 10</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-09-05</idno>
             </event>
          </listEvent>

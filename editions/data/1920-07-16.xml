@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,14 +68,17 @@
       <body>
          <listEvent>
             <event when-iso="1920-07-16">
-               <head>Tagebuch, 16. Juli 1920</head>
+               <head>Tagebucheintrag zum 16. Juli 1920</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_20405">Arthur Stern</persName>
+                        <persName ref="pmb25462">Arthur Stern</persName>
                      </person>
                      <person>
-                        <persName ref="person_17562">Ruth Lindberg</persName>
+                        <persName ref="pmb20462">Ruth Oppeln-Bronikowski</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb340592"/>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -164,6 +167,9 @@
                            <place corresp="#pmb113">
                               <placeName>Türkenschanzpark</placeName>
                            </place>
+                           <place corresp="#pmb340587">
+                              <placeName>Pötzleinsdorfer Friedhof</placeName>
+                           </place>
                            <place corresp="#pmb168815">
                               <placeName>Sternwartestraße 71</placeName>
                            </place>
@@ -171,11 +177,6 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-07-16</idno>
-            </event>
-            <event when-iso="1920-07-16">
-               <head corresp="#pmb340587">Pötzleinsdorfer Friedhof</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-07-16</idno>
             </event>
             <event when-iso="1920-07-16">

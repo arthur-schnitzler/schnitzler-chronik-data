@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-05-28.">28.05.2026</date>
+            <date when-iso="2026-06-10.">10.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,29 +68,29 @@
       <body>
          <listEvent>
             <event when-iso="1889-11-16">
-               <head>Tagebuch, 16. November 1889</head>
+               <head>Tagebucheintrag zum 16. November 1889</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="person_13186">Amy no name provided</persName>
+                        <persName ref="pmb13386">Amy</persName>
                      </person>
                      <person>
-                        <persName ref="person_13733">Helene Binder</persName>
+                        <persName ref="pmb14218">Helene Binder</persName>
                      </person>
                      <person>
-                        <persName ref="person_13734">Josef Binder</persName>
+                        <persName ref="pmb14223">Josef Binder</persName>
                      </person>
                      <person>
-                        <persName ref="person_15529">Paul Goldmann</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="person_16995">Dorothea Kohnberger</persName>
+                        <persName ref="pmb19509">Dorothea Kohnberger</persName>
                      </person>
                      <person>
-                        <persName ref="person_17696">Rudolf Lothar</persName>
+                        <persName ref="pmb2570">Rudolf Lothar</persName>
                      </person>
                      <person>
-                        <persName ref="person_17807">Felice Mancio</persName>
+                        <persName ref="pmb20866">Felice Mancio</persName>
                      </person>
                   </listPerson>
                </desc>
@@ -104,20 +104,23 @@
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
                            <place corresp="#pmb4">
-                              <placeName>Bösendorfer-Saal</placeName>
+                              <placeName>Bösendorfer Saal</placeName>
                            </place>
                            <place corresp="#pmb168768">
                               <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
                            </place>
                         </listPlace>
                      </place>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb339289">
+                              <placeName>Aspernbrückengasse 5</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-11-16</idno>
-            </event>
-            <event when-iso="1889-11-16">
-               <head corresp="#pmb339289">Aspernbrückengasse 5</head>
-               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-11-16</idno>
             </event>
             <event when-iso="1889-11-16">

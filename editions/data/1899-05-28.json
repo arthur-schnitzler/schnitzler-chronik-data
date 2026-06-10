@@ -10,7 +10,7 @@
  "idno":
  "https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-05-28.html",
  "head":
- "Tagebuch, 28. Mai 1899",
+ "Tagebucheintrag zum 28. Mai 1899",
  "desc":
 {"listPerson":
   [
@@ -18,17 +18,17 @@
  "persName":
  "Marie Glümer",
  "ref":
- "person_15485"},
+ "pmb14953"},
  {
  "persName":
  "Hugo von Hofmannsthal",
  "ref":
- "person_16293"}],
+ "pmb11740"}],
  "listPlace":
   [
  {
  "placeName":
- "Prater",
+ "",
  "ref":
  "pmb91530"}
  ,  {
@@ -280,7 +280,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1899-05-28",
  "head":
- "Sigmundsherberg"
+ "Sigmundsherberg",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Sigmundsherberg",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -302,7 +312,7 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1899-05-28",
  "head":
- "Kaltenleutgeben"
+ "Horn"
 }, {
  "type":
  "schnitzler-bahr",
