@@ -190,6 +190,38 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02490.html</idno>
             </event>
             <event when-iso="1927-07-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb194903">
+                              <placeName>Am Kobenzl</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb194907">
+                                    <placeName>Schlosshotel Cobenzl</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb535">
+                              <placeName>Hermannskogel</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-07-17</idno>
+            </event>
+            <event when-iso="1927-07-17">
                <head>Arthur Schnitzler an Olga Schnitzler, 17. 7. 1927</head>
                <desc>
                   <listPerson>

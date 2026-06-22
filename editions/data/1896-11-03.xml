@@ -122,6 +122,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-11-03.html</idno>
             </event>
             <event when-iso="1896-11-03">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb199492">
+                        <placeName>Restaurant Hiller</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-11-03</idno>
+            </event>
+            <event when-iso="1896-11-03">
                <head>Uraufführung von Freiwild, 3.11.1896</head>
                <desc>
                   <listOrg>

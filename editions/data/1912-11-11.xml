@@ -158,6 +158,35 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02097.html</idno>
             </event>
             <event when-iso="1912-11-11">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb208">
+                        <placeName>Kleines Theater</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb253880">
+                        <placeName>Restaurant Kannenberg</placeName>
+                     </place>
+                     <place corresp="#pmb237370">
+                        <placeName>Kronprinzenufer 7/In den Zelten 14</placeName>
+                     </place>
+                     <place corresp="#pmb235972">
+                        <placeName>Die Komödie [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb253892">
+                        <placeName>Komödienhaus [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb253898">
+                        <placeName>Dahlmannstraße 1</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-11-11</idno>
+            </event>
+            <event when-iso="1912-11-11">
                <head>Private Lesung von Professor Bernhardi, 11.11.1912</head>
                <desc>
                   <listOrg>

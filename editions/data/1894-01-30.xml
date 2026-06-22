@@ -107,6 +107,44 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-01-30.html</idno>
             </event>
             <event when-iso="1894-01-30">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb262">
+                              <placeName>Café Central</placeName>
+                           </place>
+                           <place corresp="#pmb192844">
+                              <placeName>Opernring 19</placeName>
+                           </place>
+                           <place corresp="#pmb237525">
+                              <placeName>Operngasse 6</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb77">
+                              <placeName>Raimund-Theater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-01-30</idno>
+            </event>
+            <event when-iso="1894-01-30">
                <head>Premiere von Heimat, 30.1.1894</head>
                <desc>
                   <listOrg>

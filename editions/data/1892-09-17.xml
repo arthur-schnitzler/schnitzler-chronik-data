@@ -84,6 +84,31 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1892-09-17.html</idno>
             </event>
+            <event when-iso="1892-09-17">
+               <head corresp="#pmb462">Venedig</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb310">
+                        <placeName>Grand Hotel Bauer-Grünwald</placeName>
+                     </place>
+                     <place corresp="#pmb261">
+                        <placeName>Piazza San Marco</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-09-17</idno>
+            </event>
+            <event when-iso="1892-09-17">
+               <head corresp="#pmb954">Trient</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb192406">
+                        <placeName>Castello del Buonconsiglio</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-09-17</idno>
+            </event>
          </listEvent>
       </body>
    </text>

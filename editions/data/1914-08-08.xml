@@ -95,6 +95,48 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-08-08.html</idno>
             </event>
+            <event when-iso="1914-08-08">
+               <head corresp="#pmb12589">Celerina</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb254495">
+                        <placeName>Bahnhof Celerina</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-08</idno>
+            </event>
+            <event when-iso="1914-08-08">
+               <head corresp="#pmb49990">Bad Ragaz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256952">
+                        <placeName>Bad Ragaz Bahnhof</placeName>
+                     </place>
+                     <place corresp="#pmb256955">
+                        <placeName>Hotel Krone</placeName>
+                     </place>
+                     <place corresp="#pmb334541">
+                        <placeName>Hotel Lattmann</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-08</idno>
+            </event>
+            <event when-iso="1914-08-08">
+               <head corresp="#pmb892">Davos</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256946">
+                        <placeName>Davos Dorf Bahnhof</placeName>
+                     </place>
+                     <place corresp="#pmb256949">
+                        <placeName>Grand Hotel Belvédère [Davos]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-08</idno>
+            </event>
          </listEvent>
       </body>
    </text>

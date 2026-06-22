@@ -128,6 +128,39 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-07.html</idno>
             </event>
             <event when-iso="1930-12-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb200825">
+                              <placeName>Pension Schönbrunn</placeName>
+                           </place>
+                           <place corresp="#pmb92519">
+                              <placeName>Schlosspark Schönbrunn</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb244453">
+                              <placeName>Ferrogasse 16</placeName>
+                           </place>
+                           <place corresp="#pmb61755">
+                              <placeName>Cottage-Sanatorium für Nerven- und Stoffwechselkranke</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-12-07</idno>
+            </event>
+            <event when-iso="1930-12-07">
                <head>Tagebuch von Clara Katharina Pollaczek, 5.–8. Dezember 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp862.html</idno>

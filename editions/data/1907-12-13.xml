@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1907-12-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-12-13</idno>
+            </event>
+            <event when-iso="1907-12-13">
                <head>Maximilian Harden, 13. 12. 1907</head>
                <desc>
                   <listPerson>

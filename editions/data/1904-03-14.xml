@@ -219,6 +219,47 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03440.html</idno>
             </event>
             <event when-iso="1904-03-14">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb96">
+                              <placeName>Meissl &amp; Schadn</placeName>
+                           </place>
+                           <place corresp="#pmb200440">
+                              <placeName>Krugerstraße 5</placeName>
+                           </place>
+                           <place corresp="#pmb233517">
+                              <placeName>Kaiserpanorama [Wien, Schubertring 4]</placeName>
+                           </place>
+                           <place corresp="#pmb4">
+                              <placeName>Bösendorfer Saal</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb200335">
+                              <placeName>Rooseveltplatz 2</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-03-14</idno>
+            </event>
+            <event when-iso="1904-03-14">
                <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.3.1904</head>
                <desc>
                   <listPerson>

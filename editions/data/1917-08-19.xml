@@ -91,6 +91,36 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-08-19.html</idno>
             </event>
+            <event when-iso="1917-08-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#64">
+                        <placeName>XIV., Penzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb551">
+                              <placeName>Rieglerhütte</placeName>
+                           </place>
+                           <place corresp="#pmb207323">
+                              <placeName>Schottenhof [Penzing]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-08-19</idno>
+            </event>
          </listEvent>
       </body>
    </text>

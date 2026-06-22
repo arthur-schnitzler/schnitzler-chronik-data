@@ -98,6 +98,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-22.html</idno>
             </event>
             <event when-iso="1929-09-22">
+               <head corresp="#pmb390">Franzensbad</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb236968">
+                        <placeName>Königsvilla</placeName>
+                     </place>
+                     <place corresp="#pmb237011">
+                        <placeName>Hotel Post [Franzensbad]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-09-22</idno>
+            </event>
+            <event when-iso="1929-09-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-09-22</idno>
+            </event>
+            <event when-iso="1929-09-22">
                <head>Filmvorführung, 22.9.1929</head>
                <desc>
                   <listPerson>

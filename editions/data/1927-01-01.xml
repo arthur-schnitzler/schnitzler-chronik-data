@@ -186,6 +186,23 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03542.html</idno>
             </event>
             <event when-iso="1927-01-01">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb784">
+                        <placeName>Schauspielhaus Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb246979">
+                        <placeName>Machnower Straße 37</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-01-01</idno>
+            </event>
+            <event when-iso="1927-01-01">
                <head>Aufführung von Hamlet, 1.1.1927</head>
                <desc>
                   <listBibl>

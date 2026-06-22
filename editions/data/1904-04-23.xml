@@ -165,6 +165,38 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01393.html</idno>
             </event>
             <event when-iso="1904-04-23">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb96">
+                              <placeName>Meissl &amp; Schadn</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236593">
+                              <placeName>Nussdorfer Straße 4</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-04-23</idno>
+            </event>
+            <event when-iso="1904-04-23">
                <head>Bahr an Schnitzler, 23. 4. [1904]</head>
                <desc>
                   <listPerson>

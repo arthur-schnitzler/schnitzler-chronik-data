@@ -113,6 +113,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1912-09-09.html</idno>
             </event>
             <event when-iso="1912-09-09">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232800">
+                              <placeName>Laudongasse 12</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#61">
+                        <placeName>XI., Simmering</placeName>
+                        <listPlace>
+                           <place corresp="#pmb192349">
+                              <placeName>Israelitischer Friedhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235251">
+                              <placeName>Hasenauerstraße 59</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-09-09</idno>
+            </event>
+            <event when-iso="1912-09-09">
                <head>Samuel Fischer, Carl Schur an Arthur Schnitzler, 1912-09-09</head>
                <desc>
                   <listPerson>

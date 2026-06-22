@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1881-06-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb19">
+                              <placeName>Ronacher</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-06-17</idno>
+            </event>
+            <event when-iso="1881-06-17">
                <head>Premiere von Eine Heirat unter Ludwig XV, 17.6.1881</head>
                <desc>
                   <listBibl>

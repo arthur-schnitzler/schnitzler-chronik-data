@@ -89,6 +89,48 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-08-15.html</idno>
             </event>
+            <event when-iso="1914-08-15">
+               <head corresp="#pmb49990">Bad Ragaz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256955">
+                        <placeName>Hotel Krone</placeName>
+                     </place>
+                     <place corresp="#pmb256952">
+                        <placeName>Bad Ragaz Bahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-15</idno>
+            </event>
+            <event when-iso="1914-08-15">
+               <head corresp="#pmb44368">Feldkirch</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb248106">
+                        <placeName>Bahnhof Feldkirch</placeName>
+                     </place>
+                     <place corresp="#pmb248121">
+                        <placeName>Hotel Post [Feldkirch]</placeName>
+                     </place>
+                     <place corresp="#pmb248126">
+                        <placeName>Bezirkshauptmannschaft Feldkirch</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-15</idno>
+            </event>
+            <event when-iso="1914-08-15">
+               <head corresp="#pmb859">Buchs</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb254661">
+                        <placeName>Bahnhof Buchs SG</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-15</idno>
+            </event>
          </listEvent>
       </body>
    </text>

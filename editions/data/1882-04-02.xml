@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1882-04-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1882-04-02</idno>
+            </event>
+            <event when-iso="1882-04-02">
                <head>Außerordentliches philharmonisches Konzert, 2.4.1882</head>
                <desc>
                   <listPerson>

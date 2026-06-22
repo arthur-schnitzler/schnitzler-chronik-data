@@ -72,6 +72,20 @@
                <desc/>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-10-20.html</idno>
             </event>
+            <event when-iso="1900-10-20">
+               <head corresp="#pmb662">Baden bei Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34067">
+                        <placeName>Julienhof</placeName>
+                     </place>
+                     <place corresp="#pmb186454">
+                        <placeName>Burgruine Rauhenstein</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-20</idno>
+            </event>
          </listEvent>
       </body>
    </text>

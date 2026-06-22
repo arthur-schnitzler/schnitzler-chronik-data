@@ -130,6 +130,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02014.html</idno>
             </event>
             <event when-iso="1911-03-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb4">
+                              <placeName>Bösendorfer Saal</placeName>
+                           </place>
+                           <place corresp="#pmb207239">
+                              <placeName>Wiener Schachclub [Schauflergasse 2]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92292">
+                              <placeName>Hohe Warte</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-03-26</idno>
+            </event>
+            <event when-iso="1911-03-26">
                <head>Gesangskonzert von Lilli Lehmann, 26.3.1911</head>
                <desc>
                   <listPerson>

@@ -68,6 +68,28 @@
       <body>
          <listEvent>
             <event when-iso="1880-02-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                           <place corresp="#pmb182554">
+                              <placeName>Tanzschule Crombé</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-02-02</idno>
+            </event>
+            <event when-iso="1880-02-02">
                <head>Kränzchen Crombé, 2.2.1880</head>
                <desc>
                   <listPerson>

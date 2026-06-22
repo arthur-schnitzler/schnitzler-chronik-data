@@ -162,6 +162,28 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01399.html</idno>
             </event>
+            <event when-iso="1904-05-07">
+               <head corresp="#pmb445">Rom</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb233993">
+                        <placeName>Grand Hotel Roma</placeName>
+                     </place>
+                     <place corresp="#pmb234002">
+                        <placeName>Ristorante Umberto</placeName>
+                     </place>
+                     <place corresp="#pmb231416">
+                        <placeName>Pantheon</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-07</idno>
+            </event>
+            <event when-iso="1904-05-07">
+               <head corresp="#pmb1002">Vatikan</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-07</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -143,6 +143,41 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01866.html</idno>
             </event>
+            <event when-iso="1909-08-21">
+               <head corresp="#pmb470">Edlach</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb714">
+                        <placeName>Hotel Edlacherhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-08-21</idno>
+            </event>
+            <event when-iso="1909-08-21">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#60">
+                        <placeName>X., Favoriten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb132">
+                              <placeName>Südbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-08-21</idno>
+            </event>
          </listEvent>
       </body>
    </text>

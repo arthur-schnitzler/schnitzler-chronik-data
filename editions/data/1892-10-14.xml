@@ -109,6 +109,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00127.html</idno>
             </event>
             <event when-iso="1892-10-14">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb182762">
+                              <placeName>Danzer’s Orpheum</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-10-14</idno>
+            </event>
+            <event when-iso="1892-10-14">
                <head>Danzer’s Orpheum, 14.10.1892</head>
                <desc>
                   <listPerson>

@@ -68,6 +68,28 @@
       <body>
          <listEvent>
             <event when-iso="1881-02-25">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb4">
+                              <placeName>Bösendorfer Saal</placeName>
+                           </place>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-02-25</idno>
+            </event>
+            <event when-iso="1881-02-25">
                <head>Universitätskränzchen, 25.2.1881</head>
                <desc>
                   <listPerson>

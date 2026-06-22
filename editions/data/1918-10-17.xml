@@ -145,6 +145,38 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-10-17.html</idno>
             </event>
+            <event when-iso="1918-10-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#73">
+                        <placeName>XXIII., Liesing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb7728">
+                              <placeName>Mauer</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb267049">
+                                    <placeName>Mittelstands-Pflege und Erholungsheim Mauer</placeName>
+                                 </place>
+                                 <place corresp="#pmb267053">
+                                    <placeName>Mauerlust</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-10-17</idno>
+            </event>
          </listEvent>
       </body>
    </text>

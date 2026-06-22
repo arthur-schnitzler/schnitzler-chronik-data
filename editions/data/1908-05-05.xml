@@ -79,6 +79,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-05-05.html</idno>
             </event>
             <event when-iso="1908-05-05">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb485">
+                        <placeName>Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                     <place corresp="#pmb101">
+                        <placeName>Neue Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb669">
+                        <placeName>Bayerische Staatsoper</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-05-05</idno>
+            </event>
+            <event when-iso="1908-05-05">
                <head>Besuch der Neuen Pinakothek, 5.5.1908</head>
                <desc>
                   <listPerson>

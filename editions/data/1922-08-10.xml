@@ -100,6 +100,40 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-08-10.html</idno>
             </event>
+            <event when-iso="1922-08-10">
+               <head corresp="#pmb797">Berchtesgaden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb289733">
+                        <placeName>Berchtesgaden Hauptbahnhof</placeName>
+                     </place>
+                     <place corresp="#pmb289739">
+                        <placeName>Villa Waldrast</placeName>
+                     </place>
+                     <place corresp="#pmb289742">
+                        <placeName>Hotel Bellevue [Berchtesgaden]</placeName>
+                     </place>
+                     <place corresp="#pmb292530">
+                        <placeName>Grand Hotel Auguste Victoria</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-08-10</idno>
+            </event>
+            <event when-iso="1922-08-10">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb806">
+                        <placeName>Hotel Rheinischer Hof München</placeName>
+                     </place>
+                     <place corresp="#pmb247583">
+                        <placeName>Hauptbahnhof München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-08-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

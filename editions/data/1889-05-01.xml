@@ -68,6 +68,33 @@
       <body>
          <listEvent>
             <event when-iso="1889-05-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb186613">
+                              <placeName>Café Parsifal (Johann Bocksruker)</placeName>
+                           </place>
+                           <place corresp="#pmb168768">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb118">
+                              <placeName>Carl-Theater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-05-01</idno>
+            </event>
+            <event when-iso="1889-05-01">
                <head>Aufführung von Le Fiacre 117, Les Charbonniers, 1.5.1889</head>
                <desc>
                   <listOrg>

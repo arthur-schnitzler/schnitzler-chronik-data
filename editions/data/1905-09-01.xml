@@ -144,6 +144,33 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04021.html</idno>
             </event>
             <event when-iso="1905-09-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#57">
+                        <placeName>VII., Neubau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb20">
+                              <placeName>Volkstheater</placeName>
+                           </place>
+                           <place corresp="#pmb200344">
+                              <placeName>Hotel Höller</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-09-01</idno>
+            </event>
+            <event when-iso="1905-09-01">
                <head>Aufführung von Die Haubenlerche, 1.9.1905</head>
                <desc>
                   <listOrg>

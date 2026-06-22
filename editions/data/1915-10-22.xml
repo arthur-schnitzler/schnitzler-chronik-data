@@ -105,6 +105,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-10-22.html</idno>
             </event>
             <event when-iso="1915-10-22">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb18">
+                        <placeName>Lessing-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb253880">
+                        <placeName>Restaurant Kannenberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-10-22</idno>
+            </event>
+            <event when-iso="1915-10-22">
                <head>Generalprobe Komödie der Worte, 22.10.1915</head>
                <desc>
                   <listOrg>

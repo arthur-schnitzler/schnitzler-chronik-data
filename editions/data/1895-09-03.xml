@@ -102,6 +102,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-09-03.html</idno>
             </event>
             <event when-iso="1895-09-03">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb681">
+                        <placeName>Hotel Continental [München]</placeName>
+                     </place>
+                     <place corresp="#pmb511">
+                        <placeName>Alte Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb199253">
+                        <placeName>Staatliche Graphische Sammlung München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-09-03</idno>
+            </event>
+            <event when-iso="1895-09-03">
                <head>Besuch der Staatlichen Graphischen Sammlung München, 3.9.1895</head>
                <desc>
                   <listPerson>

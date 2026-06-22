@@ -105,6 +105,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-11-15.html</idno>
             </event>
             <event when-iso="1894-11-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb192844">
+                              <placeName>Opernring 19</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb207250">
+                              <placeName>Wasagasse 4</placeName>
+                           </place>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-11-15</idno>
+            </event>
+            <event when-iso="1894-11-15">
                <head>Comitésitzung Theater- und Musikgesellschaft, 15.11.1894</head>
                <desc>
                   <listOrg>

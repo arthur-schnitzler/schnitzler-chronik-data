@@ -93,6 +93,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1898-12-18.html</idno>
             </event>
             <event when-iso="1898-12-18">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb190427">
+                              <placeName>Wollzeile 15 (»Berthahof«)</placeName>
+                           </place>
+                           <place corresp="#pmb14">
+                              <placeName>Burgtheater</placeName>
+                           </place>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-12-18</idno>
+            </event>
+            <event when-iso="1898-12-18">
                <head>Viertes Abonnementkonzert der Wiener Philharmoniker, 18.12.1898</head>
                <desc>
                   <listOrg>

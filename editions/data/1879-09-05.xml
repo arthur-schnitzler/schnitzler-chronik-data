@@ -81,6 +81,28 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1879-09-05.html</idno>
             </event>
+            <event when-iso="1879-09-05">
+               <head corresp="#pmb145">Köln</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256391">
+                        <placeName>Köln Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-09-05</idno>
+            </event>
+            <event when-iso="1879-09-05">
+               <head corresp="#pmb40709">Amsterdam</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256379">
+                        <placeName>Amsterdam Centraal</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-09-05</idno>
+            </event>
          </listEvent>
       </body>
    </text>

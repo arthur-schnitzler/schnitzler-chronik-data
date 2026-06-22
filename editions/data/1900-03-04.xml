@@ -123,6 +123,28 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02906.html</idno>
             </event>
+            <event when-iso="1900-03-04">
+               <head corresp="#pmb470">Edlach</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb714">
+                        <placeName>Hotel Edlacherhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-03-04</idno>
+            </event>
+            <event when-iso="1900-03-04">
+               <head corresp="#pmb90973">Kaiserbrunn</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb207309">
+                        <placeName>Wasserschloss Kaiserbrunn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-03-04</idno>
+            </event>
          </listEvent>
       </body>
    </text>

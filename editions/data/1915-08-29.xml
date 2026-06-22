@@ -101,6 +101,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-08-29.html</idno>
             </event>
             <event when-iso="1915-08-29">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb230">
+                        <placeName>Österreichischer Hof</placeName>
+                     </place>
+                     <place corresp="#pmb92422">
+                        <placeName>Nonnberg</placeName>
+                     </place>
+                     <place corresp="#pmb297">
+                        <placeName>Kapuzinerberg</placeName>
+                        <listPlace>
+                           <place corresp="#pmb252997">
+                              <placeName>Zauberflöten-Häuschen</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-08-29</idno>
+            </event>
+            <event when-iso="1915-08-29">
                <head>Traum vom 29. August 1915</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

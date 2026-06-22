@@ -95,6 +95,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1891-07-24.html</idno>
             </event>
             <event when-iso="1891-07-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-07-24</idno>
+            </event>
+            <event when-iso="1891-07-24">
+               <head corresp="#pmb662">Baden bei Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb190808">
+                        <placeName>Arena in Baden</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-07-24</idno>
+            </event>
+            <event when-iso="1891-07-24">
                <head>Aufführung von Das Mädl aus der Vorstadt, 24.7.1891</head>
                <desc>
                   <listOrg>

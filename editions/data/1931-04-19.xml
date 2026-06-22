@@ -134,6 +134,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-04-19.html</idno>
             </event>
             <event when-iso="1931-04-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                           <place corresp="#pmb244453">
+                              <placeName>Ferrogasse 16</placeName>
+                           </place>
+                           <place corresp="#pmb61755">
+                              <placeName>Cottage-Sanatorium für Nerven- und Stoffwechselkranke</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb190460">
+                              <placeName>Mozart Lichtspiele</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-04-19</idno>
+            </event>
+            <event when-iso="1931-04-19">
                <head>Filmvorführung von Die Liebe der Renate Langen, 19.4.1931</head>
                <desc>
                   <listBibl>

@@ -134,6 +134,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-05-08.html</idno>
             </event>
             <event when-iso="1927-05-08">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb8">
+                              <placeName>Prater</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb185">
+                                    <placeName>Lusthaus</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb61755">
+                              <placeName>Cottage-Sanatorium für Nerven- und Stoffwechselkranke</placeName>
+                           </place>
+                           <place corresp="#pmb185644">
+                              <placeName>Peregringasse 4</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-05-08</idno>
+            </event>
+            <event when-iso="1927-05-08">
                <head>Kesser, Hermann an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.Abschr.<listPerson>
                      <person>

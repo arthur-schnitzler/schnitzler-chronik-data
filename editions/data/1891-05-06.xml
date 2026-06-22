@@ -120,6 +120,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00012.html</idno>
             </event>
             <event when-iso="1891-05-06">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb36">
+                              <placeName>Zum grünen Anker</placeName>
+                           </place>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb37">
+                              <placeName>Theater an der Wien</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#54">
+                        <placeName>IV., Wieden</placeName>
+                        <listPlace>
+                           <place corresp="#pmb186984">
+                              <placeName>Café Viktoria</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-05-06</idno>
+            </event>
+            <event when-iso="1891-05-06">
                <head>Aufführung von Der verlorene Sohn, A Räuscherl. Ländliches Gemälde in einem Aufzuge, 6.5.1891</head>
                <desc>
                   <listOrg>

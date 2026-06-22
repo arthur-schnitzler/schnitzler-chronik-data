@@ -198,6 +198,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03948.html</idno>
             </event>
             <event when-iso="1923-10-29">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#53">
+                        <placeName>III., Landstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb240">
+                              <placeName>Wiener Konzerthaus</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-10-29</idno>
+            </event>
+            <event when-iso="1923-10-29">
                <head>Sitzung der Genossenschaft dramatischer Autoren und Komponisten in Österreich, 29.10.1923</head>
                <desc>
                   <listOrg>

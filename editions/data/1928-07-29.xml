@@ -102,6 +102,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-07-29.html</idno>
             </event>
             <event when-iso="1928-07-29">
+               <head corresp="#pmb462">Venedig</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb40837">
+                        <placeName>Grand Hotel Britannia</placeName>
+                     </place>
+                     <place corresp="#pmb259">
+                        <placeName>Lido</placeName>
+                        <listPlace>
+                           <place corresp="#pmb233118">
+                              <placeName>Friedhof San Michele</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb233126">
+                        <placeName>Hotel Cavalletto</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-07-29</idno>
+            </event>
+            <event when-iso="1928-07-29">
                <head>Beerdigung von Lili Cappelini, 29.7.1928</head>
                <desc>
                   <listPerson>

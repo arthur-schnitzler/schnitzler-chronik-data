@@ -68,6 +68,30 @@
       <body>
          <listEvent>
             <event when-iso="1885-06-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb294370">
+                              <placeName>Pertl’s Drittes Kaffeehaus</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-06-01</idno>
+            </event>
+            <event when-iso="1885-06-01">
                <head>Gesangskonzert von Mirzl Hager, 1.6.1885</head>
                <desc>
                   <listPerson>

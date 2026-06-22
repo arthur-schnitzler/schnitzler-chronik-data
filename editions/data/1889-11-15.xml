@@ -87,6 +87,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1889-11-15.html</idno>
             </event>
             <event when-iso="1889-11-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb44">
+                              <placeName>Riedhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb819">
+                              <placeName>Café Pucher</placeName>
+                           </place>
+                           <place corresp="#pmb51242">
+                              <placeName>Hotel Müller</placeName>
+                           </place>
+                           <place corresp="#pmb168768">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-11-15</idno>
+            </event>
+            <event when-iso="1889-11-15">
                <head>Private Lesung von Alkandi’s Lied, 15.11.1889</head>
                <desc>
                   <listBibl>

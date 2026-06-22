@@ -101,6 +101,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-01-10.html</idno>
             </event>
             <event when-iso="1896-01-10">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-01-10</idno>
+            </event>
+            <event when-iso="1896-01-10">
+               <head corresp="#pmb146">Frankfurt am Main</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb199460">
+                        <placeName>Frankfurter Hof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-01-10</idno>
+            </event>
+            <event when-iso="1896-01-10">
                <head>Reinhard, Marie an Schnitzler, Arthur [Briefe]</head>
                <desc>Erstes Objekt aus der Mappe. 24 Br., 4 Tel. 43 Bl.<listPerson>
                      <person>

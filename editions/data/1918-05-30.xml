@@ -117,6 +117,55 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-05-30.html</idno>
             </event>
             <event when-iso="1918-05-30">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#64">
+                        <placeName>XIV., Penzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb271">
+                              <placeName>Hütteldorf</placeName>
+                           </place>
+                           <place corresp="#pmb539">
+                              <placeName>Sophienalpe</placeName>
+                           </place>
+                           <place corresp="#pmb264624">
+                              <placeName>Franz-Karl-Aussicht</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235251">
+                              <placeName>Hasenauerstraße 59</placeName>
+                           </place>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb170">
+                              <placeName>Neuwaldegg</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb176">
+                                    <placeName>Schwarzenbergpark</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-05-30</idno>
+            </event>
+            <event when-iso="1918-05-30">
                <head>Private Lesung von Jaákobs Traum, 30.5.1918</head>
                <desc>
                   <listBibl>

@@ -116,6 +116,58 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1883-01-03.html</idno>
             </event>
             <event when-iso="1883-01-03">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb262">
+                              <placeName>Café Central</placeName>
+                           </place>
+                           <place corresp="#pmb46">
+                              <placeName>Café Kremser</placeName>
+                           </place>
+                           <place corresp="#pmb182664">
+                              <placeName>Café zum Künstlerhaus</placeName>
+                           </place>
+                           <place corresp="#pmb187186">
+                              <placeName>Kaffehaus Ferdinand Gause</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#53">
+                        <placeName>III., Landstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb182655">
+                              <placeName>Café Aspang</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb182725">
+                              <placeName>Garnisonsspital</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb40">
+                              <placeName>Theater in der Josefstadt</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-01-03</idno>
+            </event>
+            <event when-iso="1883-01-03">
                <head>Aufführung von Ein Blitzmädel, 3.1.1883</head>
                <desc>
                   <listOrg>

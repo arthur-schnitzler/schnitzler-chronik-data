@@ -101,6 +101,22 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-02-20.html</idno>
             </event>
             <event when-iso="1922-02-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-02-20</idno>
+            </event>
+            <event when-iso="1922-02-20">
                <head>Filmvorführung, 20.2.1922</head>
                <desc>
                   <listPerson>

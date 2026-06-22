@@ -128,6 +128,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-11-12.html</idno>
             </event>
             <event when-iso="1911-11-12">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb681">
+                        <placeName>Hotel Continental [München]</placeName>
+                     </place>
+                     <place corresp="#pmb635">
+                        <placeName>Residenztheater München</placeName>
+                     </place>
+                     <place corresp="#pmb248958">
+                        <placeName>Mannhardtstraße 3</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-12</idno>
+            </event>
+            <event when-iso="1911-11-12">
                <head>Aufführung von Das weite Land, 12.11.1911</head>
                <desc>
                   <listBibl>

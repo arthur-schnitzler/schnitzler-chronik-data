@@ -108,6 +108,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-01-21.html</idno>
             </event>
             <event when-iso="1929-01-21">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236372">
+                              <placeName>Gregor-Mendel-Straße 34</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-01-21</idno>
+            </event>
+            <event when-iso="1929-01-21">
                <head>Tagebuch von Clara Katharina Pollaczek, 11.–24. Januar 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp642.html</idno>

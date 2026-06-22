@@ -109,6 +109,26 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-02-10.html</idno>
             </event>
+            <event when-iso="1926-02-10">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb249530">
+                        <placeName>Herbert-von-Karajan-Straße 4</placeName>
+                     </place>
+                     <place corresp="#pmb244580">
+                        <placeName>Miquelstraße 86</placeName>
+                     </place>
+                     <place corresp="#pmb233590">
+                        <placeName>Restaurant Frolics</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-02-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

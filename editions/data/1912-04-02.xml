@@ -101,6 +101,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1912-04-02.html</idno>
             </event>
             <event when-iso="1912-04-02">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb230">
+                        <placeName>Österreichischer Hof</placeName>
+                     </place>
+                     <place corresp="#pmb195432">
+                        <placeName>Salzburger Landestheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-04-02</idno>
+            </event>
+            <event when-iso="1912-04-02">
                <head>Aufführung von Was ihr wollt, 2.4.1912</head>
                <desc>
                   <listOrg>

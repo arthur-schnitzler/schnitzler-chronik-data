@@ -95,6 +95,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-08-01.html</idno>
             </event>
             <event when-iso="1904-08-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92519">
+                              <placeName>Schlosspark Schönbrunn</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb39607">
+                                    <placeName>Tiergarten Schönbrunn</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb304">
+                              <placeName>Ottakringer Bräu</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-08-01</idno>
+            </event>
+            <event when-iso="1904-08-01">
                <head>Beer-Hofmann an Bahr, 1. 8. 1904</head>
                <desc>
                   <listPerson>

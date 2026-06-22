@@ -103,6 +103,35 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00269.html</idno>
             </event>
             <event when-iso="1893-10-12">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb412">
+                              <placeName>Grillparzerstraße</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb167782">
+                                    <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb37">
+                              <placeName>Theater an der Wien</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-10-12</idno>
+            </event>
+            <event when-iso="1893-10-12">
                <head>Aufführung von Ein armes Mädel, 12.10.1893</head>
                <desc>
                   <listOrg>

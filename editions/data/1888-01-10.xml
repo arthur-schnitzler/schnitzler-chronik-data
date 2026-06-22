@@ -85,6 +85,22 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-01-10.html</idno>
             </event>
             <event when-iso="1888-01-10">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-01-10</idno>
+            </event>
+            <event when-iso="1888-01-10">
                <head>Olga Waissnix an Arthur Schnitzler, 10.1.1888</head>
                <desc>
                   <listPerson>

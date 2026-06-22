@@ -245,6 +245,22 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01968.html</idno>
             </event>
             <event when-iso="1910-10-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-10-20</idno>
+            </event>
+            <event when-iso="1910-10-20">
                <head>Schnitzler an Bahr, 20. 10. 1910</head>
                <desc>
                   <listPerson>

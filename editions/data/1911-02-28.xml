@@ -86,6 +86,23 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-02-28.html</idno>
             </event>
+            <event when-iso="1911-02-28">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb251729">
+                        <placeName>Kaufhaus Wertheim am Leipziger Platz</placeName>
+                     </place>
+                     <place corresp="#pmb216">
+                        <placeName>Unter den Linden</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-28</idno>
+            </event>
          </listEvent>
       </body>
    </text>

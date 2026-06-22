@@ -68,6 +68,28 @@
       <body>
          <listEvent>
             <event when-iso="1879-04-06">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb182757">
+                              <placeName>Thalia-Theater [Wien. II]</placeName>
+                           </place>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-04-06</idno>
+            </event>
+            <event when-iso="1879-04-06">
                <head>Aufführung von Feuer in der Mädchenschule. Lustspiel in einem Akt, Die zwei Helden, 6.4.1879</head>
                <desc>
                   <listBibl>

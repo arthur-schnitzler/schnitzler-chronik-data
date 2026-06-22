@@ -84,6 +84,31 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1880-03-10.html</idno>
             </event>
             <event when-iso="1880-03-10">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb828">
+                              <placeName>Österreichische Nationalbibliothek</placeName>
+                           </place>
+                           <place corresp="#pmb103">
+                              <placeName>Volksgarten</placeName>
+                           </place>
+                           <place corresp="#pmb168900">
+                              <placeName>Österreichischer Ingenieur- und Architektenverein</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-03-10</idno>
+            </event>
+            <event when-iso="1880-03-10">
                <head>Vortrag von Phillip Markbreiter über die Redefreiheit, 10.3.1880</head>
                <desc>
                   <listPerson>

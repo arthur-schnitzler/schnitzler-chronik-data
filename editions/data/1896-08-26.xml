@@ -105,6 +105,20 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-08-26.html</idno>
             </event>
+            <event when-iso="1896-08-26">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb399">
+                        <placeName>Hotel Continental [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb199829">
+                        <placeName>Weinstube Kempinski</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

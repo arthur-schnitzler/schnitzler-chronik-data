@@ -119,6 +119,26 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-01-10.html</idno>
             </event>
             <event when-iso="1930-01-10">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb233325">
+                        <placeName>Herbert-von-Karajan-Straße 15</placeName>
+                     </place>
+                     <place corresp="#pmb185955">
+                        <placeName>Scala</placeName>
+                     </place>
+                     <place corresp="#pmb235295">
+                        <placeName>S. Fischer Verlag</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-01-10</idno>
+            </event>
+            <event when-iso="1930-01-10">
                <head>Tagebuch von Clara Katharina Pollaczek, 6.–13. Januar 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp758.html</idno>

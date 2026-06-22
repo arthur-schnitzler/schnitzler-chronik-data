@@ -143,6 +143,31 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-02-23.html</idno>
             </event>
             <event when-iso="1911-02-23">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb92337">
+                        <placeName>Klindworth-Scharwenka-Saal</placeName>
+                     </place>
+                     <place corresp="#pmb36914">
+                        <placeName>Tiergarten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb37725">
+                              <placeName>Blüthner-Saal</placeName>
+                           </place>
+                           <place corresp="#pmb207015">
+                              <placeName>Großer Tiergarten</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-23</idno>
+            </event>
+            <event when-iso="1911-02-23">
                <head>Gesangskonzert von Olga Schnitzler, 23.2.1911</head>
                <desc>
                   <listPerson>

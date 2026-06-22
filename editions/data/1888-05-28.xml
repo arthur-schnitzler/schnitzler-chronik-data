@@ -79,6 +79,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-05-28.html</idno>
             </event>
             <event when-iso="1888-05-28">
+               <head corresp="#pmb224">London</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb185183">
+                        <placeName>British Museum</placeName>
+                     </place>
+                     <place corresp="#pmb185875">
+                        <placeName>St James’s Hall</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-05-28</idno>
+            </event>
+            <event when-iso="1888-05-28">
                <head>Konzert im St. James Hall, 28.5.1888</head>
                <desc>
                   <listPerson>

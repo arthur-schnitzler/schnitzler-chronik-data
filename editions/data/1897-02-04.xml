@@ -94,6 +94,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1897-02-04.html</idno>
             </event>
             <event when-iso="1897-02-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb200014">
+                              <placeName>Auerspergstraße 2</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb168581">
+                        <placeName>?? [»bei Uns«, Absteigequartier IV Marie Reinhard und Arthur Schnitzler]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-02-04</idno>
+            </event>
+            <event when-iso="1897-02-04">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 4. Februar 1897</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp024.html</idno>

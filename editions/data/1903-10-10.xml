@@ -89,6 +89,35 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1903-10-10.html</idno>
             </event>
+            <event when-iso="1903-10-10">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#73">
+                        <placeName>XXIII., Liesing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb173">
+                              <placeName>Rodaun</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb40297">
+                                    <placeName>Hofmannsthal-Schlössl</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-10-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

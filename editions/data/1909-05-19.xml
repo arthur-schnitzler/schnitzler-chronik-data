@@ -135,6 +135,44 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04319.html</idno>
             </event>
             <event when-iso="1909-05-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb8">
+                              <placeName>Prater</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb685">
+                                    <placeName>Wurstelprater</placeName>
+                                 </place>
+                                 <place corresp="#pmb185">
+                                    <placeName>Lusthaus</placeName>
+                                 </place>
+                                 <place corresp="#pmb47">
+                                    <placeName>Schweizerhaus</placeName>
+                                 </place>
+                                 <place corresp="#pmb53159">
+                                    <placeName>Hauptallee</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-05-19</idno>
+            </event>
+            <event when-iso="1909-05-19">
                <head>Arthur Schnitzler an Felix Markbreiter, Julie Markbreiter, 19. 5.
                      1909</head>
                <desc>

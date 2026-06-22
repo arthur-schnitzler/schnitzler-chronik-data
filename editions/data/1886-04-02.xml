@@ -68,6 +68,20 @@
       <body>
          <listEvent>
             <event when-iso="1886-04-02">
+               <head corresp="#pmb43520">Meran</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb184767">
+                        <placeName>Hotel und Pension Tirolerhof</placeName>
+                     </place>
+                     <place corresp="#pmb185866">
+                        <placeName>Kurhaus Meran</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-04-02</idno>
+            </event>
+            <event when-iso="1886-04-02">
                <head>Konzert im Curhaus-Saal, 2.4.1886</head>
                <desc>
                   <listPerson>

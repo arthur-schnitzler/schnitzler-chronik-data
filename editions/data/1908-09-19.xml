@@ -87,6 +87,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-09-19.html</idno>
             </event>
             <event when-iso="1908-09-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb52023">
+                              <placeName>Apollo-Theater [Wien]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#53">
+                        <placeName>III., Landstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb626">
+                              <placeName>Gebäude der Kunstschau</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-09-19</idno>
+            </event>
+            <event when-iso="1908-09-19">
                <head>Ausstellungsbesuch Kunstschau Wien, 19.9.1908</head>
                <desc>
                   <listPerson>

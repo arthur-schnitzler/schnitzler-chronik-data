@@ -160,6 +160,31 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02763.html</idno>
             </event>
+            <event when-iso="1896-01-13">
+               <head corresp="#pmb146">Frankfurt am Main</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb199460">
+                        <placeName>Frankfurter Hof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-01-13</idno>
+            </event>
+            <event when-iso="1896-01-13">
+               <head corresp="#pmb145">Köln</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb199468">
+                        <placeName>Kölner Dom</placeName>
+                     </place>
+                     <place corresp="#pmb92349">
+                        <placeName>Kreuzgasse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-01-13</idno>
+            </event>
          </listEvent>
       </body>
    </text>

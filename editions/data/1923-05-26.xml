@@ -103,6 +103,20 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-05-26.html</idno>
             </event>
+            <event when-iso="1923-05-26">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb265165">
+                        <placeName>Potsdamer Straße 123</placeName>
+                     </place>
+                     <place corresp="#pmb90508">
+                        <placeName>Dahlem</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

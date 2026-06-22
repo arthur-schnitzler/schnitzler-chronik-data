@@ -83,6 +83,28 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-06-16.html</idno>
             </event>
+            <event when-iso="1890-06-16">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb186791">
+                              <placeName>Münchner Spatenbräu-Bierhalle</placeName>
+                           </place>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb55">
+                        <placeName>V., Margareten</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-06-16</idno>
+            </event>
          </listEvent>
       </body>
    </text>

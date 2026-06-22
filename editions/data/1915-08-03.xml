@@ -132,6 +132,48 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02217.html</idno>
             </event>
+            <event when-iso="1915-08-03">
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb655">
+                        <placeName>Hotel Kaiserkrone</placeName>
+                     </place>
+                     <place corresp="#pmb40450">
+                        <placeName>Restaurant Sonnenschein</placeName>
+                     </place>
+                     <place corresp="#pmb200295">
+                        <placeName>Hotel und Pension Habsburgerhof [Kaltenbach]</placeName>
+                     </place>
+                     <place corresp="#pmb92562">
+                        <placeName>Tänzlgasse</placeName>
+                        <listPlace>
+                           <place corresp="#pmb263410">
+                              <placeName>Tänzlgasse 10</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb248791">
+                        <placeName>Bahnhof Bad Ischl</placeName>
+                     </place>
+                     <place corresp="#pmb248766">
+                        <placeName>Elisabeth-Waldweg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-08-03</idno>
+            </event>
+            <event when-iso="1915-08-03">
+               <head corresp="#pmb91470">Pfandl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb248766">
+                        <placeName>Elisabeth-Waldweg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-08-03</idno>
+            </event>
          </listEvent>
       </body>
    </text>

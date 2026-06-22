@@ -119,6 +119,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-12-04.html</idno>
             </event>
             <event when-iso="1917-12-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#57">
+                        <placeName>VII., Neubau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb20">
+                              <placeName>Volkstheater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-12-04</idno>
+            </event>
+            <event when-iso="1917-12-04">
                <head>2. Trioabend von Severin Eisenberger – Fritz Rothschild – Anton Walter, 4.12.1917</head>
                <desc>
                   <listPerson>

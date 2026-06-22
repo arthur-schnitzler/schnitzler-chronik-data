@@ -155,6 +155,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-01-31.html</idno>
             </event>
             <event when-iso="1910-01-31">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#57">
+                        <placeName>VII., Neubau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb20">
+                              <placeName>Volkstheater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb246930">
+                              <placeName>Villa Siegfried Trebitsch</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-01-31</idno>
+            </event>
+            <event when-iso="1910-01-31">
                <head>Generalprobe von Das Exempel, 31.1.1910</head>
                <desc>
                   <listOrg>

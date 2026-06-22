@@ -164,6 +164,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04253.html</idno>
             </event>
             <event when-iso="1926-08-19">
+               <head corresp="#pmb34005">Zermatt</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245351">
+                        <placeName>Parkhotel Beau Site</placeName>
+                     </place>
+                     <place corresp="#pmb92485">
+                        <placeName>Riffelalp</placeName>
+                        <listPlace>
+                           <place corresp="#pmb245358">
+                              <placeName>Hotel Riffelalp</placeName>
+                           </place>
+                           <place corresp="#pmb245361">
+                              <placeName>Gornergratbahn</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb251070">
+                        <placeName>Bahnhof Zermatt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-08-19</idno>
+            </event>
+            <event when-iso="1926-08-19">
+               <head corresp="#pmb90741">Gornergrat</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-08-19</idno>
+            </event>
+            <event when-iso="1926-08-19">
                <head>Tagebuch von Clara Katharina Pollaczek, 16.–23. August 1926</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp381.html</idno>

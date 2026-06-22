@@ -122,6 +122,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-01-20.html</idno>
             </event>
             <event when-iso="1910-01-20">
+               <head corresp="#pmb866">Dresden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb53107">
+                        <placeName>Hotel Bellevue [Dresden]</placeName>
+                     </place>
+                     <place corresp="#pmb1034">
+                        <placeName>Semperoper</placeName>
+                     </place>
+                     <place corresp="#pmb248646">
+                        <placeName>Dresden Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-01-20</idno>
+            </event>
+            <event when-iso="1910-01-20">
                <head>Aufführung von Madame Butterfly, 20.1.1910</head>
                <desc>
                   <listBibl>

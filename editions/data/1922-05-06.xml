@@ -101,6 +101,42 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-05-06.html</idno>
             </event>
+            <event when-iso="1922-05-06">
+               <head corresp="#pmb58810">Den Haag</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb288455">
+                        <placeName>Bezuidenhoutseweg 65</placeName>
+                     </place>
+                     <place corresp="#pmb288452">
+                        <placeName>Bahnhof Den Haag Centraal</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-05-06</idno>
+            </event>
+            <event when-iso="1922-05-06">
+               <head corresp="#pmb40725">Oosterbeek</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb288613">
+                        <placeName>De Beekhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-05-06</idno>
+            </event>
+            <event when-iso="1922-05-06">
+               <head corresp="#pmb64585">Arnhem</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb293260">
+                        <placeName>Station Arnhem Centraal</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-05-06</idno>
+            </event>
          </listEvent>
       </body>
    </text>

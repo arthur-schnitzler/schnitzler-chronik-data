@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1883-11-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-11-22</idno>
+            </event>
+            <event when-iso="1883-11-22">
                <head>Mappe A167</head>
                <desc>Datumsangabe auf Blatt von Moderne Jugend</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428669_0005.html</idno>

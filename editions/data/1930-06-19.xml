@@ -101,6 +101,39 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-06-19.html</idno>
             </event>
             <event when-iso="1930-06-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-06-19</idno>
+            </event>
+            <event when-iso="1930-06-19">
+               <head corresp="#pmb45183">Laxenburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb239721">
+                        <placeName>Schlosspark Laxenburg</placeName>
+                     </place>
+                     <place corresp="#pmb239724">
+                        <placeName>Schloss Laxenburg</placeName>
+                     </place>
+                     <place corresp="#pmb239727">
+                        <placeName>Schlossrestaurant Laxenburg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-06-19</idno>
+            </event>
+            <event when-iso="1930-06-19">
                <head>Tagebuch von Clara Katharina Pollaczek, 30. Mai – 19. Juni 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp780.html</idno>

@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1885-02-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb516">
+                              <placeName>Musikverein</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-02-19</idno>
+            </event>
+            <event when-iso="1885-02-19">
                <head>Viertes Hellmesberger-Quartett, 19.2.1885</head>
                <desc>
                   <listOrg>

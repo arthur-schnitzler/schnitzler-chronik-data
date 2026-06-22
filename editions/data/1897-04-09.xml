@@ -84,6 +84,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1897-04-09.html</idno>
             </event>
             <event when-iso="1897-04-09">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb511">
+                        <placeName>Alte Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb101">
+                        <placeName>Neue Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb35543">
+                        <placeName>Deutsches Theater München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-04-09</idno>
+            </event>
+            <event when-iso="1897-04-09">
                <head>Besuch der Alten Pinakothek, 9.4.1897</head>
                <desc>
                   <listPerson>

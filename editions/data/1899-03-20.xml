@@ -201,6 +201,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03287.html</idno>
             </event>
             <event when-iso="1899-03-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb61">
+                        <placeName>XI., Simmering</placeName>
+                        <listPlace>
+                           <place corresp="#pmb41376">
+                              <placeName>Wiener Zentralfriedhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-03-20</idno>
+            </event>
+            <event when-iso="1899-03-20">
                <head>Otto Brahm an Arthur Schnitzler, 20.3.1899?</head>
                <desc>
                   <listPerson>

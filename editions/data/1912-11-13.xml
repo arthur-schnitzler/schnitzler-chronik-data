@@ -205,6 +205,23 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02096.html</idno>
             </event>
             <event when-iso="1912-11-13">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb253880">
+                        <placeName>Restaurant Kannenberg</placeName>
+                     </place>
+                     <place corresp="#pmb208">
+                        <placeName>Kleines Theater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-11-13</idno>
+            </event>
+            <event when-iso="1912-11-13">
                <head>Arrangierprobe von Professor Bernhardi, 13.11.1912</head>
                <desc>
                   <listOrg>

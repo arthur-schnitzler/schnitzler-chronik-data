@@ -135,6 +135,33 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01490.html</idno>
             </event>
             <event when-iso="1905-01-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb170">
+                              <placeName>Neuwaldegg</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-01-01</idno>
+            </event>
+            <event when-iso="1905-01-01">
                <head>Schnitzler an Bahr, 1. 1. 1905</head>
                <desc>
                   <listPerson>

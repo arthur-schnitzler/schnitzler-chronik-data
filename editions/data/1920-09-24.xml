@@ -111,6 +111,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1920-09-24.html</idno>
             </event>
             <event when-iso="1920-09-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#53">
+                        <placeName>III., Landstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb240">
+                              <placeName>Wiener Konzerthaus</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-09-24</idno>
+            </event>
+            <event when-iso="1920-09-24">
                <head>Mahler-Zyklus. 1. Abend: 2. Sinfonie, 24.9.1920</head>
                <desc>
                   <listOrg>

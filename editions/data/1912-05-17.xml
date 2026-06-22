@@ -107,6 +107,34 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1912-05-17.html</idno>
             </event>
             <event when-iso="1912-05-17">
+               <head corresp="#pmb462">Venedig</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34050">
+                        <placeName>Hotel de l’Europe [Venedig]</placeName>
+                     </place>
+                     <place corresp="#pmb261">
+                        <placeName>Piazza San Marco</placeName>
+                        <listPlace>
+                           <place corresp="#pmb253166">
+                              <placeName>Caffè Lavena</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb260">
+                        <placeName>Hotel Bonvecchiati</placeName>
+                     </place>
+                     <place corresp="#pmb34052">
+                        <placeName>Canal Grande</placeName>
+                     </place>
+                     <place corresp="#pmb43220">
+                        <placeName>Gallerie dell’Accademia</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-05-17</idno>
+            </event>
+            <event when-iso="1912-05-17">
                <head>Besuch der Gallerie dell’Accademia, 17.5.1912</head>
                <desc>
                   <listPerson>

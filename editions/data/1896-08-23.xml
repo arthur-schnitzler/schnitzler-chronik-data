@@ -92,6 +92,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-08-23.html</idno>
             </event>
             <event when-iso="1896-08-23">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb399">
+                        <placeName>Hotel Continental [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb199502">
+                        <placeName>Pohlstraße 49</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-23</idno>
+            </event>
+            <event when-iso="1896-08-23">
                <head>Private Lesung von Freiwild, 23.8.1896</head>
                <desc>
                   <listBibl>

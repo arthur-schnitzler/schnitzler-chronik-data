@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1878-03-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb1273">
+                              <placeName>Akademisches Gymnasium</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1878-03-02</idno>
+            </event>
+            <event when-iso="1878-03-02">
                <head>Vortrag von Josip Čižman: Der letzte byzantinische Kaiser, 2.3.1878</head>
                <desc>
                   <listPerson>

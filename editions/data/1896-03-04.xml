@@ -114,6 +114,33 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03597.html</idno>
             </event>
             <event when-iso="1896-03-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb199413">
+                              <placeName>Schottenring 28</placeName>
+                           </place>
+                           <place corresp="#pmb168687">
+                              <placeName>[Salvatorgasse 11, 1. Stiege, Tür 11, Absteigequartier III Marie Reinhard und Arthur Schnitzler]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-03-04</idno>
+            </event>
+            <event when-iso="1896-03-04">
                <head>Arthur Schnitzler an Richard Specht, 4. 3. 1896</head>
                <desc>
                   <listPerson>

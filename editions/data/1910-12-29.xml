@@ -111,6 +111,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-12-29.html</idno>
             </event>
             <event when-iso="1910-12-29">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb176">
+                              <placeName>Schwarzenbergpark</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-12-29</idno>
+            </event>
+            <event when-iso="1910-12-29">
                <head>Schnitzler, Arthur: Der Komödiant [Dramatisches] (Manuskripttitel)</head>
                <desc>1 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00080108</idno>

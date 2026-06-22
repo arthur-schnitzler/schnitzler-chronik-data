@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1900-07-25">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-07-25</idno>
+            </event>
+            <event when-iso="1900-07-25">
                <head>Arthur Schnitzler an Olga Schnitzler, 25. 7. 1900</head>
                <desc>
                   <listPerson>

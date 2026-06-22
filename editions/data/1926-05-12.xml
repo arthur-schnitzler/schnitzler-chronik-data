@@ -113,6 +113,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-05-12.html</idno>
             </event>
             <event when-iso="1926-05-12">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb784">
+                        <placeName>Schauspielhaus Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb36914">
+                        <placeName>Tiergarten</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-05-12</idno>
+            </event>
+            <event when-iso="1926-05-12">
                <head>Aufführung von Herodes und Mariamne, 12.5.1926</head>
                <desc>
                   <listBibl>

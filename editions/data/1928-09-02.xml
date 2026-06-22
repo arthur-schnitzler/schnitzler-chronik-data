@@ -140,6 +140,62 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-09-02.html</idno>
             </event>
             <event when-iso="1928-09-02">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb806">
+                        <placeName>Hotel Rheinischer Hof München</placeName>
+                     </place>
+                     <place corresp="#pmb51263">
+                        <placeName>Mauerkircherstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb292354">
+                              <placeName>Mauerkircherstraße 24</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb91016">
+                        <placeName>Kaufingerstraße</placeName>
+                     </place>
+                     <place corresp="#pmb91369">
+                        <placeName>Nymphenburg</placeName>
+                     </place>
+                     <place corresp="#pmb92467">
+                        <placeName>Pschorrbräu</placeName>
+                     </place>
+                     <place corresp="#pmb233217">
+                        <placeName>Bayerisches Nationalmuseum</placeName>
+                     </place>
+                     <place corresp="#pmb233220">
+                        <placeName>Kriegerdenkmal im Hofgarten</placeName>
+                     </place>
+                     <place corresp="#pmb485">
+                        <placeName>Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                     <place corresp="#pmb233224">
+                        <placeName>Restaurant Bürgerbräu</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-09-02</idno>
+            </event>
+            <event when-iso="1928-09-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-09-02</idno>
+            </event>
+            <event when-iso="1928-09-02">
                <head>Besuch des Bayerischen Nationalmuseums, 2.9.1928</head>
                <desc>
                   <listPerson>

@@ -112,6 +112,39 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-02-13.html</idno>
             </event>
+            <event when-iso="1911-02-13">
+               <head corresp="#pmb833">Brünn</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb233389">
+                        <placeName>Grand Hotel [Brünn]</placeName>
+                     </place>
+                     <place corresp="#pmb251671">
+                        <placeName>Brünn Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-13</idno>
+            </event>
+            <event when-iso="1911-02-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb113">
+                              <placeName>Türkenschanzpark</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-13</idno>
+            </event>
          </listEvent>
       </body>
    </text>

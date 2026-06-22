@@ -168,6 +168,20 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02553.html</idno>
             </event>
             <event when-iso="1910-01-23">
+               <head corresp="#pmb866">Dresden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb53107">
+                        <placeName>Hotel Bellevue [Dresden]</placeName>
+                     </place>
+                     <place corresp="#pmb1034">
+                        <placeName>Semperoper</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-01-23</idno>
+            </event>
+            <event when-iso="1910-01-23">
                <head>Arthur Schnitzler an Samuel Fischer, 1910-01-23</head>
                <desc>
                   <listPerson>

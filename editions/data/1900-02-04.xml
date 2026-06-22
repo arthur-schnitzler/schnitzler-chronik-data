@@ -128,6 +128,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01010.html</idno>
             </event>
             <event when-iso="1900-02-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb201143">
+                              <placeName>Rooseveltplatz 4–5</placeName>
+                           </place>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-02-04</idno>
+            </event>
+            <event when-iso="1900-02-04">
                <head>Arthur Schnitzler an Alfred Kerr, 4.2.1900</head>
                <desc>
                   <listPerson>

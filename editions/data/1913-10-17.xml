@@ -90,6 +90,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-10-17.html</idno>
             </event>
             <event when-iso="1913-10-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb190643">
+                              <placeName>Grabenkino</placeName>
+                           </place>
+                           <place corresp="#pmb207301">
+                              <placeName>Tiefer Graben 17</placeName>
+                           </place>
+                           <place corresp="#pmb252036">
+                              <placeName>Hegelgasse 6</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-10-17</idno>
+            </event>
+            <event when-iso="1913-10-17">
                <head>Filmvorführung von Der König, 17.10.1913</head>
                <desc>
                   <listBibl>

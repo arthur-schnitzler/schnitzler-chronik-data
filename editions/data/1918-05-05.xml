@@ -110,6 +110,47 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-05-05.html</idno>
             </event>
             <event when-iso="1918-05-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235132">
+                              <placeName>Türkenschanzstraße 48</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-05-05</idno>
+            </event>
+            <event when-iso="1918-05-05">
+               <head corresp="#pmb75">Hinterbrühl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44510">
+                        <placeName>Hotel Radetzky</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-05-05</idno>
+            </event>
+            <event when-iso="1918-05-05">
+               <head corresp="#pmb968">Mödling</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb39860">
+                        <placeName>Burg Liechtenstein</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-05-05</idno>
+            </event>
+            <event when-iso="1918-05-05">
                <head>Deutsches Theater an Arthur Schnitzler, 5.5.1918</head>
                <desc>
                   <listPerson>

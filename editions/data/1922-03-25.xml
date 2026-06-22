@@ -125,6 +125,39 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-03-25.html</idno>
             </event>
             <event when-iso="1922-03-25">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92317">
+                              <placeName>Kahlenbergerstraße</placeName>
+                           </place>
+                           <place corresp="#pmb225">
+                              <placeName>Grinzing</placeName>
+                           </place>
+                           <place corresp="#pmb92531">
+                              <placeName>Silbergasse</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb245475">
+                              <placeName>Sternwartestraße 56</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-03-25</idno>
+            </event>
+            <event when-iso="1922-03-25">
                <head>Traum vom 25. März 1922</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

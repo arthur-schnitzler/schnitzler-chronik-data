@@ -168,6 +168,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02914.html</idno>
             </event>
             <event when-iso="1900-05-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#61">
+                        <placeName>XI., Simmering</placeName>
+                        <listPlace>
+                           <place corresp="#pmb192349">
+                              <placeName>Israelitischer Friedhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-05-02</idno>
+            </event>
+            <event when-iso="1900-05-02">
                <head>Otto Brahm an Arthur Schnitzler, 2.5.1900</head>
                <desc>
                   <listPerson>

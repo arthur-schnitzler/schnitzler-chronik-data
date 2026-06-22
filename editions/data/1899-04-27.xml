@@ -93,6 +93,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-04-27.html</idno>
             </event>
             <event when-iso="1899-04-27">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb545">
+                        <placeName>Hotel Savoy [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb293233">
+                        <placeName>Grand Hotel Alexanderplatz</placeName>
+                        <listPlace>
+                           <place corresp="#pmb293230">
+                              <placeName>Budapester Possen- und Operettentheater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-27</idno>
+            </event>
+            <event when-iso="1899-04-27">
                <head>Besuch des Budapester Possen- und Operettentheaters, 27.4.1899</head>
                <desc>
                   <listPerson>

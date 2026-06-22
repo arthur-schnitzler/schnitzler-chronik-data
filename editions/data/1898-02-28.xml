@@ -141,6 +141,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02839.html</idno>
             </event>
             <event when-iso="1898-02-28">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb200410">
+                              <placeName>Heinestraße 36</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-02-28</idno>
+            </event>
+            <event when-iso="1898-02-28">
                <head>Verriss von Schnitzler und Freiwild in der Allgemeinen Sport-Zeitung</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://anno.onb.ac.at/cgi-content/anno-plus?aid=asz&amp;datum=18980004&amp;seite=162</idno>

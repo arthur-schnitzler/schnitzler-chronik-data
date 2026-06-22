@@ -116,6 +116,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-07-29.html</idno>
             </event>
             <event when-iso="1931-07-29">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236861">
+                              <placeName>Krankenhaus der Wiener Kaufmannschaft</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-07-29</idno>
+            </event>
+            <event when-iso="1931-07-29">
                <head>Filmvorführung von Ich geh’ aus und Du bleibst da, 29.7.1931</head>
                <desc>
                   <listBibl>

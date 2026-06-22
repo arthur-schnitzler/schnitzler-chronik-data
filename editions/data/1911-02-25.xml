@@ -114,6 +114,26 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-02-25.html</idno>
             </event>
             <event when-iso="1911-02-25">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb18">
+                        <placeName>Lessing-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb237370">
+                        <placeName>Kronprinzenufer 7/In den Zelten 14</placeName>
+                     </place>
+                     <place corresp="#pmb88">
+                        <placeName>Palasthotel Berlin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-25</idno>
+            </event>
+            <event when-iso="1911-02-25">
                <head>Premiere von Die Kinder. Komödie, 25.2.1911</head>
                <desc>
                   <listOrg>

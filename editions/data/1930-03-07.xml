@@ -96,6 +96,49 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-03-07.html</idno>
             </event>
             <event when-iso="1930-03-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232768">
+                              <placeName>Beethovengasse 6</placeName>
+                           </place>
+                           <place corresp="#pmb237967">
+                              <placeName>Alser Kaserne</placeName>
+                           </place>
+                           <place corresp="#pmb546">
+                              <placeName>Altes Allgemeines Krankenhaus</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb126">
+                              <placeName>Hotel Imperial</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb43">
+                                    <placeName>Café Imperial</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-03-07</idno>
+            </event>
+            <event when-iso="1930-03-07">
                <head>Filmvorführung von Der unsterbliche Lump, 7.3.1930</head>
                <desc>
                   <listBibl>

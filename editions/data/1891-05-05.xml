@@ -173,6 +173,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00011.html</idno>
             </event>
             <event when-iso="1891-05-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb103">
+                              <placeName>Volksgarten</placeName>
+                           </place>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-05-05</idno>
+            </event>
+            <event when-iso="1891-05-05">
                <head>Zusammenkunft von Jung Wien, 5.5.1891</head>
                <desc>
                   <listOrg>

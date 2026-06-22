@@ -125,6 +125,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-08-04.html</idno>
             </event>
             <event when-iso="1923-08-04">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb230">
+                        <placeName>Österreichischer Hof</placeName>
+                     </place>
+                     <place corresp="#pmb180">
+                        <placeName>Schloss Mirabell</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92405">
+                              <placeName>Mirabellgarten</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb253605">
+                        <placeName>Salzach [Stadtgebiet Salzburg]</placeName>
+                     </place>
+                     <place corresp="#pmb92422">
+                        <placeName>Nonnberg</placeName>
+                     </place>
+                     <place corresp="#pmb253003">
+                        <placeName>Paschinger Schlössl</placeName>
+                     </place>
+                     <place corresp="#pmb91270">
+                        <placeName>Mönchsberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-08-04</idno>
+            </event>
+            <event when-iso="1923-08-04">
                <head>Stefan Zweig an Bahr, 4. 8. 1923</head>
                <desc>
                   <listPerson>

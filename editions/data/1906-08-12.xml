@@ -92,6 +92,25 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-08-12.html</idno>
             </event>
+            <event when-iso="1906-08-12">
+               <head corresp="#pmb168">Berlin</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-08-12</idno>
+            </event>
+            <event when-iso="1906-08-12">
+               <head corresp="#pmb197">Weimar</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34102">
+                        <placeName>Hotel Erbprinz</placeName>
+                     </place>
+                     <place corresp="#pmb238156">
+                        <placeName>Park an der Ilm</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-08-12</idno>
+            </event>
          </listEvent>
       </body>
    </text>

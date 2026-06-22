@@ -277,6 +277,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00493.html</idno>
             </event>
             <event when-iso="1895-09-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb422">
+                              <placeName>Venedig in Wien</placeName>
+                           </place>
+                           <place corresp="#pmb426">
+                              <placeName>Nordbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb561">
+                              <placeName>Redaktion der »Zeit«</placeName>
+                           </place>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-09-24</idno>
+            </event>
+            <event when-iso="1895-09-24">
                <head>Beer-Hofmann an Schnitzler, 24. 9. 1895</head>
                <desc>
                   <listPerson>

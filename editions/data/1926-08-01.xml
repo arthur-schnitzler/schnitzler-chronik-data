@@ -116,6 +116,42 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-08-01.html</idno>
             </event>
             <event when-iso="1926-08-01">
+               <head corresp="#pmb90188">Adelboden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb251023">
+                        <placeName>Nevada Palace</placeName>
+                     </place>
+                     <place corresp="#pmb251030">
+                        <placeName>Engstlingenfälle Adelboden</placeName>
+                     </place>
+                     <place corresp="#pmb90424">
+                        <placeName>Bütschegga</placeName>
+                     </place>
+                     <place corresp="#pmb251043">
+                        <placeName>Hotel National [Adelboden]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-08-01</idno>
+            </event>
+            <event when-iso="1926-08-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-08-01</idno>
+            </event>
+            <event when-iso="1926-08-01">
                <head>Filmvorführung von Empty Hearts, 1.8.1926</head>
                <desc>
                   <listBibl>

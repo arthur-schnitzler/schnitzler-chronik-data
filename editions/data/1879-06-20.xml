@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1879-06-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb1273">
+                              <placeName>Akademisches Gymnasium</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-06-20</idno>
+            </event>
+            <event when-iso="1879-06-20">
                <head>Akademisches Gymnasium, 20.6.1879</head>
                <desc>
                   <listPerson>

@@ -101,6 +101,34 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-09-20.html</idno>
             </event>
             <event when-iso="1917-09-20">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb681">
+                        <placeName>Hotel Continental [München]</placeName>
+                     </place>
+                     <place corresp="#pmb247583">
+                        <placeName>Hauptbahnhof München</placeName>
+                     </place>
+                     <place corresp="#pmb265982">
+                        <placeName>Alte Börse München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-09-20</idno>
+            </event>
+            <event when-iso="1917-09-20">
+               <head corresp="#pmb332">Linz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb264758">
+                        <placeName>Linz Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-09-20</idno>
+            </event>
+            <event when-iso="1917-09-20">
                <head>Mappe A27</head>
                <desc>Datum auf der Handschrift von Die Komödiantin</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428748_0075.html</idno>

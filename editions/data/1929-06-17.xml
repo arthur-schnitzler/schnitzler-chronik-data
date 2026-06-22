@@ -92,6 +92,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-06-17.html</idno>
             </event>
             <event when-iso="1929-06-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb194913">
+                              <placeName>Volksrestaurant Krapfenwaldl</placeName>
+                           </place>
+                           <place corresp="#pmb194903">
+                              <placeName>Am Kobenzl</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-06-17</idno>
+            </event>
+            <event when-iso="1929-06-17">
                <head>Tagebuch von Clara Katharina Pollaczek, 15.–21. Juni 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp704.html</idno>

@@ -128,6 +128,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-11-02.html</idno>
             </event>
             <event when-iso="1911-11-02">
+               <head corresp="#pmb866">Dresden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb53107">
+                        <placeName>Hotel Bellevue [Dresden]</placeName>
+                     </place>
+                     <place corresp="#pmb248646">
+                        <placeName>Dresden Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-02</idno>
+            </event>
+            <event when-iso="1911-11-02">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb18">
+                        <placeName>Lessing-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb146875">
+                        <placeName>Café Josty</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-02</idno>
+            </event>
+            <event when-iso="1911-11-02">
                <head>Aufführung von Das weite Land, 2.11.1911</head>
                <desc>
                   <listOrg>

@@ -164,6 +164,49 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04011.html</idno>
             </event>
             <event when-iso="1913-06-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#65">
+                        <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
+                        <listPlace>
+                           <place corresp="#pmb184918">
+                              <placeName>Westbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232768">
+                              <placeName>Beethovengasse 6</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-06-11</idno>
+            </event>
+            <event when-iso="1913-06-11">
+               <head corresp="#pmb41003">Bischofshofen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb254691">
+                        <placeName>Bahnhof Bischofshofen</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-06-11</idno>
+            </event>
+            <event when-iso="1913-06-11">
                <head>Modeswell, Hiram K. an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00040536</idno>

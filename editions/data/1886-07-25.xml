@@ -68,6 +68,33 @@
       <body>
          <listEvent>
             <event when-iso="1886-07-25">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-07-25</idno>
+            </event>
+            <event when-iso="1886-07-25">
+               <head corresp="#pmb992">Bad Vöslau</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb186007">
+                        <placeName>M. Zwierschütz’ Gasthof zum Jägerhorn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-07-25</idno>
+            </event>
+            <event when-iso="1886-07-25">
                <head>Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 25.7.1886</head>
                <desc>
                   <listOrg>

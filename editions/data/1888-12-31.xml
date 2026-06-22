@@ -79,6 +79,22 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-12-31.html</idno>
             </event>
             <event when-iso="1888-12-31">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168768">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-12-31</idno>
+            </event>
+            <event when-iso="1888-12-31">
                <head>Mappe A62</head>
                <desc>Datum des Abdrucks in Internationale Klinische Rundschau</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428150_0045.html</idno>

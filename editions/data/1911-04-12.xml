@@ -102,6 +102,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-04-12.html</idno>
             </event>
             <event when-iso="1911-04-12">
+               <head corresp="#pmb667">Garmisch-Partenkirchen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb2318">
+                        <placeName>Partenkirchen</placeName>
+                        <listPlace>
+                           <place corresp="#pmb250697">
+                              <placeName>Dr. Wigger’s Kurheim Sanatorium für Innen-, Nervenkranke und Erholungsbedürftige</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb251910">
+                        <placeName>Berggasthof Almhütte [Garmisch-Partenkirchen]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-04-12</idno>
+            </event>
+            <event when-iso="1911-04-12">
                <head>Spira, Robert an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00043465</idno>

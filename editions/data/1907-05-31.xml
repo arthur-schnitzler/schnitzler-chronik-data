@@ -106,6 +106,31 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1907-05-31.html</idno>
             </event>
+            <event when-iso="1907-05-31">
+               <head corresp="#pmb75">Hinterbrühl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44510">
+                        <placeName>Hotel Radetzky</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-05-31</idno>
+            </event>
+            <event when-iso="1907-05-31">
+               <head corresp="#pmb968">Mödling</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb246556">
+                        <placeName>Burgruine Mödling</placeName>
+                     </place>
+                     <place corresp="#pmb957">
+                        <placeName>Vorderbrühl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-05-31</idno>
+            </event>
          </listEvent>
       </body>
    </text>

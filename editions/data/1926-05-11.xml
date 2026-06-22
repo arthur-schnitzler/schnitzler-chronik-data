@@ -117,6 +117,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-05-11.html</idno>
             </event>
             <event when-iso="1926-05-11">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92191">
+                        <placeName>Konstanzer Straße</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb249499">
+                        <placeName>Olivaer Platz 1</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-05-11</idno>
+            </event>
+            <event when-iso="1926-05-11">
+               <head corresp="#pmb506">Hamburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb199707">
+                        <placeName>Hamburger Hafen</placeName>
+                     </place>
+                     <place corresp="#pmb250435">
+                        <placeName>Hamburger Kammerspiele</placeName>
+                     </place>
+                     <place corresp="#pmb92314">
+                        <placeName>Jungfernstieg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-05-11</idno>
+            </event>
+            <event when-iso="1926-05-11">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 10.–11. Mai 1926</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp332.html</idno>

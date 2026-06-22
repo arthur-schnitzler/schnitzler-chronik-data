@@ -100,6 +100,33 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-08-12.html</idno>
             </event>
+            <event when-iso="1896-08-12">
+               <head corresp="#pmb958">Skodsborg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb1091">
+                        <placeName>Badehotellet</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-12</idno>
+            </event>
+            <event when-iso="1896-08-12">
+               <head corresp="#pmb36300">Kopenhagen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92554">
+                        <placeName>Store Kongensgade</placeName>
+                        <listPlace>
+                           <place corresp="#pmb199804">
+                              <placeName>Store Kongensgade 85</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-12</idno>
+            </event>
          </listEvent>
       </body>
    </text>

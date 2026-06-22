@@ -142,6 +142,28 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02177.html</idno>
             </event>
             <event when-iso="1914-05-05">
+               <head corresp="#pmb263">Florenz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256209">
+                        <placeName>Hotel d’Italie [Florenz]</placeName>
+                     </place>
+                     <place corresp="#pmb167770">
+                        <placeName>Settignano</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167769">
+                              <placeName>Villa La Capponcina</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb256227">
+                        <placeName>Gran Ristorante Piccioli Melini</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-05-05</idno>
+            </event>
+            <event when-iso="1914-05-05">
                <head>Jacobus, Elisabeth an Schnitzler, Arthur [Briefe]</head>
                <desc>1 Kte</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00068888</idno>

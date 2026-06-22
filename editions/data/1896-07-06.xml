@@ -107,6 +107,36 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-07-06.html</idno>
             </event>
+            <event when-iso="1896-07-06">
+               <head corresp="#pmb506">Hamburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92314">
+                        <placeName>Jungfernstieg</placeName>
+                        <listPlace>
+                           <place corresp="#pmb43368">
+                              <placeName>Hotel zum Kronprinzen [Hamburg, –1911]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb184984">
+                        <placeName>Restaurant Pfordte [I]</placeName>
+                     </place>
+                     <place corresp="#pmb52304">
+                        <placeName>Alster</placeName>
+                     </place>
+                     <place corresp="#pmb1259">
+                        <placeName>Altona</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-06</idno>
+            </event>
+            <event when-iso="1896-07-06">
+               <head corresp="#pmb91806">St. Pauli</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-06</idno>
+            </event>
          </listEvent>
       </body>
    </text>

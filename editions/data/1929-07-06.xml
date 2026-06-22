@@ -178,6 +178,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03690.html</idno>
             </event>
             <event when-iso="1929-07-06">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236372">
+                              <placeName>Gregor-Mendel-Straße 34</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-07-06</idno>
+            </event>
+            <event when-iso="1929-07-06">
                <head>Tagebuch von Clara Katharina Pollaczek, 4. Juli 1929 – 11. Juli 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp707.html</idno>

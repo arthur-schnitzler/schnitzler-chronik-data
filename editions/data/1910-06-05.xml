@@ -107,6 +107,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-06-05.html</idno>
             </event>
             <event when-iso="1910-06-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb288">
+                              <placeName>Sievering</placeName>
+                           </place>
+                           <place corresp="#pmb248475">
+                              <placeName>Agneswiese</placeName>
+                           </place>
+                           <place corresp="#pmb535">
+                              <placeName>Hermannskogel</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb248494">
+                                    <placeName>Habsburgwarte</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-06-05</idno>
+            </event>
+            <event when-iso="1910-06-05">
                <head>Mappe A118</head>
                <desc>Datumsangabe auf Blatt von Professor Bernhardi: »Vierter Akt.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428586_0414.html</idno>

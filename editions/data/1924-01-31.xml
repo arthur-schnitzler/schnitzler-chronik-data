@@ -135,6 +135,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03953.html</idno>
             </event>
             <event when-iso="1924-01-31">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235132">
+                              <placeName>Türkenschanzstraße 48</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-01-31</idno>
+            </event>
+            <event when-iso="1924-01-31">
                <head>Samuel Fischer an Arthur Schnitzler, 1924-01-31</head>
                <desc>
                   <listPerson>

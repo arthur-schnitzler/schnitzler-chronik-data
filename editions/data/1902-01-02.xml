@@ -158,6 +158,23 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03321.html</idno>
             </event>
             <event when-iso="1902-01-02">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb231799">
+                        <placeName>Eremitage</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-02</idno>
+            </event>
+            <event when-iso="1902-01-02">
                <head>Probe von Lebendige Stunden, 2.1.1902</head>
                <desc>
                   <listOrg>

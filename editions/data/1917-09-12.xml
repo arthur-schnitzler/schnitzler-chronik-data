@@ -116,6 +116,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-09-12.html</idno>
             </event>
             <event when-iso="1917-09-12">
+               <head corresp="#pmb667">Garmisch-Partenkirchen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb2318">
+                        <placeName>Partenkirchen</placeName>
+                        <listPlace>
+                           <place corresp="#pmb808">
+                              <placeName>Haus Tannenberg</placeName>
+                           </place>
+                           <place corresp="#pmb265943">
+                              <placeName>Villa Silberacker</placeName>
+                           </place>
+                           <place corresp="#pmb34392">
+                              <placeName>Villa Zufriedenheit</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-09-12</idno>
+            </event>
+            <event when-iso="1917-09-12">
                <head>Traum vom 12. September 1917</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

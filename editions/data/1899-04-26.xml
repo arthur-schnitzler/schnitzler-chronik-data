@@ -187,6 +187,23 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04301.html</idno>
             </event>
             <event when-iso="1899-04-26">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb545">
+                        <placeName>Hotel Savoy [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb185090">
+                        <placeName>Central-Theater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-26</idno>
+            </event>
+            <event when-iso="1899-04-26">
                <head>Aufführung von Die Puppe, 26.4.1899</head>
                <desc>
                   <listOrg>

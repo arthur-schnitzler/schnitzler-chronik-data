@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1879-01-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb19">
+                              <placeName>Ronacher</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1879-01-19</idno>
+            </event>
+            <event when-iso="1879-01-19">
                <head>Aufführung von Der Verschwender, 19.1.1879</head>
                <desc>
                   <listBibl>

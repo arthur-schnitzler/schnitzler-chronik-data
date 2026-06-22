@@ -206,6 +206,20 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01195.html</idno>
             </event>
             <event when-iso="1902-01-03">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-03</idno>
+            </event>
+            <event when-iso="1902-01-03">
                <head>Generalprobe von Lebendige Stunden, 3.1.1902</head>
                <desc>
                   <listOrg>

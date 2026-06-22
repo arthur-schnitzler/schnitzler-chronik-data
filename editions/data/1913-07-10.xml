@@ -104,6 +104,44 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-07-10.html</idno>
             </event>
             <event when-iso="1913-07-10">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb233517">
+                              <placeName>Kaiserpanorama [Wien, Schubertring 4]</placeName>
+                           </place>
+                           <place corresp="#pmb232655">
+                              <placeName>Goldschmiedgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb227">
+                              <placeName>Stadlmanns Restauration »Zum Schutzengel«</placeName>
+                           </place>
+                           <place corresp="#pmb238485">
+                              <placeName>Nusswaldgasse 22</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-07-10</idno>
+            </event>
+            <event when-iso="1913-07-10">
                <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.7.1913</head>
                <desc>
                   <listPerson>

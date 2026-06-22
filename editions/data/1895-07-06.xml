@@ -181,6 +181,31 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02739.html</idno>
             </event>
+            <event when-iso="1895-07-06">
+               <head corresp="#pmb652">Prag</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb195461">
+                        <placeName>Hotel Continental [Prag]</placeName>
+                     </place>
+                     <place corresp="#pmb252051">
+                        <placeName>Praha hlavní nádraží</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-07-06</idno>
+            </event>
+            <event when-iso="1895-07-06">
+               <head corresp="#pmb842">Karlsbad</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb292557">
+                        <placeName>Bahnhof Karlovy Vary</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-07-06</idno>
+            </event>
          </listEvent>
       </body>
    </text>

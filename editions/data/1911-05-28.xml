@@ -107,6 +107,31 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-05-28.html</idno>
             </event>
             <event when-iso="1911-05-28">
+               <head corresp="#pmb652">Prag</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb90">
+                        <placeName>Palasthotel Prag</placeName>
+                     </place>
+                     <place corresp="#pmb252051">
+                        <placeName>Praha hlavní nádraží</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-05-28</idno>
+            </event>
+            <event when-iso="1911-05-28">
+               <head corresp="#pmb842">Karlsbad</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb244363">
+                        <placeName>Grandhotel Pupp</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-05-28</idno>
+            </event>
+            <event when-iso="1911-05-28">
                <head>Otto Brahm an Arthur Schnitzler, 28.5.1911</head>
                <desc>
                   <listPerson>

@@ -148,6 +148,33 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01457.html</idno>
             </event>
             <event when-iso="1904-10-18">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                           <place corresp="#pmb231667">
+                              <placeName>Liechtensteinstraße 53, »Palais Kranz«</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-10-18</idno>
+            </event>
+            <event when-iso="1904-10-18">
                <head>Private Lesung von Der tapfere Cassian, Das Haus Delorme, 18.10.1904</head>
                <desc>
                   <listBibl>

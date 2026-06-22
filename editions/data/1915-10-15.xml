@@ -106,6 +106,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-10-15.html</idno>
             </event>
             <event when-iso="1915-10-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb199644">
+                                    <placeName>Geymüllerschlössel</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb263706">
+                              <placeName>Polizeikommissariat XVIII. Währing</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb176">
+                              <placeName>Schwarzenbergpark</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-10-15</idno>
+            </event>
+            <event when-iso="1915-10-15">
                <head>Arthur Schnitzler an Raoul Auernheimer, 15.10.1915</head>
                <desc>
                   <listPerson>

@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1884-02-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb295455">
+                              <placeName>Schellinggasse 1</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1884-02-04</idno>
+            </event>
+            <event when-iso="1884-02-04">
                <head>Hausball bei Wilhelm Herz, 4.2.1884</head>
                <desc>
                   <listPerson>

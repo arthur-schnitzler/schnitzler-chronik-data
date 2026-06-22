@@ -87,6 +87,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-02-22.html</idno>
             </event>
             <event when-iso="1896-02-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168687">
+                              <placeName>[Salvatorgasse 11, 1. Stiege, Tür 11, Absteigequartier III Marie Reinhard und Arthur Schnitzler]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-02-22</idno>
+            </event>
+            <event when-iso="1896-02-22">
                <head>Otto Brahm an Arthur Schnitzler, 22.2.1896</head>
                <desc>
                   <listPerson>

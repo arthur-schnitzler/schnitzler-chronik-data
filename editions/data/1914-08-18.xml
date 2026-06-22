@@ -89,6 +89,31 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-08-18.html</idno>
             </event>
+            <event when-iso="1914-08-18">
+               <head corresp="#pmb867">Innsbruck</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb252237">
+                        <placeName>Hotel zur Sonne [Innsbruck]</placeName>
+                     </place>
+                     <place corresp="#pmb34110">
+                        <placeName>Innsbruck Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-18</idno>
+            </event>
+            <event when-iso="1914-08-18">
+               <head corresp="#pmb24725">Wörgl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb257001">
+                        <placeName>Wörgl Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-18</idno>
+            </event>
          </listEvent>
       </body>
    </text>

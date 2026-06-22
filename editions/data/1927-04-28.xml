@@ -93,6 +93,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-04-28.html</idno>
             </event>
             <event when-iso="1927-04-28">
+               <head corresp="#pmb462">Venedig</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb260">
+                        <placeName>Hotel Bonvecchiati</placeName>
+                     </place>
+                     <place corresp="#pmb259">
+                        <placeName>Lido</placeName>
+                        <listPlace>
+                           <place corresp="#pmb46831">
+                              <placeName>Grand Hotel Excelsior [Lido]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb247630">
+                        <placeName>Campanile di San Marco</placeName>
+                     </place>
+                     <place corresp="#pmb247602">
+                        <placeName>Hotel Giorgione</placeName>
+                     </place>
+                     <place corresp="#pmb232856">
+                        <placeName>Caffè Florian</placeName>
+                     </place>
+                     <place corresp="#pmb261">
+                        <placeName>Piazza San Marco</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-04-28</idno>
+            </event>
+            <event when-iso="1927-04-28">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 28. April 1927</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp438.html</idno>

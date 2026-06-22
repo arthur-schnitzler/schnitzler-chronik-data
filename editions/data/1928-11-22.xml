@@ -107,6 +107,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-11-22.html</idno>
             </event>
             <event when-iso="1928-11-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb225">
+                              <placeName>Grinzing</placeName>
+                           </place>
+                           <place corresp="#pmb235184">
+                              <placeName>Himmelstraße 55</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236372">
+                              <placeName>Gregor-Mendel-Straße 34</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-11-22</idno>
+            </event>
+            <event when-iso="1928-11-22">
                <head>Mappe A29</head>
                <desc>Datumsangabe auf Blatt von Roman-Fagment (Wurstl): »dabei ist sie noch nicht achtzehn…«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428131_0045.html</idno>

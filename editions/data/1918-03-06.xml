@@ -93,6 +93,22 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-03-06.html</idno>
             </event>
             <event when-iso="1918-03-06">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-03-06</idno>
+            </event>
+            <event when-iso="1918-03-06">
                <head>Samuel Fischer an Arthur Schnitzler, 1918-03-06</head>
                <desc>
                   <listPerson>

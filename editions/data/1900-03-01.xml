@@ -86,6 +86,30 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-03-01.html</idno>
             </event>
+            <event when-iso="1900-03-01">
+               <head corresp="#pmb49072">Prein an der Rax</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-03-01</idno>
+            </event>
+            <event when-iso="1900-03-01">
+               <head corresp="#pmb483">Reichenau an der Rax</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb470">
+                        <placeName>Edlach</placeName>
+                        <listPlace>
+                           <place corresp="#pmb714">
+                              <placeName>Hotel Edlacherhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb796">
+                        <placeName>Thalhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-03-01</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -218,6 +218,43 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02127.html</idno>
             </event>
             <event when-iso="1913-04-20">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#64">
+                        <placeName>XIV., Penzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb91840">
+                              <placeName>Erholungsgebiet Steinhof</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb153">
+                                    <placeName>Otto-Wagner-Spital</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232800">
+                              <placeName>Laudongasse 12</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-04-20</idno>
+            </event>
+            <event when-iso="1913-04-20">
                <head>[Julius Stern]: Aus der Theaterwelt. [Hermann Bahr als Fünfziger],
                             20. 4. 1913</head>
                <desc>

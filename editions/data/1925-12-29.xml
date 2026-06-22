@@ -116,6 +116,35 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-12-29.html</idno>
             </event>
             <event when-iso="1925-12-29">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#57">
+                        <placeName>VII., Neubau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb53947">
+                              <placeName>Neubaugasse</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb255424">
+                                    <placeName>Engel &amp; Walter</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-12-29</idno>
+            </event>
+            <event when-iso="1925-12-29">
                <head>Filmvorführung von Die rote Maus, 29.12.1925</head>
                <desc>
                   <listBibl>

@@ -98,6 +98,27 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-05-07.html</idno>
             </event>
             <event when-iso="1923-05-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-07</idno>
+            </event>
+            <event when-iso="1923-05-07">
+               <head corresp="#pmb5907">Passau</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-07</idno>
+            </event>
+            <event when-iso="1923-05-07">
                <head>Samuel Fischer, Leo Greiner an Arthur Schnitzler, 1923-05-07</head>
                <desc>
                   <listPerson>

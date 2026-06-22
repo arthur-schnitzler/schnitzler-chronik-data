@@ -103,6 +103,28 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1920-06-23.html</idno>
             </event>
+            <event when-iso="1920-06-23">
+               <head corresp="#pmb483">Reichenau an der Rax</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44982">
+                        <placeName>Kurhaus Rudolfsbad</placeName>
+                     </place>
+                     <place corresp="#pmb470">
+                        <placeName>Edlach</placeName>
+                        <listPlace>
+                           <place corresp="#pmb247657">
+                              <placeName>Knappenhof</placeName>
+                           </place>
+                           <place corresp="#pmb92336">
+                              <placeName>Kletschka-Höhe</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-06-23</idno>
+            </event>
          </listEvent>
       </body>
    </text>

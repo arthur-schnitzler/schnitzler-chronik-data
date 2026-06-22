@@ -141,6 +141,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-03-27.html</idno>
             </event>
             <event when-iso="1928-03-27">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb185989">
+                              <placeName>Opernrestaurant</placeName>
+                           </place>
+                           <place corresp="#pmb246175">
+                              <placeName>Parkring 20</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb89">
+                              <placeName>Sanatorium Loew</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-03-27</idno>
+            </event>
+            <event when-iso="1928-03-27">
                <head>Filmvorführung von Das Erwachen des Weibes, 27.3.1928</head>
                <desc>
                   <listBibl>

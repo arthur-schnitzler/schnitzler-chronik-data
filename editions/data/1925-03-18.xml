@@ -125,6 +125,39 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-03-18.html</idno>
             </event>
             <event when-iso="1925-03-18">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-03-18</idno>
+            </event>
+            <event when-iso="1925-03-18">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb334">
+                        <placeName>Schiller-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb251598">
+                        <placeName>Hotel am Zoo</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-03-18</idno>
+            </event>
+            <event when-iso="1925-03-18">
                <head>Aufführung von Napoleon oder die hundert Tage, 18.3.1925</head>
                <desc>
                   <listBibl>

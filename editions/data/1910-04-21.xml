@@ -141,6 +141,28 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01925.html</idno>
             </event>
             <event when-iso="1910-04-21">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb249986">
+                              <placeName>Riglergasse 4</placeName>
+                           </place>
+                           <place corresp="#pmb235812">
+                              <placeName>Cottagegasse 37</placeName>
+                           </place>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-04-21</idno>
+            </event>
+            <event when-iso="1910-04-21">
                <head>Samuel Fischer an Arthur Schnitzler, 1910-04-21</head>
                <desc>
                   <listPerson>

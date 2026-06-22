@@ -84,6 +84,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-04-20.html</idno>
             </event>
             <event when-iso="1888-04-20">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92217">
+                        <placeName>Dorotheenstraße 60</placeName>
+                     </place>
+                     <place corresp="#pmb185055">
+                        <placeName>Klinikum im Friedrichshain</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-04-20</idno>
+            </event>
+            <event when-iso="1888-04-20">
+               <head corresp="#pmb90659">Friedrichshain</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-04-20</idno>
+            </event>
+            <event when-iso="1888-04-20">
                <head>Soirée Rodenberg, 20.4.1888</head>
                <desc>
                   <listPerson>

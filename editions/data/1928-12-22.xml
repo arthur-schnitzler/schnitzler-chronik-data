@@ -129,6 +129,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03974.html</idno>
             </event>
             <event when-iso="1928-12-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb236372">
+                              <placeName>Gregor-Mendel-Straße 34</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-12-22</idno>
+            </event>
+            <event when-iso="1928-12-22">
                <head>Tagebuch von Clara Katharina Pollaczek, 17.–23. Dezember 1928</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp620.html</idno>

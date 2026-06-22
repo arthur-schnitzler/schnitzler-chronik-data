@@ -104,6 +104,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-04-26.html</idno>
             </event>
             <event when-iso="1918-04-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb113">
+                              <placeName>Türkenschanzpark</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1918-04-26</idno>
+            </event>
+            <event when-iso="1918-04-26">
                <head>nicht überliefertes Telegramm von Stefan Zweig an Olga (oder Arthur?) Schnitzler, 26.4.1918</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-04-26.html</idno>

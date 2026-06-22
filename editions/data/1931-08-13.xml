@@ -98,6 +98,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-08-13.html</idno>
             </event>
             <event when-iso="1931-08-13">
+               <head corresp="#pmb874">Gmunden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245236">
+                        <placeName>Hotel Austria [Gmunden]</placeName>
+                     </place>
+                     <place corresp="#pmb92431">
+                        <placeName>Ort</placeName>
+                        <listPlace>
+                           <place corresp="#pmb245497">
+                              <placeName>Schloss Ort</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb245487">
+                        <placeName>Café-Konditorei Grellinger</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1931-08-13</idno>
+            </event>
+            <event when-iso="1931-08-13">
                <head>Tagebuch von Clara Katharina Pollaczek, 12.–16. August 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp970.html</idno>

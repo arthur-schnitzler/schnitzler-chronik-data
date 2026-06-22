@@ -68,6 +68,17 @@
       <body>
          <listEvent>
             <event when-iso="1883-06-30">
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb1179">
+                        <placeName>Lehártheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-06-30</idno>
+            </event>
+            <event when-iso="1883-06-30">
                <head>Aufführung von Eine mit Talent, 30.6.1883</head>
                <desc>
                   <listOrg>

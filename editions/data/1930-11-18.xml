@@ -128,6 +128,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-11-18.html</idno>
             </event>
             <event when-iso="1930-11-18">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb233325">
+                        <placeName>Herbert-von-Karajan-Straße 15</placeName>
+                     </place>
+                     <place corresp="#pmb235295">
+                        <placeName>S. Fischer Verlag</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-11-18</idno>
+            </event>
+            <event when-iso="1930-11-18">
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 18. November 1930</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp857.html</idno>

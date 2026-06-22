@@ -100,6 +100,23 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-07-31.html</idno>
             </event>
+            <event when-iso="1911-07-31">
+               <head corresp="#pmb867">Innsbruck</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb252237">
+                        <placeName>Hotel zur Sonne [Innsbruck]</placeName>
+                     </place>
+                     <place corresp="#pmb41093">
+                        <placeName>Hofkirche</placeName>
+                     </place>
+                     <place corresp="#pmb34110">
+                        <placeName>Innsbruck Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-07-31</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -86,6 +86,38 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1920-07-24.html</idno>
             </event>
+            <event when-iso="1920-07-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb263537">
+                              <placeName>Woltergasse 2a</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92213">
+                              <placeName>Städtisches Bad Kuchelau</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-07-24</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -134,6 +134,42 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-03-22.html</idno>
             </event>
             <event when-iso="1929-03-22">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb36914">
+                        <placeName>Tiergarten</placeName>
+                     </place>
+                     <place corresp="#pmb90508">
+                        <placeName>Dahlem</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92232">
+                              <placeName>Faradayweg</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb235968">
+                                    <placeName>Faradayweg 16</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb235968">
+                        <placeName>Faradayweg 16</placeName>
+                     </place>
+                     <place corresp="#pmb235978">
+                        <placeName>Zum Austernmeyer</placeName>
+                     </place>
+                     <place corresp="#pmb235972">
+                        <placeName>Die Komödie [Berlin]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-03-22</idno>
+            </event>
+            <event when-iso="1929-03-22">
                <head>Aufführung von Wann kommst du wieder?, 22.3.1929</head>
                <desc>
                   <listBibl>

@@ -106,6 +106,22 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01198.html</idno>
             </event>
             <event when-iso="1902-01-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-13</idno>
+            </event>
+            <event when-iso="1902-01-13">
                <head>Brief von Arthur Schnitzler an Richard Dehmel, erwähnt im Kalendarium von Ida Dehmel</head>
                <desc>Kalendarium von Ida Dehmel, S. [238]</desc>
                <idno type="schnitzler-chronik-manuell">https://resolver.sub.uni-hamburg.de/kitodo/DE-611-HS-4272910/page/238</idno>

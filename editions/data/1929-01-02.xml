@@ -164,6 +164,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04352.html</idno>
             </event>
             <event when-iso="1929-01-02">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb233797">
+                        <placeName>Weinhandlung Ewest</placeName>
+                     </place>
+                     <place corresp="#pmb235301">
+                        <placeName>Berlin Anhalter Bahnhof</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb185953">
+                        <placeName>Deutsches Künstlertheater</placeName>
+                     </place>
+                     <place corresp="#pmb235304">
+                        <placeName>Kronprinzenpalais</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235310">
+                              <placeName>Neue Abteilung der Nationalgalerie Berlin im Kronprinzenpalais</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-01-02</idno>
+            </event>
+            <event when-iso="1929-01-02">
                <head>Aufführung von Der Zinker, 2.1.1929</head>
                <desc>
                   <listOrg>

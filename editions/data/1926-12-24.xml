@@ -118,6 +118,26 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-12-24.html</idno>
             </event>
+            <event when-iso="1926-12-24">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb216">
+                        <placeName>Unter den Linden</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb64036">
+                        <placeName>Leipziger Straße</placeName>
+                     </place>
+                     <place corresp="#pmb482">
+                        <placeName>Friedrichstraße [Berlin]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-12-24</idno>
+            </event>
          </listEvent>
       </body>
    </text>

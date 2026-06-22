@@ -87,6 +87,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-10-01.html</idno>
             </event>
             <event when-iso="1900-10-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92249">
+                              <placeName>Liechtenstein’sche Gemäldegalerie</placeName>
+                           </place>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-01</idno>
+            </event>
+            <event when-iso="1900-10-01">
                <head>Besuch der Liechtenstein’sche Gemäldegalerie, 1.10.1900</head>
                <desc>
                   <listPerson>

@@ -81,6 +81,56 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-09-15.html</idno>
             </event>
+            <event when-iso="1910-09-15">
+               <head corresp="#pmb146">Frankfurt am Main</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb190402">
+                        <placeName>Hotel Imperial [Frankfurt am Main]</placeName>
+                     </place>
+                     <place corresp="#pmb118470">
+                        <placeName>Frankfurt (Main) Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-09-15</idno>
+            </event>
+            <event when-iso="1910-09-15">
+               <head corresp="#pmb882">Heidelberg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb250820">
+                        <placeName>Hauptstraße [Heidelberg]</placeName>
+                     </place>
+                     <place corresp="#pmb250823">
+                        <placeName>Heidelberger Bergbahn</placeName>
+                     </place>
+                     <place corresp="#pmb250826">
+                        <placeName>Heidelberger Schloss</placeName>
+                     </place>
+                     <place corresp="#pmb250833">
+                        <placeName>Molkenkur Bergbahnhof</placeName>
+                        <listPlace>
+                           <place corresp="#pmb250823">
+                              <placeName>Heidelberger Bergbahn</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-09-15</idno>
+            </event>
+            <event when-iso="1910-09-15">
+               <head corresp="#pmb250829">Königstuhl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb250823">
+                        <placeName>Heidelberger Bergbahn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-09-15</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -90,6 +90,20 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-09-06.html</idno>
             </event>
+            <event when-iso="1895-09-06">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb681">
+                        <placeName>Hotel Continental [München]</placeName>
+                     </place>
+                     <place corresp="#pmb401">
+                        <placeName>Hotel Marienbad [München]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-09-06</idno>
+            </event>
          </listEvent>
       </body>
    </text>

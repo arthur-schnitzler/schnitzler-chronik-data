@@ -118,6 +118,44 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-06-11.html</idno>
             </event>
             <event when-iso="1924-06-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#53">
+                        <placeName>III., Landstraße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb1025">
+                              <placeName>Krankenhaus Rudolfstiftung</placeName>
+                           </place>
+                           <place corresp="#pmb92228">
+                              <placeName>Erdbergstraße</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb256911">
+                                    <placeName>Paul Stark, Koffererzeuger</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb91239">
+                              <placeName>Michaelerberg</placeName>
+                           </place>
+                           <place corresp="#pmb185460">
+                              <placeName>Gastwirtschaft Josef Strasser</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-06-11</idno>
+            </event>
+            <event when-iso="1924-06-11">
                <head>Samuel Fischer an Arthur Schnitzler, 1924-06-11</head>
                <desc>
                   <listPerson>

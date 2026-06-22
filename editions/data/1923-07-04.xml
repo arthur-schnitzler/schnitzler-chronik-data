@@ -97,6 +97,31 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-07-04.html</idno>
             </event>
+            <event when-iso="1923-07-04">
+               <head corresp="#pmb228">Baden-Baden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb244962">
+                        <placeName>Herchenbachstraße 26</placeName>
+                     </place>
+                     <place corresp="#pmb245200">
+                        <placeName>Stadtbibliothek Baden-Baden</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-07-04</idno>
+            </event>
+            <event when-iso="1923-07-04">
+               <head corresp="#pmb246902">Merkur</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb91233">
+                        <placeName>Aussichtsturm Merkur</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-07-04</idno>
+            </event>
          </listEvent>
       </body>
    </text>

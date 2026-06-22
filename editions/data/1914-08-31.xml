@@ -112,6 +112,34 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-08-31.html</idno>
             </event>
+            <event when-iso="1914-08-31">
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb655">
+                        <placeName>Hotel Kaiserkrone</placeName>
+                     </place>
+                     <place corresp="#pmb92482">
+                        <placeName>Rettenbach Wildnis</placeName>
+                     </place>
+                     <place corresp="#pmb92321">
+                        <placeName>Kaiser Jubiläumsweg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-31</idno>
+            </event>
+            <event when-iso="1914-08-31">
+               <head corresp="#pmb91453">Perneck</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92293">
+                        <placeName>Hoisnradalm</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-31</idno>
+            </event>
          </listEvent>
       </body>
    </text>

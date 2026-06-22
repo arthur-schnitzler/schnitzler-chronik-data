@@ -138,6 +138,22 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02890.html</idno>
             </event>
             <event when-iso="1899-10-11">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb482">
+                        <placeName>Friedrichstraße [Berlin]</placeName>
+                        <listPlace>
+                           <place corresp="#pmb545">
+                              <placeName>Hotel Savoy [Berlin]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-10-11</idno>
+            </event>
+            <event when-iso="1899-10-11">
                <head>Traum vom 11. Oktober 1899</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

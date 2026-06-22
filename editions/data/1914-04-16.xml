@@ -175,6 +175,58 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02176.html</idno>
             </event>
+            <event when-iso="1914-04-16">
+               <head corresp="#pmb34031">Dürnstein</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256107">
+                        <placeName>Hotel Richard Löwenherz</placeName>
+                     </place>
+                     <place corresp="#pmb256113">
+                        <placeName>Burgruine Dürnstein</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-04-16</idno>
+            </event>
+            <event when-iso="1914-04-16">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#65">
+                        <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
+                        <listPlace>
+                           <place corresp="#pmb184918">
+                              <placeName>Westbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-04-16</idno>
+            </event>
+            <event when-iso="1914-04-16">
+               <head corresp="#pmb91223">Melk</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256121">
+                        <placeName>Bahnhof Melk</placeName>
+                     </place>
+                     <place corresp="#pmb256124">
+                        <placeName>Hotel Melkerhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-04-16</idno>
+            </event>
          </listEvent>
       </body>
    </text>

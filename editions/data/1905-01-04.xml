@@ -119,6 +119,33 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1905-01-04.html</idno>
             </event>
             <event when-iso="1905-01-04">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb44">
+                              <placeName>Riedhof</placeName>
+                           </place>
+                           <place corresp="#pmb40">
+                              <placeName>Theater in der Josefstadt</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-01-04</idno>
+            </event>
+            <event when-iso="1905-01-04">
                <head>Aufführung von Helden, 4.1.1905</head>
                <desc>
                   <listOrg>

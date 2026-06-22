@@ -128,6 +128,39 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-05-26.html</idno>
             </event>
             <event when-iso="1921-05-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb225">
+                              <placeName>Grinzing</placeName>
+                           </place>
+                           <place corresp="#pmb250653">
+                              <placeName>Wildgrube</placeName>
+                           </place>
+                           <place corresp="#pmb235862">
+                              <placeName>Kreindlgasse 8</placeName>
+                           </place>
+                           <place corresp="#pmb92292">
+                              <placeName>Hohe Warte</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-05-26</idno>
+            </event>
+            <event when-iso="1921-05-26">
                <head>Brief von Arthur Schnitzler an Hans Sterneder</head>
                <desc>1 Postkarte, hs., m.e.U.<listPerson>
                      <person>

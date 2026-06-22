@@ -92,6 +92,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-12-15.html</idno>
             </event>
             <event when-iso="1910-12-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb113">
+                              <placeName>Türkenschanzpark</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-12-15</idno>
+            </event>
+            <event when-iso="1910-12-15">
                <head>S. Fischer an Schnitzler, 15. 12. 1910</head>
                <desc>
                   <listPerson>

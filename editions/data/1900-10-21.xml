@@ -83,6 +83,46 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-10-21.html</idno>
             </event>
+            <event when-iso="1900-10-21">
+               <head corresp="#pmb662">Baden bei Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34067">
+                        <placeName>Julienhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-21</idno>
+            </event>
+            <event when-iso="1900-10-21">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb231146">
+                              <placeName>Rotensterngasse 31</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-21</idno>
+            </event>
+            <event when-iso="1900-10-21">
+               <head corresp="#pmb992">Bad Vöslau</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-21</idno>
+            </event>
          </listEvent>
       </body>
    </text>

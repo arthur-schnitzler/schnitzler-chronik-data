@@ -98,6 +98,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1916-05-13.html</idno>
             </event>
             <event when-iso="1916-05-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb92226">
+                                    <placeName>Ladenburghöhe</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-05-13</idno>
+            </event>
+            <event when-iso="1916-05-13">
                <head>Balicer, Olga an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00031928</idno>

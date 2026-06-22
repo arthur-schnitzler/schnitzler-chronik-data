@@ -68,6 +68,33 @@
       <body>
          <listEvent>
             <event when-iso="1880-06-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb499">
+                              <placeName>Dornbach</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb68">
+                        <placeName>XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-06-11</idno>
+            </event>
+            <event when-iso="1880-06-11">
                <head>Schnitzler, Arthur: Albine [Prosa] (Manuskripttitel)</head>
                <desc>Letztes Objekt aus der Mappe. 13 Bl.Abschr.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00083712</idno>

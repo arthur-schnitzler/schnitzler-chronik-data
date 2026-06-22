@@ -137,6 +137,34 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-12-05.html</idno>
             </event>
             <event when-iso="1927-12-05">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb493">
+                        <placeName>Bank für Auswärtigen Handel</placeName>
+                     </place>
+                     <place corresp="#pmb129">
+                        <placeName>Grunewald</placeName>
+                        <listPlace>
+                           <place corresp="#pmb249121">
+                              <placeName>Höhmannstraße 6</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb246997">
+                        <placeName>Hegewald Film</placeName>
+                     </place>
+                     <place corresp="#pmb244585">
+                        <placeName>Stauffenbergstraße 36</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-12-05</idno>
+            </event>
+            <event when-iso="1927-12-05">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 5. Dezember 1927</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp506.html</idno>

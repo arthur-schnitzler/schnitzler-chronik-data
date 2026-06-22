@@ -84,6 +84,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-01-31.html</idno>
             </event>
             <event when-iso="1900-01-31">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb77">
+                              <placeName>Raimund-Theater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-01-31</idno>
+            </event>
+            <event when-iso="1900-01-31">
                <head>Premiere von Das dritte Kind, Boubouroche, Der Herr Gegencandidat, 31.1.1900</head>
                <desc>
                   <listOrg>

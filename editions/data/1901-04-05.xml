@@ -96,6 +96,34 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-04-05.html</idno>
             </event>
             <event when-iso="1901-04-05">
+               <head corresp="#pmb445">Rom</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb231451">
+                        <placeName>Palazzo Doria-Pamphilj</placeName>
+                     </place>
+                     <place corresp="#pmb50770">
+                        <placeName>Calixtus-Katakombe</placeName>
+                     </place>
+                     <place corresp="#pmb231396">
+                        <placeName>Porta pinciana 41</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-04-05</idno>
+            </event>
+            <event when-iso="1901-04-05">
+               <head corresp="#pmb1002">Vatikan</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb91459">
+                        <placeName>Piazza San Pietro</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-04-05</idno>
+            </event>
+            <event when-iso="1901-04-05">
                <head>Besuch des Palazzo Doria-Pamphilj, 5.4.1901</head>
                <desc>
                   <listPerson>

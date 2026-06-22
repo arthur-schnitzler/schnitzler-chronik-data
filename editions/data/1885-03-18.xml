@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1885-03-18">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb294895">
+                              <placeName>Helferstorferstraße 6</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-03-18</idno>
+            </event>
+            <event when-iso="1885-03-18">
                <head>Hausball bei Bernhard Bächer, 18.3.1885</head>
                <desc>
                   <listPerson>

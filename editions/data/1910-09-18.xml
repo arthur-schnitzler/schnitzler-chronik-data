@@ -147,6 +147,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01956.html</idno>
             </event>
             <event when-iso="1910-09-18">
+               <head corresp="#pmb146">Frankfurt am Main</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb190402">
+                        <placeName>Hotel Imperial [Frankfurt am Main]</placeName>
+                     </place>
+                     <place corresp="#pmb250841">
+                        <placeName>Frankfurter Oper</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-09-18</idno>
+            </event>
+            <event when-iso="1910-09-18">
+               <head corresp="#pmb834">Darmstadt</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb250881">
+                        <placeName>Darmstädter Künstlerkolonie Mathildenhöhe</placeName>
+                     </place>
+                     <place corresp="#pmb250884">
+                        <placeName>Ludwigskirche</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-09-18</idno>
+            </event>
+            <event when-iso="1910-09-18">
                <head>Uraufführung von Liebelei. Oper, 18.9.1910</head>
                <desc>
                   <listOrg>

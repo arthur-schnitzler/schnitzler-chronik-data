@@ -158,6 +158,26 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03891.html</idno>
             </event>
             <event when-iso="1930-01-01">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb36914">
+                        <placeName>Tiergarten</placeName>
+                     </place>
+                     <place corresp="#pmb233576">
+                        <placeName>Händelallee 8</placeName>
+                     </place>
+                     <place corresp="#pmb233325">
+                        <placeName>Herbert-von-Karajan-Straße 15</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-01-01</idno>
+            </event>
+            <event when-iso="1930-01-01">
                <head>George Sylvester Viereck: Die Welt Arthur Schnitzlers, 1930</head>
                <desc>
                   <listPerson>

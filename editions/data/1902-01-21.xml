@@ -73,6 +73,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-01-21.html</idno>
             </event>
             <event when-iso="1902-01-21">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#56">
+                        <placeName>VI., Mariahilf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb37">
+                              <placeName>Theater an der Wien</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-21</idno>
+            </event>
+            <event when-iso="1902-01-21">
                <head>Probe von Chaîne d’Amour. Schattenspiel, Le Sphinx. Schattenspiel, Clair de Lune. Schattenspiel, 21.1.1902</head>
                <desc>
                   <listOrg>

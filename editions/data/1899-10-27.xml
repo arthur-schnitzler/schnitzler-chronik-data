@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1899-10-27">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-10-27</idno>
+            </event>
+            <event when-iso="1899-10-27">
                <head>Briefkarte / von Arthur Schnitzler</head>
                <desc>Transkription: "Herzliche Glückwünsche! Ihr Arthur Schnitzler" (Freundliche Mitteilung von Martin Anton Müller, Wien, 28.09.2020). 1 Karte (9 cm)</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/CH-002121-2-991170467098505501</idno>

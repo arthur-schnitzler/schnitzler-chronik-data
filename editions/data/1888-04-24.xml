@@ -91,6 +91,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-04-24.html</idno>
             </event>
             <event when-iso="1888-04-24">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92217">
+                        <placeName>Dorotheenstraße 60</placeName>
+                     </place>
+                     <place corresp="#pmb185077">
+                        <placeName>Apollo-Theater [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb9925">
+                        <placeName>Charlottenburg</placeName>
+                        <listPlace>
+                           <place corresp="#pmb185074">
+                              <placeName>Schloss Charlottenburg</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-04-24</idno>
+            </event>
+            <event when-iso="1888-04-24">
                <head>Aufführung von Zauberer Ali Bey, 24.4.1888</head>
                <desc>
                   <listPerson>

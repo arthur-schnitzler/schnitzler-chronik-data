@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1891-03-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-03-26</idno>
+            </event>
+            <event when-iso="1891-03-26">
                <head>Glümer, Marie an Schnitzler, Arthur [Briefe]</head>
                <desc>Letztes Objekt aus der Mappe. 19 Br., 1 Kte, 1 Tel. 37 Bl. Mit 2 Beil. 2 Bl.Dr.<listPerson>
                      <person>

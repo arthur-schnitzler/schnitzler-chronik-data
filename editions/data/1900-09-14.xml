@@ -171,6 +171,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01073.html</idno>
             </event>
             <event when-iso="1900-09-14">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#72">
+                        <placeName>XXII., Donaustadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb182425">
+                              <placeName>Zum Franz-Josefsland</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb8">
+                              <placeName>Prater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb90538">
+                        <placeName>Donau [Wien]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-09-14</idno>
+            </event>
+            <event when-iso="1900-09-14">
                <head>Tagebuch von Schnitzler, 14. 9. 1900</head>
                <desc>
                   <listPerson>

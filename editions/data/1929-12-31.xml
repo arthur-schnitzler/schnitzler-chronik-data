@@ -119,6 +119,26 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-12-31.html</idno>
             </event>
             <event when-iso="1929-12-31">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb233325">
+                        <placeName>Herbert-von-Karajan-Straße 15</placeName>
+                     </place>
+                     <place corresp="#pmb55633">
+                        <placeName>Capitol [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb246987">
+                        <placeName>Hubertus Allee 24</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-12-31</idno>
+            </event>
+            <event when-iso="1929-12-31">
                <head>Filmvorführung von Die Nacht gehört uns, 31.12.1929</head>
                <desc>
                   <listBibl>

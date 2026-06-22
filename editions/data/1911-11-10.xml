@@ -89,6 +89,23 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-11-10.html</idno>
             </event>
+            <event when-iso="1911-11-10">
+               <head corresp="#pmb506">Hamburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb774">
+                        <placeName>Hotel Atlantic</placeName>
+                     </place>
+                     <place corresp="#pmb1226">
+                        <placeName>Blankenese</placeName>
+                     </place>
+                     <place corresp="#pmb45920">
+                        <placeName>Hauptbahnhof Hamburg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

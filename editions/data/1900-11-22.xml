@@ -110,6 +110,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-11-22.html</idno>
             </event>
             <event when-iso="1900-11-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-11-22</idno>
+            </event>
+            <event when-iso="1900-11-22">
+               <head corresp="#pmb677">Breslau</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb125">
+                        <placeName>Weinrestaurant Christian Hansen</placeName>
+                     </place>
+                     <place corresp="#pmb525">
+                        <placeName>Lobe-Theater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-11-22</idno>
+            </event>
+            <event when-iso="1900-11-22">
                <head>Aufführung von Über unsere Kraft. Zweiter Teil, 22.11.1900</head>
                <desc>
                   <listBibl>

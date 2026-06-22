@@ -87,6 +87,31 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-01-20.html</idno>
             </event>
             <event when-iso="1925-01-20">
+               <head corresp="#pmb484">Zürich</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb236955">
+                        <placeName>Hotel St. Gotthard Zürich</placeName>
+                     </place>
+                     <place corresp="#pmb250163">
+                        <placeName>Zürich Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-20</idno>
+            </event>
+            <event when-iso="1925-01-20">
+               <head corresp="#pmb44374">St. Moritz</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb239882">
+                        <placeName>Privat-Hotel Badrutt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-20</idno>
+            </event>
+            <event when-iso="1925-01-20">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 20. Januar 1925</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp170.html</idno>

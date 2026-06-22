@@ -97,6 +97,59 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-06-05.html</idno>
             </event>
+            <event when-iso="1930-06-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb92519">
+                              <placeName>Schlosspark Schönbrunn</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb368">
+                                    <placeName>Gloriette</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#65">
+                        <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
+                        <listPlace>
+                           <place corresp="#pmb184918">
+                              <placeName>Westbahnhof</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb438">
+                                    <placeName>Westbahnhof-Restaurant</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-06-05</idno>
+            </event>
+            <event when-iso="1930-06-05">
+               <head corresp="#pmb75">Hinterbrühl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44510">
+                        <placeName>Hotel Radetzky</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-06-05</idno>
+            </event>
          </listEvent>
       </body>
    </text>

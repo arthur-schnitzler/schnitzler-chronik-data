@@ -158,6 +158,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-10-23.html</idno>
             </event>
             <event when-iso="1915-10-23">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb18">
+                        <placeName>Lessing-Theater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-10-23</idno>
+            </event>
+            <event when-iso="1915-10-23">
                <head>Probe von Das Bacchusfest, 23.10.1915</head>
                <desc>
                   <listOrg>

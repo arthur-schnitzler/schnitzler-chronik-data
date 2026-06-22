@@ -73,6 +73,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1880-10-05.html</idno>
             </event>
             <event when-iso="1880-10-05">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb19">
+                              <placeName>Ronacher</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-10-05</idno>
+            </event>
+            <event when-iso="1880-10-05">
                <head>Aufführung von Das Stiftungsfest, 5.10.1880</head>
                <desc>
                   <listBibl>

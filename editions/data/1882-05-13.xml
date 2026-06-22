@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1882-05-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb15">
+                              <placeName>Oper</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1882-05-13</idno>
+            </event>
+            <event when-iso="1882-05-13">
                <head>Aufführung von Die Entführung aus dem Serail [KV 384], 13.5.1882</head>
                <desc>
                   <listOrg>

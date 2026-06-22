@@ -156,6 +156,52 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03625.html</idno>
             </event>
             <event when-iso="1910-10-19">
+               <head corresp="#pmb189">Semmering</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb413">
+                        <placeName>Südbahnhotel [Semmering]</placeName>
+                     </place>
+                     <place corresp="#pmb186638">
+                        <placeName>Talhofweg</placeName>
+                     </place>
+                     <place corresp="#pmb238255">
+                        <placeName>Bahnhof Semmering</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-10-19</idno>
+            </event>
+            <event when-iso="1910-10-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#60">
+                        <placeName>X., Favoriten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb132">
+                              <placeName>Südbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-10-19</idno>
+            </event>
+            <event when-iso="1910-10-19">
+               <head corresp="#pmb91482">Pinkenkogel</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-10-19</idno>
+            </event>
+            <event when-iso="1910-10-19">
                <head>Tintenfass der Wiener Werkstätte (Bertold Löffler, Michael Powolny) von Marianne Benedict</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">https://wienerschnitzler.org/tintenfass</idno>

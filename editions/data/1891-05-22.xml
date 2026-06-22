@@ -82,6 +82,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1891-05-22.html</idno>
             </event>
             <event when-iso="1891-05-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#70">
+                        <placeName>XX., Brigittenau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb202">
+                              <placeName>Nordwestbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb8">
+                              <placeName>Prater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-05-22</idno>
+            </event>
+            <event when-iso="1891-05-22">
                <head>Schnitzler, Arthur: Die Blasierten [Dramatisches] (Manuskripttitel)</head>
                <desc>10 Bl.Abschr.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00083139</idno>

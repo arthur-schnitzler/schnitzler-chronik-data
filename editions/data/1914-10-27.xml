@@ -116,6 +116,34 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-10-27.html</idno>
             </event>
+            <event when-iso="1914-10-27">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb142545">
+                        <placeName>Reichstag</placeName>
+                     </place>
+                     <place corresp="#pmb6409">
+                        <placeName>Zehlendorf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb257150">
+                              <placeName>Schillerstraße 5</placeName>
+                           </place>
+                           <place corresp="#pmb257156">
+                              <placeName>Waldsee [Zehlendorf]</placeName>
+                           </place>
+                           <place corresp="#pmb257160">
+                              <placeName>Schlachtensee</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-10-27</idno>
+            </event>
          </listEvent>
       </body>
    </text>

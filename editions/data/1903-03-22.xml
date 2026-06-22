@@ -136,6 +136,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01278.html</idno>
             </event>
             <event when-iso="1903-03-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232166">
+                              <placeName>Gentzgasse 110</placeName>
+                           </place>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb69">
+                        <placeName>XIX., Döbling</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-03-22</idno>
+            </event>
+            <event when-iso="1903-03-22">
                <head>Brief von Arthur Schnitzler an Richard Dehmel, erwähnt im Kalendarium von Ida Dehmel</head>
                <desc>Kalendarium von Ida Dehmel, S. [238]</desc>
                <idno type="schnitzler-chronik-manuell">https://resolver.sub.uni-hamburg.de/kitodo/DE-611-HS-4272910/page/238</idno>

@@ -102,6 +102,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-02-02.html</idno>
             </event>
             <event when-iso="1908-02-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235251">
+                              <placeName>Hasenauerstraße 59</placeName>
+                           </place>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-02-02</idno>
+            </event>
+            <event when-iso="1908-02-02">
                <head>Tagebuch von Schnitzler, 2. 2. 1908</head>
                <desc>
                   <listPerson>

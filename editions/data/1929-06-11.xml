@@ -145,6 +145,33 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02511.html</idno>
             </event>
             <event when-iso="1929-06-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb113">
+                              <placeName>Türkenschanzpark</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb74">
+                                    <placeName>Restauration Türkenschanz-Park</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb51">
+                        <placeName>I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-06-11</idno>
+            </event>
+            <event when-iso="1929-06-11">
                <head>Filmvorführung von Dr. Bessel’s Verwandlung, 11.6.1929</head>
                <desc>
                   <listBibl>

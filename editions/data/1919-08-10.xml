@@ -104,6 +104,25 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1919-08-10.html</idno>
             </event>
+            <event when-iso="1919-08-10">
+               <head corresp="#pmb483">Reichenau an der Rax</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44982">
+                        <placeName>Kurhaus Rudolfsbad</placeName>
+                     </place>
+                     <place corresp="#pmb470">
+                        <placeName>Edlach</placeName>
+                        <listPlace>
+                           <place corresp="#pmb247657">
+                              <placeName>Knappenhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-08-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

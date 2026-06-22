@@ -81,6 +81,43 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-12-26.html</idno>
             </event>
+            <event when-iso="1904-12-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-12-26</idno>
+            </event>
+            <event when-iso="1904-12-26">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-12-26</idno>
+            </event>
+            <event when-iso="1904-12-26">
+               <head corresp="#pmb33">St. Gilgen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb186">
+                        <placeName>Lueg</placeName>
+                        <listPlace>
+                           <place corresp="#pmb824">
+                              <placeName>Hotel und Pension Lueg</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-12-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

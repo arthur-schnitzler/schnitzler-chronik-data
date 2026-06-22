@@ -137,6 +137,42 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-03-22.html</idno>
             </event>
             <event when-iso="1925-03-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-03-22</idno>
+            </event>
+            <event when-iso="1925-03-22">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb146875">
+                        <placeName>Café Josty</placeName>
+                     </place>
+                     <place corresp="#pmb253660">
+                        <placeName>Sponholzstraße 51</placeName>
+                     </place>
+                     <place corresp="#pmb250448">
+                        <placeName>Hohenzollerndamm 90</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-03-22</idno>
+            </event>
+            <event when-iso="1925-03-22">
                <head>Olga Schnitzler an Arthur Schnitzler, 22.3.1925</head>
                <desc>
                   <listPerson>

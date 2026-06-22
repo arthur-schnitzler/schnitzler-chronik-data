@@ -136,6 +136,72 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1912-04-28.html</idno>
             </event>
+            <event when-iso="1912-04-28">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#60">
+                        <placeName>X., Favoriten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb132">
+                              <placeName>Südbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-04-28</idno>
+            </event>
+            <event when-iso="1912-04-28">
+               <head corresp="#pmb44413">Brühl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb75">
+                        <placeName>Hinterbrühl</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168033">
+                              <placeName>Römerwand</placeName>
+                           </place>
+                           <place corresp="#pmb145165">
+                              <placeName>Hauptstraße 56</placeName>
+                           </place>
+                           <place corresp="#pmb44510">
+                              <placeName>Hotel Radetzky</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb957">
+                        <placeName>Vorderbrühl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-04-28</idno>
+            </event>
+            <event when-iso="1912-04-28">
+               <head corresp="#pmb968">Mödling</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb957">
+                        <placeName>Vorderbrühl</placeName>
+                     </place>
+                     <place corresp="#pmb252697">
+                        <placeName>Bahnhof Mödling</placeName>
+                     </place>
+                     <place corresp="#pmb92324">
+                        <placeName>Kalenderberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-04-28</idno>
+            </event>
          </listEvent>
       </body>
    </text>

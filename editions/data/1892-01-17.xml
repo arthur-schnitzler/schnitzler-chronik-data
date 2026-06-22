@@ -148,6 +148,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03107.html</idno>
             </event>
             <event when-iso="1892-01-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb43">
+                              <placeName>Café Imperial</placeName>
+                           </place>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-01-17</idno>
+            </event>
+            <event when-iso="1892-01-17">
                <head>Bahr an S. Fischer, 17. 1. 1892</head>
                <desc>
                   <listPerson>

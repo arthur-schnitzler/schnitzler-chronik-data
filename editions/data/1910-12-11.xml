@@ -113,6 +113,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-12-11.html</idno>
             </event>
             <event when-iso="1910-12-11">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb485">
+                        <placeName>Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-12-11</idno>
+            </event>
+            <event when-iso="1910-12-11">
+               <head corresp="#pmb667">Garmisch-Partenkirchen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb2318">
+                        <placeName>Partenkirchen</placeName>
+                        <listPlace>
+                           <place corresp="#pmb250702">
+                              <placeName>Hotel Haus Gibson</placeName>
+                           </place>
+                           <place corresp="#pmb251480">
+                              <placeName>Villa Döllgast</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-12-11</idno>
+            </event>
+            <event when-iso="1910-12-11">
                <head>Pollak, Franz an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00040997</idno>

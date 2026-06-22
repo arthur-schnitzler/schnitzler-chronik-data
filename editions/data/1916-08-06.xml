@@ -124,6 +124,34 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1916-08-06.html</idno>
             </event>
+            <event when-iso="1916-08-06">
+               <head corresp="#pmb34401">Altaussee</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34387">
+                        <placeName>Villa Annerl</placeName>
+                     </place>
+                     <place corresp="#pmb106">
+                        <placeName>Hotel am See</placeName>
+                     </place>
+                     <place corresp="#pmb92465">
+                        <placeName>Promenadenweg</placeName>
+                        <listPlace>
+                           <place corresp="#pmb291023">
+                              <placeName>Promenadenweg [Südufer]</placeName>
+                           </place>
+                           <place corresp="#pmb291021">
+                              <placeName>Promenadenweg [Ostufer]</placeName>
+                           </place>
+                           <place corresp="#pmb291026">
+                              <placeName>Promenadenweg [Nordufer]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-08-06</idno>
+            </event>
          </listEvent>
       </body>
    </text>

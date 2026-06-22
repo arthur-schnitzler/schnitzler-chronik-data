@@ -167,6 +167,25 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02394.html</idno>
             </event>
             <event when-iso="1922-12-28">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb245475">
+                              <placeName>Sternwartestraße 56</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-12-28</idno>
+            </event>
+            <event when-iso="1922-12-28">
                <head>Filmvorführung, 28.12.1922</head>
                <desc>
                   <listPerson>

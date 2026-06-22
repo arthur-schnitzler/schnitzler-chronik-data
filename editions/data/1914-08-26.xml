@@ -119,6 +119,53 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-08-26.html</idno>
             </event>
+            <event when-iso="1914-08-26">
+               <head corresp="#pmb213">Bad Ischl</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb655">
+                        <placeName>Hotel Kaiserkrone</placeName>
+                     </place>
+                     <place corresp="#pmb91580">
+                        <placeName>Rettenbachalm</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-26</idno>
+            </event>
+            <event when-iso="1914-08-26">
+               <head corresp="#pmb34401">Altaussee</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb90354">
+                        <placeName>Blaa-Alm</placeName>
+                     </place>
+                     <place corresp="#pmb34402">
+                        <placeName>Fischerndorf</placeName>
+                        <listPlace>
+                           <place corresp="#pmb257023">
+                              <placeName>Parkhotel Altaussee</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-26</idno>
+            </event>
+            <event when-iso="1914-08-26">
+               <head corresp="#pmb415">Bad Aussee</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb36473">
+                        <placeName>Obertressen</placeName>
+                     </place>
+                     <place corresp="#pmb257030">
+                        <placeName>Café Vesco</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-08-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

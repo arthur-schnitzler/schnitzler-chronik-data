@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1882-01-23">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1882-01-23</idno>
+            </event>
+            <event when-iso="1882-01-23">
                <head>Soirée Goterbom bei Lippmans, 23.1.1882</head>
                <desc>
                   <listPerson>

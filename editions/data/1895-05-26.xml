@@ -81,6 +81,32 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-05-26.html</idno>
             </event>
+            <event when-iso="1895-05-26">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-05-26</idno>
+            </event>
+            <event when-iso="1895-05-26">
+               <head corresp="#pmb39792">Purkersdorf</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-05-26</idno>
+            </event>
+            <event when-iso="1895-05-26">
+               <head corresp="#pmb38059">Gablitz</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-05-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

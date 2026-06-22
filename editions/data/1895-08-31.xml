@@ -79,6 +79,26 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-08-31.html</idno>
             </event>
             <event when-iso="1895-08-31">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb681">
+                        <placeName>Hotel Continental [München]</placeName>
+                     </place>
+                     <place corresp="#pmb100">
+                        <placeName>Café Luitpold</placeName>
+                     </place>
+                     <place corresp="#pmb101">
+                        <placeName>Neue Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb199250">
+                        <placeName>Gasthaus Blumensäle</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-08-31</idno>
+            </event>
+            <event when-iso="1895-08-31">
                <head>Besuch der Neuen Pinakothek, 31.8.1895</head>
                <desc>
                   <listPerson>

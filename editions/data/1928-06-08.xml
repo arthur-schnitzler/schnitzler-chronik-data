@@ -140,6 +140,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-06-08.html</idno>
             </event>
             <event when-iso="1928-06-08">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb185324">
+                              <placeName>Meinl Churhaus-Restaurant</placeName>
+                           </place>
+                           <place corresp="#pmb60142">
+                              <placeName>Bundeskanzleramt</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb232811">
+                                    <placeName>Kongresssaal</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-06-08</idno>
+            </event>
+            <event when-iso="1928-06-08">
                <head>Filmvorführung von Frauen im Abgrund, 8.6.1928</head>
                <desc>
                   <listBibl>

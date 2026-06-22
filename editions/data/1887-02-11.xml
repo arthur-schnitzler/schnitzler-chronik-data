@@ -68,6 +68,28 @@
       <body>
          <listEvent>
             <event when-iso="1887-02-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb4">
+                              <placeName>Bösendorfer Saal</placeName>
+                           </place>
+                           <place corresp="#pmb295020">
+                              <placeName>Sonnenfelsgasse 1</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1887-02-11</idno>
+            </event>
+            <event when-iso="1887-02-11">
                <head>Kränzchen bei Anton Door, 11.2.1887</head>
                <desc>
                   <listPerson>

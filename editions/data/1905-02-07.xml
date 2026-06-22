@@ -128,6 +128,38 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1905-02-07.html</idno>
             </event>
             <event when-iso="1905-02-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#57">
+                        <placeName>VII., Neubau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb234425">
+                              <placeName>Gustav Fimpel Robes et Costumes</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb233517">
+                              <placeName>Kaiserpanorama [Wien, Schubertring 4]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-02-07</idno>
+            </event>
+            <event when-iso="1905-02-07">
                <head>Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.2.1905</head>
                <desc>
                   <listPerson>

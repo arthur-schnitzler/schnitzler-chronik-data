@@ -163,6 +163,25 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-06-26.html</idno>
             </event>
+            <event when-iso="1921-06-26">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92395">
+                        <placeName>Maximilianstraße [München]</placeName>
+                     </place>
+                     <place corresp="#pmb92281">
+                        <placeName>Herzog-Rudolf-Straße</placeName>
+                        <listPlace>
+                           <place corresp="#pmb248969">
+                              <placeName>Seitzstraße 20</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-06-26</idno>
+            </event>
          </listEvent>
       </body>
    </text>

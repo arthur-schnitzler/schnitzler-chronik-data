@@ -87,6 +87,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1889-12-11.html</idno>
             </event>
             <event when-iso="1889-12-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb2">
+                              <placeName>Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                           </place>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-12-11</idno>
+            </event>
+            <event when-iso="1889-12-11">
                <head>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</head>
                <desc>
                   <listOrg>

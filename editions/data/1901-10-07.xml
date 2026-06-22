@@ -252,6 +252,30 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03088.html</idno>
             </event>
             <event when-iso="1901-10-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb186034">
+                              <placeName>Urania Theater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-10-07</idno>
+            </event>
+            <event when-iso="1901-10-07">
                <head>Filmvorführung von Der Kreislauf des Wassers, Von Karlsbad nach Abbazia, Lebende Photographien, 7.10.1901</head>
                <desc>
                   <listPerson>

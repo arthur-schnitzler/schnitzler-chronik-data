@@ -149,6 +149,33 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01954.html</idno>
             </event>
+            <event when-iso="1910-08-23">
+               <head corresp="#pmb667">Garmisch-Partenkirchen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb2318">
+                        <placeName>Partenkirchen</placeName>
+                        <listPlace>
+                           <place corresp="#pmb250702">
+                              <placeName>Hotel Haus Gibson</placeName>
+                           </place>
+                           <place corresp="#pmb250697">
+                              <placeName>Dr. Wigger’s Kurheim Sanatorium für Innen-, Nervenkranke und Erholungsbedürftige</placeName>
+                           </place>
+                           <place corresp="#pmb52102">
+                              <placeName>St. Anton [Partenkirchen]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-08-23</idno>
+            </event>
+            <event when-iso="1910-08-23">
+               <head corresp="#pmb92487">Rissersee</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-08-23</idno>
+            </event>
          </listEvent>
       </body>
    </text>

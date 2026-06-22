@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1883-07-17">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1883-07-17</idno>
+            </event>
+            <event when-iso="1883-07-17">
                <head>Schnitzler, Arthur an Unbekannt &lt;weiblich&gt; [Briefe]</head>
                <desc>Letztes Objekt aus der Mappe. 3 Br. 9 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00084502</idno>

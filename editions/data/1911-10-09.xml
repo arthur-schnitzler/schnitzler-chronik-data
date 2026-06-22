@@ -174,6 +174,55 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04005.html</idno>
             </event>
             <event when-iso="1911-10-09">
+               <head corresp="#pmb189">Semmering</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb442">
+                        <placeName>Kurhaus Semmering</placeName>
+                     </place>
+                     <place corresp="#pmb238255">
+                        <placeName>Bahnhof Semmering</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-10-09</idno>
+            </event>
+            <event when-iso="1911-10-09">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235251">
+                              <placeName>Hasenauerstraße 59</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#60">
+                        <placeName>X., Favoriten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb132">
+                              <placeName>Südbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#54">
+                        <placeName>IV., Wieden</placeName>
+                        <listPlace>
+                           <place corresp="#pmb187206">
+                              <placeName>Restauration »Am Südbahnhof«</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-10-09</idno>
+            </event>
+            <event when-iso="1911-10-09">
                <head>Samuel Fischer an Arthur Schnitzler, 1911-10-09</head>
                <desc>
                   <listPerson>

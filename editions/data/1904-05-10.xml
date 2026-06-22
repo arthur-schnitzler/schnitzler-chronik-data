@@ -87,6 +87,41 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-05-10.html</idno>
             </event>
+            <event when-iso="1904-05-10">
+               <head corresp="#pmb595">Neapel</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb234024">
+                        <placeName>Hotel Vesuvio</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-10</idno>
+            </event>
+            <event when-iso="1904-05-10">
+               <head corresp="#pmb629">Sorrent</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-10</idno>
+            </event>
+            <event when-iso="1904-05-10">
+               <head corresp="#pmb919">Capri</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb90245">
+                        <placeName>Anacapri</placeName>
+                        <listPlace>
+                           <place corresp="#pmb234032">
+                              <placeName>Piazza Vittoria</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb234035">
+                        <placeName>Grotta Azzurra</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-10</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1877-01-13">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb19">
+                              <placeName>Ronacher</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1877-01-13</idno>
+            </event>
+            <event when-iso="1877-01-13">
                <head>Aufführung von Alpenkönig und Menschenfeind, 13.1.1877</head>
                <desc>
                   <listBibl>

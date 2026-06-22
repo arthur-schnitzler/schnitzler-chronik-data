@@ -68,6 +68,30 @@
       <body>
          <listEvent>
             <event when-iso="1886-12-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#65">
+                        <placeName>XV., Rudolfsheim-Fünfhaus</placeName>
+                        <listPlace>
+                           <place corresp="#pmb296632">
+                              <placeName>Synagoge Turnergasse</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1886-12-19</idno>
+            </event>
+            <event when-iso="1886-12-19">
                <head>Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886</head>
                <desc>
                   <listPerson>

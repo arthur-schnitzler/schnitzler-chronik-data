@@ -136,6 +136,46 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02206.html</idno>
             </event>
             <event when-iso="1915-05-27">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232800">
+                              <placeName>Laudongasse 12</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb232655">
+                              <placeName>Goldschmiedgasse 1</placeName>
+                           </place>
+                           <place corresp="#pmb49286">
+                              <placeName>Zedlitzgasse</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb237072">
+                                    <placeName>Ausstellungshalle des Hagenbundes</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-05-27</idno>
+            </event>
+            <event when-iso="1915-05-27">
                <head>Ausstellungsbesuch der Ausstellung der Wiener Künstlervereinigungen, 27.5.1915</head>
                <desc>
                   <listOrg>

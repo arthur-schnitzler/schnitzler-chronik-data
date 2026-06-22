@@ -68,6 +68,30 @@
       <body>
          <listEvent>
             <event when-iso="1881-02-23">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb296608">
+                              <placeName>Praterstraße 15</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-02-23</idno>
+            </event>
+            <event when-iso="1881-02-23">
                <head>Soirée dansante bei Klein, 23.2.1881</head>
                <desc>
                   <listPerson>

@@ -155,6 +155,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-08-07.html</idno>
             </event>
             <event when-iso="1904-08-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb456">
+                              <placeName>Rohrerhütte</placeName>
+                           </place>
+                           <place corresp="#pmb176">
+                              <placeName>Schwarzenbergpark</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb113">
+                              <placeName>Türkenschanzpark</placeName>
+                           </place>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-08-07</idno>
+            </event>
+            <event when-iso="1904-08-07">
                <head>Aufzeichnung von Bahr, 7. 8. 1904</head>
                <desc>
                   <listPerson>

@@ -81,6 +81,20 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-09-29.html</idno>
             </event>
+            <event when-iso="1890-09-29">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb230">
+                        <placeName>Österreichischer Hof</placeName>
+                     </place>
+                     <place corresp="#pmb253605">
+                        <placeName>Salzach [Stadtgebiet Salzburg]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-09-29</idno>
+            </event>
          </listEvent>
       </body>
    </text>

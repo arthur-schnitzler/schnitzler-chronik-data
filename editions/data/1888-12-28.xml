@@ -79,6 +79,28 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-12-28.html</idno>
             </event>
             <event when-iso="1888-12-28">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb262">
+                              <placeName>Café Central</placeName>
+                           </place>
+                           <place corresp="#pmb15">
+                              <placeName>Oper</placeName>
+                           </place>
+                           <place corresp="#pmb168768">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-12-28</idno>
+            </event>
+            <event when-iso="1888-12-28">
                <head>Aufführung von Der Tribut von Zamora, 28.12.1888</head>
                <desc>
                   <listOrg>

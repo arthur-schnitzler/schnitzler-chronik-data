@@ -101,6 +101,52 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-10-11.html</idno>
             </event>
+            <event when-iso="1921-10-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#70">
+                        <placeName>XX., Brigittenau</placeName>
+                        <listPlace>
+                           <place corresp="#pmb202">
+                              <placeName>Nordwestbahnhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-10-11</idno>
+            </event>
+            <event when-iso="1921-10-11">
+               <head corresp="#pmb90153">Unterzögersdorf</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb292809">
+                        <placeName>Jagdhäusl Unterzögersdorf</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-10-11</idno>
+            </event>
+            <event when-iso="1921-10-11">
+               <head corresp="#pmb54769">Stockerau</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb292806">
+                        <placeName>Bahnhof Stockerau</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-10-11</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -130,6 +130,26 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00974.html</idno>
             </event>
             <event when-iso="1899-09-15">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb806">
+                        <placeName>Hotel Rheinischer Hof München</placeName>
+                     </place>
+                     <place corresp="#pmb11">
+                        <placeName>Münchner Schauspielhaus</placeName>
+                     </place>
+                     <place corresp="#pmb511">
+                        <placeName>Alte Pinakothek</placeName>
+                     </place>
+                     <place corresp="#pmb101">
+                        <placeName>Neue Pinakothek</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-15</idno>
+            </event>
+            <event when-iso="1899-09-15">
                <head>Besuch der Alten Pinakothek, 15.9.1899</head>
                <desc>
                   <listPerson>

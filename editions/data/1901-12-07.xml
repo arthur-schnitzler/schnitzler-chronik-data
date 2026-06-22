@@ -89,6 +89,35 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-12-07.html</idno>
             </event>
             <event when-iso="1901-12-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#73">
+                        <placeName>XXIII., Liesing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb173">
+                              <placeName>Rodaun</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb40297">
+                                    <placeName>Hofmannsthal-Schlössl</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-12-07</idno>
+            </event>
+            <event when-iso="1901-12-07">
                <head>Arthur Schnitzler an Rainer Maria Rilke, 7. 12. 1901</head>
                <desc>
                   <listPerson>

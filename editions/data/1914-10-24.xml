@@ -107,6 +107,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-10-24.html</idno>
             </event>
             <event when-iso="1914-10-24">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb127">
+                        <placeName>Hotel Bristol Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb18">
+                        <placeName>Lessing-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb36914">
+                        <placeName>Tiergarten</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-10-24</idno>
+            </event>
+            <event when-iso="1914-10-24">
                <head>Premiere von Der junge Medardus, 24.10.1914</head>
                <desc>
                   <listOrg>

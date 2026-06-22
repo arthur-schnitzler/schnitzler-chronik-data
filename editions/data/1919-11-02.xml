@@ -169,6 +169,50 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02331.html</idno>
             </event>
+            <event when-iso="1919-11-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb176">
+                              <placeName>Schwarzenbergpark</placeName>
+                           </place>
+                           <place corresp="#pmb499">
+                              <placeName>Dornbach</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                           <place corresp="#pmb264161">
+                              <placeName>Hasenauerstraße 45</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb700">
+                              <placeName>Hotel Regina [Wien]</placeName>
+                           </place>
+                           <place corresp="#pmb235827">
+                              <placeName>Hörlgasse 14</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-11-02</idno>
+            </event>
          </listEvent>
       </body>
    </text>

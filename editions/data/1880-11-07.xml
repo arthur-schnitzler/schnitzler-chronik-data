@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1880-11-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb15">
+                              <placeName>Oper</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1880-11-07</idno>
+            </event>
+            <event when-iso="1880-11-07">
                <head>Aufführung von Die Meistersinger von Nürnberg, 7.11.1880</head>
                <desc>
                   <listOrg>

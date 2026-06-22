@@ -135,6 +135,39 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03789.html</idno>
             </event>
+            <event when-iso="1911-11-09">
+               <head corresp="#pmb506">Hamburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb774">
+                        <placeName>Hotel Atlantic</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-09</idno>
+            </event>
+            <event when-iso="1911-11-09">
+               <head corresp="#pmb884">Lübeck</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb252603">
+                        <placeName>Ratskeller zu Lübeck</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-09</idno>
+            </event>
+            <event when-iso="1911-11-09">
+               <head corresp="#pmb49115">Travemünde</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb252606">
+                        <placeName>Strand-Hotel [Travemünde]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-11-09</idno>
+            </event>
          </listEvent>
       </body>
    </text>

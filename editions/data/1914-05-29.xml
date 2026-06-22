@@ -79,6 +79,45 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-05-29.html</idno>
             </event>
             <event when-iso="1914-05-29">
+               <head corresp="#pmb40709">Amsterdam</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245732">
+                        <placeName>Amstelhotel</placeName>
+                     </place>
+                     <place corresp="#pmb256379">
+                        <placeName>Amsterdam Centraal</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-05-29</idno>
+            </event>
+            <event when-iso="1914-05-29">
+               <head corresp="#pmb145">Köln</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb256391">
+                        <placeName>Köln Hauptbahnhof</placeName>
+                     </place>
+                     <place corresp="#pmb256397">
+                        <placeName>Excelsior Hotel Ernst</placeName>
+                     </place>
+                     <place corresp="#pmb112653">
+                        <placeName>Köln-Deutz</placeName>
+                        <listPlace>
+                           <place corresp="#pmb256400">
+                              <placeName>Kölner Werkbundausstellung 1914</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb256408">
+                        <placeName>Hotel Ewige Lampe</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-05-29</idno>
+            </event>
+            <event when-iso="1914-05-29">
                <head>Ausstellungsbesuch Kölner Werkbundausstellung, 29.5.1914</head>
                <desc>
                   <listPerson>

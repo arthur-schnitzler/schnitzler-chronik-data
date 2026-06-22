@@ -129,6 +129,33 @@
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03124.html</idno>
             </event>
+            <event when-iso="1893-08-01">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167782">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-08-01</idno>
+            </event>
+            <event when-iso="1893-08-01">
+               <head corresp="#pmb39792">Purkersdorf</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb168010">
+                        <placeName>Restaurant Senefelder</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-08-01</idno>
+            </event>
          </listEvent>
       </body>
    </text>

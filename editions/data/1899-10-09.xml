@@ -144,6 +144,26 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03301.html</idno>
             </event>
             <event when-iso="1899-10-09">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb545">
+                        <placeName>Hotel Savoy [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb42626">
+                        <placeName>Residenztheater Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb199492">
+                        <placeName>Restaurant Hiller</placeName>
+                     </place>
+                     <place corresp="#pmb207196">
+                        <placeName>Lehrter Bahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-10-09</idno>
+            </event>
+            <event when-iso="1899-10-09">
                <head>Aufführung von Jagdfreuden, 9.10.1899</head>
                <desc>
                   <listBibl>

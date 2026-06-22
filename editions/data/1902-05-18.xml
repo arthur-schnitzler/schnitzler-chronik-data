@@ -100,6 +100,38 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-05-18.html</idno>
             </event>
+            <event when-iso="1902-05-18">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#73">
+                        <placeName>XXIII., Liesing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb173">
+                              <placeName>Rodaun</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb40297">
+                                    <placeName>Hofmannsthal-Schlössl</placeName>
+                                 </place>
+                                 <place corresp="#pmb231810">
+                                    <placeName>Willergasse 2</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-05-18</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -105,6 +105,22 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1881-05-02.html</idno>
             </event>
             <event when-iso="1881-05-02">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1881-05-02</idno>
+            </event>
+            <event when-iso="1881-05-02">
                <head>Schnitzler, Arthur: Moderne Jugend [Dramatisches] (Manuskripttitel)</head>
                <desc>Letztes Objekt aus der Mappe. 18 Bl.Abschr.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00083189</idno>

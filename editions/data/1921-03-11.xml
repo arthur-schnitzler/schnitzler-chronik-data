@@ -158,6 +158,36 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-03-11.html</idno>
             </event>
             <event when-iso="1921-03-11">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-03-11</idno>
+            </event>
+            <event when-iso="1921-03-11">
+               <head corresp="#pmb662">Baden bei Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb90809">
+                        <placeName>Sanatorium Gutenbrunn</placeName>
+                     </place>
+                     <place corresp="#pmb292500">
+                        <placeName>Beethoven-Haus</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1921-03-11</idno>
+            </event>
+            <event when-iso="1921-03-11">
                <head>Besuch des Beethoven-Hauses, 11.3.1921</head>
                <desc>
                   <listPerson>

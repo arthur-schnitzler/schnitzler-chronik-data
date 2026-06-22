@@ -109,6 +109,55 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1919-08-24.html</idno>
             </event>
+            <event when-iso="1919-08-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb536">
+                              <placeName>Rohrerwiese</placeName>
+                           </place>
+                           <place corresp="#pmb574">
+                              <placeName>Kahlenberg</placeName>
+                           </place>
+                           <place corresp="#pmb225">
+                              <placeName>Grinzing</placeName>
+                           </place>
+                           <place corresp="#pmb535">
+                              <placeName>Hermannskogel</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb248494">
+                                    <placeName>Habsburgwarte</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#67">
+                        <placeName>XVII., Hernals</placeName>
+                        <listPlace>
+                           <place corresp="#pmb537">
+                              <placeName>Dreimarkstein [Wien]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb169">
+                              <placeName>Pötzleinsdorf</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-08-24</idno>
+            </event>
          </listEvent>
       </body>
    </text>

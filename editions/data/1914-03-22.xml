@@ -125,6 +125,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-03-22.html</idno>
             </event>
             <event when-iso="1914-03-22">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#64">
+                        <placeName>XIV., Penzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb271">
+                              <placeName>Hütteldorf</placeName>
+                           </place>
+                           <place corresp="#pmb91840">
+                              <placeName>Erholungsgebiet Steinhof</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#66">
+                        <placeName>XVI., Ottakring</placeName>
+                        <listPlace>
+                           <place corresp="#pmb270">
+                              <placeName>Wilhelminenberg</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-03-22</idno>
+            </event>
+            <event when-iso="1914-03-22">
                <head>Tagebuch von Schnitzler, 22. 3. 1914</head>
                <desc>
                   <listPerson>

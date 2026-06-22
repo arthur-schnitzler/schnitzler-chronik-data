@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1899-04-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#59">
+                        <placeName>IX., Alsergrund</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168934">
+                              <placeName>Frankgasse 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-19</idno>
+            </event>
+            <event when-iso="1899-04-19">
                <head>Moriz Ehrlich an Arthur Schnitzler, 19.4.1899</head>
                <desc>
                   <listPerson>

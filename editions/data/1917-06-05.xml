@@ -100,6 +100,25 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-06-05.html</idno>
             </event>
+            <event when-iso="1917-06-05">
+               <head corresp="#pmb521">Bad Gastein</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34014">
+                        <placeName>Villa Dr. Wassing</placeName>
+                     </place>
+                     <place corresp="#pmb91059">
+                        <placeName>Kötschachtal</placeName>
+                        <listPlace>
+                           <place corresp="#pmb265722">
+                              <placeName>Ausflugsgasthof Grüner Baum</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-06-05</idno>
+            </event>
          </listEvent>
       </body>
    </text>

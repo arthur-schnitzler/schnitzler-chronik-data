@@ -105,6 +105,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-08-14.html</idno>
             </event>
             <event when-iso="1906-08-14">
+               <head corresp="#pmb197">Weimar</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34102">
+                        <placeName>Hotel Erbprinz</placeName>
+                     </place>
+                     <place corresp="#pmb238169">
+                        <placeName>Goethe- und Schiller-Archiv</placeName>
+                     </place>
+                     <place corresp="#pmb238174">
+                        <placeName>Weimarer Fürstengruft</placeName>
+                     </place>
+                     <place corresp="#pmb238177">
+                        <placeName>Neues Museum Weimar</placeName>
+                     </place>
+                     <place corresp="#pmb238181">
+                        <placeName>Schlosspark Belvedere [Weimar]</placeName>
+                        <listPlace>
+                           <place corresp="#pmb195">
+                              <placeName>Schloss Belvedere [Weimar]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb238185">
+                        <placeName>Grand Hotel Russischer Hof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-08-14</idno>
+            </event>
+            <event when-iso="1906-08-14">
                <head>Besuch des Neuen Museum Weimar, 14.8.1906</head>
                <desc>
                   <listPerson>

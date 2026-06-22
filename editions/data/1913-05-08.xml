@@ -112,6 +112,30 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-05-08.html</idno>
             </event>
             <event when-iso="1913-05-08">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#54">
+                        <placeName>IV., Wieden</placeName>
+                        <listPlace>
+                           <place corresp="#pmb251316">
+                              <placeName>Julius Klein, Antiquitätenhandlung</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-05-08</idno>
+            </event>
+            <event when-iso="1913-05-08">
                <head>Arthur Schnitzler an Isabella Vengerova, 8. 5. 1913</head>
                <desc>
                   <listPerson>

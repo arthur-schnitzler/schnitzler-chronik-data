@@ -122,6 +122,31 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-05-17.html</idno>
             </event>
             <event when-iso="1923-05-17">
+               <head corresp="#pmb1119">Stockholm</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb265496">
+                        <placeName>Stockholms centralstation</placeName>
+                     </place>
+                     <place corresp="#pmb265500">
+                        <placeName>Östermalmsgatan 69</placeName>
+                     </place>
+                     <place corresp="#pmb265505">
+                        <placeName>Nordiska Kompaniet</placeName>
+                     </place>
+                     <place corresp="#pmb147893">
+                        <placeName>Kungliga Dramatiska Teatern</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-17</idno>
+            </event>
+            <event when-iso="1923-05-17">
+               <head corresp="#pmb90529">Djurgården</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-05-17</idno>
+            </event>
+            <event when-iso="1923-05-17">
                <head>Aufführung von Götterdämmerung, 17.5.1923</head>
                <desc>
                   <listBibl>

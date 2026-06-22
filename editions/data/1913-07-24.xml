@@ -97,6 +97,33 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-07-24.html</idno>
             </event>
+            <event when-iso="1913-07-24">
+               <head corresp="#pmb45260">Brijuni</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb254805">
+                        <placeName>Punta Naso</placeName>
+                        <listPlace>
+                           <place corresp="#pmb254793">
+                              <placeName>Villa [Zuckerkandl]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-07-24</idno>
+            </event>
+            <event when-iso="1913-07-24">
+               <head corresp="#pmb851">Pula</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb254790">
+                        <placeName>Bahnhof Pula</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1913-07-24</idno>
+            </event>
          </listEvent>
       </body>
    </text>

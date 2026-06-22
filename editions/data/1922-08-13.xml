@@ -124,6 +124,42 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-08-13.html</idno>
             </event>
+            <event when-iso="1922-08-13">
+               <head corresp="#pmb797">Berchtesgaden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb289742">
+                        <placeName>Hotel Bellevue [Berchtesgaden]</placeName>
+                     </place>
+                     <place corresp="#pmb292530">
+                        <placeName>Grand Hotel Auguste Victoria</placeName>
+                     </place>
+                     <place corresp="#pmb289828">
+                        <placeName>Hotel Wittelsbach [Berchtesgaden]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-08-13</idno>
+            </event>
+            <event when-iso="1922-08-13">
+               <head corresp="#pmb91054">Königssee</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-08-13</idno>
+            </event>
+            <event when-iso="1922-08-13">
+               <head corresp="#pmb91693">Schönau am Königssee</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb289824">
+                        <placeName>Malerwinkel</placeName>
+                     </place>
+                     <place corresp="#pmb289835">
+                        <placeName>Königsseer Fußweg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-08-13</idno>
+            </event>
          </listEvent>
       </body>
    </text>

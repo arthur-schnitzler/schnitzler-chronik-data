@@ -169,6 +169,35 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03031.html</idno>
             </event>
             <event when-iso="1892-05-07">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb192287">
+                              <placeName>Internationale Ausstellung für Musik und Theaterwesen 1892</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb45128">
+                                    <placeName>Internationales Ausstellungstheater im k.k. Prater</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-05-07</idno>
+            </event>
+            <event when-iso="1892-05-07">
                <head>Aufführung von Stella, Die Mitschuldigen, 7.5.1892</head>
                <desc>
                   <listOrg>

@@ -98,6 +98,53 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-05-24.html</idno>
             </event>
+            <event when-iso="1917-05-24">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb288">
+                              <placeName>Sievering</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-05-24</idno>
+            </event>
+            <event when-iso="1917-05-24">
+               <head corresp="#pmb865">Klosterneuburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb44394">
+                        <placeName>Weidlingbach</placeName>
+                     </place>
+                     <place corresp="#pmb264652">
+                        <placeName>Gsängerhütte</placeName>
+                     </place>
+                     <place corresp="#pmb265689">
+                        <placeName>Haschhof</placeName>
+                     </place>
+                     <place corresp="#pmb265692">
+                        <placeName>Gasthaus Windischhütte</placeName>
+                     </place>
+                     <place corresp="#pmb265695">
+                        <placeName>Eichenhain</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-05-24</idno>
+            </event>
          </listEvent>
       </body>
    </text>

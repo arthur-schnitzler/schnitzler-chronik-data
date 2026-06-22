@@ -113,6 +113,41 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-10-19.html</idno>
             </event>
             <event when-iso="1930-10-19">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb8">
+                              <placeName>Prater</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb53159">
+                                    <placeName>Hauptallee</placeName>
+                                 </place>
+                                 <place corresp="#pmb185">
+                                    <placeName>Lusthaus</placeName>
+                                 </place>
+                                 <place corresp="#pmb1209">
+                                    <placeName>Lustspieltheater [Wien]</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-10-19</idno>
+            </event>
+            <event when-iso="1930-10-19">
                <head>Filmvorführung von Brand in der Oper, 19.10.1930</head>
                <desc>
                   <listBibl>

@@ -87,6 +87,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1888-05-10.html</idno>
             </event>
             <event when-iso="1888-05-10">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92217">
+                        <placeName>Dorotheenstraße 60</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-05-10</idno>
+            </event>
+            <event when-iso="1888-05-10">
                <head>Aufführung von Romeo und Julia, 10.5.1888</head>
                <desc>
                   <listOrg>

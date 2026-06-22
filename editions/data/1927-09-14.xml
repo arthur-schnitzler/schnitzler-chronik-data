@@ -100,6 +100,25 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-09-14.html</idno>
             </event>
+            <event when-iso="1927-09-14">
+               <head corresp="#pmb462">Venedig</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb259">
+                        <placeName>Lido</placeName>
+                        <listPlace>
+                           <place corresp="#pmb247609">
+                              <placeName>Hotel Corno d’Oro</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#pmb261">
+                        <placeName>Piazza San Marco</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-09-14</idno>
+            </event>
          </listEvent>
       </body>
    </text>

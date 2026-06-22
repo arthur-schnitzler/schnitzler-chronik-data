@@ -101,6 +101,23 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-12-29.html</idno>
             </event>
+            <event when-iso="1928-12-29">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb201044">
+                        <placeName>Restaurant Großer Kurfürst</placeName>
+                     </place>
+                     <place corresp="#pmb185955">
+                        <placeName>Scala</placeName>
+                     </place>
+                     <place corresp="#pmb246987">
+                        <placeName>Hubertus Allee 24</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-12-29</idno>
+            </event>
          </listEvent>
       </body>
    </text>

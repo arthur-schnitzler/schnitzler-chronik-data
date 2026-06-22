@@ -116,6 +116,44 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-07-03.html</idno>
             </event>
             <event when-iso="1910-07-03">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#69">
+                        <placeName>XIX., Döbling</placeName>
+                        <listPlace>
+                           <place corresp="#pmb194903">
+                              <placeName>Am Kobenzl</placeName>
+                           </place>
+                           <place corresp="#pmb285">
+                              <placeName>Am Himmel</placeName>
+                           </place>
+                           <place corresp="#pmb574">
+                              <placeName>Kahlenberg</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb250547">
+                                    <placeName>Kahlenbergbahn</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                           <place corresp="#pmb288">
+                              <placeName>Sievering</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168940">
+                              <placeName>Edmund-Weiß-Gasse 7</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-07-03</idno>
+            </event>
+            <event when-iso="1910-07-03">
                <head>Erhalt von Zinaida Vengerova an Arthur Schnitzler, 28. 6. 1910</head>
                <desc>
                   <listPerson>

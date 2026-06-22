@@ -84,6 +84,31 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-02-17.html</idno>
             </event>
+            <event when-iso="1904-02-17">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb399">
+                        <placeName>Hotel Continental [Berlin]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-17</idno>
+            </event>
+            <event when-iso="1904-02-17">
+               <head corresp="#pmb866">Dresden</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb90591">
+                        <placeName>Großer Garten</placeName>
+                     </place>
+                     <place corresp="#pmb248646">
+                        <placeName>Dresden Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-02-17</idno>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -83,6 +83,22 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-08-13.html</idno>
             </event>
+            <event when-iso="1901-08-13">
+               <head corresp="#pmb40260">Bozen</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb92584">
+                        <placeName>Virgl</placeName>
+                        <listPlace>
+                           <place corresp="#pmb231608">
+                              <placeName>Restaurant Virglwarte</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-13</idno>
+            </event>
          </listEvent>
       </body>
    </text>

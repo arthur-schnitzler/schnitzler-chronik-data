@@ -68,6 +68,25 @@
       <body>
          <listEvent>
             <event when-iso="1876-06-29">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb15">
+                              <placeName>Oper</placeName>
+                           </place>
+                           <place corresp="#pmb168765">
+                              <placeName>Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1876-06-29</idno>
+            </event>
+            <event when-iso="1876-06-29">
                <head>Aufführung von Die Hugenotten, 29.6.1876</head>
                <desc>
                   <listOrg>

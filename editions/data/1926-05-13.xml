@@ -96,6 +96,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-05-13.html</idno>
             </event>
             <event when-iso="1926-05-13">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb784">
+                        <placeName>Schauspielhaus Berlin</placeName>
+                     </place>
+                     <place corresp="#pmb250448">
+                        <placeName>Hohenzollerndamm 90</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-05-13</idno>
+            </event>
+            <event when-iso="1926-05-13">
                <head>Aufführung von Medea, 13.5.1926</head>
                <desc>
                   <listBibl>

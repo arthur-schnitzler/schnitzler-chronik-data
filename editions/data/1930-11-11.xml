@@ -125,6 +125,26 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-11-11.html</idno>
             </event>
             <event when-iso="1930-11-11">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb334">
+                        <placeName>Schiller-Theater</placeName>
+                     </place>
+                     <place corresp="#pmb52476">
+                        <placeName>Tiergartenstraße</placeName>
+                     </place>
+                     <place corresp="#pmb245">
+                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb233325">
+                        <placeName>Herbert-von-Karajan-Straße 15</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1930-11-11</idno>
+            </event>
+            <event when-iso="1930-11-11">
                <head>Aufführung von Clavigo, 11.11.1930</head>
                <desc>
                   <listBibl>

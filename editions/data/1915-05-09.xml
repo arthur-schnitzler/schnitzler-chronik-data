@@ -109,6 +109,50 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-05-09.html</idno>
             </event>
+            <event when-iso="1915-05-09">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#63">
+                        <placeName>XIII., Hietzing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb50941">
+                              <placeName>Palmenhaus Schönbrunn</placeName>
+                           </place>
+                           <place corresp="#pmb92519">
+                              <placeName>Schlosspark Schönbrunn</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb368">
+                                    <placeName>Gloriette</placeName>
+                                 </place>
+                                 <place corresp="#pmb39607">
+                                    <placeName>Tiergarten Schönbrunn</placeName>
+                                 </place>
+                                 <place corresp="#pmb200855">
+                                    <placeName>Neptunbrunnen</placeName>
+                                 </place>
+                                 <place corresp="#pmb200859">
+                                    <placeName>Römische Ruine [Schlosspark Schönbrunn]</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb237633">
+                              <placeName>Hasenauerstraße 46</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-05-09</idno>
+            </event>
          </listEvent>
       </body>
    </text>

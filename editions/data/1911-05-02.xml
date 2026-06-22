@@ -113,6 +113,23 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-05-02.html</idno>
             </event>
             <event when-iso="1911-05-02">
+               <head corresp="#pmb45258">München</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb485">
+                        <placeName>Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                     <place corresp="#pmb635">
+                        <placeName>Residenztheater München</placeName>
+                     </place>
+                     <place corresp="#pmb247583">
+                        <placeName>Hauptbahnhof München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-05-02</idno>
+            </event>
+            <event when-iso="1911-05-02">
                <head>Aufführung von Cäsar und Cleopatra, 2.5.1911</head>
                <desc>
                   <listBibl>

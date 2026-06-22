@@ -83,6 +83,35 @@
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-08-30.html</idno>
             </event>
+            <event when-iso="1890-08-30">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#54">
+                        <placeName>IV., Wieden</placeName>
+                        <listPlace>
+                           <place corresp="#pmb50989">
+                              <placeName>Taubstummengasse</placeName>
+                              <listPlace>
+                                 <place corresp="#pmb186984">
+                                    <placeName>Café Viktoria</placeName>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb167805">
+                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-08-30</idno>
+            </event>
          </listEvent>
       </body>
    </text>

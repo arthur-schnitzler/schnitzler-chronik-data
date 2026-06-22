@@ -96,6 +96,25 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-10-16.html</idno>
             </event>
             <event when-iso="1924-10-16">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#68">
+                        <placeName>XVIII., Währing</placeName>
+                        <listPlace>
+                           <place corresp="#pmb235132">
+                              <placeName>Türkenschanzstraße 48</placeName>
+                           </place>
+                           <place corresp="#pmb168815">
+                              <placeName>Sternwartestraße 71</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-10-16</idno>
+            </event>
+            <event when-iso="1924-10-16">
                <head>Filmvorführung von The Cheat, 16.10.1924</head>
                <desc>
                   <listBibl>

@@ -84,6 +84,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1890-10-04.html</idno>
             </event>
             <event when-iso="1890-10-04">
+               <head corresp="#pmb30">Salzburg</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb230">
+                        <placeName>Österreichischer Hof</placeName>
+                     </place>
+                     <place corresp="#pmb195432">
+                        <placeName>Salzburger Landestheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1890-10-04</idno>
+            </event>
+            <event when-iso="1890-10-04">
                <head>Aufführung von Landfrieden, 4.10.1890</head>
                <desc>
                   <listOrg>

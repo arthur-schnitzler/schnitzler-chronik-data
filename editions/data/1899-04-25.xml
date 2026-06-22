@@ -104,6 +104,20 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-04-25.html</idno>
             </event>
             <event when-iso="1899-04-25">
+               <head corresp="#pmb168">Berlin</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb545">
+                        <placeName>Hotel Savoy [Berlin]</placeName>
+                     </place>
+                     <place corresp="#pmb3">
+                        <placeName>Deutsches Theater Berlin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-04-25</idno>
+            </event>
+            <event when-iso="1899-04-25">
                <head>Aufführung von Hans, Mutterherz, 25.4.1899</head>
                <desc>
                   <listOrg>

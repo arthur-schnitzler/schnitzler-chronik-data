@@ -68,6 +68,22 @@
       <body>
          <listEvent>
             <event when-iso="1862-05-15">
+               <head corresp="#pmb50">Wien</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#52">
+                        <placeName>II., Leopoldstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb168783">
+                              <placeName>Praterstraße 16</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1862-05-15</idno>
+            </event>
+            <event when-iso="1862-05-15">
                <head>Geburt</head>
                <desc>Geburt in der Praterstraße/Jägerzeile</desc>
                <idno type="schnitzler-chronik-manuell">schnitzler-manuell_1</idno>
