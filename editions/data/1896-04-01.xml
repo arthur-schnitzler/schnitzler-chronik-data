@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,42 +92,51 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2456">Richard Specht</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11673">Theodor Herzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb93584">Joseph Samuel Bloch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5539">
+                  Jesus
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2437">Stefan George</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11673">Theodor Herzl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb17163">Clementine Goldmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2437">Stefan George</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2456">Richard Specht</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5539">
-      Jesus
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb93584">Joseph Samuel Bloch</persName>
+                        <persName ref="pmb4986">Fedor Mamroth</persName>
                      </person>
                      <person>
                         <persName ref="pmb2935">Roberto Bracco</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
+                        <persName ref="pmb17163">Clementine Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4076">Otto Eisenschitz</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -141,19 +150,19 @@
                         <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33217">Untreu. Komödie in 3 Acten</title>
+                        <title ref="pmb76857">Pierrot bossu. Eine Commedia dell’Arte zur Fastnacht in gar zierlichen Reimen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb94405">Schauspielhaus. [Untreu und Abschiedssouper]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36344">Frankfurter Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76857">Pierrot bossu. Eine Commedia dell’Arte zur Fastnacht in gar zierlichen Reimen</title>
+                        <title ref="pmb33217">Untreu. Komödie in 3 Acten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb93589">Gedichte von Stefan George</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb94405">Schauspielhaus. [Untreu und Abschiedssouper]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33053">Der Judenstaat. Versuch einer modernen Lösung der Judenfrage</title>
@@ -161,16 +170,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>
@@ -181,10 +190,10 @@
                         <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb118423">Reichsrat</orgName>
+                        <orgName ref="pmb29771">E. Pierson’s Verlag</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29771">E. Pierson’s Verlag</orgName>
+                        <orgName ref="pmb118423">Reichsrat</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb34987">Frankfurter Stadttheater</orgName>
@@ -192,22 +201,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02769.html</idno>
-            </event>
-            <event when-iso="1896-04-01">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-04-01</idno>
             </event>
          </listEvent>
       </body>

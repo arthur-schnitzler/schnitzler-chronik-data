@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,7 +108,6 @@
                      </person>
                      <person>
                         <persName ref="pmb43116">
-      
       Albrecht
   </persName>
                      </person>
@@ -120,7 +119,6 @@
                      </person>
                      <person>
                         <persName ref="pmb27711">
-      
       ?? [Schreibkraft für Arthur Schnitzler]
   </persName>
                      </person>
@@ -413,7 +411,7 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift</orgName>
+                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
@@ -436,27 +434,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02737.html</idno>
-            </event>
-            <event when-iso="1895-06-24">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-06-24</idno>
-            </event>
-            <event when-iso="1895-06-24">
-               <head corresp="#pmb865">Klosterneuburg</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-06-24</idno>
             </event>
          </listEvent>
       </body>

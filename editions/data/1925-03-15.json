@@ -118,64 +118,93 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04362",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1925-03-15",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04362.html",
  "head":
- "Wien",
+ "Arthur Schnitzler, Heinrich Schnitzler, Paul Marx an Gustav Schwarzkopf, 15. 3. 1925",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
+ {
+ "persName":
+ "Paul Marx",
+ "ref":
+ "pmb21647"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Brandon Thomas",
+ "ref":
+ "pmb26025"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Das Märchen. Schauspiel in drei Aufzügen",
+ "ref":
+ "pmb29823"}
+ ,  {
+ "title":
+ "Charley’s Aunt. A Farce in Three Acts",
+ "ref":
+ "pmb81419"}
+ ],
+ "listPlace":
   [
  {
  "placeName":
- "XVIII., Währing",
- "ref":
- ""}
- ]
-}
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1925-03-15",
- "head":
  "Berlin",
- "desc":
-{"listPlace":
-  [
- {
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
+ ,  {
  "placeName":
  "Hotel Esplanade [Berlin]",
  "ref":
- ""}
- ,  {
- "placeName":
- "Schiller-Theater",
+ "pmb245"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Lessing-Theater",
  "ref":
- ""}
- ,  {
- "placeName":
- "Schauspielhaus Berlin",
- "ref":
- ""}
- ,  {
- "placeName":
- "Herbert-von-Karajan-Straße 4",
- "ref":
- ""}
- ,  {
- "placeName":
- "Restaurant Stallmann",
- "ref":
- ""}
+ "pmb35053"}
  ]
 }
 }, {

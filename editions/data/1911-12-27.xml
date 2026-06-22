@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -122,30 +122,14 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb60017">Pullach im Isartal</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04014.html</idno>
-            </event>
-            <event when-iso="1911-12-27">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#68">
-                        <placeName>XVIII., Währing</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168815">
-                              <placeName>Sternwartestraße 71</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-12-27</idno>
             </event>
             <event when-iso="1911-12-27">
                <head>Brahm an Schnitzler, 27. 12. 1911</head>

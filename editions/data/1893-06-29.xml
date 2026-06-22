@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -124,34 +124,38 @@
                         <persName ref="pmb296534">Ambros Eberle</persName>
                      </person>
                      <person>
+                        <persName ref="pmb167389">
+      ?? [Hausmeister von Kärntnerring 12/Bösendorferstraße 11]
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18230">Hans Herzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb18233">Margarethe Neumann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb2812">Julie Herzl</persName>
                      </person>
                      <person>
-                        <persName ref="pmb298247">
-                  ?? [Arzt in Brunnen]
-               </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb18233">Margarethe Neumann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb18230">Hans Herzl</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb296738">Pauline Hüft</persName>
                      </person>
                      <person>
-                        <persName ref="pmb167389">
-                  ?? [Hausmeister von Kärntnerring 12/Bösendorferstraße 11]
-               </persName>
+                        <persName ref="pmb298247">G. Pauli</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb59021">Marburg</placeName>
+                        <placeName ref="pmb296532">Hotel &amp; Pension Frohnalp</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39755">Vierwaldstättersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb49170">Morschach</placeName>
@@ -160,22 +164,16 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb296532">Hotel &amp; Pension Frohnalp</placeName>
+                        <placeName ref="pmb53227">Axenstein</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39755">Vierwaldstättersee</placeName>
+                        <placeName ref="pmb53632">Brunnen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb53636">Hotel Axenstein</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb53227">Axenstein</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53632">Brunnen</placeName>
+                        <placeName ref="pmb59021">Marburg</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -185,22 +183,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03831.html</idno>
-            </event>
-            <event when-iso="1893-06-29">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb167782">
-                              <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-06-29</idno>
             </event>
             <event when-iso="1893-06-29">
                <head>Traum vom 29. Juni 1893</head>

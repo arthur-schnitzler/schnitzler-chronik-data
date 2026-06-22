@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,36 +79,47 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-05-04.html</idno>
             </event>
             <event when-iso="1904-05-04">
-               <head corresp="#pmb445">Rom</head>
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 4. 5. 1904</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#pmb233993">
-                        <placeName>Grand Hotel Roma</placeName>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
                      </place>
-                     <place corresp="#pmb231403">
-                        <placeName>Forum Romanum</placeName>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
-                     <place corresp="#pmb231438">
-                        <placeName>Kolosseum [Rom]</placeName>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
-                     <place corresp="#pmb231469">
-                        <placeName>San Pietro in Vincoli al Colle Oppio</placeName>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
-                     <place corresp="#pmb234002">
-                        <placeName>Ristorante Umberto</placeName>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
-                     <place corresp="#pmb231413">
-                        <placeName>Caracalla-Thermen</placeName>
+                     <place>
+                        <placeName ref="pmb231403">Forum Romanum</placeName>
                      </place>
-                     <place corresp="#pmb50768">
-                        <placeName>Cestius-Pyramide</placeName>
+                     <place>
+                        <placeName ref="pmb353176">Tempel von Castor und Pollux</placeName>
                      </place>
-                     <place corresp="#pmb234007">
-                        <placeName>Hotel Colonna</placeName>
+                     <place>
+                        <placeName ref="pmb353178">Basilica Julia</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-05-04</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04358.html</idno>
             </event>
          </listEvent>
       </body>

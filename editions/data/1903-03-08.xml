@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,7 +123,9 @@
                         <persName ref="pmb11617">Hauptmann, Gerhart</persName>
                      </person>
                      <person>
-                        <persName ref="pmb43446"/>
+                        <persName ref="pmb43446">
+      Weichert
+  </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -206,26 +208,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03368.html</idno>
-            </event>
-            <event when-iso="1903-03-08">
-               <head corresp="#pmb168">Berlin</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb88">
-                        <placeName>Palasthotel Berlin</placeName>
-                     </place>
-                     <place corresp="#pmb3">
-                        <placeName>Deutsches Theater Berlin</placeName>
-                     </place>
-                     <place corresp="#pmb237374">
-                        <placeName>Luisenplatz 2</placeName>
-                     </place>
-                     <place corresp="#pmb334">
-                        <placeName>Schiller-Theater</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-03-08</idno>
             </event>
             <event when-iso="1903-03-08">
                <head>2. Aufführung von Der Schleier der Beatrice, 8.3.1903</head>

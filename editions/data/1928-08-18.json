@@ -53,47 +53,74 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04349",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1928-08-18",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04349.html",
  "head":
- "Schwangau",
+ "Arthur Schnitzler an Gustav Schwarzkopf, 18. 8. 1928",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Lili Cappellini",
+ "ref":
+ "pmb2238"}],
+ "listPlace":
   [
  {
  "placeName":
  "Hohenschwangau",
  "ref":
- ""}
+ "pmb90895"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
+ ,  {
+ "placeName":
+ "Schloss Neuschwanstein",
+ "ref":
+ "pmb91342"}
+ ,  {
+ "placeName":
+ "Alpsee",
+ "ref":
+ "pmb90225"}
+ ,  {
+ "placeName":
+ "Hotel Alpenrose [Hohenschwangau]",
+ "ref":
+ "pmb248986"}
  ]
 }
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1928-08-18",
- "head":
- "Alpsee"
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1928-08-18",
- "head":
- "Füssen"
 }, {
  "type":
  "pollaczek",

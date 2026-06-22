@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -137,29 +137,53 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-01-13.html</idno>
             </event>
             <event when-iso="1925-01-13">
-               <head corresp="#pmb631">Freiburg im Breisgau</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 13. 1. 1925</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#pmb245060">
-                        <placeName>Hotel Sommer zum Zähringer Hof</placeName>
+                     <place>
+                        <placeName ref="pmb631">Freiburg im Breisgau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb353172">Rathaus [Freiburg im Breisgau]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb872">Stuttgart</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb228">Baden-Baden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb854">Basel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb484">Zürich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb236955">Hotel St. Gotthard Zürich</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-13</idno>
-            </event>
-            <event when-iso="1925-01-13">
-               <head corresp="#pmb854">Basel</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb245305">
-                        <placeName>Hotel Schweizerhof Basel</placeName>
-                     </place>
-                     <place corresp="#pmb251777">
-                        <placeName>Stadtcasino Basel</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-01-13</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04356.html</idno>
             </event>
             <event when-iso="1925-01-13">
                <head>Lesung von Das Tagebuch der Redegonda, Die letzten Masken, Große Szene, 13.1.1925</head>

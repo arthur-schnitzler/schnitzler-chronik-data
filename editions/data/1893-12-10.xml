@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -112,22 +112,13 @@
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2583">Friedrich Schütz</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2583">Friedrich Schütz</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2812">Julie Herzl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -146,41 +137,17 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03907.html</idno>
-            </event>
-            <event when-iso="1893-12-10">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb192844">
-                              <placeName>Opernring 19</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-12-10</idno>
             </event>
             <event when-iso="1893-12-10">
                <head>Schnitzler an Theodor Herzl, 10. 12. 1893</head>

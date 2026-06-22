@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -200,7 +200,7 @@
                         <persName ref="pmb4216">Alfred Dreyfus</persName>
                      </person>
                      <person>
-                        <persName ref="pmb94876">Maria Berks</persName>
+                        <persName ref="pmb94876">Maria von Berks</persName>
                      </person>
                      <person>
                         <persName ref="pmb102199">Rudolf Raimann</persName>
@@ -214,7 +214,7 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb33037">Fuhrmann Henschel</title>
+                        <title ref="pmb33037">Fuhrmann Henschel. Schauspiel in 5 Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb333867">Muschelkinder. Schauspiel in vier Acten nach einem Roman von Guy de Maupassant</title>
@@ -226,7 +226,7 @@
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb77872">Pierre et Jean</title>
+                        <title ref="pmb77872">Pierre &amp; Jean</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
@@ -280,17 +280,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04142.html</idno>
-            </event>
-            <event when-iso="1899-09-09">
-               <head corresp="#pmb213">Bad Ischl</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb414">
-                        <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-09</idno>
             </event>
          </listEvent>
       </body>

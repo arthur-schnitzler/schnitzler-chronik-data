@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,40 +114,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1916-09-23.html</idno>
-            </event>
-            <event when-iso="1916-09-23">
-               <head corresp="#pmb34401">Altaussee</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb34387">
-                        <placeName>Villa Annerl</placeName>
-                     </place>
-                     <place corresp="#pmb106">
-                        <placeName>Hotel am See</placeName>
-                     </place>
-                     <place corresp="#pmb44899">
-                        <placeName>Villa Filtsch</placeName>
-                     </place>
-                     <place corresp="#pmb264841">
-                        <placeName>Kerry-Villa</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-09-23</idno>
-            </event>
-            <event when-iso="1916-09-23">
-               <head corresp="#pmb415">Bad Aussee</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb92420">
-                        <placeName>Nikolaus-Lenau-Hügel</placeName>
-                     </place>
-                     <place corresp="#pmb92454">
-                        <placeName>Pötschenstraße</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1916-09-23</idno>
             </event>
          </listEvent>
       </body>

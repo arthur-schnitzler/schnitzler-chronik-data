@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,8 +90,8 @@
                      </person>
                      <person>
                         <persName ref="pmb298938">
-                  Heinrich
-               </persName>
+      Heinrich
+  </persName>
                      </person>
                      <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
@@ -99,30 +99,27 @@
                      <person>
                         <persName ref="pmb2812">Julie Herzl</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb3442">Marco Brociner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12099">Konrad Loewe</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb33101">Die Sündfluth. Schauspiel in vier Akten</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb96">Meissl &amp; Schadn</placeName>
+                        <placeName ref="pmb168765">Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34">Café Griensteidl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168765">Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb96">Meissl &amp; Schadn</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -175,30 +172,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04103.html</idno>
-            </event>
-            <event when-iso="1893-09-28">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb412">
-                              <placeName>Grillparzerstraße</placeName>
-                              <listPlace>
-                                 <place corresp="#pmb167782">
-                                    <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
-                                 </place>
-                              </listPlace>
-                           </place>
-                           <place corresp="#pmb34">
-                              <placeName>Café Griensteidl</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-09-28</idno>
             </event>
          </listEvent>
       </body>

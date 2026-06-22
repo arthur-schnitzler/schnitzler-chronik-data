@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -98,20 +98,35 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1903-04-09.html</idno>
             </event>
             <event when-iso="1903-04-09">
-               <head corresp="#pmb332">Linz</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 9. 4. 1903</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#pmb130">
-                        <placeName>Hotel Weinzinger</placeName>
+                     <place>
+                        <placeName ref="pmb332">Linz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-04-09</idno>
-            </event>
-            <event when-iso="1903-04-09">
-               <head corresp="#pmb874">Gmunden</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-04-09</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04359.html</idno>
             </event>
          </listEvent>
       </body>

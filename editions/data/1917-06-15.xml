@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,31 +110,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02263.html</idno>
-            </event>
-            <event when-iso="1917-06-15">
-               <head corresp="#pmb521">Bad Gastein</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb34014">
-                        <placeName>Villa Dr. Wassing</placeName>
-                     </place>
-                     <place corresp="#pmb265763">
-                        <placeName>Badberg</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-06-15</idno>
-            </event>
-            <event when-iso="1917-06-15">
-               <head corresp="#pmb90893">Bad Hofgastein</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb265766">
-                        <placeName>Café und Pension Pyrkerhöhe</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1917-06-15</idno>
             </event>
          </listEvent>
       </body>

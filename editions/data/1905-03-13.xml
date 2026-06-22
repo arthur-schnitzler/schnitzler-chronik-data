@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -133,34 +133,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01507.html</idno>
-            </event>
-            <event when-iso="1905-03-13">
-               <head corresp="#pmb41212">Korfu</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb235038">
-                        <placeName>Achilleion</placeName>
-                     </place>
-                     <place corresp="#pmb235049">
-                        <placeName>Kanoni</placeName>
-                     </place>
-                     <place corresp="#pmb235052">
-                        <placeName>Mon Repos</placeName>
-                     </place>
-                     <place corresp="#pmb235044">
-                        <placeName>Korfu [Stadt]</placeName>
-                        <listPlace>
-                           <place corresp="#pmb235041">
-                              <placeName>Alte Festung</placeName>
-                           </place>
-                           <place corresp="#pmb235046">
-                              <placeName>Grand Hotel Saint Georges</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-03-13</idno>
             </event>
          </listEvent>
       </body>

@@ -103,43 +103,65 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04352",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1929-01-02",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04352.html",
  "head":
- "Berlin",
+ "Arthur Schnitzler an Gustav Schwarzkopf, 2. 1. 1929",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
   [
  {
  "placeName":
- "Weinhandlung Ewest",
+ "Berlin",
  "ref":
- ""}
+ "pmb168"}
  ,  {
  "placeName":
- "Berlin Anhalter Bahnhof",
+ "Wien",
  "ref":
- ""}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
  ,  {
  "placeName":
  "Hotel Esplanade [Berlin]",
  "ref":
- ""}
- ,  {
- "placeName":
- "Deutsches Künstlertheater",
+ "pmb245"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Grüne Woche",
  "ref":
- ""}
- ,  {
- "placeName":
- "Kronprinzenpalais",
- "ref":
- ""}
+ "pmb353155"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,6 +111,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1903-08-17.html</idno>
             </event>
             <event when-iso="1903-08-17">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 17. 8. 1903</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb41083">Mendelpass</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91121">Latemar Spitze</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb353174">Weißhorn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04357.html</idno>
+            </event>
+            <event when-iso="1903-08-17">
                <head>Paul Goldmann an Arthur Schnitzler, 17. 8. 1903</head>
                <desc>
                   <listPerson>
@@ -137,38 +171,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02631.html</idno>
-            </event>
-            <event when-iso="1903-08-17">
-               <head corresp="#pmb41083">Mendelpass</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb233230">
-                        <placeName>Waldhof [Mendelpass]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-08-17</idno>
-            </event>
-            <event when-iso="1903-08-17">
-               <head corresp="#pmb90126">Malé</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-08-17</idno>
-            </event>
-            <event when-iso="1903-08-17">
-               <head corresp="#pmb427">Madonna di Campiglio</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb233260">
-                        <placeName>Hotel Dolomiti [Madonna di Campiglio]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-08-17</idno>
-            </event>
-            <event when-iso="1903-08-17">
-               <head corresp="#pmb90488">Cles</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1903-08-17</idno>
             </event>
          </listEvent>
       </body>

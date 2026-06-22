@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -137,7 +137,7 @@
                         <title ref="pmb40662">Mourir. Roman</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb89818">Anfang vom Ende</title>
+                        <title ref="pmb89818">Anfang vom Ende [Lied]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb92648">Journal des débats. Politiques et littéraires</title>
@@ -197,48 +197,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02778.html</idno>
-            </event>
-            <event when-iso="1896-06-22">
-               <head corresp="#pmb483">Reichenau an der Rax</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-06-22</idno>
-            </event>
-            <event when-iso="1896-06-22">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#66">
-                        <placeName>XVI., Ottakring</placeName>
-                        <listPlace>
-                           <place corresp="#pmb199696">
-                              <placeName>Hotel »Stadt Frankfurt«</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168687">
-                              <placeName>[Salvatorgasse 11, 1. Stiege, Tür 11, Absteigequartier III Marie Reinhard und Arthur Schnitzler]</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-06-22</idno>
-            </event>
-            <event when-iso="1896-06-22">
-               <head corresp="#pmb662">Baden bei Wien</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-06-22</idno>
             </event>
          </listEvent>
       </body>

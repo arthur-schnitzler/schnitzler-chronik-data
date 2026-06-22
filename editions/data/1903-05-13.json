@@ -54,9 +54,9 @@
  "pmb2121"},
  {
  "persName":
- "Alfred de Musset",
+ "Olga Schnitzler",
  "ref":
- "pmb12311"},
+ "pmb2173"},
  {
  "persName":
  "Oscar Wilde",
@@ -64,14 +64,14 @@
  "pmb13115"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Felix Paul Greve",
  "ref":
- "pmb41972"}],
+ "pmb41972"},
+ {
+ "persName":
+ "Alfred de Musset",
+ "ref":
+ "pmb12311"}],
  "listBibl":
   [
  {
@@ -81,9 +81,9 @@
  "pmb146930"}
  ,  {
  "title":
- "Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)",
+ "Man soll nichts verschwören. Komödie in 3 Akten",
  "ref":
- "pmb144087"}
+ "pmb145669"}
  ,  {
  "title":
  "Il ne faut jurer de rien",
@@ -91,9 +91,9 @@
  "pmb145666"}
  ,  {
  "title":
- "Man soll nichts verschwören. Komödie in 3 Akten",
+ "Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)",
  "ref":
- "pmb145669"}
+ "pmb144087"}
  ,  {
  "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
@@ -104,19 +104,9 @@
   [
  {
  "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
  ,  {
  "placeName":
  "Wien",
@@ -124,9 +114,19 @@
  "pmb50"}
  ,  {
  "placeName":
+ "Dessauer Straße",
+ "ref":
+ "pmb40583"}
+ ,  {
+ "placeName":
  "Minden",
  "ref":
  "pmb58843"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
  ,  {
  "placeName":
  "Ständetheater",
@@ -145,32 +145,6 @@
  "Frankfurter Stadttheater",
  "ref":
  "pmb34987"}
- ]
-}
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1903-05-13",
- "head":
- "Wien",
- "desc":
-{"listPlace":
-  [
- {
- "placeName":
- "IX., Alsergrund",
- "ref":
- ""}
- ,  {
- "placeName":
- "XIII., Hietzing",
- "ref":
- ""}
  ]
 }
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -138,7 +138,7 @@
                         <persName ref="pmb23028">Jolantha Ramazetta</persName>
                      </person>
                      <person>
-                        <persName ref="pmb295669">Rosine Hutzler</persName>
+                        <persName ref="pmb295669">Rosie Hutzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb295657">Louis Plessner</persName>
@@ -150,7 +150,7 @@
                         <persName ref="pmb295681">Louis Stael-Dergy</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3908">Sara Kainz</persName>
+                        <persName ref="pmb3908">Sarah Kainz</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -185,7 +185,7 @@
                         <title ref="pmb295196">Reminiscenz</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb295198">Warum</title>
+                        <title ref="pmb295198">Warum?</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb295201">Der neue Lehrer. Novelle</title>
@@ -206,7 +206,7 @@
                         <title ref="pmb32230">Der gläserne Käfig. Skizzen und Novellen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32316">Warten</title>
+                        <title ref="pmb32316">Warten. Novelle</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
@@ -251,36 +251,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03728.html</idno>
-            </event>
-            <event when-iso="1900-10-12">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-12</idno>
-            </event>
-            <event when-iso="1900-10-12">
-               <head corresp="#pmb662">Baden bei Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb34067">
-                        <placeName>Julienhof</placeName>
-                     </place>
-                     <place corresp="#pmb190818">
-                        <placeName>Stadttheater Baden</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-10-12</idno>
             </event>
             <event when-iso="1900-10-12">
                <head>Aufführung von Der Opernball, 12.10.1900</head>

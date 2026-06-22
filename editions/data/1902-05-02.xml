@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -156,7 +156,7 @@
                         <title ref="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76925">Die Weber</title>
+                        <title ref="pmb76925">Die Weber. Schauspiel aus den vierziger Jahren</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
@@ -189,30 +189,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03206.html</idno>
-            </event>
-            <event when-iso="1902-05-02">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#61">
-                        <placeName>XI., Simmering</placeName>
-                        <listPlace>
-                           <place corresp="#pmb192349">
-                              <placeName>Israelitischer Friedhof</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-05-02</idno>
             </event>
             <event when-iso="1902-05-02">
                <head>Otto Brahm an Arthur Schnitzler, 2.5.1902</head>

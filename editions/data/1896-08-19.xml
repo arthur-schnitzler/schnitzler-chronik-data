@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,15 +68,55 @@
       <body>
          <listEvent>
             <event when-iso="1896-08-19">
-               <head corresp="#pmb958">Skodsborg</head>
+               <head>Arthur Schnitzler an Marie Herzfeld, 19. 8. 1896</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11666">Herzfeld, Marie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33339">To Forestillinger af Henrik IV</title>
+                     </bibl>
+                  </listBibl>
                   <listPlace>
-                     <place corresp="#pmb1091">
-                        <placeName>Badehotellet</placeName>
+                     <place>
+                        <placeName ref="pmb958">Skodsborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb46000">Grundlsee [Gemeinde]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb17">Steiermark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-19</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04328.html</idno>
             </event>
             <event when-iso="1896-08-19">
                <head>Arthur Schnitzler an Marie Reinhard, 19. 8. 1896</head>

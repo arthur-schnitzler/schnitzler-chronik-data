@@ -23,58 +23,77 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04358",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1904-05-04",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04358.html",
  "head":
- "Rom",
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 4. 5. 1904",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
   [
  {
  "placeName":
- "Grand Hotel Roma",
+ "Rom",
  "ref":
- ""}
+ "pmb445"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
  ,  {
  "placeName":
  "Forum Romanum",
  "ref":
- ""}
+ "pmb231403"}
  ,  {
  "placeName":
- "Kolosseum [Rom]",
+ "Tempel von Castor und Pollux",
  "ref":
- ""}
+ "pmb353176"}
  ,  {
  "placeName":
- "San Pietro in Vincoli al Colle Oppio",
+ "Basilica Julia",
  "ref":
- ""}
- ,  {
- "placeName":
- "Ristorante Umberto",
- "ref":
- ""}
- ,  {
- "placeName":
- "Caracalla-Thermen",
- "ref":
- ""}
- ,  {
- "placeName":
- "Cestius-Pyramide",
- "ref":
- ""}
- ,  {
- "placeName":
- "Hotel Colonna",
- "ref":
- ""}
+ "pmb353178"}
  ]
 }
 }] 

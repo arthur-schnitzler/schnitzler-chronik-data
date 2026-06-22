@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -141,13 +141,16 @@
                         <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12698">Julius Schnitzler</persName>
                      </person>
                      <person>
+                        <persName ref="pmb24423">Helene Schnitzler</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -155,10 +158,10 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -190,27 +193,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03140.html</idno>
-            </event>
-            <event when-iso="1894-07-03">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-07-03</idno>
-            </event>
-            <event when-iso="1894-07-03">
-               <head corresp="#pmb54767">Rekawinkel</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-07-03</idno>
             </event>
             <event when-iso="1894-07-03">
                <head>Adele Sandrock an Arthur Schnitzler, 3.7.1894</head>

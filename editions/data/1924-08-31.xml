@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,43 +102,50 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-08-31.html</idno>
             </event>
             <event when-iso="1924-08-31">
-               <head corresp="#pmb885">Lugano</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 31. 8. 1924</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#pmb263339">
-                        <placeName>Bahnhof Lugano</placeName>
+                     <place>
+                        <placeName ref="pmb43084">Bellinzona</placeName>
                      </place>
-                     <place corresp="#pmb263330">
-                        <placeName>Ristorante Biaggi</placeName>
+                     <place>
+                        <placeName ref="pmb49781">Locarno</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb12589">Celerina</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb967">Luzern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb885">Lugano</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb484">Zürich</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-08-31</idno>
-            </event>
-            <event when-iso="1924-08-31">
-               <head corresp="#pmb49781">Locarno</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb263996">
-                        <placeName>Bahnhof Locarno</placeName>
-                     </place>
-                     <place corresp="#pmb264004">
-                        <placeName>Grand Hôtel Locarno</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-08-31</idno>
-            </event>
-            <event when-iso="1924-08-31">
-               <head corresp="#pmb290218">Orselina</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb264001">
-                        <placeName>Madonna del Sasso</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1924-08-31</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04355.html</idno>
             </event>
          </listEvent>
       </body>

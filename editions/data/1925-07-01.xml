@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,42 +114,58 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-07-01.html</idno>
             </event>
             <event when-iso="1925-07-01">
-               <head corresp="#pmb40260">Bozen</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 1. 7. 1925</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25841">Alexander J. Tairow</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30215">Der Schleier der Pierrette. Pantomime in drei Bildern</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb353200">?? [Zeitungsnotiz, dass Schnitzler nicht zur Premiere von Schleier der
+                  Pierrette kommt]</title>
+                     </bibl>
+                  </listBibl>
                   <listPlace>
-                     <place corresp="#pmb233170">
-                        <placeName>Hotel Greif</placeName>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb353180">Waltherplatz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb20">Volkstheater</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb186147">Kamerny Theatre</orgName>
+                     </org>
+                  </listOrg>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-07-01</idno>
-            </event>
-            <event when-iso="1925-07-01">
-               <head corresp="#pmb954">Trient</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb182745">
-                        <placeName>Café Ristorante Europe</placeName>
-                     </place>
-                     <place corresp="#pmb147335">
-                        <placeName>Bahnhof Trient</placeName>
-                     </place>
-                     <place corresp="#pmb254409">
-                        <placeName>Dom von Trient</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-07-01</idno>
-            </event>
-            <event when-iso="1925-07-01">
-               <head corresp="#pmb91265">Molveno</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-07-01</idno>
-            </event>
-            <event when-iso="1925-07-01">
-               <head corresp="#pmb41083">Mendelpass</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-07-01</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04361.html</idno>
             </event>
             <event when-iso="1925-07-01">
                <head>Tagebuch von Clara Katharina Pollaczek, 25. Juni – 1. Juli 1925</head>

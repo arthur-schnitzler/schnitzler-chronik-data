@@ -1,22 +1,89 @@
 [{
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04328",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1896-08-19",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04328.html",
  "head":
- "Skodsborg",
+ "Arthur Schnitzler an Marie Herzfeld, 19. 8. 1896",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Marie Herzfeld",
+ "ref":
+ "pmb11666"},
+ {
+ "persName":
+ "Georg Brandes",
+ "ref":
+ "pmb10992"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
+ ,  {
+ "title":
+ "To Forestillinger af Henrik IV",
+ "ref":
+ "pmb33339"}
+ ],
+ "listPlace":
   [
  {
  "placeName":
- "Badehotellet",
+ "Skodsborg",
  "ref":
- ""}
+ "pmb958"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Grundlsee [Gemeinde]",
+ "ref":
+ "pmb46000"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Steiermark",
+ "ref":
+ "pmb17"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

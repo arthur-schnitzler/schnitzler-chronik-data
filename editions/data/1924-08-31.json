@@ -60,75 +60,82 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04355",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1924-08-31",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04355.html",
  "head":
- "Lugano",
+ "Arthur Schnitzler an Gustav Schwarzkopf, 31. 8. 1924",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Lili Cappellini",
+ "ref":
+ "pmb2238"}],
+ "listPlace":
   [
  {
  "placeName":
- "Bahnhof Lugano",
+ "Bellinzona",
  "ref":
- ""}
+ "pmb43084"}
  ,  {
  "placeName":
- "Ristorante Biaggi",
- "ref":
- ""}
- ]
-}
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1924-08-31",
- "head":
  "Locarno",
- "desc":
-{"listPlace":
-  [
- {
- "placeName":
- "Bahnhof Locarno",
  "ref":
- ""}
+ "pmb49781"}
  ,  {
  "placeName":
- "Grand Hôtel Locarno",
+ "Wien",
  "ref":
- ""}
- ]
-}
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1924-08-31",
- "head":
- "Orselina",
- "desc":
-{"listPlace":
-  [
- {
+ "pmb50"}
+ ,  {
  "placeName":
- "Madonna del Sasso",
+ "I., Innere Stadt",
  "ref":
- ""}
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
+ ,  {
+ "placeName":
+ "Celerina",
+ "ref":
+ "pmb12589"}
+ ,  {
+ "placeName":
+ "Luzern",
+ "ref":
+ "pmb967"}
+ ,  {
+ "placeName":
+ "Lugano",
+ "ref":
+ "pmb885"}
+ ,  {
+ "placeName":
+ "Zürich",
+ "ref":
+ "pmb484"}
  ]
 }
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,32 +128,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-01-02.html</idno>
             </event>
             <event when-iso="1929-01-02">
-               <head corresp="#pmb168">Berlin</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 2. 1. 1929</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#pmb233797">
-                        <placeName>Weinhandlung Ewest</placeName>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
-                     <place corresp="#pmb235301">
-                        <placeName>Berlin Anhalter Bahnhof</placeName>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
-                     <place corresp="#pmb245">
-                        <placeName>Hotel Esplanade [Berlin]</placeName>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
-                     <place corresp="#pmb185953">
-                        <placeName>Deutsches Künstlertheater</placeName>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
                      </place>
-                     <place corresp="#pmb235304">
-                        <placeName>Kronprinzenpalais</placeName>
-                        <listPlace>
-                           <place corresp="#pmb235310">
-                              <placeName>Neue Abteilung der Nationalgalerie Berlin im Kronprinzenpalais</placeName>
-                           </place>
-                        </listPlace>
+                     <place>
+                        <placeName ref="pmb245">Hotel Esplanade [Berlin]</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb353155">Grüne Woche</orgName>
+                     </org>
+                  </listOrg>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1929-01-02</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04352.html</idno>
             </event>
             <event when-iso="1929-01-02">
                <head>Aufführung von Der Zinker, 2.1.1929</head>

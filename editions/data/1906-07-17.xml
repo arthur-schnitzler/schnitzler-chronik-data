@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -113,19 +113,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb173"/>
+                        <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40101"/>
+                        <placeName ref="pmb40101">Liesingerstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240"/>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50"/>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb726"/>
+                        <placeName ref="pmb726">Helsingør</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb939">Heiligenkreuz</placeName>
@@ -188,22 +188,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03431.html</idno>
-            </event>
-            <event when-iso="1906-07-17">
-               <head corresp="#pmb726">Helsingør</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb959">
-                        <placeName>Marienlyst</placeName>
-                        <listPlace>
-                           <place corresp="#pmb41010">
-                              <placeName>Kurhotellet</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-07-17</idno>
             </event>
          </listEvent>
       </body>

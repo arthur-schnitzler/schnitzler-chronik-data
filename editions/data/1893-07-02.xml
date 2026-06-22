@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -134,45 +134,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00230.html</idno>
-            </event>
-            <event when-iso="1893-07-02">
-               <head corresp="#pmb213">Bad Ischl</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb414">
-                        <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
-                     </place>
-                     <place corresp="#pmb91151">
-                        <placeName>Lindau [Bad Ischl]</placeName>
-                        <listPlace>
-                           <place corresp="#pmb192783">
-                              <placeName>Alte Bundesstraße</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#pmb41463">
-                        <placeName>Schulgasse</placeName>
-                     </place>
-                     <place corresp="#pmb192788">
-                        <placeName>Hotel Stern [Bad Ischl]</placeName>
-                     </place>
-                     <place corresp="#pmb248791">
-                        <placeName>Bahnhof Bad Ischl</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-07-02</idno>
-            </event>
-            <event when-iso="1893-07-02">
-               <head corresp="#pmb30">Salzburg</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb50792">
-                        <placeName>Hauptbahnhof Salzburg</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-07-02</idno>
             </event>
          </listEvent>
       </body>

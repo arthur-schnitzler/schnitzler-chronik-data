@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,20 +79,43 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-01-17.html</idno>
             </event>
             <event when-iso="1902-01-17">
-               <head corresp="#pmb50">Wien</head>
+               <head>Arthur Schnitzler an Rainer Maria Rilke, 17. Januar 1902</head>
                <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb258928">Ruth Sieber</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb353122">Clara Westhoff</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29414">Neues Wiener Tagblatt</orgName>
+                     </org>
+                  </listOrg>
                </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-17</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04345.html</idno>
             </event>
             <event when-iso="1902-01-17">
                <head>Arthur Schnitzler an Rainer Maria Rilke, 17.1.1902</head>

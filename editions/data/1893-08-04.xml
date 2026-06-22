@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,15 +99,6 @@
                      <person>
                         <persName ref="pmb11673">Herzl, Theodor</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -119,51 +110,38 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb969">Südtirol</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb651">Kärnten</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1003">Niederösterreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb17">Steiermark</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1003">Niederösterreich</placeName>
+                        <placeName ref="pmb651">Kärnten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03904.html</idno>
-            </event>
-            <event when-iso="1893-08-04">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb167782">
-                              <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-08-04</idno>
             </event>
          </listEvent>
       </body>

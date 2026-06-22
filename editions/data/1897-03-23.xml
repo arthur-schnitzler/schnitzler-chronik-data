@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,7 +132,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName ref="pmb4">Bösendorfer Saal</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
@@ -191,7 +191,7 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift</orgName>
+                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -244,7 +244,7 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb296028">Heimweh [dreiaktige Tragikomödie]</title>
+                        <title ref="pmb296028">Heimkehr [dreiaktige Tragikomödie]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296030">Orchideen [Schauspiel in drei Akten]</title>
@@ -275,25 +275,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03713.html</idno>
-            </event>
-            <event when-iso="1897-03-23">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#pmb168581">
-                        <placeName>?? [»bei Uns«, Absteigequartier IV Marie Reinhard und Arthur Schnitzler]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-03-23</idno>
             </event>
             <event when-iso="1897-03-23">
                <head>Clara Katharina Pollaczek an Arthur Schnitzler, 23. März 1897</head>

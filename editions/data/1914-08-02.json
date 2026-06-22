@@ -115,50 +115,62 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04351",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1914-08-02",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04351.html",
  "head":
- "Celerina",
+ "Arthur Schnitzler an Gustav Schwarzkopf, 2. 8. 1914",
  "desc":
-{"listPlace":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
   [
  {
  "placeName":
- "Cresta Palace",
+ "Celerina",
  "ref":
- ""}
+ "pmb12589"}
  ,  {
  "placeName":
- "Punt Muragl, Talstation",
+ "Wien",
  "ref":
- ""}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
+ ,  {
+ "placeName":
+ "Cresta Palace",
+ "ref":
+ "pmb1138"}
  ]
 }
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1914-08-02",
- "head":
- "Pontresina"
-}, {
- "type":
- "wienerschnitzler",
- "color":
- "#6F5106",
- "caption":
- "Wiener Schnitzler",
- "idno":
- "https://wienerschnitzler.org/tag.html#1914-08-02",
- "head":
- "St. Moritz"
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -98,13 +98,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863"/>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11707"/>
+                        <persName ref="pmb11707">Robert Hirschfeld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12608"/>
+                        <persName ref="pmb12608">Charles Augustin de Sainte-Beuve</persName>
                      </person>
                      <person>
                         <persName ref="pmb12740">Gustav Schwarzkopf</persName>
@@ -175,22 +175,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00026.html</idno>
-            </event>
-            <event when-iso="1891-08-01">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1891-08-01</idno>
             </event>
          </listEvent>
       </body>

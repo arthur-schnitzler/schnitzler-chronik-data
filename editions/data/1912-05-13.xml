@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,7 +132,7 @@
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50"/>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -159,25 +159,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02678.html</idno>
-            </event>
-            <event when-iso="1912-05-13">
-               <head corresp="#pmb45260">Brijuni</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-05-13</idno>
-            </event>
-            <event when-iso="1912-05-13">
-               <head corresp="#pmb873">Triest</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#pmb246196">
-                        <placeName>Triest Hauptbahnhof</placeName>
-                     </place>
-                     <place corresp="#pmb246190">
-                        <placeName>Savoia Excelsior Palace</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-05-13</idno>
             </event>
             <event when-iso="1912-05-13">
                <head>Unbekannt an Schnitzler, Arthur [Briefe]</head>

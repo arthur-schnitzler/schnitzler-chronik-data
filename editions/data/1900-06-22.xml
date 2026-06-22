@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,7 +109,7 @@
                         <persName ref="pmb181519">Alexander von Weismayr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2780">Marguerite de Navarre</persName>
+                        <persName ref="pmb2780">Margarete von Navarra Navarra</persName>
                      </person>
                      <person>
                         <persName ref="pmb3379">Albert Langen</persName>
@@ -195,27 +195,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04227.html</idno>
-            </event>
-            <event when-iso="1900-06-22">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-06-22</idno>
-            </event>
-            <event when-iso="1900-06-22">
-               <head corresp="#pmb44413">Brühl</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-06-22</idno>
             </event>
          </listEvent>
       </body>

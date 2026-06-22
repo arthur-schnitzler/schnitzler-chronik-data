@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-10.">10.06.2026</date>
+            <date when-iso="2026-06-22.">22.06.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -126,7 +126,7 @@
                         <title ref="pmb76499">Das neue Ghetto. Schauspiel in vier Acten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76502">Wilddiebe</title>
+                        <title ref="pmb76502">Wilddiebe. Lustspiel in vier Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
@@ -171,30 +171,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03836.html</idno>
-            </event>
-            <event when-iso="1894-11-13">
-               <head corresp="#pmb50">Wien</head>
-               <desc>
-                  <listPlace>
-                     <place corresp="#51">
-                        <placeName>I., Innere Stadt</placeName>
-                        <listPlace>
-                           <place corresp="#pmb96">
-                              <placeName>Meissl &amp; Schadn</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                     <place corresp="#59">
-                        <placeName>IX., Alsergrund</placeName>
-                        <listPlace>
-                           <place corresp="#pmb168934">
-                              <placeName>Frankgasse 1</placeName>
-                           </place>
-                        </listPlace>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1894-11-13</idno>
             </event>
          </listEvent>
       </body>
