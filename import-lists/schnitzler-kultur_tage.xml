@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna, Austria</pubPlace>
-            <date>2026-06-22Z</date>
+            <date>2026-09-08Z</date>
             <idno type="URI">https://github.com/arthur-schnitzler/schnitzler-kultur/blob/main/data/editions/listevent.xml</idno>
             <idno type="handle">XXXX</idno>
          </publicationStmt>
@@ -34,6 +34,122 @@
    <text>
       <body>
          <listEvent>
+            <event when-iso="">
+               <head>Ball bei Louis Moskovicz de Zemplén, Februar 1886</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb21638">Moskovicz de Zemplén, Louis</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb234905">Riemergasse 2</placeName>
+                        <location>
+                           <geo>48,207905 16,377185</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195043.html</idno>
+            </event>
+            <event when-iso="">
+               <head>Ball bei Sigmund Stiassny, Februar 1886</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb25524">Stiassny, Sigmund</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195040.html</idno>
+            </event>
+            <event when-iso="">
+               <head>Redoute, Februar 1886</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195037.html</idno>
+            </event>
+            <event when-iso="">
+               <head>Hausball bei Bernhard Strisower, Februar 1886</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb25673">Strisower, Bernhard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                        <location>
+                           <geo>48,216542 16,363548</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195029.html</idno>
+            </event>
+            <event when-iso="">
+               <head>Probe von Mein Mausi, März 1886</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb80245">Mein Mausi. Lebensbild in 1 Act</title>
+                        <note type="relation-type">ist Probe von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb18345">Hochsinger, Rosa</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb14634">Brüll, Emil</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89627.html</idno>
+            </event>
             <event when-iso="1876-03-15">
                <head>Aufführung von Das heiß Eysen; Die ehrlich Bäckin mit ihren drei vermeinten Liebsten; Hanns Wurst, der traurige Küchelbäcker; Die reiche Erbin, 15.3.1876</head>
                <desc>
@@ -596,7 +712,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -1414,7 +1530,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -2262,7 +2378,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -3119,7 +3235,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -3300,7 +3416,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -4680,7 +4796,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -5667,7 +5783,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -6395,7 +6511,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -6447,7 +6563,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7042,7 +7158,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7288,7 +7404,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7383,7 +7499,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7405,7 +7521,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7459,7 +7575,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7489,7 +7605,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -7759,7 +7875,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8234,7 +8350,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8352,7 +8468,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8380,7 +8496,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8418,7 +8534,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8612,7 +8728,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -8908,7 +9024,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -9621,7 +9737,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -9976,7 +10092,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -10088,7 +10204,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -10341,7 +10457,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -10855,7 +10971,7 @@
                         <persName key="pmb18523">Horn, Paul</persName>
                      </person>
                      <person role="hat mitwirkend">
-                        <persName key="pmb24467">Schosberg, Hermine</persName>
+                        <persName key="pmb24467">Wallach, Hermine</persName>
                      </person>
                      <person role="hat mitwirkend">
                         <persName key="pmb17172">Goldmark, Karl</persName>
@@ -11169,7 +11285,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -11729,7 +11845,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -12430,7 +12546,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -12479,7 +12595,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -12580,7 +12696,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -13444,7 +13560,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -13935,7 +14051,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -13976,7 +14092,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -14072,7 +14188,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -14493,7 +14609,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -14545,7 +14661,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -15909,7 +16025,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -17045,91 +17161,6 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208006.html</idno>
             </event>
-            <event when-iso="1886-02-01">
-               <head>Ball bei Louis Moskovicz de Zemplén, Februar 1886</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb21638">Moskovicz de Zemplén, Louis</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb234905">Riemergasse 2</placeName>
-                        <location>
-                           <geo>48,207905 16,377185</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195043.html</idno>
-            </event>
-            <event when-iso="1886-02-01">
-               <head>Ball bei Sigmund Stiassny, Februar 1886</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb25524">Stiassny, Sigmund</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                        <location>
-                           <geo>48,208333 16,373056</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195040.html</idno>
-            </event>
-            <event when-iso="1886-02-01">
-               <head>Redoute, Februar 1886</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                        <location>
-                           <geo>48,208333 16,373056</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195037.html</idno>
-            </event>
-            <event when-iso="1886-02-01">
-               <head>Hausball bei Bernhard Strisower, Februar 1886</head>
-               <desc>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb25673">Strisower, Bernhard</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
-                        <location>
-                           <geo>48,216542 16,363548</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195029.html</idno>
-            </event>
             <event when-iso="1886-02-13">
                <head>Aufführung von Die Gipsfigur, 13.2.1886</head>
                <desc>
@@ -17318,37 +17349,6 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208014.html</idno>
             </event>
-            <event when-iso="1886-03-01">
-               <head>Probe von Mein Mausi, März 1886</head>
-               <desc>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb80245">Mein Mausi. Lebensbild in 1 Act</title>
-                        <note type="relation-type">ist Probe von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb18345">Hochsinger, Rosa</persName>
-                     </person>
-                     <person role="hat mitwirkend">
-                        <persName key="pmb14634">Brüll, Emil</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                        <location>
-                           <geo>48,208333 16,373056</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89627.html</idno>
-            </event>
             <event when-iso="1886-03-02">
                <head>Hausball bei Moriz Benedikt, 2.3.1886</head>
                <desc>
@@ -17488,7 +17488,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -18750,7 +18750,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -18772,7 +18772,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -18824,7 +18824,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -18868,7 +18868,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -19121,7 +19121,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -19811,7 +19811,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -20495,7 +20495,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -22144,7 +22144,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -22886,7 +22886,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -24969,7 +24969,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -25199,7 +25199,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -26522,7 +26522,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -26619,7 +26619,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -26947,7 +26947,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -27234,7 +27234,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -27721,7 +27721,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -28505,7 +28505,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -28806,7 +28806,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -29433,7 +29433,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -29660,7 +29660,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -29723,7 +29723,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -31972,7 +31972,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -31996,7 +31996,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -32394,7 +32394,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -33356,7 +33356,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -33513,7 +33513,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -33835,7 +33835,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -33987,7 +33987,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -35469,7 +35469,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -35722,7 +35722,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -36059,7 +36059,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -36078,7 +36078,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -36347,7 +36347,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -36478,7 +36478,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -38047,7 +38047,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -39590,7 +39590,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb81419">Charley’s Tante</title>
+                        <title key="pmb353201">Charley’s Tante. Farce in drei Akten</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -42270,7 +42270,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -42645,7 +42645,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -42971,7 +42971,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -43123,7 +43123,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -43517,7 +43517,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47153,7 +47153,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47328,7 +47328,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47380,7 +47380,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47543,7 +47543,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47568,7 +47568,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -47593,7 +47593,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -48001,7 +48001,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -48025,7 +48025,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -48537,7 +48537,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -48913,7 +48913,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -51349,7 +51349,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -51398,7 +51398,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -51513,7 +51513,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -51629,7 +51629,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -51880,7 +51880,7 @@
                         <persName key="pmb21050">Markbreiter, Raoul</persName>
                      </person>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18530">Horn, Therese</persName>
+                        <persName key="pmb18530">Horn, Risa</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -52086,7 +52086,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -52823,7 +52823,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -55142,7 +55142,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb33085">Ledige Leute</title>
+                        <title key="pmb33085">Ledige Leute. Wiener Stück in drei Acten</title>
                         <note type="relation-type">ist Premiere von</note>
                      </bibl>
                   </listBibl>
@@ -55803,7 +55803,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -56509,7 +56509,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -60028,7 +60028,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -60284,7 +60284,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -60368,7 +60368,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -60804,7 +60804,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -61317,6 +61317,36 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209065.html</idno>
+            </event>
+            <event when-iso="1899-02-26">
+               <head>Hochzeit von Risa Strisower und Paul Horn, 26.2.1899</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb18523">Horn, Paul</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb18530">Horn, Risa</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                        <location>
+                           <geo>48,211649 16,374825</geo>
+                        </location>
+                     </place>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                        <location>
+                           <geo>48,216542 16,363548</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
             </event>
             <event when-iso="1899-02-26">
                <head>Siebtes Abonnementkonzert der Wiener Philharmoniker, 26.2.1899</head>
@@ -64059,7 +64089,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -65252,7 +65282,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -65352,7 +65382,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -65433,7 +65463,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -67000,7 +67030,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -67286,6 +67316,11 @@
             <event when-iso="1901-01-15">
                <head>Aufführung von Liebelei, 15.1.1901</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb353245">Schauspielschule Lina Stengel</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
@@ -67294,7 +67329,7 @@
                   </listBibl>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb27436">Zehngraf, Louise</persName>
+                        <persName key="pmb27436">Arnold, Louise</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -67970,7 +68005,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -69186,7 +69221,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -70356,7 +70391,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -70986,7 +71021,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -71830,7 +71865,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -72064,7 +72099,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -72139,7 +72174,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -72486,9 +72521,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb40694">Gentzgasse</placeName>
+                        <placeName role="veranstaltet in" key="pmb232166">Gentzgasse 110</placeName>
                         <location>
-                           <geo>48,228096 16,337917</geo>
+                           <geo>48,228877 16,335264</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -74490,7 +74525,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -74631,7 +74666,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -74965,7 +75000,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -75055,7 +75090,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -75102,7 +75137,7 @@
                         <persName key="pmb5096">Kassner, Rudolf</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb106469">Thun-Salm, Christiane</persName>
+                        <persName key="pmb26046">Thun-Hohenstein-Salm-Reifferscheidt, Christiane von</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -75153,7 +75188,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -75215,7 +75250,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -75557,7 +75592,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29841">Der Schlachtenlenker</title>
+                        <title key="pmb29841">Der Schlachtenlenker. Komödie in einem Aufzug</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
@@ -75872,7 +75907,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -75983,7 +76018,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -77725,7 +77760,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -77752,7 +77787,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -77989,7 +78024,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78107,7 +78142,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78181,7 +78216,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78495,7 +78530,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78522,7 +78557,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78687,7 +78722,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78711,7 +78746,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78778,7 +78813,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -78838,7 +78873,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -80410,6 +80445,15 @@
                      <person role="hat mitwirkend">
                         <persName key="pmb2235">Vallentin, Richard</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb18345">Hochsinger, Rosa</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11737">Hofmannsthal, Hugo August von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11718">Hochsinger, Carl</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -80669,7 +80713,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -81120,7 +81164,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -81285,7 +81329,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -81339,7 +81383,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -81514,7 +81558,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -81524,7 +81568,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209404.html</idno>
             </event>
             <event when-iso="1906-01-06">
-               <head>Private Lesung aus Der Weg ins Freie, 6.–7.1.1906</head>
+               <head>Private Lesung aus Der Weg ins Freie, 6.1.1906</head>
                <desc>
                   <listBibl>
                      <bibl>
@@ -81569,7 +81613,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -82606,7 +82650,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -82900,7 +82944,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -84521,7 +84565,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -84567,7 +84611,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -84704,7 +84748,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -84840,7 +84884,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb33085">Ledige Leute</title>
+                        <title key="pmb33085">Ledige Leute. Wiener Stück in drei Acten</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -84921,7 +84965,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -84967,7 +85011,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85119,7 +85163,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85162,7 +85206,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85184,7 +85228,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85380,7 +85424,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85509,7 +85553,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -85884,7 +85928,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -87859,7 +87903,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -89924,7 +89968,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -90157,7 +90201,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -90343,7 +90387,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -90382,7 +90426,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -90406,7 +90450,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -90592,7 +90636,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91142,7 +91186,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91238,7 +91282,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91442,7 +91486,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91726,7 +91770,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91849,7 +91893,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -91912,7 +91956,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -93147,7 +93191,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -93309,7 +93353,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -93458,7 +93502,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -93510,7 +93554,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -94035,7 +94079,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -94459,7 +94503,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -94484,7 +94528,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -94611,7 +94655,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -94725,7 +94769,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -96582,7 +96626,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -96811,6 +96855,9 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2496">Kaufmann, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb18345">Hochsinger, Rosa</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -97425,7 +97472,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -97758,7 +97805,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -97780,7 +97827,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -97823,7 +97870,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -97864,7 +97911,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -97950,7 +97997,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -98161,7 +98208,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -98276,7 +98323,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -98847,6 +98894,9 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2732">Jamrich, Maria Helene</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -99312,7 +99362,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -99768,7 +99818,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -100247,7 +100297,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -100582,7 +100632,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -100723,7 +100773,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -101132,7 +101182,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -101966,7 +102016,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -102325,7 +102375,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -102755,7 +102805,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -102785,7 +102835,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -102922,7 +102972,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -102979,7 +103029,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -103932,7 +103982,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                        <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                         <location>
                            <geo>48,209167 16,366111</geo>
                         </location>
@@ -134148,7 +134198,7 @@
                         <persName key="pmb24668">Schweinburg, Rosa</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb9810">Schweinburg, Erich</persName>
+                        <persName key="pmb9810">Schweinburg, Erich Fritz</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -136359,6 +136409,11 @@
             <event when-iso="1922-10-26">
                <head>Probe von Der grüne Kakadu, 26.10.1922</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb342822">Deutsches Schauspielhaus Brünn</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
@@ -136384,6 +136439,11 @@
             <event when-iso="1922-10-26">
                <head>Aufführung von Literatur, Die letzten Masken, 26.10.1922</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb342822">Deutsches Schauspielhaus Brünn</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb29869">Literatur</title>
@@ -138872,7 +138932,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb265477">[Vortragssaal Politiken]</placeName>
+                        <placeName role="veranstaltet in" key="pmb265477">Politikens Hus</placeName>
+                        <location>
+                           <geo>55,6769 12,5685</geo>
+                        </location>
                      </place>
                   </listPlace>
                </desc>
@@ -138926,7 +138989,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb265477">[Vortragssaal Politiken]</placeName>
+                        <placeName role="veranstaltet in" key="pmb265477">Politikens Hus</placeName>
+                        <location>
+                           <geo>55,6769 12,5685</geo>
+                        </location>
                      </place>
                   </listPlace>
                </desc>
@@ -148124,7 +148190,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb81419">Charley’s Tante</title>
+                        <title key="pmb353201">Charley’s Tante. Farce in drei Akten</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -149363,7 +149429,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb254197.html</idno>
             </event>
             <event when-iso="1925-07-05">
-               <head>Aufführung von Der Schleier der Pierrette, 5.7.1925</head>
+               <head>2. Aufführung von Der Schleier der Pierrette, 5.7.1925</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -151663,6 +151729,114 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb249504.html</idno>
             </event>
             <event when-iso="1926-02-07">
+               <head>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb14783">Böss, Gustav</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10886">Bergner, Elisabeth</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12692">Schnitzler, Heinrich</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12899">Sudermann, Hermann</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11246">Elias, Julius</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb8740">Löbe, Paul</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb6333">Bloem, Walter</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11391">Fulda, Ludwig</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10833">Barnowsky, Victor</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb8965">Molo, Walter von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb8214">Klaar, Alfred</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb18721">Jacobs, Monty</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb7000">Engel, Fritz</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12564">Rosner, Karl Peter</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb9661">Schaffner, Jakob</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11910">Kerr, Alfred</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb5684">Zobeltitz, Fedor von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb116776">Frank, Felix</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb14238">Birkenfeld, Günther</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb116101">Sohnrey, Heinrich</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb353646">Waetzoldt, Wilhelm</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11836">Jessner, Leopold</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12968">Trebitsch, Siegfried</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb13163">Wolff, Theodor</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb155056">Petersen, Julius</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb300863">Glasenapp, Kurt Carl von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb353658">[ohne Nachname], Betty</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb6189">Becker, Carl Heinrich</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb353662">Buchhorn, Josef</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb20733">Löhlein, Heinrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb249524">Leibnizstraße 105</placeName>
+                        <location>
+                           <geo>52,513542 13,314661</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
+            <event when-iso="1926-02-07">
                <head>Lesung von Lieutenant Gustl, Fräulein Else, 7.2.1926</head>
                <desc>
                   <listBibl>
@@ -151681,6 +151855,33 @@
                      </person>
                      <person role="hat mitwirkend">
                         <persName key="pmb10886">Bergner, Elisabeth</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb8965">Molo, Walter von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11391">Fulda, Ludwig</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb24658">Schwarzwald, Eugenie</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb14238">Birkenfeld, Günther</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb15908">Engel, Georg</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2238">Cappellini, Lili</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2774">Michaelis, Dora</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb353656">Flügel, Lucie</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -172219,7 +172420,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244737.html</idno>
             </event>
             <event when-iso="1931-01-20">
-               <head>Probe von Der Gang zum Weiher (3. und 4. Akt), 20.1.1931</head>
+               <head>Probe von Der Gang zum Weiher [3. und 4. Akt], 20.1.1931</head>
                <desc>
                   <listBibl>
                      <bibl>
