@@ -38,6 +38,99 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04344",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04344.html",
+ "head":
+ "Arthur Schnitzler an Rainer Maria Rilke, 7. 12. 1901",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Rainer Maria Rilke",
+ "ref":
+ "pmb9531"},
+ {
+ "persName":
+ "Alfred von Berger",
+ "ref":
+ "pmb10883"},
+ {
+ "persName":
+ "Clara Westhoff",
+ "ref":
+ "pmb353122"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Im Gespräch",
+ "ref":
+ "pmb364149"}
+ ,  {
+ "title":
+ "Der Liebende",
+ "ref":
+ "pmb364153"}
+ ,  {
+ "title":
+ "Die Letzten [Erzählung]",
+ "ref":
+ "pmb364157"}
+ ,  {
+ "title":
+ "Lebendige Stunden",
+ "ref":
+ "pmb29957"}
+ ,  {
+ "title":
+ "Frühling. Moderne Flugblätter. 4. Heft",
+ "ref":
+ "pmb364131"}
+ ,  {
+ "title":
+ "Die Letzten",
+ "ref":
+ "pmb364146"}
+ ,  {
+ "title":
+ "Das tägliche Leben. Drama in zwei Akten",
+ "ref":
+ "pmb79052"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Westerwede",
+ "ref":
+ "pmb258929"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -62,17 +155,4 @@
  ""}
  ]
 }
-}, {
- "type":
- "schnitzler-cmif",
- "subtype":
- "#j7685005-64da-4e31-99b6-b4641aa1628c",
- "color":
- "#654321",
- "caption":
- "Gedruckte Briefwechsel",
- "head":
- "Arthur Schnitzler an Rainer Maria Rilke, 7. 12. 1901",
- "source":
- "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,6 +79,104 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-12-03.html</idno>
             </event>
             <event when-iso="1901-12-03">
+               <head>Rainer Maria Rilke an Arthur Schnitzler, 3. 12. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10883">Alfred von Berger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb353122">Clara Westhoff</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29957">Lebendige Stunden</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb79052">Das tägliche Leben. Drama in zwei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb47979">Börsenblatt für den Deutschen Buchhandel</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb364146">Die Letzten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb258929">Westerwede</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb506">Hamburg</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29654">Albert Langen</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb61685">Residenz-Theater Berlin</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb45530">Deutsches Schauspielhaus in Hamburg</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04540.html</idno>
+            </event>
+            <event when-iso="1901-12-03">
+               <head>Rainer Maria Rilke an Arthur Schnitzler, [3. 12. 1901]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb364146">Die Letzten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb258929">Westerwede</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04537.html</idno>
+            </event>
+            <event when-iso="1901-12-03">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -128,21 +226,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209221.html</idno>
-            </event>
-            <event when-iso="1901-12-03">
-               <head>Rainer Maria Rilke an Arthur Schnitzler, 3.12.1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria
-                              Rilke</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinrich Schnitzler (Hg.): Rainer Maria Rilke und Arthur Schnitzler. Ihr
-                        Briefwechsel mit Anmerkungen. In: Wort und Wahrheit, 13. Jahrgang 1958, S.
-                        283-298.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#zd58d226-ca44-4dfa-b10c-81551ef4de77"/>
             </event>
          </listEvent>
       </body>

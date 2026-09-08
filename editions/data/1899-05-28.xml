@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -91,6 +91,43 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-05-28.html</idno>
+            </event>
+            <event when-iso="1899-05-28">
+               <head>Arthur Schnitzler, Hugo Hofmannsthal an Gustav Schwarzkopf, 28. 5. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb364392">Bahnhof Rosenburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91618">Rosenburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91749">Sigmundsherberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb55281">Horn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04421.html</idno>
             </event>
             <event when-iso="1899-05-28">
                <head>Paul Goldmann an Arthur Schnitzler, 28. 5. [1899]</head>
@@ -247,7 +284,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-28</idno>
             </event>
             <event when-iso="1899-05-28">
-               <head corresp="#pmb55281">Horn</head>
+               <head corresp="#pmb55281">Horn [Niederösterreich]</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-28</idno>
             </event>

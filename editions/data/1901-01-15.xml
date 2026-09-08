@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -121,6 +121,11 @@
             <event when-iso="1901-01-15">
                <head>Aufführung von Liebelei, 15.1.1901</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb353245">Schauspielschule Lina Stengel</orgName>
+                     </org>
+                  </listOrg>
                   <listBibl>
                      <bibl>
                         <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
@@ -129,7 +134,7 @@
                   </listBibl>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb27436">Zehngraf, Louise</persName>
+                        <persName key="pmb27436">Arnold, Louise</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>

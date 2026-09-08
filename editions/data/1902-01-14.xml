@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -148,6 +148,51 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03192.html</idno>
             </event>
             <event when-iso="1902-01-14">
+               <head>Rainer Maria Rilke an Arthur Schnitzler, 14. 1. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb353122">Clara Westhoff</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb258928">Ruth Sieber</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29877">Die letzten Masken</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb258929">Westerwede</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb364288">?? [Bauernhaus von Clara und Rainer Maria Rilke in Westerwede]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04542.html</idno>
+            </event>
+            <event when-iso="1902-01-14">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -162,21 +207,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-01-14</idno>
-            </event>
-            <event when-iso="1902-01-14">
-               <head>Rainer Maria Rilke an Arthur Schnitzler, 14.1.1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria
-                              Rilke</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinrich Schnitzler (Hg.): Rainer Maria Rilke und Arthur Schnitzler. Ihr
-                        Briefwechsel mit Anmerkungen. In: Wort und Wahrheit, 13. Jahrgang 1958, S.
-                        283-298.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#zd58d226-ca44-4dfa-b10c-81551ef4de77"/>
             </event>
             <event when-iso="1902-01-14">
                <head>Rilke, Rainer Maria an Schnitzler, Arthur [Briefe]</head>

@@ -53,41 +53,6 @@
  "pmb2121"},
  {
  "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Richard Specht",
- "ref":
- "pmb2456"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
- {
- "persName":
- "Joseph Samuel Bloch",
- "ref":
- "pmb93584"},
- {
- "persName":
- "Jesus",
- "ref":
- "pmb5539"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Stefan George",
- "ref":
- "pmb2437"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
@@ -98,14 +63,14 @@
  "pmb10863"},
  {
  "persName":
- "Fedor Mamroth",
+ "Theodor Herzl",
  "ref":
- "pmb4986"},
+ "pmb11673"},
  {
  "persName":
- "Roberto Bracco",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb2935"},
+ "pmb11740"},
  {
  "persName":
  "Clementine Goldmann",
@@ -113,19 +78,39 @@
  "pmb17163"},
  {
  "persName":
- "Isidor Singer",
+ "Stefan George",
  "ref":
- "pmb12790"},
+ "pmb2437"},
  {
  "persName":
- "Heinrich Kanner",
+ "Richard Specht",
  "ref":
- "pmb11867"},
+ "pmb2456"},
  {
  "persName":
- "Otto Eisenschitz",
+ "Jesus",
  "ref":
- "pmb4076"}],
+ "pmb5539"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Joseph Samuel Bloch",
+ "ref":
+ "pmb93584"},
+ {
+ "persName":
+ "Roberto Bracco",
+ "ref":
+ "pmb2935"},
+ {
+ "persName":
+ "Fedor Mamroth",
+ "ref":
+ "pmb4986"}],
  "listBibl":
   [
  {
@@ -145,14 +130,9 @@
  "pmb36340"}
  ,  {
  "title":
- "Pierrot bossu. Eine Commedia dell’Arte zur Fastnacht in gar zierlichen Reimen",
+ "Untreu. Komödie in 3 Acten",
  "ref":
- "pmb76857"}
- ,  {
- "title":
- "Schauspielhaus. [Untreu und Abschiedssouper]",
- "ref":
- "pmb94405"}
+ "pmb33217"}
  ,  {
  "title":
  "Frankfurter Zeitung",
@@ -160,14 +140,19 @@
  "pmb36344"}
  ,  {
  "title":
- "Untreu. Komödie in 3 Acten",
+ "Pierrot bossu. Eine Commedia dell’Arte zur Fastnacht in gar zierlichen Reimen",
  "ref":
- "pmb33217"}
+ "pmb76857"}
  ,  {
  "title":
  "Gedichte von Stefan George",
  "ref":
  "pmb93589"}
+ ,  {
+ "title":
+ "Schauspielhaus. [Untreu und Abschiedssouper]",
+ "ref":
+ "pmb94405"}
  ,  {
  "title":
  "Der Judenstaat. Versuch einer modernen Lösung der Judenfrage",
@@ -178,14 +163,14 @@
   [
  {
  "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -193,9 +178,9 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Wien",
  "ref":
- "pmb146"}
+ "pmb50"}
  ,  {
  "placeName":
  "Frankreich",
@@ -211,19 +196,72 @@
  "pmb29442"}
  ,  {
  "orgName":
- "E. Pierson’s Verlag",
- "ref":
- "pmb29771"}
- ,  {
- "orgName":
  "Reichsrat",
  "ref":
  "pmb118423"}
  ,  {
  "orgName":
+ "E. Pierson’s Verlag",
+ "ref":
+ "pmb29771"}
+ ,  {
+ "orgName":
  "Frankfurter Stadttheater",
  "ref":
- "pmb34987"}
+ "pmb88756"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04539",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04539.html",
+ "head":
+ "Rainer Maria Rilke an Arthur Schnitzler, 1. 4. 1896",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Rainer Maria Rilke",
+ "ref":
+ "pmb9531"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Bodo Wildberg",
+ "ref":
+ "pmb267148"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Wegwarten",
+ "ref":
+ "pmb340524"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

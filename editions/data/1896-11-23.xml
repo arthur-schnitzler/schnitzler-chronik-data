@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,7 +104,8 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-11-23.html</idno>
             </event>
             <event when-iso="1896-11-23">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, [23. oder 24. 11. 1896?]</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [23. oder
+                  24. 11. 1896?]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -155,6 +156,9 @@
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb353557">Palais Cavriani</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
@@ -162,9 +166,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb791">Habsburgergasse</placeName>
                      </place>
                   </listPlace>
                </desc>

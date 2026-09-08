@@ -81,6 +81,114 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04399",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04399.html",
+ "head":
+ "Rainer Maria Rilke an Arthur Schnitzler, 24. 6. 1901",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Rainer Maria Rilke",
+ "ref":
+ "pmb9531"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"},
+ {
+ "persName":
+ "Paul Leppin",
+ "ref":
+ "pmb99138"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Lieutenant Gustl. Novelle",
+ "ref":
+ "pmb29853"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
+ ,  {
+ "title":
+ "Avalun. [3. Heft: Rainer Maria Rilke]",
+ "ref":
+ "pmb364139"}
+ ,  {
+ "title":
+ "Frühling. Moderne Flugblätter. 4. Heft",
+ "ref":
+ "pmb364131"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Westerwede",
+ "ref":
+ "pmb258929"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "St. Anton am Arlberg",
+ "ref":
+ "pmb212"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Österreich-Ungarn",
+ "ref":
+ "pmb687"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -104,7 +212,7 @@
  "type":
  "schnitzler-bahr",
  "color":
- "#639FF9",
+ "#0369A1",
  "filename":
  "D041413",
  "caption":
@@ -130,17 +238,4 @@
  "pmb29959"}
  ]
 }
-}, {
- "type":
- "schnitzler-cmif",
- "subtype":
- "#zd58d226-ca44-4dfa-b10c-81551ef4de77",
- "color":
- "#654321",
- "caption":
- "Gedruckte Briefwechsel",
- "head":
- "Rainer Maria Rilke an Arthur Schnitzler, 24.6.1901",
- "source":
- "Heinrich Schnitzler (Hg.): Rainer Maria Rilke und Arthur Schnitzler. Ihr Briefwechsel mit Anmerkungen. In: Wort und Wahrheit, 13. Jahrgang 1958, S. 283-298."
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,6 +109,92 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-08-13.html</idno>
+            </event>
+            <event when-iso="1924-08-13">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [13. 8. 1924]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11659">Franz Herterich</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24825">Thomas Seltzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30205">Komödie der Verführung. In drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb12589">Celerina</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1138">Cresta Palace</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41062">Zuoz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39755">Vierwaldstättersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40405">Berner Oberland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb142864">Oberitalienische Seen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29336">Thomas Seltzer, Inc.</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04524.html</idno>
             </event>
             <event when-iso="1924-08-13">
                <head corresp="#pmb12589">Celerina</head>

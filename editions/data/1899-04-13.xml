@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -107,6 +107,9 @@
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -114,6 +117,15 @@
                      </bibl>
                      <bibl>
                         <title ref="pmb340529">Am Leben hin. Novellen und Skizzen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32512">Der Abenteurer und die Sängerin oder Die Geschenke des Lebens</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29849">Die Hochzeit der Sobeide</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -125,6 +137,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb14">Burgtheater</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb340535">Villa Waldfrieden</placeName>
@@ -194,20 +209,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209073.html</idno>
-            </event>
-            <event when-iso="1899-04-13">
-               <head>Arthur Schnitzler an Rainer Maria Rilke, 13. 4. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118601024">Rilke, Rainer
-                              Maria</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,13 +90,72 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1907-08-28.html</idno>
             </event>
             <event when-iso="1907-08-28">
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [28. 8.?] 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb363868">J. B.</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb363862">Sellajochhaus</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb65736">Selva di Val Gardena</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91731">Sella Pass</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb363866">Deutscher und Österreichischer Alpenverein</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04470.html</idno>
+            </event>
+            <event when-iso="1907-08-28">
                <head corresp="#pmb65736">Selva di Val Gardena</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-08-28</idno>
             </event>
             <event when-iso="1907-08-28">
-               <head corresp="#pmb91731">Sella Pass</head>
-               <desc/>
+               <head corresp="#pmb91731">Sellajoch</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb363862">
+                        <placeName>Sellajochhaus</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-08-28</idno>
             </event>
             <event when-iso="1907-08-28">

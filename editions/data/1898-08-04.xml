@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -87,6 +87,43 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1898-08-04.html</idno>
             </event>
             <event when-iso="1898-08-04">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 4. 8. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb18135">Wildbad Kreuth</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34048">Hotel Post [Tegernsee]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39752">Tegernsee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb64703">Kreuth</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04432.html</idno>
+            </event>
+            <event when-iso="1898-08-04">
                <head corresp="#pmb39752">Tegernsee</head>
                <desc>
                   <listPlace>
@@ -99,7 +136,13 @@
             </event>
             <event when-iso="1898-08-04">
                <head corresp="#pmb64703">Kreuth</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb18135">
+                        <placeName>Wildbad Kreuth</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-08-04</idno>
             </event>
          </listEvent>

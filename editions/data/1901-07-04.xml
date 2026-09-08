@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -271,6 +271,59 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01142.html</idno>
             </event>
             <event when-iso="1901-07-04">
+               <head>Arthur Schnitzler an Rainer Maria Rilke, 4. 7. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb364131">Frühling. Moderne Flugblätter. 4. Heft</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb364139">Avalun. [3. Heft: Rainer Maria Rilke]</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb212">St. Anton am Arlberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb867">Innsbruck</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04343.html</idno>
+            </event>
+            <event when-iso="1901-07-04">
                <head corresp="#pmb212">St. Anton am Arlberg</head>
                <desc>
                   <listPlace>
@@ -335,20 +388,6 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041415.html</idno>
-            </event>
-            <event when-iso="1901-07-04">
-               <head>Arthur Schnitzler an Rainer Maria Rilke, 4. 7. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118601024">Rilke, Rainer
-                              Maria</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1901-07-04">
                <head>Oswalt, W. Ernst an Schnitzler, Arthur [Briefe]</head>

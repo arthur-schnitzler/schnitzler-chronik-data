@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-06-22.">22.06.2026</date>
+            <date when-iso="2026-09-08.">08.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -77,6 +77,46 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-08-14.html</idno>
+            </event>
+            <event when-iso="1900-08-14">
+               <head>Arthur Schnitzler, Richard Beer-Hofmann, Leo Van-Jung an Gustav Schwarzkopf, 14. 8. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26392">Van-Jung, Leo</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb364249">Kaprunertal</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40435">Alpenhaus Kesselfall</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb90148">Berghaus Moserboden</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04416.html</idno>
             </event>
             <event when-iso="1900-08-14">
                <head>Felix Salten an Arthur Schnitzler, 14. 8. 1900</head>
@@ -146,11 +186,13 @@
                      <place corresp="#pmb40435">
                         <placeName>Alpenhaus Kesselfall</placeName>
                      </place>
-                     <place corresp="#pmb90148">
-                        <placeName>Berghaus Moserboden</placeName>
-                     </place>
                   </listPlace>
                </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-08-14</idno>
+            </event>
+            <event when-iso="1900-08-14">
+               <head corresp="#pmb90148">Berghaus Moserboden</head>
+               <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-08-14</idno>
             </event>
             <event when-iso="1900-08-14">

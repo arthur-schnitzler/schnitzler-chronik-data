@@ -27,6 +27,76 @@
  "color":
  "#A63437",
  "filename":
+ "L04416",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04416.html",
+ "head":
+ "Arthur Schnitzler, Richard Beer-Hofmann, Leo Van-Jung an Gustav Schwarzkopf, 14. 8. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Leo Van-Jung",
+ "ref":
+ "pmb26392"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Kaprunertal",
+ "ref":
+ "pmb364249"}
+ ,  {
+ "placeName":
+ "Alpenhaus Kesselfall",
+ "ref":
+ "pmb40435"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Berghaus Moserboden",
+ "ref":
+ "pmb90148"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L03310",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -145,13 +215,19 @@
  "Alpenhaus Kesselfall",
  "ref":
  ""}
- ,  {
- "placeName":
- "Berghaus Moserboden",
- "ref":
- ""}
  ]
 }
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1900-08-14",
+ "head":
+ "Berghaus Moserboden"
 }, {
  "type":
  "wienerschnitzler",
