@@ -133,71 +133,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01754.html</idno>
             </event>
             <event when-iso="1908-01-20">
-               <head>Karl Kraus an Arthur Schnitzler, 20. 1. 1908</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11988">Kraus, Karl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb29168">Albert Claughten Fox</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5693">Kete Fox</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30597">Rausch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33554">Salomé. Drame en une acte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33556">Nachtasyl. Szenen aus der Tiefe in vier Aufzügen</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb1227">Schwindgasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1230">Addison Street</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb208">Kleines Theater</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb254">England</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43406">Vereinigte Staaten von Amerika [USA]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44053">New York City</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44261">New Jersey</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29677">Franz-Grillparzer-Preis</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01754.html</idno>
-            </event>
-            <event when-iso="1908-01-20">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -212,6 +147,34 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-01-20</idno>
+            </event>
+            <event when-iso="1908-01-20">
+               <head>Franz Nabl an Arthur Schnitzler, 20.1.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Reinhard Urbach:
+                  Arthur Schnitzler – Franz Nabl. Briefwechsel. In: Studium Generale, Jg. 24, 1971,
+                  S. 1256-1270.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u02092b4-47df-42e7-a68c-556d17f8d217"/>
+            </event>
+            <event when-iso="1908-01-20">
+               <head>Arthur Schnitzler an Otto Brahm, 20.1.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

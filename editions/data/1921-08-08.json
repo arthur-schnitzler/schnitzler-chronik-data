@@ -173,106 +173,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02370",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02370.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 8. 8. 1921",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Lili Cappellini",
- "ref":
- "pmb2238"}],
- "listPlace":
-  [
- {
- "placeName":
- "Hotel am See",
- "ref":
- "pmb106"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Altaussee",
- "ref":
- "pmb34401"}
- ,  {
- "placeName":
- "Possenhofen",
- "ref":
- "pmb34896"}
- ,  {
- "placeName":
- "Salzkammergut",
- "ref":
- "pmb429"}
- ,  {
- "placeName":
- "Dachstein",
- "ref":
- "pmb45943"}
- ,  {
- "placeName":
- "Sarstein",
- "ref":
- "pmb45945"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Mallnitz",
- "ref":
- "pmb53548"}
- ,  {
- "placeName":
- "Adriatisches Meer",
- "ref":
- "pmb568"}
- ,  {
- "placeName":
- "Kärnten",
- "ref":
- "pmb651"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -427,4 +327,17 @@
  "#pmb34401"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Heinrich Schnitzler, 8. 8. 1921",
+ "source":
+ "Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter: https://schnitzler-briefe.acdh.oeaw.ac.at/)"
 }] 

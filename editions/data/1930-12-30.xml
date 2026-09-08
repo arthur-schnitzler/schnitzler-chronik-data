@@ -127,6 +127,20 @@
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp869.html</idno>
             </event>
+            <event when-iso="1930-12-30">
+               <head>Arthur Schnitzler an Samuel Fischer, 30.12.1930</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
          </listEvent>
       </body>
    </text>

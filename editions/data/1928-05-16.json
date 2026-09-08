@@ -140,61 +140,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03742",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03742.html",
- "head":
- "Arthur Schnitzler an Stefan Zweig, 16. 5. 1928",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Stefan Zweig",
- "ref":
- "pmb13212"}],
- "listPlace":
-  [
- {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "Paschinger Schlössl",
- "ref":
- "pmb253003"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -305,4 +250,17 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#v02efeb3-b382-4ed8-a71f-1366a4647e76",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Raoul Auernheimer an Arthur Schnitzler, 16.5.1928",
+ "source":
+ "The Correspondence of Arthur Schnitzler and Raoul Auernheimer with Raoul Auernheimer’s Aphorism. Edited with introduction and notes by Donald G. Daviau and Jorun B. Johns. Chapel Hill: The University of North Carolina Press, 1972 (University of North Carolina Studies in the Germanic Languages and Literatures, 73)."
 }] 

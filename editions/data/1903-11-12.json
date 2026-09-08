@@ -133,89 +133,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02990",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02990.html",
- "head":
- "Arthur Schnitzler an Felix Salten, 12. 11. 1903",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03359",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03359.html",
- "head":
- "Arthur Schnitzler an Felix Salten, 12. 11. 1903",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Aura Hertwig",
- "ref":
- "pmb2370"}],
- "listBibl":
-  [
- {
- "title":
- "Arthur Schnitzler [Halbprofil 1903]",
- "ref":
- "pmb167490"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -553,4 +470,43 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#y8d39a2f-76d4-4426-8799-986c8bf5bc60",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Samuel Fischer an Arthur Schnitzler, 12.11.1903",
+ "source":
+ "Samuel Fischer, Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main: 1989. (nur Korrespondenz mit Arthur Schnitzler)"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Samuel Fischer an Arthur Schnitzler, 12.11.1903",
+ "source":
+ "Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag 2018"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Felix Salten, 12. 11. 1903",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

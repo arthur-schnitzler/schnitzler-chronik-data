@@ -198,131 +198,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02967.html</idno>
             </event>
             <event when-iso="1899-09-04">
-               <head>Arthur Schnitzler an Felix Salten, 4. 9. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11021">Ferdinand Bronner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12201">Guy de Maupassant</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12968">Siegfried Trebitsch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16083">Ida Falk</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb17326">Ludwig Grann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb9149">Friedrich von Oppeln-Bronikowski</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb143241">Das Manhard-Zimmer</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31863">Familie Wawroch. Ein österreichisches Drama in vier Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32432">Das Bergwerk zu Falun</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb93681">Flucht</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb143251">Wiener Allgemeine Montags-Zeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb143256">Eine Goethe-Enquête</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb143260">Aus dem Nachlasse von Maupassant. Eine Leidenschaft</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb148493">Vater Milon und andere Erzählungen. Neue Novellen aus dem litterarischen Nachlaß</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb167898">Wiener Allgemeine Rundschau</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb145729">Fernen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb145735">Sedan</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb145738">Lebenszeit</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29839">Der Hinterbliebene</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31659">Schöne Seelen. Komödie in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33301">Der Hinterbliebene. Kurze Novellen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb34361">Begräbnis</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76518">Heldentod</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44172">Nürnberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb883">Wiesbaden</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb148518">Emil Goldschmidt Verlag</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02967.html</idno>
-            </event>
-            <event when-iso="1899-09-04">
                <head corresp="#pmb213">Bad Ischl</head>
                <desc>
                   <listPlace>
@@ -335,6 +210,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-04</idno>
+            </event>
+            <event when-iso="1899-09-04">
+               <head>Arthur Schnitzler an Felix Salten, 4. 9. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

@@ -123,89 +123,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03131",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03131.html",
- "head":
- "Felix Salten an Arthur Schnitzler, 27. 7. 1895",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Peter Altenberg",
- "ref":
- "pmb2147"}],
- "listBibl":
-  [
- {
- "title":
- "Die Münchener Kunstausstellungen. II. Im königl. Glaspalast",
- "ref":
- "pmb144701"}
- ,  {
- "title":
- "Die Münchener Kunstausstellungen. I. Im königl. Glaspalast",
- "ref":
- "pmb144705"}
- ,  {
- "title":
- "Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)",
- "ref":
- "pmb144711"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Goldener Brunnen",
- "ref":
- "pmb1163"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)",
- "ref":
- "pmb414"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "Gmunden",
- "ref":
- "pmb874"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -319,4 +236,30 @@
  "pmb895"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Marie Reinhard, 27.7.1895",
+ "source":
+ "Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag 2018"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Else Singer, 27. 7. 1895",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

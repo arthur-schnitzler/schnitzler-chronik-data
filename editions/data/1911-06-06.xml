@@ -202,65 +202,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03634.html</idno>
             </event>
             <event when-iso="1911-06-06">
-               <head>Stefan Zweig an Arthur Schnitzler, [zwischen 5. und
-                  12. 6. 1911?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb13212">Zweig, Stefan</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb175">Amerika</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb249577">Kochgasse 8</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb533">Währinger Cottage</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb39943">Kuba</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44053">New York City</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45794">Kanada</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb46765">Bermuda</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb57051">Südamerika</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb74">Restauration Türkenschanz-Park</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb880">Chicago</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91362">Nordamerika</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03634.html</idno>
-            </event>
-            <event when-iso="1911-06-06">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -378,6 +319,35 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10385</idno>
+            </event>
+            <event when-iso="1911-06-06">
+               <head>Arthur Schnitzler an Samuel Fischer, 6.6.1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
+            </event>
+            <event when-iso="1911-06-06">
+               <head>Otto Brahm an Arthur Schnitzler, 6.6.1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
             <event when-iso="1911-06-06">
                <head>Schnitzler, Arthur an Hajek, ... [Briefe]</head>

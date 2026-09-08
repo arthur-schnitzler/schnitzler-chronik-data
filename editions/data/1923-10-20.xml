@@ -194,6 +194,20 @@
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428608_0007.html</idno>
             </event>
             <event when-iso="1923-10-20">
+               <head>Arthur Schnitzler an Samuel Fischer, 20.10.1923</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
+            <event when-iso="1923-10-20">
                <head>Schnitzler, Arthur: Fräulein Else [Prosa] (Drucktitel)</head>
                <desc>Letztes Objekt aus der Mappe. ca 85 Bl.Abschr. mit hs. Korr.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00083262</idno>

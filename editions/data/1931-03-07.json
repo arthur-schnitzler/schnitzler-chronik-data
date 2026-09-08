@@ -113,74 +113,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02598",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02598.html",
- "head":
- "Arthur Schnitzler an Marie Herzfeld, 7. 3. 1931",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Marie Herzfeld",
- "ref":
- "pmb11666"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"}],
- "listBibl":
-  [
- {
- "title":
- "Das gerettete Venedig. Trauerspiel in fünf Aufzügen",
- "ref":
- "pmb31091"}
- ,  {
- "title":
- "Romeo and Juliet",
- "ref":
- "pmb31213"}
- ,  {
- "title":
- "Ascanio und Gioconda",
- "ref":
- "pmb31967"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "III., Landstraße",
- "ref":
- "pmb53"}
- ,  {
- "placeName":
- "Ölzeltgasse",
- "ref":
- "pmb65336"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -321,4 +253,17 @@
  "#pmb883"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Philip Moeller, 7. 3. 1931",
+ "source":
+ "Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter: https://schnitzler-briefe.acdh.oeaw.ac.at/)"
 }] 

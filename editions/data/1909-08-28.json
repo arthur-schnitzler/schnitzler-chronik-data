@@ -208,139 +208,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01869",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01869.html",
- "head":
- "Arthur Schnitzler an Hermann Bahr, 28. 8. 1909",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Heinrich Kley",
- "ref":
- "pmb2306"},
- {
- "persName":
- "Anna Bahr-Mildenburg",
- "ref":
- "pmb10818"}],
- "listPlace":
-  [
- {
- "placeName":
- "Zell am Ziller",
- "ref":
- "pmb134"}
- ,  {
- "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
- "placeName":
- "Tirol",
- "ref":
- "pmb423"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Alte Mariensäule",
- "ref":
- "pmb471"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01870",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01870.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 28. 8. 1909",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"}],
- "listBibl":
-  [
- {
- "title":
- "Theatinerkirche",
- "ref":
- "pmb52005"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Lido",
- "ref":
- "pmb259"}
- ,  {
- "placeName":
- "Grand Hotel des Bains",
- "ref":
- "pmb40983"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Theatinerkirche",
- "ref":
- "pmb52007"}
- ,  {
- "placeName":
- "Santa Maria Elisabetta",
- "ref":
- "pmb843"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -466,4 +333,43 @@
  "pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Olga Schnitzler, 28. 8. 1909",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#w6429315-92be-4f82-b2f1-926125f9bfa5",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Eugen Deimel an Arthur Schnitzler, 28.8.1909",
+ "source":
+ "Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#w6429315-92be-4f82-b2f1-926125f9bfa5",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Eugen Deimel an Arthur Schnitzler, zwischen 28.8.1909 und 29.8.1909",
+ "source":
+ "Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003"
 }] 

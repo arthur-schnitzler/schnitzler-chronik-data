@@ -212,125 +212,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03975.html</idno>
             </event>
             <event when-iso="1929-03-04">
-               <head>Arthur Schnitzler an Berta Zuckerkandl, 4. 3. 1929</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2211">André Antoine</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb22728">Frieda Pollak</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb38364">Wolfgang Heine</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11284">Gertrud Eysoldt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb114855">Fritz Kampers</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16412">Robert Forster-Larrinaga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23307">Hubert Reusch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299427">Vera Skidelsky</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299431">Magda Madeleine</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299435">Marianne Copony</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299439">Elvira Bach</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299442">Hans Tillo</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299445">Hedwig Therese Anna Sulzer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4441">Maximilian Sladek</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb9803">Viktor Schwanneke</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33015">Der Kampf um den Reigen. Vollständiger Bericht über die sechstägige Verhandlung gegen Direktion und Darsteller des Kleinen Schauspielhauses Berlin</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29877">Die letzten Masken</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb299697">Les Derniers masques. Comédie en un act</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58367">Au Perroquet Vert</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb59837">La Compagne. Comédie en une acte</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29756">Ernst Rowohlt Verlag</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb61824">Kleines Schauspielhaus Berlin</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb88613">Théâtre Antoine</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03975.html</idno>
-            </event>
-            <event when-iso="1929-03-04">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -355,6 +236,21 @@
                <head>Mappe A227</head>
                <desc>Datumsangabe auf Blatt von Zug der Schatten</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1589029_0154.html</idno>
+            </event>
+            <event when-iso="1929-03-04">
+               <head>Arthur Schnitzler an Berta Zuckerkandl, 4. 3. 1929</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118758160">Zuckerkandl, Berta</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
          </listEvent>
       </body>

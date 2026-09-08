@@ -130,40 +130,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01415.html</idno>
             </event>
             <event when-iso="1904-07-04">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, 4. 7. 1904</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45105">Gaisberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb49759">Parsch</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01415.html</idno>
-            </event>
-            <event when-iso="1904-07-04">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -238,6 +204,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10145</idno>
+            </event>
+            <event when-iso="1904-07-04">
+               <head>Arthur Schnitzler an Otto Brahm, 4.7.1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

@@ -182,6 +182,21 @@
                <desc>Datumsangabe auf Blatt von Roman-Fagment (Wurstl): »aus der Hand…«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428131_0033.html</idno>
             </event>
+            <event when-iso="1928-11-14">
+               <head>Arthur Schnitzler an Samuel Fischer, 14.11.1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
+            </event>
          </listEvent>
       </body>
    </text>

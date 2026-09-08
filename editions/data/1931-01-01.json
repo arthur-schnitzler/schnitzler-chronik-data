@@ -181,49 +181,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03485",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03485.html",
- "head":
- "Arthur Schnitzler an Felix Salten, 1. 1. 1931",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"}],
- "listBibl":
-  [
- {
- "title":
- "Arthur Schnitzler",
- "ref":
- "pmb167500"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -307,6 +264,19 @@
  "https://pollaczek.acdh.oeaw.ac.at/ckp870.html",
  "head":
  "Tagebuch von Clara Katharina Pollaczek, 1.–4. Januar 1931"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#dc95034c-3e70-47e1-9072-3fc75d84b47a",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Fritz Unruh an Arthur Schnitzler, 1.1.1931",
+ "source":
+ "Ulrich K. Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4, S. 69-128."
 }, {
  "type":
  "schnitzler-kino-buch",

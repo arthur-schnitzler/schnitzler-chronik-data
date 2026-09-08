@@ -119,46 +119,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04460.html</idno>
             </event>
             <event when-iso="1928-04-28">
-               <head>Arthur Schnitzler, Lili Cappellini, Arnoldo Cappellini an Gustav Schwarzkopf, 23. 4. 1928</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2238">Cappellini, Lili</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14850">Cappellini, Arnoldo</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb246248">Sultan-Ahmed-Moschee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb966">Istanbul</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04460.html</idno>
-            </event>
-            <event when-iso="1928-04-28">
                <head corresp="#pmb253115">?? [Mittelmeer, zwischen Rhodos und Dubrovnik]</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1928-04-28</idno>
@@ -168,6 +128,22 @@
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp542.html</idno>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp543.html</idno>
+            </event>
+            <event when-iso="1928-04-28">
+               <head>Arthur Schnitzler an Hedy Kempny, 28.4.1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

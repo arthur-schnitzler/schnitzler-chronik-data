@@ -130,43 +130,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00536.html</idno>
             </event>
             <event when-iso="1896-02-25">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 25. 2. 1896</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb6294">Hugo Bettauer</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb484">Zürich</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00536.html</idno>
-            </event>
-            <event when-iso="1896-02-25">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -189,6 +152,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-02-25</idno>
+            </event>
+            <event when-iso="1896-02-25">
+               <head>Arthur Schnitzler an Otto Brahm, 25. 2. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

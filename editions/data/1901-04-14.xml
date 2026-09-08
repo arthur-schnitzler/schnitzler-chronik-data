@@ -123,37 +123,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04519.html</idno>
             </event>
             <event when-iso="1901-04-14">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 14. 4. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb140806">Cattedrale di Santa Maria del Fiore</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04519.html</idno>
-            </event>
-            <event when-iso="1901-04-14">
                <head corresp="#pmb263">Florenz</head>
                <desc>
                   <listPlace>
@@ -191,6 +160,34 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297507.html</idno>
+            </event>
+            <event when-iso="1901-04-14">
+               <head>Arthur Schnitzler an Olga Schnitzler, 14. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
+            </event>
+            <event when-iso="1901-04-14">
+               <head>Arthur Schnitzler an Olga Schnitzler, 14. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

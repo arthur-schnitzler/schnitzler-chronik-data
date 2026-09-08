@@ -269,162 +269,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02979",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02979.html",
- "head":
- "Arthur Schnitzler an Felix Salten, 16. 10. 1902",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"},
- {
- "persName":
- "Samuel Fischer",
- "ref":
- "pmb11324"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
- "Émile Zola",
- "ref":
- "pmb13194"},
- {
- "persName":
- "Oskar Bie",
- "ref":
- "pmb2914"},
- {
- "persName":
- "Eduard von Keyserling",
- "ref":
- "pmb3797"}],
- "listBibl":
-  [
- {
- "title":
- "Monna Vanna. Schauspiel in drei Akten",
- "ref":
- "pmb143236"}
- ,  {
- "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
- "Neue Deutsche Rundschau",
- "ref":
- "pmb36152"}
- ,  {
- "title":
- "Wienerinnen. Lustspiel in drei Akten",
- "ref":
- "pmb29885"}
- ,  {
- "title":
- "Die kleine Veronika",
- "ref":
- "pmb76513"}
- ,  {
- "title":
- "Beate und Mareile. Eine Schloßgeschichte",
- "ref":
- "pmb78906"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Hotel Bristol Berlin",
- "ref":
- "pmb127"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Jagniątków",
- "ref":
- "pmb735"}
- ,  {
- "placeName":
- "Berliner Theater",
- "ref":
- "pmb738"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
- ,  {
- "orgName":
- "Schiller-Theater",
- "ref":
- "pmb57124"}
- ,  {
- "orgName":
- "S. Fischer Verlag",
- "ref":
- "pmb29639"}
- ,  {
- "orgName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb35597"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -508,4 +352,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 16.10.1902",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

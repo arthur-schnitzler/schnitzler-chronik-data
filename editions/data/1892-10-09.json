@@ -231,172 +231,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02702",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02702.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 9. 10. [1892]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Sébastien Roch Nicolas Chamfort",
- "ref":
- "pmb39417"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Sully Prudhomme",
- "ref":
- "pmb89450"},
- {
- "persName":
- "Ernest Renan",
- "ref":
- "pmb9484"},
- {
- "persName":
- "Julius Schnitzler",
- "ref":
- "pmb12698"},
- {
- "persName":
- "Theodor Loewe",
- "ref":
- "pmb2941"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"}],
- "listBibl":
-  [
- {
- "title":
- "Das Leben Jesu. Vollständige Volks-Ausgabe",
- "ref":
- "pmb89428"}
- ,  {
- "title":
- "Œuvres choises de Chamfort, tome 2",
- "ref":
- "pmb89439"}
- ,  {
- "title":
- "Maximes et Pensées, Caractères et Anecdotes",
- "ref":
- "pmb89447"}
- ,  {
- "title":
- "Les caresses",
- "ref":
- "pmb89460"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
- "Alkandi’s Lied",
- "ref":
- "pmb31637"}
- ,  {
- "title":
- "Notizen zu Lektüre und Theaterbesuchen (1879-1927)",
- "ref":
- "pmb35998"}
- ,  {
- "title":
- "Œuvres de Sully Prudhomme, tome 2",
- "ref":
- "pmb89463"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "rue Richelieu",
- "ref":
- "pmb34187"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
- ,  {
- "placeName":
- "Breslau",
- "ref":
- "pmb677"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
- "Bibliographisches Bureau",
- "ref":
- "pmb29716"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -548,6 +382,19 @@
  "pmb151"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Marie Glümer, 9. 10. 1892",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }, {
  "type":
  "kalliope-verbund",

@@ -173,48 +173,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04006.html</idno>
             </event>
             <event when-iso="1925-05-23">
-               <head>Berta Zuckerkandl an Arthur Schnitzler, [23. 5. 1925?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11659">Franz Herterich</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3579">Leopold Jacobson</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb307528">Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36376">Neues Wiener Journal</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04006.html</idno>
-            </event>
-            <event when-iso="1925-05-23">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -307,6 +265,21 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143957.html</idno>
+            </event>
+            <event when-iso="1925-05-23">
+               <head>Arthur Schnitzler an Jakob Lippowitz, 23. 5. 1925</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/139319417">Lippowitz, Jakob</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1925-05-23">
                <head>Schnitzler, Arthur an Barton, Gervaise [Briefe]</head>

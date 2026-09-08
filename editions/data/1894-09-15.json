@@ -146,129 +146,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00369",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00369.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 15. 9. 1894",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listPlace":
-  [
- {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Berghotel Franzenshöhe",
- "ref":
- "pmb41944"}
- ,  {
- "placeName":
- "Stilfser Joch",
- "ref":
- "pmb41945"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03147",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03147.html",
- "head":
- "Felix Salten an Arthur Schnitzler, 15. 9. 189[4?]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "M. J. Mayer",
- "ref":
- "pmb28278"}],
- "listPlace":
-  [
- {
- "placeName":
- "Hörlgasse 16",
- "ref":
- "pmb199347"}
- ,  {
- "placeName":
- "Sechsschimmelgasse",
- "ref":
- "pmb418"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Berliner Neueste Nachrichten",
- "ref":
- "pmb29207"}
- ,  {
- "orgName":
- "Münchener General-Anzeiger",
- "ref":
- "pmb29664"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -356,4 +233,17 @@
  "pmb29664"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Felix Salten an Arthur Schnitzler, 15.9.1894",
+ "source":
+ "Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag 2018"
 }] 

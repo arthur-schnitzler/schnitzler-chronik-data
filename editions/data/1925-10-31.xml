@@ -192,102 +192,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03961.html</idno>
             </event>
             <event when-iso="1925-10-31">
-               <head>Franziska Goldmann an Arthur Schnitzler, [Ende Oktober 1925?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb17167">Goldmann, Franziska</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29941">Fräulein Else</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03539.html</idno>
-            </event>
-            <event when-iso="1925-10-31">
-               <head>Arthur Schnitzler an Berta Zuckerkandl, 31. 10. 1925</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb17611">Firmin Gémier</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2199">Stephan Epstein</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2206">Émile Lutz</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23787">Maurice Rémon</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8045">Louis Jouvet</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29869">Literatur</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29941">Fräulein Else</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb299869">Littérature. Comédie en un acte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58367">Au Perroquet Vert</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb92876">Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03961.html</idno>
-            </event>
-            <event when-iso="1925-10-31">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -355,6 +259,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11201</idno>
+            </event>
+            <event when-iso="1925-10-31">
+               <head>Arthur Schnitzler an Samuel Fischer, 31.10.1925</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
             <event when-iso="1925-10-31">
                <head>Bernhard, Georg an Schnitzler, Arthur [Briefe]</head>

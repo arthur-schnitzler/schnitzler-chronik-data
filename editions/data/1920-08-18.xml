@@ -160,71 +160,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03685.html</idno>
             </event>
             <event when-iso="1920-08-18">
-               <head>Arthur Schnitzler an Stefan Zweig, 18. 8. [1920]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13212">Zweig, Stefan</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb297">Kapuzinerberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29336">Thomas Seltzer, Inc.</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03739.html</idno>
-            </event>
-            <event when-iso="1920-08-18">
-               <head>Stefan Zweig an Arthur Schnitzler, 18. 8. 1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb13212">Zweig, Stefan</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11324">Samuel Fischer</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb30129">Jedermann. Das Spiel vom Sterben des reichen Mannes</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29300">Salzburger Festspiele</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03685.html</idno>
-            </event>
-            <event when-iso="1920-08-18">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -293,6 +228,22 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239431.html</idno>
+            </event>
+            <event when-iso="1920-08-18">
+               <head>Hedy Kempny an Arthur Schnitzler, 18.8.1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

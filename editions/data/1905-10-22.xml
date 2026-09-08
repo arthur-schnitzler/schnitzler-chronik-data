@@ -135,6 +135,20 @@
                <desc>Handschriftliche Notiz zu Die große Szene</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428565_0076.html</idno>
             </event>
+            <event when-iso="1905-10-22">
+               <head>Arthur Schnitzler an Otto Brahm, 22.10.1905</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
+            </event>
          </listEvent>
       </body>
    </text>

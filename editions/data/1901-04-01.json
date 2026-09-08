@@ -168,134 +168,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01104",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01104.html",
- "head":
- "Arthur Schnitzler, Jakob Wassermann an Richard Beer-Hofmann, 1. 4. 1901",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wollzeile 15 (»Berthahof«)",
- "ref":
- "pmb190427"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "San Paolo fuori le mura",
- "ref":
- "pmb50766"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03524",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03524.html",
- "head":
- "Paul Goldmann an Olga Gussmann, 1. 4. [1901]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Olga Gussmann",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Paul Marx",
- "ref":
- "pmb21647"},
- {
- "persName":
- "Peter Cornelius",
- "ref":
- "pmb6704"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"}],
- "listBibl":
-  [
- {
- "title":
- "Brautlieder",
- "ref":
- "pmb147922"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -369,6 +241,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Olga Schnitzler, 1. 4. 1901",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }, {
  "type":
  "schnitzler-traeume",

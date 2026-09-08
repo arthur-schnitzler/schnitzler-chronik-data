@@ -130,94 +130,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00236",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00236.html",
- "head":
- "Arthur Schnitzler an Hugo von Hofmannsthal, 12. 7. 1893",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Carl Adolph Friese",
- "ref":
- "pmb11388"},
- {
- "persName":
- "Emil Höfer",
- "ref":
- "pmb11788"},
- {
- "persName":
- "Josef Jarno",
- "ref":
- "pmb2601"},
- {
- "persName":
- "Josefine Skura",
- "ref":
- "pmb29193"},
- {
- "persName":
- "Marie Griebl",
- "ref":
- "pmb4073"},
- {
- "persName":
- "Richard Grelling",
- "ref":
- "pmb5895"}],
- "listBibl":
-  [
- {
- "title":
- "Abschiedssouper",
- "ref":
- "pmb30005"}
- ,  {
- "title":
- "Die Frage an das Schicksal",
- "ref":
- "pmb30749"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -237,4 +149,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Louise Schnitzler, 12. 7. 1893",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

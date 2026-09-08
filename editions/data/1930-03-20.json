@@ -201,142 +201,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02534",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02534.html",
- "head":
- "Hermann Bahr an Arthur Schnitzler, 20. 3. 1930",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Ignaz Seipel",
- "ref":
- "pmb12762"},
- {
- "persName":
- "Isidor Fuchs",
- "ref":
- "pmb16781"},
- {
- "persName":
- "Julius Bauer",
- "ref":
- "pmb2150"},
- {
- "persName":
- "Camillo Walzel",
- "ref":
- "pmb26666"},
- {
- "persName":
- "Anna Bahr-Mildenburg",
- "ref":
- "pmb10818"},
- {
- "persName":
- "Alois Bahr",
- "ref":
- "pmb2132"}],
- "listBibl":
-  [
- {
- "title":
- "Die Wienerstadt in Wort und Bild",
- "ref":
- "pmb32003"}
- ,  {
- "title":
- "Die Wienerstadt in Wort und Bild",
- "ref":
- "pmb32005"}
- ,  {
- "title":
- "Die Wienerstadt in Wort und Bild",
- "ref":
- "pmb32007"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Burgtheater",
- "ref":
- "pmb14"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Barerstraße",
- "ref":
- "pmb161"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Ministerium für Unterricht",
- "ref":
- "pmb24"}
- ,  {
- "placeName":
- "Hochschule und Akademie für Musik und Darstellende Kunst",
- "ref":
- "pmb25"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Akademie der Tonkunst",
- "ref":
- "pmb29279"}
- ,  {
- "orgName":
- "Akademische Hochschule für Musik",
- "ref":
- "pmb43988"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -592,6 +456,19 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Heinz Salfner, 20. 3. 1930",
+ "source":
+ "Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter: https://schnitzler-briefe.acdh.oeaw.ac.at/)"
 }, {
  "type":
  "kalliope-verbund",

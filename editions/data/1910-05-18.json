@@ -108,86 +108,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02556",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02556.html",
- "head":
- "Olga Schnitzler, Arthur Schnitzler an Richard Beer-Hofmann, Paula Beer-Hofmann, 18. 5. 1910",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
- "Gabriel Beer-Hofmann",
- "ref":
- "pmb13923"},
- {
- "persName":
- "Naëmah Beer-Hofmann",
- "ref":
- "pmb2534"},
- {
- "persName":
- "Mirjam Beer-Hofmann",
- "ref":
- "pmb2668"}],
- "listPlace":
-  [
- {
- "placeName":
- "Hasenauerstraße 59",
- "ref":
- "pmb235251"}
- ,  {
- "placeName":
- "Zürich",
- "ref":
- "pmb484"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Grand Hotel Bellevue [Zürich]",
- "ref":
- "pmb53124"}
- ,  {
- "placeName":
- "XIX., Döbling",
- "ref":
- "pmb69"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -217,6 +137,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#m5ca120f-450d-4a59-9a44-d5822a34aee9",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Gustaf Linden an Arthur Schnitzler, 18.5.1910",
+ "source":
+ "Arthur Schnitzler, Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005 (Wechselbeziehungen Österreich-Norden, Band 7)."
 }, {
  "type":
  "kalliope-verbund",

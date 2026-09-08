@@ -141,89 +141,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02857",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02857.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 10. 9. 1898",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Caroline Burger",
- "ref":
- "pmb14707"},
- {
- "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"}],
- "listPlace":
-  [
- {
- "placeName":
- "Tianjin",
- "ref":
- "pmb118682"}
- ,  {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Bad Tölz",
- "ref":
- "pmb424"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "Tegernsee",
- "ref":
- "pmb39752"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Deutsche Post in China",
- "ref":
- "pmb118800"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -270,6 +187,19 @@
  "https://www.dla-marbach.de/find/opac/id/HS00074498/",
  "head":
  "Ein Theaterzettel der geplanten und abgesagten Aufführung von Faust findet sich im Nachlass von Schnitzler"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 10.9.1898",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }, {
  "type":
  "kalliope-verbund",

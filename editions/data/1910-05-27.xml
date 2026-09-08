@@ -125,46 +125,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02558.html</idno>
             </event>
             <event when-iso="1910-05-27">
-               <head>Olga Schnitzler, Arthur Schnitzler an Richard Beer-Hofmann, Paula Beer-Hofmann, 27. 5. 1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Beer-Hofmann, Paula</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb52051">Territet</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53208">Hôtel des Alpes-Grand Hôtel</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53627">Villars-sur-Ollon</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02558.html</idno>
-            </event>
-            <event when-iso="1910-05-27">
                <head corresp="#pmb52051">Territet</head>
                <desc>
                   <listPlace>
@@ -319,6 +279,70 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10321</idno>
+            </event>
+            <event when-iso="1910-05-27">
+               <head>Samuel Fischer an Arthur Schnitzler, 27.5.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
+            <event when-iso="1910-05-27">
+               <head>Samuel Fischer an Arthur Schnitzler, 27.5.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
+            </event>
+            <event when-iso="1910-05-27">
+               <head>Erhalt von Zinaida Vengerova an Arthur Schnitzler, 23. 5. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName>Vengerova, Zinaida</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Die
+                  Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und Zinaida Vengerova.
+                  Herausgegeben von Konstantin Asadowski und Martin Anton Müller. In:
+                  Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022), S. 7–91.
+                  (Onlinezugriff:
+                  https://www.nomos-elibrary.de/10.5771/9783968219257-7/die-korrespondenz-von-arthur-schnitzler-mit-isabella-und-zinaida-vengerova)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif"
+                     subtype="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86"/>
+            </event>
+            <event when-iso="1910-05-27">
+               <head>Samuel Fischer an Arthur Schnitzler, 27.5.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl> Hermann Bahr,
+                  Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931.
+                  Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag
+                  2018 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif"
+                     subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
             </event>
          </listEvent>
       </body>

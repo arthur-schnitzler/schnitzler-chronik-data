@@ -89,6 +89,23 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1888-06-15</idno>
             </event>
+            <event when-iso="1888-06-15">
+               <head>Arthur Schnitzler an Johann Schnitzler, Louise Schnitzler, 15. 6. 1888</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116848669">Schnitzler, Johann</persName>
+                     </person>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/1141930552">Schnitzler, Louise</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
+            </event>
          </listEvent>
       </body>
    </text>

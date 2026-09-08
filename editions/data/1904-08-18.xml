@@ -178,92 +178,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03399.html</idno>
             </event>
             <event when-iso="1904-08-18">
-               <head>Hugo von Hofmannsthal an Arthur Schnitzler, 18. 8. 1904</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb26402">Robert Gilbert Vansittart</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3220">Christiane Zimmer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3241">Raimund von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3244">Franz von Hofmannsthal</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01429.html</idno>
-            </event>
-            <event when-iso="1904-08-18">
-               <head>Felix Salten an Arthur Schnitzler, 18. 8. 1904</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23915">Anna Katharina Rehmann</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03399.html</idno>
-            </event>
-            <event when-iso="1904-08-18">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -281,6 +195,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-08-18</idno>
+            </event>
+            <event when-iso="1904-08-18">
+               <head>Max Reinhardt an Arthur Schnitzler, 18.8.1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Renate Wagner (Hg.):
+                  Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern.
+                  Otto Müller Verlag, Salzburg: 1971.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
             </event>
          </listEvent>
       </body>

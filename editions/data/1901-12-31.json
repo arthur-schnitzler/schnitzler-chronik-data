@@ -188,132 +188,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03099",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03099.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 31. 12. [1901]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Irene Triesch",
- "ref":
- "pmb12977"}],
- "listBibl":
-  [
- {
- "title":
- "Lebendige Stunden. Vier Einakter",
- "ref":
- "pmb29863"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L04541",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L04541.html",
- "head":
- "Rainer Maria Rilke an Arthur Schnitzler, [31. 12. 1901]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Rainer Maria Rilke",
- "ref":
- "pmb9531"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Clara Westhoff",
- "ref":
- "pmb353122"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Paul Marx",
- "ref":
- "pmb21647"}],
- "listPlace":
-  [
- {
- "placeName":
- "Westerwede",
- "ref":
- "pmb258929"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Rilke Archiv",
- "ref":
- "pmb364339"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -333,4 +207,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Olga Schnitzler, 31. 12. 1901",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

@@ -130,43 +130,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03079.html</idno>
             </event>
             <event when-iso="1901-08-15">
-               <head>Paul Goldmann an Arthur Schnitzler, 15. 8. [1901]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb40808">Palast Hotel Lido</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb465">Riva del Garda</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb723">Wildbad Waldbrunn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91294">Mori</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40454">Villach</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44278">Pörtschach am Wörthersee</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03079.html</idno>
-            </event>
-            <event when-iso="1901-08-15">
                <head corresp="#pmb954">Trient</head>
                <desc>
                   <listPlace>
@@ -187,6 +150,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-15</idno>
+            </event>
+            <event when-iso="1901-08-15">
+               <head>Otto Brahm an Arthur Schnitzler, 15.8.1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

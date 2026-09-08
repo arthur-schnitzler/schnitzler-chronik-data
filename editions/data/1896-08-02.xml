@@ -125,6 +125,24 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-08-02</idno>
             </event>
+            <event when-iso="1896-08-02">
+               <head>Arthur Schnitzler, Richard Beer-Hofmann an Peter Nansen, 2.8.1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Peter Nansen -
+                  Arthur Schnitzler: Ein Briefwechsel zweier Geistsverwandter. Hg. Karin Bang. In:
+                  Småskrifter fra CØNK, Nr. 9, 2005, S. 1-60.
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae"/>
+            </event>
          </listEvent>
       </body>
    </text>

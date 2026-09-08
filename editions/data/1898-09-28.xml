@@ -143,60 +143,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02859.html</idno>
             </event>
             <event when-iso="1898-09-28">
-               <head>Paul Goldmann an Arthur Schnitzler, 28. 9. 1898</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2284">Markus Hajek</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2461">Gisela Hajek</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb118682">Tianjin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44565">Marseille</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53977">Yokohama</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb562">Genf</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb118800">Deutsche Post in China</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02859.html</idno>
-            </event>
-            <event when-iso="1898-09-28">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -211,6 +157,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-09-28</idno>
+            </event>
+            <event when-iso="1898-09-28">
+               <head>Moriz Ehrlich an Arthur Schnitzler, 28.9.1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116409304">Moriz Ehrlich</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

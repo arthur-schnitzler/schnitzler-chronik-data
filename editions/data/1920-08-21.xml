@@ -131,52 +131,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02355.html</idno>
             </event>
             <event when-iso="1920-08-21">
-               <head>Arthur Schnitzler an Georg Brandes, 21. 8. 1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10992">Brandes, Georg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb236">Attersee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02355.html</idno>
-            </event>
-            <event when-iso="1920-08-21">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -199,6 +153,22 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-08-21</idno>
+            </event>
+            <event when-iso="1920-08-21">
+               <head>Arthur Schnitzler an Hedy Kempny, 21.8.1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
             <event when-iso="1920-08-21">
                <head>Hedy Kempny, Tagebucheintrag vom 21. August 1920</head>

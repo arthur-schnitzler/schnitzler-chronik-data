@@ -131,99 +131,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02859",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02859.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 28. 9. 1898",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Markus Hajek",
- "ref":
- "pmb2284"},
- {
- "persName":
- "Gisela Hajek",
- "ref":
- "pmb2461"}],
- "listPlace":
-  [
- {
- "placeName":
- "Tianjin",
- "ref":
- "pmb118682"}
- ,  {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Marseille",
- "ref":
- "pmb44565"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Yokohama",
- "ref":
- "pmb53977"}
- ,  {
- "placeName":
- "Genf",
- "ref":
- "pmb562"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Deutsche Post in China",
- "ref":
- "pmb118800"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -243,4 +150,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Moriz Ehrlich an Arthur Schnitzler, 28.9.1898",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

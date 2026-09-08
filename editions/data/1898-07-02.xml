@@ -118,40 +118,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00810.html</idno>
             </event>
             <event when-iso="1898-07-02">
-               <head>Hugo von Hofmannsthal an Arthur Schnitzler, 2. 7. [1898]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb34108">Maloja</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45274">Tschortkiw</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb854">Basel</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb867">Innsbruck</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00810.html</idno>
-            </event>
-            <event when-iso="1898-07-02">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -174,6 +140,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-07-02</idno>
+            </event>
+            <event when-iso="1898-07-02">
+               <head>Otto Brahm an Arthur Schnitzler, 2.7.1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

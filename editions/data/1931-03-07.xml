@@ -132,45 +132,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02598.html</idno>
             </event>
             <event when-iso="1931-03-07">
-               <head>Arthur Schnitzler an Marie Herzfeld, 7. 3. 1931</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11666">Herzfeld, Marie</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb31091">Das gerettete Venedig. Trauerspiel in fünf Aufzügen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31213">Romeo and Juliet</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31967">Ascanio und Gioconda</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53">III., Landstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb65336">Ölzeltgasse</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02598.html</idno>
-            </event>
-            <event when-iso="1931-03-07">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -263,6 +224,21 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11645</idno>
+            </event>
+            <event when-iso="1931-03-07">
+               <head>Arthur Schnitzler an Philip Moeller, 7. 3. 1931</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName>Moeller, Philip</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
          </listEvent>
       </body>

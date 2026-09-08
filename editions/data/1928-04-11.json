@@ -202,148 +202,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03586",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03586.html",
- "head":
- "Felix Salten an Arthur Schnitzler, 11. 4. 1928",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listBibl":
-  [
- {
- "title":
- "Die Gedenktafel der Prinzessin Anna. Der Schrei der Liebe. Zwei Novellen",
- "ref":
- "pmb143748"}
- ,  {
- "title":
- "Der Schrei der Liebe. Novelle",
- "ref":
- "pmb76510"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Georg Müller Verlag",
- "ref":
- "pmb29584"}
- ,  {
- "orgName":
- "Wiener Verlag",
- "ref":
- "pmb29636"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03024",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03024.html",
- "head":
- "Arthur Schnitzler an Felix Salten, 11. 4. 1928",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Lili Cappellini",
- "ref":
- "pmb2238"},
- {
- "persName":
- "Arnoldo Cappellini",
- "ref":
- "pmb14850"}],
- "listBibl":
-  [
- {
- "title":
- "Quer durch den Wurstelprater",
- "ref":
- "pmb30969"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Rhodos",
- "ref":
- "pmb44292"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Athen",
- "ref":
- "pmb505"}
- ,  {
- "placeName":
- "Triest",
- "ref":
- "pmb873"}
- ,  {
- "placeName":
- "Istanbul",
- "ref":
- "pmb966"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Stella d’Italia",
- "ref":
- "pmb142987"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -427,6 +285,19 @@
  "https://pollaczek.acdh.oeaw.ac.at/ckp520.html",
  "head":
  "Tagebuch von Clara Katharina Pollaczek, 27. März – 1. Mai 1928"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Felix Salten, 11. 4. 1928",
+ "source":
+ "Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter: https://schnitzler-briefe.acdh.oeaw.ac.at/)"
 }, {
  "type":
  "schnitzler-kino-buch",

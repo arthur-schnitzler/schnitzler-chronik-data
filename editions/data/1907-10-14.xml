@@ -164,6 +164,34 @@
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10193</idno>
             </event>
+            <event when-iso="1907-10-14">
+               <head>Arthur Schnitzler an Samuel Fischer, 14.10.1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
+            <event when-iso="1907-10-14">
+               <head>Arthur Schnitzler an Gustaf Linden, 14.10.1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
          </listEvent>
       </body>
    </text>

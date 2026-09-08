@@ -185,86 +185,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02534.html</idno>
             </event>
             <event when-iso="1930-03-20">
-               <head>Hermann Bahr an Arthur Schnitzler, 20. 3. 1930</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10815">Bahr, Hermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12762">Ignaz Seipel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16781">Isidor Fuchs</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2150">Julius Bauer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb26666">Camillo Walzel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2132">Alois Bahr</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb32003">Die Wienerstadt in Wort und Bild</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32005">Die Wienerstadt in Wort und Bild</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32007">Die Wienerstadt in Wort und Bild</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb14">Burgtheater</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb161">Barerstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb24">Ministerium für Unterricht</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb25">Hochschule und Akademie für Musik und Darstellende Kunst</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29279">Akademie der Tonkunst</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb43988">Akademische Hochschule für Musik</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02534.html</idno>
-            </event>
-            <event when-iso="1930-03-20">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -420,6 +340,21 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11559</idno>
+            </event>
+            <event when-iso="1930-03-20">
+               <head>Arthur Schnitzler an Heinz Salfner, 20. 3. 1930</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/1061251942">Salfner, Heinz</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1930-03-20">
                <head>Reichenberger-Griechenbeisl &lt;Wien&gt; an Schnitzler, Arthur [Briefe]</head>

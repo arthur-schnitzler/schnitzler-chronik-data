@@ -91,69 +91,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00008",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00008.html",
- "head":
- "Michael Georg Conrad an Arthur Schnitzler, 14. 11. 1890",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Michael Georg Conrad",
- "ref":
- "pmb11098"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listBibl":
-  [
- {
- "title":
- "Die Gesellschaft. Monatsschrift für Litteratur, Kunst und Sozialpolitik",
- "ref":
- "pmb35919"}
- ,  {
- "title":
- "Morgenandacht",
- "ref":
- "pmb30151"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Kärntnerring 12/Bösendorferstraße 11",
- "ref":
- "pmb167805"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -201,4 +138,18 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#d2b0f559-bde7-4114-82b9-741a8810c463",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Schnitzler,
+                  Arthur an Olga Waissnix, 14.11.1890?",
+ "source":
+ "Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF: https://schnitzler-briefe.acdh.oeaw.ac.at)"
 }] 

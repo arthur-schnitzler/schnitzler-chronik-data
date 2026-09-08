@@ -139,38 +139,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00918.html</idno>
             </event>
             <event when-iso="1899-05-21">
-               <head>Hermann Bahr an Arthur Schnitzler, 21. 5. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10815">Bahr, Hermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13082">Carl Karlweis</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb32582">Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29296">Carl Konegen</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00918.html</idno>
-            </event>
-            <event when-iso="1899-05-21">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -242,6 +210,23 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209083.html</idno>
+            </event>
+            <event when-iso="1899-05-21">
+               <head>Franziska Lawner an Arthur Schnitzler, 21.5.1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Frau Bertha Garlan. Historisch-kritische Ausgabe. Herausgegeben von Gerhard
+                  Hubmann und Isabella Schwentner und Mitarbeit von Anna Lindner und Martin Anton
+                  Müller. Berlin, Boston: De Gruyter 2015 (Arthur Schnitzler: Werke in
+                  historisch-kritischen Ausgaben. Herausgegeben von Konstanze Fliedl), S.
+                  281–298.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#sb5b8e07-e0c8-47e6-8add-494150f56e37"/>
             </event>
          </listEvent>
       </body>

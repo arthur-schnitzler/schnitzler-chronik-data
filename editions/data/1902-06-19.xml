@@ -126,6 +126,21 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232015.html</idno>
             </event>
+            <event when-iso="1902-06-19">
+               <head>Olga Schnitzler an Arthur Schnitzler, 19.6.1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Max Haberich: Arthur
+                  Schnitzler. Anatom des Fin de Siècle. Die Biografie. Wien: Kremayr und Scheriau
+                  2017, ISBN 13: 9783218010641, Anhang: Korrespondenz Arthur und Olga Schnitzler, S.
+                  277–293.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#sf764ae3-dd0e-4189-99ce-df42a712c689"/>
+            </event>
          </listEvent>
       </body>
    </text>

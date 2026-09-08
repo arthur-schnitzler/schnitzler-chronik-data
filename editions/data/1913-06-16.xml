@@ -165,6 +165,23 @@
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10509</idno>
             </event>
+            <event when-iso="1913-06-16">
+               <head>Gustaf Linden, Olga Raphael an Arthur Schnitzler, 16.6.1913</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                     <person>
+                        <persName>Raphael, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
          </listEvent>
       </body>
    </text>

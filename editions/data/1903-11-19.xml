@@ -132,34 +132,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03351.html</idno>
             </event>
             <event when-iso="1903-11-19">
-               <head>Felix Salten an Arthur Schnitzler, [19?. 11. 1903]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb146023">Vasilij Ilʹič Safonov</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Ottilie Salten</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03351.html</idno>
-            </event>
-            <event when-iso="1903-11-19">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -278,6 +250,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10131</idno>
+            </event>
+            <event when-iso="1903-11-19">
+               <head>Samuel Fischer an Arthur Schnitzler, 19.11.1903</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
             <event when-iso="1903-11-19">
                <head>Schnitzler, Arthur an Friedlein, ... [Briefe]</head>

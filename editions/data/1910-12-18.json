@@ -118,79 +118,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01991",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01991.html",
- "head":
- "Georg Brandes an Arthur Schnitzler, 18. 12. 1910",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Georg Brandes",
- "ref":
- "pmb10992"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Johann Wolfgang von Goethe",
- "ref":
- "pmb11461"},
- {
- "persName":
- "Heinrich von Kleist",
- "ref":
- "pmb11933"}],
- "listBibl":
-  [
- {
- "title":
- "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
- "ref":
- "pmb29937"}
- ,  {
- "title":
- "Tagebücher",
- "ref":
- "pmb33356"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -293,4 +220,17 @@
  "#pmb833"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#s364f351-b14a-4d77-b480-295e58878c66",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Samuel Fischer, 18.12.1910",
+ "source":
+ "Hans Peter Buohler: Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In: Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215."
 }] 

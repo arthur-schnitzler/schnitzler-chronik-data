@@ -121,87 +121,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03167",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03167.html",
- "head":
- "Felix Salten an Arthur Schnitzler, [12?. 12. 1895]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Paulus",
- "ref":
- "pmb22404"},
- {
- "persName":
- "Eugen Gura",
- "ref":
- "pmb7605"},
- {
- "persName":
- "Rolf von Brockdorff",
- "ref":
- "pmb118692"},
- {
- "persName":
- "Rudolf Strauss",
- "ref":
- "pmb25627"}],
- "listBibl":
-  [
- {
- "title":
- "Liebelei. Eine Wiener Zeitschrift",
- "ref":
- "pmb118690"}
- ,  {
- "title":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb39950"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Ronacher",
- "ref":
- "pmb19"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb29670"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -297,4 +216,18 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#d2b0f559-bde7-4114-82b9-741a8810c463",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Waissnix,
+                  Olga an Arthur Schnitzler, 12.12.1895",
+ "source":
+ "Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF: https://schnitzler-briefe.acdh.oeaw.ac.at)"
 }] 

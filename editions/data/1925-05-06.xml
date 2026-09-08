@@ -140,42 +140,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03021.html</idno>
             </event>
             <event when-iso="1925-05-06">
-               <head>Arthur Schnitzler an Felix Salten, 6. 5. 1925</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Salten, Ottilie</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Ottilie Salten</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb76524">Neue Menschen auf alter Erde. Eine Palästinafahrt</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb815">Palästina</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb976">Czernowitz</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03021.html</idno>
-            </event>
-            <event when-iso="1925-05-06">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -201,6 +165,21 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-05-06</idno>
+            </event>
+            <event when-iso="1925-05-06">
+               <head>Arthur Schnitzler an Felix Salten, 6. 5. 1925</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
          </listEvent>
       </body>

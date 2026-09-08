@@ -144,34 +144,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02340.html</idno>
             </event>
             <event when-iso="1920-04-17">
-               <head>Hugo von Hofmannsthal an Olga Schnitzler, 17. 4. 1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02340.html</idno>
-            </event>
-            <event when-iso="1920-04-17">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -219,6 +191,22 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10748</idno>
+            </event>
+            <event when-iso="1920-04-17">
+               <head>Arthur Schnitzler an Hedy Kempny, 17.4.1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

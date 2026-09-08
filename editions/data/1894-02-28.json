@@ -114,92 +114,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02611",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02611.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 28. 2. [1894]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Henri Albert",
- "ref":
- "pmb2801"}],
- "listBibl":
-  [
- {
- "title":
- "Der Thor und der Tod",
- "ref":
- "pmb30279"}
- ,  {
- "title":
- "Mercure de France",
- "ref":
- "pmb36349"}
- ,  {
- "title":
- "Moderner Musen-Almanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst",
- "ref":
- "pmb32252"}
- ,  {
- "title":
- "Le nouvel almanach de M. Bierbaum",
- "ref":
- "pmb34296"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "rue Jacob",
- "ref":
- "pmb34189"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Mercure de France",
- "ref":
- "pmb34301"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -268,6 +182,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#g21edf0a-7af3-4163-813b-7d55aaaf2eba",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Adele Sandrock an Arthur Schnitzler, 28.2.1894",
+ "source":
+ "Renate Wagner (Hg.): Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Wien/München: Amalthea 1975."
 }, {
  "type":
  "kalliope-verbund",

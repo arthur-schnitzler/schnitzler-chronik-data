@@ -149,6 +149,20 @@
                <desc>Datumsangabe auf Blatt von Der letzte Brief eines Literaten: »Tragische Anekdote«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428692_0004.html</idno>
             </event>
+            <event when-iso="1910-04-18">
+               <head>Gustaf Linden an Arthur Schnitzler, 18.4.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
          </listEvent>
       </body>
    </text>

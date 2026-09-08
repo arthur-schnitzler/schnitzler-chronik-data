@@ -113,37 +113,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01532.html</idno>
             </event>
             <event when-iso="1905-07-25">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, 25. 7. 1905</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb651">Kärnten</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01532.html</idno>
-            </event>
-            <event when-iso="1905-07-25">
                <head corresp="#pmb483">Reichenau an der Rax</head>
                <desc>
                   <listPlace>
@@ -164,6 +133,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-07-25</idno>
+            </event>
+            <event when-iso="1905-07-25">
+               <head>Eugen Deimel an Arthur Schnitzler, 25.7.1905</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

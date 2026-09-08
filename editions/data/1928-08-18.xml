@@ -138,46 +138,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04349.html</idno>
             </event>
             <event when-iso="1928-08-18">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 18. 8. 1928</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb248986">Hotel Alpenrose [Hohenschwangau]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb90225">Alpsee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb90895">Hohenschwangau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91342">Schloss Neuschwanstein</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04349.html</idno>
-            </event>
-            <event when-iso="1928-08-18">
                <head corresp="#pmb169795">Schwangau</head>
                <desc>
                   <listPlace>
@@ -248,6 +208,53 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11438</idno>
+            </event>
+            <event when-iso="1928-08-18">
+               <head>Arthur Schnitzler an Hedy Kempny, 18.8.1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
+            </event>
+            <event when-iso="1928-08-18">
+               <head>Hedy Kempny an Arthur Schnitzler, 18.8.1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
+            </event>
+            <event when-iso="1928-08-18">
+               <head>Arthur Schnitzler an Clara Katharina Pollaczek, 18. 8. 1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/13950916X">Pollaczek, Clara Katharina</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
          </listEvent>
       </body>

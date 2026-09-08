@@ -160,50 +160,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03996.html</idno>
             </event>
             <event when-iso="1911-06-13">
-               <head>Berta Zuckerkandl an Arthur Schnitzler, [13. 6. 1911?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb15024">Sophie Clemenceau</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299883">
-      ?? [Arzt von Berta Zuckerkandl]
-  </persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334987">Der junge Medardus. (Zur Übersetzung ins Französische)</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03996.html</idno>
-            </event>
-            <event when-iso="1911-06-13">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -221,6 +177,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-06-13</idno>
+            </event>
+            <event when-iso="1911-06-13">
+               <head>Arthur Schnitzler an Julius Kapp, 13. 6. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116053585">Kapp, Julius</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1911-06-13">
                <head>Brief von Arthur Schnitzler an Richard Rosenbaum</head>

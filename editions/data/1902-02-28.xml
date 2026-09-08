@@ -122,38 +122,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03899.html</idno>
             </event>
             <event when-iso="1902-02-28">
-               <head>Theodor Herzl an Arthur Schnitzler, 28. 2. 1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11673">Herzl, Theodor</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33776">Dämmerseele</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb237534">Fichtegasse 11</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03899.html</idno>
-            </event>
-            <event when-iso="1902-02-28">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -190,6 +158,21 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-02-28</idno>
+            </event>
+            <event when-iso="1902-02-28">
+               <head>Peter Nansen an Arthur Schnitzler, 28.2.1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Peter Nansen -
+                  Arthur Schnitzler: Ein Briefwechsel zweier Geistsverwandter. Hg. Karin Bang. In:
+                  Småskrifter fra CØNK, Nr. 9, 2005, S. 1-60.
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae"/>
             </event>
          </listEvent>
       </body>

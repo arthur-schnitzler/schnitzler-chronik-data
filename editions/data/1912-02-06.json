@@ -149,87 +149,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02569",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02569.html",
- "head":
- "Therese Rie an Arthur Schnitzler, 6. 2. 1912",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Therese Rie",
- "ref":
- "pmb4836"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hans Pfitzner",
- "ref":
- "pmb2674"}],
- "listBibl":
-  [
- {
- "title":
- "Paracelsus. Versspiel in einem Akt",
- "ref":
- "pmb30403"}
- ,  {
- "title":
- "Palestrina. Musikalische Legende in drei Akten",
- "ref":
- "pmb31681"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Schönburgstraße 48",
- "ref":
- "pmb299574"}
- ,  {
- "placeName":
- "Straßburg",
- "ref":
- "pmb319"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Städtisches Konservatorium",
- "ref":
- "pmb56040"}
- ,  {
- "orgName":
- "Oper Straßburg",
- "ref":
- "pmb56043"}
- ,  {
- "orgName":
- "Straßburger Philharmoniker",
- "ref":
- "pmb56046"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -298,4 +217,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 6.2.1912",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

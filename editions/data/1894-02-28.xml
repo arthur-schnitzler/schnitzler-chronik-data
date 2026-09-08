@@ -132,56 +132,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02611.html</idno>
             </event>
             <event when-iso="1894-02-28">
-               <head>Paul Goldmann an Arthur Schnitzler, 28. 2. [1894]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2801">Henri Albert</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb30279">Der Thor und der Tod</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36349">Mercure de France</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32252">Moderner Musen-Almanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb34296">Le nouvel almanach de M. Bierbaum</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34189">rue Jacob</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb34301">Mercure de France</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02611.html</idno>
-            </event>
-            <event when-iso="1894-02-28">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -234,6 +184,20 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208657.html</idno>
+            </event>
+            <event when-iso="1894-02-28">
+               <head>Adele Sandrock an Arthur Schnitzler, 28.2.1894</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Renate Wagner (Hg.):
+                  Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Wien/München:
+                  Amalthea 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#g21edf0a-7af3-4163-813b-7d55aaaf2eba"/>
             </event>
             <event when-iso="1894-02-28">
                <head>Schnitzler, Arthur: Blumen [Prosa] (Drucktitel)</head>

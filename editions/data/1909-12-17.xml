@@ -184,41 +184,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01905.html</idno>
             </event>
             <event when-iso="1909-12-17">
-               <head>Franz Blei an Arthur Schnitzler, [17. 12. 1909]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10955">Blei, Franz</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5598">Hans von Weber</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29552">Hyperion</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01905.html</idno>
-            </event>
-            <event when-iso="1909-12-17">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -263,6 +228,34 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-12-17</idno>
+            </event>
+            <event when-iso="1909-12-17">
+               <head>Arthur Schnitzler an Arthur Kahane, 17.12.1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Renate Wagner (Hg.):
+                  Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern.
+                  Otto Müller Verlag, Salzburg: 1971.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
+            </event>
+            <event when-iso="1909-12-17">
+               <head>Arthur Schnitzler an Ludwig Strecker, 17. 12. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118755919">Strecker, Ludwig</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

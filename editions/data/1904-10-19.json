@@ -138,86 +138,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01458",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01458.html",
- "head":
- "Hermann Bahr an Arthur Schnitzler, 19. [10. 1904]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Helene Flöge",
- "ref":
- "pmb27674"},
- {
- "persName":
- "Pauline Flöge",
- "ref":
- "pmb27677"},
- {
- "persName":
- "Emilie Flöge",
- "ref":
- "pmb2972"},
- {
- "persName":
- "Rosa Bahr",
- "ref":
- "pmb13682"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"}],
- "listPlace":
-  [
- {
- "placeName":
- "Mariahilfer Straße",
- "ref":
- "pmb302"}
- ,  {
- "placeName":
- "Casa Piccola",
- "ref":
- "pmb303"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dubrovnik",
- "ref":
- "pmb682"}
- ,  {
- "placeName":
- "Dalmatien",
- "ref":
- "pmb265"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -312,4 +232,17 @@
  "pmb303"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Max Reinhardt an Arthur Schnitzler, 19.10.1904",
+ "source":
+ "Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg: 1971."
 }] 

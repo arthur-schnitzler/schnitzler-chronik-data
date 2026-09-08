@@ -96,102 +96,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01741",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01741.html",
- "head":
- "Arthur Schnitzler an Hermann Bahr, 16. 12. 1907",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Max Reinhardt",
- "ref":
- "pmb12504"},
- {
- "persName":
- "Helene Ritscher",
- "ref":
- "pmb2303"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"}],
- "listBibl":
-  [
- {
- "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
- "Die gelbe Nachtigall",
- "ref":
- "pmb30021"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Hebbel-Theater",
- "ref":
- "pmb13"}
- ,  {
- "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Semmering",
- "ref":
- "pmb189"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Lessing-Theater",
- "ref":
- "pmb35053"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -284,4 +188,17 @@
  "pmb3"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#u02092b4-47df-42e7-a68c-556d17f8d217",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Franz Nabl, 16.12.1907",
+ "source":
+ "Reinhard Urbach: Arthur Schnitzler – Franz Nabl. Briefwechsel. In: Studium Generale, Jg. 24, 1971, S. 1256-1270."
 }] 

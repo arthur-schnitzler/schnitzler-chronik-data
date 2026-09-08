@@ -139,55 +139,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03167.html</idno>
             </event>
             <event when-iso="1895-12-12">
-               <head>Felix Salten an Arthur Schnitzler, [12?. 12. 1895]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb22404">
-      Paulus
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb7605">Eugen Gura</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb118692">Rolf von Brockdorff</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb25627">Rudolf Strauss</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb118690">Liebelei. Eine Wiener Zeitschrift</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb19">Ronacher</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29670">Wiener Allgemeine Zeitung</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03167.html</idno>
-            </event>
-            <event when-iso="1895-12-12">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -260,6 +211,24 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144072.html</idno>
+            </event>
+            <event when-iso="1895-12-12">
+               <head>Waissnix,
+                  Olga an Arthur Schnitzler, 12.12.1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix,
+                  Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler
+                  und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
+                  Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und
+                  Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

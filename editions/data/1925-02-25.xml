@@ -187,6 +187,20 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210733.html</idno>
             </event>
             <event when-iso="1925-02-25">
+               <head>Fritz Unruh an Arthur Schnitzler, 25.2.1925</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Ulrich K. Goldsmith:
+                  Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian
+                  Literature, Jg. 10, 1977, H. 3/4, S. 69-128.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#dc95034c-3e70-47e1-9072-3fc75d84b47a"/>
+            </event>
+            <event when-iso="1925-02-25">
                <head>Traum vom 25. Februar 1925</head>
                <desc>
                   <bibl>Arthur Schnitzler: Träume. Das Traumtagebuch 1875–1931. Herausgegeben von Peter Michael Braunwarth und Leo A. Lensing. Göttingen: Wallstein 2012 (Bibliothek Janowitz, Bd. 20)</bibl>

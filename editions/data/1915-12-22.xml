@@ -204,103 +204,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02224.html</idno>
             </event>
             <event when-iso="1915-12-22">
-               <head>Arthur Schnitzler an Georg Brandes, 22. 12. 1915</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10992">Brandes, Georg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12543">Romain Rolland</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2412">William Shakespeare</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3739">Lew Nikolajewitsch Tolstoi</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4279">Anatole France</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb15271">Eugen Deimel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5401">Hans Brecka</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb27739">
-      ?? [Journalist, der fiktives russisches Interview verantwortet]
-  </persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33265">Komödie der Worte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33267">Kampf gegen den Theaterschund und Bühnenschmutz</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb41572">Deutsche Tageszeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb42850">Reichspost</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32959">?? [Fiktives Interview aus St. Petersburg, 1914]</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb175">Amerika</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34438">Russland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb687">Österreich-Ungarn</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb36247">Burgtheater</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29491">New Yorker Staats-Zeitung</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29503">[Russische Zeitschrift, in der 1914 gefälschtes Interview  von Schnitzler erschien]</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02224.html</idno>
-            </event>
-            <event when-iso="1915-12-22">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -348,6 +251,50 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209800.html</idno>
+            </event>
+            <event when-iso="1915-12-22">
+               <head>Arthur Schnitzler an Gustaf Linden, 22.12.1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
+            <event when-iso="1915-12-22">
+               <head>Arthur Schnitzler an Adolf Gelber, 22. 12. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116520779">Gelber, Adolf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
+            </event>
+            <event when-iso="1915-12-22">
+               <head>Arthur Schnitzler an Gustaf Linden, 22. 12. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1915-12-22">
                <head>Schnitzler, Arthur an Gelber, Anton [Briefe]</head>

@@ -212,104 +212,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02693.html</idno>
             </event>
             <event when-iso="1895-10-10">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 10. 10. 1895</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00502.html</idno>
-            </event>
-            <event when-iso="1895-10-10">
-               <head>Peter Altenberg an Arthur Schnitzler, [10. 10. 1895]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2147">Altenberg, Peter</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5449">Joris-Karl Huysmans</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33418">En route</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb1163">Goldener Brunnen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb874">Gmunden</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00503.html</idno>
-            </event>
-            <event when-iso="1895-10-10">
-               <head>Paul Goldmann an Arthur Schnitzler, [10.? 10. 1895]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb36247">Burgtheater</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02693.html</idno>
-            </event>
-            <event when-iso="1895-10-10">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -435,6 +337,24 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10038</idno>
+            </event>
+            <event when-iso="1895-10-10">
+               <head>Waissnix,
+                  Olga an Arthur Schnitzler, 10.10.1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix,
+                  Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler
+                  und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
+                  Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und
+                  Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
             <event when-iso="1895-10-10">
                <head>Schnitzler, Arthur an Unbekannt [Briefe]</head>

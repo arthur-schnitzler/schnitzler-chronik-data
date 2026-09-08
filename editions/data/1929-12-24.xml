@@ -136,31 +136,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03590.html</idno>
             </event>
             <event when-iso="1929-12-24">
-               <head>Felix Salten an Arthur Schnitzler, 24. 12. [1929?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03590.html</idno>
-            </event>
-            <event when-iso="1929-12-24">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -231,6 +206,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11524</idno>
+            </event>
+            <event when-iso="1929-12-24">
+               <head>Arthur Schnitzler an Samuel Fischer, 24.12.1929</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
             <event when-iso="1929-12-24">
                <head>Stoss, Herta an Schnitzler, Arthur [Briefe]</head>

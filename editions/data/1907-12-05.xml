@@ -146,6 +146,35 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184047.html</idno>
             </event>
             <event when-iso="1907-12-05">
+               <head>Arthur Schnitzler an Artur Landsberger, 5.12.1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116681691">Landsberger, Artur</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  »Das Zeitlose ist von kürzester Dauer.« Interviews, Meinungen, Proteste. Hg.
+                  Martin Anton Müller. Göttingen: Wallstein 2023, ISBN 978-3-8353-5471-5
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#t6feed8f-d3e7-4693-90eb-59342c79aed0"/>
+            </event>
+            <event when-iso="1907-12-05">
+               <head>Arthur Schnitzler an Morgen, Redaktion, 5. 12. 1907</head>
+               <desc>
+                  <listOrg>
+                     <org>
+                        <orgName>Morgen, Redaktion</orgName>
+                     </org>
+                  </listOrg>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
+            </event>
+            <event when-iso="1907-12-05">
                <head>Winder, Ludwig an Schnitzler, Arthur [Briefe]</head>
                <desc>1 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00077188</idno>

@@ -161,68 +161,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03970.html</idno>
             </event>
             <event when-iso="1927-05-14">
-               <head>Arthur Schnitzler an Berta Zuckerkandl, 14. 5. 1927</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb20459">Madeleine Lindauer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3138">Paul Géraldy</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4455">Paul Zsolnay</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb31927">Les noces d’argent</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334493">Du und ich. Gedichte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334498">Theater</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334505">Les Grands Garçons, comédie en un acte</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb78164">Aimer (Aimée)</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb78166">Robert und Marianne</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb299322">6, Rue Anatole de la Forge</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb36907">Paul Zsolnay Verlag</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03970.html</idno>
-            </event>
-            <event when-iso="1927-05-14">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -276,6 +214,22 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210901.html</idno>
+            </event>
+            <event when-iso="1927-05-14">
+               <head>Hedy Kempny an Arthur Schnitzler, 14.5.1927</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
             <event when-iso="1927-05-14">
                <head>Schnitzler geht ins Kino, 14. Mai 1927</head>

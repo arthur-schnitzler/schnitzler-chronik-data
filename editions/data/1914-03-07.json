@@ -138,101 +138,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02166",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02166.html",
- "head":
- "Hermann Bahr an Arthur Schnitzler, 7. 3. 1914",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Lili Cappellini",
- "ref":
- "pmb2238"}],
- "listPlace":
-  [
- {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Lviv",
- "ref":
- "pmb46224"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Bayreuth",
- "ref":
- "pmb734"}
- ,  {
- "placeName":
- "Berchtesgaden",
- "ref":
- "pmb797"}
- ,  {
- "placeName":
- "Brünn",
- "ref":
- "pmb833"}
- ,  {
- "placeName":
- "Darmstadt",
- "ref":
- "pmb834"}
- ,  {
- "placeName":
- "Czernowitz",
- "ref":
- "pmb976"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -445,6 +350,19 @@
  "Mappe A116",
  "text":
  "Datumsangabe auf Blatt von Fink und Fliederbusch: »Ich versichere Sie, meine Herren,…«"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#dc95034c-3e70-47e1-9072-3fc75d84b47a",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Fritz Unruh an Arthur Schnitzler, 7.3.1914",
+ "source":
+ "Ulrich K. Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4, S. 69-128."
 }, {
  "type":
  "kalliope-verbund",

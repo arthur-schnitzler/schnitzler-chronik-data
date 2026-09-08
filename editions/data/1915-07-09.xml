@@ -167,72 +167,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04489.html</idno>
             </event>
             <event when-iso="1915-07-09">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 9. 7. 1915</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13653">Stefanie Bachrach</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb264667">Hotel garni Athen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34401">Altaussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91077">Kritzendorf</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb233074">Strombad Kritzendorf</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04489.html</idno>
-            </event>
-            <event when-iso="1915-07-09">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -247,6 +181,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-07-09</idno>
+            </event>
+            <event when-iso="1915-07-09">
+               <head>Arthur Schnitzler an Eugen Deimel, 9.7.1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

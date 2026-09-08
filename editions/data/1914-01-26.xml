@@ -189,77 +189,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04254.html</idno>
             </event>
             <event when-iso="1914-01-26">
-               <head>Gustav Schwarzkopf an Arthur Schnitzler, 26. 1. 1914</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb21647">Paul Marx</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13068">Frank Wedekind</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4865">Georges Courteline</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb32800">Elskovsleg</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29869">Literatur</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76460">Der Kammersänger. Drei Scenen</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb401">Hotel Marienbad [München]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb190590">Elitekino</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb36247">Burgtheater</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04254.html</idno>
-            </event>
-            <event when-iso="1914-01-26">
                <head corresp="#pmb45258">München</head>
                <desc>
                   <listPlace>
@@ -300,6 +229,20 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183650.html</idno>
+            </event>
+            <event when-iso="1914-01-26">
+               <head>Eugen Deimel an Arthur Schnitzler, 26.1.1914</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

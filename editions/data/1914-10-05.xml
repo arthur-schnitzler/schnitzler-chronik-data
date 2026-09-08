@@ -100,6 +100,20 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-10-05</idno>
             </event>
+            <event when-iso="1914-10-05">
+               <head>Fritz Unruh an Arthur Schnitzler, 5.10.1914</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Ulrich K. Goldsmith:
+                  Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian
+                  Literature, Jg. 10, 1977, H. 3/4, S. 69-128.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#dc95034c-3e70-47e1-9072-3fc75d84b47a"/>
+            </event>
          </listEvent>
       </body>
    </text>

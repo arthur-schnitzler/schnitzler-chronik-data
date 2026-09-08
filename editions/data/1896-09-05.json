@@ -231,167 +231,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00585",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00585.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 5. 9. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Hermann Beer",
- "ref":
- "pmb13913"}],
- "listPlace":
-  [
- {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Antonsgasse",
- "ref":
- "pmb40115"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "Baden bei Wien",
- "ref":
- "pmb662"}
- ,  {
- "placeName":
- "Kaiser-Franz-Ring",
- "ref":
- "pmb680"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03180",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03180.html",
- "head":
- "Felix Salten an Arthur Schnitzler, [5. 9. 1896]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Julian Sternberg",
- "ref":
- "pmb3021"},
- {
- "persName":
- "Ferdinand Raimund",
- "ref":
- "pmb12468"}],
- "listBibl":
-  [
- {
- "title":
- "Das Mädchen aus der Feenwelt oder Der Bauer als Millionär",
- "ref":
- "pmb77405"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Universitätsstraße",
- "ref":
- "pmb653"}
- ,  {
- "placeName":
- "Schulerstraße",
- "ref":
- "pmb729"}
- ,  {
- "placeName":
- "Raimund-Theater",
- "ref":
- "pmb77"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb29670"}
- ,  {
- "orgName":
- "Südbahnstrecke",
- "ref":
- "pmb41943"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -470,6 +309,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Otto Brahm, 5.9.1896?",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }, {
  "type":
  "kalliope-verbund",

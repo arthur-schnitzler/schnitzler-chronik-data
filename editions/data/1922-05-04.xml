@@ -151,58 +151,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02379.html</idno>
             </event>
             <event when-iso="1922-05-04">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 4. 5. 1922</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14543">Bertha Brevée</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14551">Isaäc Brevée</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40709">Amsterdam</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40725">Oosterbeek</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44303">Rotterdam</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb58810">Den Haag</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02379.html</idno>
-            </event>
-            <event when-iso="1922-05-04">
                <head corresp="#pmb58810">Den Haag</head>
                <desc>
                   <listPlace>
@@ -234,6 +182,22 @@
                <head corresp="#pmb90517">Delft</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1922-05-04</idno>
+            </event>
+            <event when-iso="1922-05-04">
+               <head>Arthur Schnitzler an Hedy Kempny, 4.5.1922</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

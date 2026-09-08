@@ -266,164 +266,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02068",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02068.html",
- "head":
- "Arthur Schnitzler an Albert Ehrenstein, [zwischen 23. und 25.] 5. 1912",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Albert Ehrenstein",
- "ref":
- "pmb11230"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02069",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02069.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 23. 5. 1912",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02070",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02070.html",
- "head":
- "Hugo von Hofmannsthal, Gerty von Hofmannsthal an Arthur Schnitzler, 23. 5. 1912",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Gerty von Hofmannsthal",
- "ref":
- "pmb2292"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Anton Sieß",
- "ref":
- "pmb44815"},
- {
- "persName":
- "Franz Paul Kleewein",
- "ref":
- "pmb47424"}],
- "listBibl":
-  [
- {
- "title":
- "Zunftfahne der Bäcker und Müller mit den Heiligen Elisabeth, Sebastian und Agnes",
- "ref":
- "pmb47422"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "Rodaun",
- "ref":
- "pmb173"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Sterzing",
- "ref":
- "pmb40302"}
- ,  {
- "placeName":
- "Welsberg-Taisten",
- "ref":
- "pmb428"}
- ,  {
- "placeName":
- "Alte Post",
- "ref":
- "pmb44816"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -576,6 +418,19 @@
  "pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Erhalt von Isabella Vengerova an Arthur Schnitzler, 21. 5. [1912]",
+ "source":
+ "Die Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und Zinaida Vengerova. Herausgegeben von Konstantin Asadowski und Martin Anton Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022), S. 7–91. (Onlinezugriff: https://www.nomos-elibrary.de/10.5771/9783968219257-7/die-korrespondenz-von-arthur-schnitzler-mit-isabella-und-zinaida-vengerova)"
 }, {
  "type":
  "kalliope-verbund",

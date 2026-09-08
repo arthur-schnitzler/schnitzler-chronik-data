@@ -142,6 +142,22 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208311.html</idno>
             </event>
+            <event when-iso="1889-02-18">
+               <head>Adolf Sonnenthal an Arthur Schnitzler, 18.2.1889</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Adolf von
+                  Sonnenthals Briefwechsel. Nach den Originalen herausgegeben von Hermine von
+                  Sonnenthal. Zweiter Band. Stuttgart, Berlin: Deutsche Verlags-Anstalt 1912.
+                  (Ausschließlich die fünf Briefe von und an Arthur Schnitzler hier
+                  verzeichnet)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#g83efe7f-a9d8-49c4-ba69-8fdab0a99e4b"/>
+            </event>
          </listEvent>
       </body>
    </text>

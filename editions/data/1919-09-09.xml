@@ -142,37 +142,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04527.html</idno>
             </event>
             <event when-iso="1919-09-09">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 9. 9. 1919</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91572">Raxalpe</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04527.html</idno>
-            </event>
-            <event when-iso="1919-09-09">
                <head corresp="#pmb948">Payerbach</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-09-09</idno>
@@ -193,6 +162,22 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1919-09-09</idno>
+            </event>
+            <event when-iso="1919-09-09">
+               <head>Hedy Kempny an Arthur Schnitzler, 9.9.1919</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
             <event when-iso="1919-09-09">
                <head>Westerling, Frits an Schnitzler, Arthur [Briefe]</head>

@@ -131,36 +131,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03539.html</idno>
             </event>
             <event when-iso="1925-10-28">
-               <head>Franziska Goldmann an Arthur Schnitzler, [Ende Oktober 1925?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb17167">Goldmann, Franziska</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29941">Fräulein Else</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03539.html</idno>
-            </event>
-            <event when-iso="1925-10-28">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -211,6 +181,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11200</idno>
+            </event>
+            <event when-iso="1925-10-28">
+               <head>Samuel Fischer an Arthur Schnitzler, 28.10.1925</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
          </listEvent>
       </body>

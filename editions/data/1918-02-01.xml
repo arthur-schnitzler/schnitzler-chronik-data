@@ -259,6 +259,20 @@
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10641</idno>
             </event>
+            <event when-iso="1918-02-01">
+               <head>Fritz Unruh an Arthur Schnitzler, 1.2.1918</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Ulrich K. Goldsmith:
+                  Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian
+                  Literature, Jg. 10, 1977, H. 3/4, S. 69-128.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#dc95034c-3e70-47e1-9072-3fc75d84b47a"/>
+            </event>
          </listEvent>
       </body>
    </text>

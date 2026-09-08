@@ -133,6 +133,35 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297117.html</idno>
             </event>
+            <event when-iso="1901-04-02">
+               <head>Arthur Schnitzler an Samuel Fischer, 2.4.1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
+            </event>
+            <event when-iso="1901-04-02">
+               <head>Arthur Schnitzler an Olga Schnitzler, 2. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
+            </event>
          </listEvent>
       </body>
    </text>

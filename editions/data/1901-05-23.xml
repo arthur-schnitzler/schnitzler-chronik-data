@@ -138,59 +138,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04230.html</idno>
             </event>
             <event when-iso="1901-05-23">
-               <head>Theodor von Sosnosky an Arthur Schnitzler, 23. 5. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb9941">Sosnosky, Theodor von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb335010">?? [Zeitschrift, die Theodor von Sosnoskys Besprechung von »Bertha Garlan« zurückweist]</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334897">Bücher und Zeitschriftenschau [Frau Bertha Garlan]</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb334898">Norddeutsche Allgemeine Zeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb47979">Börsenblatt für den Deutschen Buchhandel</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb48393">Kremsmünster</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29807">Die Nation</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04230.html</idno>
-            </event>
-            <event when-iso="1901-05-23">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -208,6 +155,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-05-23</idno>
+            </event>
+            <event when-iso="1901-05-23">
+               <head>Richard Schaukal an Arthur Schnitzler, 23.5.1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118606662">Schaukal, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Reinhard Urbach:
+                  Richard Schaukal – Arthur Schnitzler, Briefwechsel (1900-1902). In: Modern
+                  Austrian Literature, Jg. 8, 1975, H.3/4, S.15-43.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s68ac8da-2b04-4b21-afc4-b597655696e0"/>
             </event>
          </listEvent>
       </body>

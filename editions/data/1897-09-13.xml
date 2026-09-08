@@ -149,68 +149,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02823.html</idno>
             </event>
             <event when-iso="1897-09-13">
-               <head>Paul Goldmann an Arthur Schnitzler, 13. 9. 1897</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2378">Marie Reinhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb42794">
-      ?? [Totgeborener Sohn von Arthur Schnitzler und Marie Reinhard]
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16557">Hermann Freudenthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16560">Rosa Freudenthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23593">Josef Rosengart</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb88595">Rossertstraße</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29616">Houghton Library</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02823.html</idno>
-            </event>
-            <event when-iso="1897-09-13">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -249,6 +187,24 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-09-13</idno>
+            </event>
+            <event when-iso="1897-09-13">
+               <head>Waissnix,
+                  Olga an Arthur Schnitzler, 13.9.1897?</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix,
+                  Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler
+                  und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
+                  Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und
+                  Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

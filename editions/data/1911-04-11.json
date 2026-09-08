@@ -146,99 +146,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02016",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02016.html",
- "head":
- "Georg Brandes an Arthur Schnitzler, 11. 4. 1911",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Georg Brandes",
- "ref":
- "pmb10992"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listBibl":
-  [
- {
- "title":
- "Der Schleier der Pierrette. Pantomime in drei Bildern",
- "ref":
- "pmb30215"}
- ,  {
- "title":
- "Før og nu. To tragiske Skaebner",
- "ref":
- "pmb33358"}
- ,  {
- "title":
- "Det kgl. Teater [Der Schleier der Pierrette]",
- "ref":
- "pmb33360"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Boulevard Raspail",
- "ref":
- "pmb1094"}
- ,  {
- "placeName":
- "Hôtel Lutetia",
- "ref":
- "pmb1095"}
- ,  {
- "placeName":
- "Havnegade",
- "ref":
- "pmb1111"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Menton",
- "ref":
- "pmb36456"}
- ,  {
- "placeName":
- "Dänemark",
- "ref":
- "pmb43570"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -362,4 +269,17 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 11.4.1911",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

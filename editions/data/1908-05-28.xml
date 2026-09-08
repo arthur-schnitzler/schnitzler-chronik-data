@@ -192,6 +192,23 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1908-05-28</idno>
             </event>
+            <event when-iso="1908-05-28">
+               <head>Max Reinhardt, Felix Hollaender an Arthur Schnitzler, 28.5.1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Renate Wagner (Hg.):
+                  Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern.
+                  Otto Müller Verlag, Salzburg: 1971.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
+            </event>
          </listEvent>
       </body>
    </text>

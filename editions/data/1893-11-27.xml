@@ -111,33 +111,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04106.html</idno>
             </event>
             <event when-iso="1893-11-27">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 27. 11. 1893</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11848">Heinrich Kadelburg</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04106.html</idno>
-            </event>
-            <event when-iso="1893-11-27">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -193,6 +166,22 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192876.html</idno>
+            </event>
+            <event when-iso="1893-11-27">
+               <head>Arthur Schnitzler an Olga Waissnix, 27.11.1893</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler
+                  und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
+                  Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und
+                  Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

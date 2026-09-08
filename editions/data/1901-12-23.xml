@@ -136,63 +136,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03097.html</idno>
             </event>
             <event when-iso="1901-12-23">
-               <head>Paul Goldmann an Arthur Schnitzler, Olga Gussmann, 23. 12. [1901]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Gussmann, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23593">Josef Rosengart</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29877">Die letzten Masken</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29957">Lebendige Stunden</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb142610">Reuterweg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03097.html</idno>
-            </event>
-            <event when-iso="1901-12-23">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -207,6 +150,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-12-23</idno>
+            </event>
+            <event when-iso="1901-12-23">
+               <head>Otto Brahm an Arthur Schnitzler, 23.12.1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

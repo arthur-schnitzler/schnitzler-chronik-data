@@ -128,6 +128,20 @@
                <idno type="schnitzler-chronik-manuell">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-04-26.html</idno>
             </event>
             <event when-iso="1918-04-26">
+               <head>Arthur Schnitzler an Samuel Fischer, zwischen 24.4.1918 und 29.4.1918</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
+            <event when-iso="1918-04-26">
                <head>Mischel, Josef an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00040522</idno>

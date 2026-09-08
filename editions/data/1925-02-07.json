@@ -80,41 +80,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03958",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03958.html",
- "head":
- "Arthur Schnitzler an Berta Zuckerkandl, 7. 2. 1925",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Berta Zuckerkandl",
- "ref":
- "pmb2312"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -180,6 +145,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#s364f351-b14a-4d77-b480-295e58878c66",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Konrad Maril, 7.2.1925",
+ "source":
+ "Hans Peter Buohler: Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In: Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215."
 }, {
  "type":
  "schnitzler-kino-buch",

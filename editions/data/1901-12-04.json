@@ -146,152 +146,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03093",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03093.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 4. 12. [1901]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Moriz Neuda",
- "ref":
- "pmb115482"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
- "Robert Hirschfeld",
- "ref":
- "pmb11707"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
- {
- "persName":
- "Karl von Perfall",
- "ref":
- "pmb22428"}],
- "listBibl":
-  [
- {
- "title":
- "Der rothe Hahn. Tragikomödie in vier Akten",
- "ref":
- "pmb144168"}
- ,  {
- "title":
- "Kölnische Zeitung",
- "ref":
- "pmb144228"}
- ,  {
- "title":
- "Hanneles Himmelfahrt. Traumdichtung in zwei Teilen",
- "ref":
- "pmb31511"}
- ,  {
- "title":
- "Michael Kramer. Drama",
- "ref":
- "pmb32668"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Hauptmanns Niedergang und die Berliner Litteratur-Tyrannei",
- "ref":
- "pmb144226"}
- ,  {
- "title":
- "Gerhart Hauptmanns Tragikomödie »Der rothe Hahn«",
- "ref":
- "pmb144233"}
- ,  {
- "title":
- "Wiener Leben",
- "ref":
- "pmb144241"}
- ,  {
- "title":
- "Lebendige Stunden. Vier Einakter",
- "ref":
- "pmb29863"}
- ,  {
- "title":
- "Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«",
- "ref":
- "pmb144201"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Jung-Wiener Theater zum Lieben Augustin",
- "ref":
- "pmb143199"}
- ,  {
- "orgName":
- "Reichstag",
- "ref":
- "pmb144185"}
- ,  {
- "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -311,4 +165,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Moriz Ehrlich an Arthur Schnitzler, 4.12.1901",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

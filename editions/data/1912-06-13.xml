@@ -115,39 +115,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02075.html</idno>
             </event>
             <event when-iso="1912-06-13">
-               <head>Arthur Schnitzler an Hugo von Hofmannsthal, 1[3?]. 6. 1912</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb652">Prag</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb91">Neues Deutsches Theater</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02075.html</idno>
-            </event>
-            <event when-iso="1912-06-13">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -235,6 +202,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10444</idno>
+            </event>
+            <event when-iso="1912-06-13">
+               <head>Arthur Schnitzler an Kurt Junker, 13. 6. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/1103154559">Junker, Kurt</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1912-06-13">
                <head>Schnitzler, Arthur an Junker, Kurt [Briefe]</head>

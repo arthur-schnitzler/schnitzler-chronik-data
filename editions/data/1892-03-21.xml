@@ -158,74 +158,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02955.html</idno>
             </event>
             <event when-iso="1892-03-21">
-               <head>Arthur Schnitzler an Felix Salten, 21. 3. 1892</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb18129">Max Henze</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2437">Stefan George</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb143468">Die Bilanz der Ehe. Novellistische Studien. 2 Bde.</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb146116">Vielfarbige Distichen V.</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31639">Der Tod des Tizian. Ein Bruchstück</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb167380">Blätter für die Kunst</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb262">Café Central</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb864">Leipzig</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb866">Dresden</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29663">Heinrich Minden</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29620">Allgemeine Theater-Revue für Bühne und Welt. Illustrierte Halbmonatsschrift</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02955.html</idno>
-            </event>
-            <event when-iso="1892-03-21">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -248,6 +180,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-03-21</idno>
+            </event>
+            <event when-iso="1892-03-21">
+               <head>Arthur Schnitzler an Felix Salten, 21. 3. 1892</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

@@ -83,6 +83,23 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1884-02-18</idno>
             </event>
+            <event when-iso="1884-02-18">
+               <head>Eugen Deimel, Dina Deimel an Arthur Schnitzler, 18.2.1884</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                     <person>
+                        <persName>Dina Deimel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
+            </event>
          </listEvent>
       </body>
    </text>

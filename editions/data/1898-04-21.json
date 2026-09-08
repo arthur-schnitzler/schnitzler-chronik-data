@@ -236,182 +236,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00793",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00793.html",
- "head":
- "Fritz Schlesinger, Gerty von Schlesinger, Arthur Schnitzler, Georg von Franckenstein an Hermann Bahr, 21. 4. 1898",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Fritz Schlesinger",
- "ref":
- "pmb5115"},
- {
- "persName":
- "Gerty von Schlesinger",
- "ref":
- "pmb2292"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Georg von Franckenstein",
- "ref":
- "pmb11359"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Franziska Schlesinger",
- "ref":
- "pmb24233"}],
- "listBibl":
-  [
- {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Breitenfurt bei Wien",
- "ref":
- "pmb1022"}
- ,  {
- "placeName":
- "Porzellangasse",
- "ref":
- "pmb436"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02846",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02846.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 21. 4. [1898]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"}],
- "listPlace":
-  [
- {
- "placeName":
- "China",
- "ref":
- "pmb1108"}
- ,  {
- "placeName":
- "Indischer Ozean",
- "ref":
- "pmb118674"}
- ,  {
- "placeName":
- "Rotes Meer",
- "ref":
- "pmb118805"}
- ,  {
- "placeName":
- "Deutsches Postamt in Shanghai",
- "ref":
- "pmb141888"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Sri Lanka",
- "ref":
- "pmb44342"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Bremen",
- "ref":
- "pmb891"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Preussen",
- "ref":
- "pmb118782"}
- ,  {
- "orgName":
- "Norddeutscher Lloyd",
- "ref":
- "pmb53340"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -540,4 +364,17 @@
  "pmb436"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#w6429315-92be-4f82-b2f1-926125f9bfa5",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Eugen Deimel an Arthur Schnitzler, 21.4.1898",
+ "source":
+ "Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003"
 }] 

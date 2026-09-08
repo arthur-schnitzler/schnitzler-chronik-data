@@ -123,61 +123,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01835",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01835.html",
- "head":
- "Albert Ehrenstein an Arthur Schnitzler, 27. 3. 1909",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Albert Ehrenstein",
- "ref":
- "pmb11230"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Raoul Auernheimer",
- "ref":
- "pmb10788"},
- {
- "persName":
- "Karl Glossy",
- "ref":
- "pmb11447"},
- {
- "persName":
- "Felix von Oppenheimer",
- "ref":
- "pmb2527"}],
- "listPlace":
-  [
- {
- "placeName":
- "Ottakringer Straße 114",
- "ref":
- "pmb237241"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -246,4 +191,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 27.3.1909",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

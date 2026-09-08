@@ -127,6 +127,21 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-01-14</idno>
             </event>
+            <event when-iso="1915-01-14">
+               <head>Arthur Schnitzler an Ernst Hardt, 14.1.1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11870155X">Hardt, Ernst</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Briefe an Ernst
+                  Hardt. Eine Auswahl aus den Jahren 1898–1947. In Verbindung mit Tilla Goetz-Hardt
+                  hrsg. von Jochen Meyer. Marbach am Neckar: Deutsches Literaturarchiv 1975
+                  (Marbacher Schriften, 10)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u76a6932-a288-44db-a5d5-8eba12ba4b14"/>
+            </event>
          </listEvent>
       </body>
    </text>

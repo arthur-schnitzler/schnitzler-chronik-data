@@ -151,89 +151,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01848",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01848.html",
- "head":
- "Arthur Schnitzler an Hermann Bahr, 22. 6. 1909",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Max Eugen Burckhard",
- "ref":
- "pmb11036"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"}],
- "listBibl":
-  [
- {
- "title":
- "Drut. Roman",
- "ref":
- "pmb29927"}
- ,  {
- "title":
- "Tagebuch [Berlin: Paul Cassirer]",
- "ref":
- "pmb29929"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
- "placeName":
- "St. Gilgen",
- "ref":
- "pmb33"}
- ,  {
- "placeName":
- "Edlach",
- "ref":
- "pmb470"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "?? [Von Burckhard gepachtete Alm]",
- "ref":
- "pmb248783"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -414,6 +331,19 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Otto Brahm, 22.6.1909",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }, {
  "type":
  "kalliope-verbund",

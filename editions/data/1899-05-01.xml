@@ -162,83 +162,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02874.html</idno>
             </event>
             <event when-iso="1899-05-01">
-               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [Mai 1899]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb29105">Émile Soutif</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00914.html</idno>
-            </event>
-            <event when-iso="1899-05-01">
-               <head>Paul Goldmann an Arthur Schnitzler, 1. 5. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11485">Goldmann, Paul</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2378">Marie Reinhard</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb58810">Den Haag</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb860">Graz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02874.html</idno>
-            </event>
-            <event when-iso="1899-05-01">
                <head corresp="#pmb168">Berlin</head>
                <desc>
                   <listPlace>
@@ -254,6 +177,36 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-01</idno>
+            </event>
+            <event when-iso="1899-05-01">
+               <head>Arthur Schnitzler an Alfred Kerr, 1.5.1899?</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Alfred Kerr, Arthur
+                  Schnitzler: »Es ist eine sehr seltsame Gefühlsmischung, die Sie erwecken.«
+                  Briefwechsel 1896–1925. Hg. Elgin Helmstaedt. In: Sinn und Form, Jg. 69, H. 5,
+                  September/Oktober 2017, S. 581–618.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#g14221ae-8633-4ad0-944c-44805d2c1459"/>
+            </event>
+            <event when-iso="1899-05-01">
+               <head>Alfred Kerr an Arthur Schnitzler, 1.5.1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Alfred Kerr, Arthur
+                  Schnitzler: »Es ist eine sehr seltsame Gefühlsmischung, die Sie erwecken.«
+                  Briefwechsel 1896–1925. Hg. Elgin Helmstaedt. In: Sinn und Form, Jg. 69, H. 5,
+                  September/Oktober 2017, S. 581–618.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#g14221ae-8633-4ad0-944c-44805d2c1459"/>
             </event>
          </listEvent>
       </body>

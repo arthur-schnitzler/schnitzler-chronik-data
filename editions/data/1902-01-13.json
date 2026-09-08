@@ -70,54 +70,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01198",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01198.html",
- "head":
- "Arthur Schnitzler an Richard Dehmel, 13. 1. 1902",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Dehmel",
- "ref":
- "pmb11148"}],
- "listBibl":
-  [
- {
- "title":
- "Der Buntscheck. Ein Sammelbuch herzhafter Kunst für Ohr und Auge deutscher Kinder",
- "ref":
- "pmb44831"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -150,6 +102,19 @@
  "Brief von Arthur Schnitzler an Richard Dehmel, erwähnt im Kalendarium von Ida Dehmel",
  "text":
  "Kalendarium von Ida Dehmel, S. [238]"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Otto Brahm, 13.1.1902",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }, {
  "type":
  "kalliope-verbund",

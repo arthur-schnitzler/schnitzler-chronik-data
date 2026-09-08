@@ -203,6 +203,20 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256426.html</idno>
             </event>
             <event when-iso="1924-03-02">
+               <head>Gustaf Linden an Arthur Schnitzler, 2.3.1924</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
+            <event when-iso="1924-03-02">
                <head>Ozoroczy, Amand an Schnitzler, Arthur [Briefe]</head>
                <desc>2 Bl.</desc>
                <idno type="kalliope-verbund">http://kalliope-verbund.info/DE-2498-HS00077743</idno>

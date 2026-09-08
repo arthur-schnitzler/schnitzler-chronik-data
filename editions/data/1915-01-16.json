@@ -146,74 +146,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03650",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03650.html",
- "head":
- "Stefan Zweig an Arthur Schnitzler, 16. 1. 1915",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Stefan Zweig",
- "ref":
- "pmb13212"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Romain Rolland",
- "ref":
- "pmb12543"},
- {
- "persName":
- "Alberto Stringa",
- "ref":
- "pmb25668"}],
- "listBibl":
-  [
- {
- "title":
- "Journal de Genève",
- "ref":
- "pmb58493"}
- ,  {
- "title":
- "Une protestation d’Arthur Schnitzler",
- "ref":
- "pmb58490"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -243,6 +175,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#dc95034c-3e70-47e1-9072-3fc75d84b47a",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Fritz Unruh an Arthur Schnitzler, 16.1.1915",
+ "source":
+ "Ulrich K. Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4, S. 69-128."
 }, {
  "type":
  "schnitzler-traeume",

@@ -128,44 +128,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01122.html</idno>
             </event>
             <event when-iso="1901-05-20">
-               <head>Arthur Schnitzler an Hermann Bahr, [20.?] 5. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10815">Bahr, Hermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb28645">Moritz Coschell</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb47979">Börsenblatt für den Deutschen Buchhandel</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01122.html</idno>
-            </event>
-            <event when-iso="1901-05-20">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -229,6 +191,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10112</idno>
+            </event>
+            <event when-iso="1901-05-20">
+               <head>Arthur Schnitzler an Richard Schaukal, 20.5.1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118606662">Schaukal, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Reinhard Urbach:
+                  Richard Schaukal – Arthur Schnitzler, Briefwechsel (1900-1902). In: Modern
+                  Austrian Literature, Jg. 8, 1975, H.3/4, S.15-43.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s68ac8da-2b04-4b21-afc4-b597655696e0"/>
             </event>
          </listEvent>
       </body>

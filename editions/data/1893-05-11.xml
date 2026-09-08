@@ -106,39 +106,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03943.html</idno>
             </event>
             <event when-iso="1893-05-11">
-               <head>Arthur Schnitzler an Theodor Herzl, 11. 5. 1893</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11673">Herzl, Theodor</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12695">Johann Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb299023">Firniß. Bilder aus dem Pariser Kunstleben. Karl VII. in Chinon</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03943.html</idno>
-            </event>
-            <event when-iso="1893-05-11">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -153,6 +120,20 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-05-11</idno>
+            </event>
+            <event when-iso="1893-05-11">
+               <head>Eugen Deimel an Arthur Schnitzler, 11.5.1893</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

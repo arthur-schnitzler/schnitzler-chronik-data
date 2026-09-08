@@ -115,6 +115,22 @@
                <desc>Datumsangabe auf Blatt von Fink und Fliederbusch: »Erster Akt.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428576_0108.html</idno>
             </event>
+            <event when-iso="1912-11-18">
+               <head>Arthur Schnitzler an Leopold, Freiherr
+                  von Andrian, 18. 11. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118503006">Andrian, Leopold, Freiherr
+                  von</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
+            </event>
          </listEvent>
       </body>
    </text>

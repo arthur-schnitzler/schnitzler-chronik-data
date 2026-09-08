@@ -114,97 +114,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00135",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00135.html",
- "head":
- "Fedor Mamroth an Arthur Schnitzler, 17. 11. 1892",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Rudolf Lothar",
- "ref":
- "pmb2570"},
- {
- "persName":
- "Eduard Sack",
- "ref":
- "pmb34989"}],
- "listBibl":
-  [
- {
- "title":
- "Das Märchen. Schauspiel in drei Aufzügen",
- "ref":
- "pmb29823"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
- "Cäsar Borgia’s Ende",
- "ref":
- "pmb34984"}
- ,  {
- "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
- "Frankfurter Stadttheater",
- "ref":
- "pmb88756"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -268,4 +177,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Marie Glümer, 17. 11. 1892",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

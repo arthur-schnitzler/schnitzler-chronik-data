@@ -136,112 +136,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02651",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02651.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 1. 10. 1890",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Anna Heeger",
- "ref":
- "pmb18007"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Hilda von Mitis",
- "ref":
- "pmb65913"}],
- "listBibl":
-  [
- {
- "title":
- "An der schönen blauen Donau",
- "ref":
- "pmb35860"}
- ,  {
- "title":
- "Der Feiertag des Herzens. Ein Abriß",
- "ref":
- "pmb88924"}
- ,  {
- "title":
- "Faust. Eine Tragödie",
- "ref":
- "pmb30247"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Berggasse",
- "ref":
- "pmb52510"}
- ,  {
- "placeName":
- "Seidengasse",
- "ref":
- "pmb53101"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "An der schönen blauen Donau",
- "ref":
- "pmb29698"}
- ,  {
- "orgName":
- "Konservatorium der Gesellschaft der Musikfreunde",
- "ref":
- "pmb29805"}
- ,  {
- "orgName":
- "Josef Eberle Stein-, Buch und Musikaliendruckerei",
- "ref":
- "pmb53104"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -315,4 +209,18 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#d2b0f559-bde7-4114-82b9-741a8810c463",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Schnitzler,
+                  Arthur an Olga Waissnix, nach 1.10.1890 und vor 5.10.1890",
+ "source":
+ "Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF: https://schnitzler-briefe.acdh.oeaw.ac.at)"
 }] 

@@ -168,6 +168,23 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232544.html</idno>
             </event>
+            <event when-iso="1903-03-13">
+               <head>Otto Brahm, Georg Hirschfeld an Arthur Schnitzler, 13.3.1903</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/101708122">Hirschfeld, Georg</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
+            </event>
          </listEvent>
       </body>
    </text>

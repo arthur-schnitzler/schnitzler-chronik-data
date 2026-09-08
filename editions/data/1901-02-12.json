@@ -196,167 +196,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03057",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03057.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 12. 2. [1901]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Eduard Douwes Dekker",
- "ref":
- "pmb15285"},
- {
- "persName":
- "Ida d’Albert",
- "ref":
- "pmb2537"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Gabriel Beer-Hofmann",
- "ref":
- "pmb13923"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"}],
- "listBibl":
-  [
- {
- "title":
- "Tagesneuigkeiten. Richtig",
- "ref":
- "pmb144026"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Arbeiter-Zeitung",
- "ref":
- "pmb41202"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Rotensterngasse",
- "ref":
- "pmb92494"}
- ,  {
- "placeName":
- "Florenz",
- "ref":
- "pmb263"}
- ,  {
- "placeName":
- "Niederlande",
- "ref":
- "pmb44016"}
- ,  {
- "placeName":
- "Pisa",
- "ref":
- "pmb44267"}
- ,  {
- "placeName":
- "Griechenland",
- "ref":
- "pmb44293"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
- ,  {
- "placeName":
- "Bologna",
- "ref":
- "pmb896"}
- ,  {
- "placeName":
- "Genua",
- "ref":
- "pmb994"}
- ,  {
- "placeName":
- "Ungarn",
- "ref":
- "pmb35512"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Breslauer Zeitung",
- "ref":
- "pmb29283"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -381,6 +220,19 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#ya489e21-54d5-40de-a56d-f4548e894428",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Otto Brahm an Arthur Schnitzler, 12.2.1901",
+ "source":
+ "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }, {
  "type":
  "kalliope-verbund",

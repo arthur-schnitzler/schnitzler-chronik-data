@@ -276,149 +276,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03557",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03557.html",
- "head":
- "Felix Salten an Arthur Schnitzler, 2. 7. 1912",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Louise Wolff",
- "ref":
- "pmb27312"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Lili Cappellini",
- "ref":
- "pmb2238"}],
- "listBibl":
-  [
- {
- "title":
- "Eine Gerhart Hauptmann-Première in Lauchstedt. (»Gabriel Schillings Flucht.«)",
- "ref":
- "pmb148387"}
- ,  {
- "title":
- "Gabriel Schillings Flucht. Drama",
- "ref":
- "pmb30357"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "Weimar",
- "ref":
- "pmb197"}
- ,  {
- "placeName":
- "Berghof",
- "ref":
- "pmb411"}
- ,  {
- "placeName":
- "Salzkammergut",
- "ref":
- "pmb429"}
- ,  {
- "placeName":
- "Brijuni",
- "ref":
- "pmb45260"}
- ,  {
- "placeName":
- "Landshut",
- "ref":
- "pmb46449"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
- ,  {
- "placeName":
- "Leipzig",
- "ref":
- "pmb864"}
- ,  {
- "placeName":
- "Dresden",
- "ref":
- "pmb866"}
- ,  {
- "placeName":
- "Unterach am Attersee",
- "ref":
- "pmb877"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -443,4 +300,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#gc49cd7e-1c35-4af4-808b-831b06a17f3d",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Theodor Reik an Arthur Schnitzler, 2.7.1912",
+ "source":
+ "Jeffrey B. Berlin/Hans Ulrich Lindken: Theodor Reiks unveröffentlichte Briefe an Arthur Schnitzler. In: Literatur und Kritik, 1983, H. 173/174, 182-197."
 }] 

@@ -75,59 +75,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03704",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03704.html",
- "head":
- "Elsa Plessner an Arthur Schnitzler, 28. 9. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Elsa Plessner",
- "ref":
- "pmb2128"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"}],
- "listBibl":
-  [
- {
- "title":
- "Heimkehr [dreiaktige Tragikomödie]",
- "ref":
- "pmb296028"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Bäckerstraße 1",
- "ref":
- "pmb295211"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -163,4 +110,17 @@
  "Versteigerung Dorotheum",
  "head":
  "Schnitzler schreibt einen Brief an Emerich von Bukovics vom Deutschen Volkstheater, in dem er Erklärungen zum Freiwild gibt"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#z7240971-fbf6-453b-9f97-eb6aaa8f59ae",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Peter Nansen, 28.9.1896",
+ "source":
+ "Peter Nansen - Arthur Schnitzler: Ein Briefwechsel zweier Geistsverwandter. Hg. Karin Bang. In: Småskrifter fra CØNK, Nr. 9, 2005, S. 1-60."
 }] 

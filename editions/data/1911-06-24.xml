@@ -173,36 +173,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03635.html</idno>
             </event>
             <event when-iso="1911-06-24">
-               <head>Stefan Zweig an Arthur Schnitzler, [24. 6. 1911?]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb13212">Zweig, Stefan</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76765">Das Haus am Meer. Ein Schauspiel in zwei Teilen (drei Aufzügen)</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb249577">Kochgasse 8</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03635.html</idno>
-            </event>
-            <event when-iso="1911-06-24">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -283,6 +253,20 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10389</idno>
+            </event>
+            <event when-iso="1911-06-24">
+               <head>Arthur Schnitzler an Samuel Fischer, 24. 6. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

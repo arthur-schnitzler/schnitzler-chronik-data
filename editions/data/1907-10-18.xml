@@ -123,42 +123,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01723.html</idno>
             </event>
             <event when-iso="1907-10-18">
-               <head>Olga Schnitzler an Richard Beer-Hofmann, [18. 10. 1907]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb51875">Heinrich Cubasch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51871">Weihburggasse</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb51868">Cabaret Fledermaus</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb51873">Zentralbad</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01723.html</idno>
-            </event>
-            <event when-iso="1907-10-18">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -260,6 +224,34 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10194</idno>
+            </event>
+            <event when-iso="1907-10-18">
+               <head>Samuel Fischer an Arthur Schnitzler, 18.10.1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Samuel Fischer,
+                  Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                  1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
+            </event>
+            <event when-iso="1907-10-18">
+               <head>Otto Brahm an Arthur Schnitzler, 18.10.1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

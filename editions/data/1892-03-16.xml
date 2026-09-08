@@ -128,47 +128,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00082.html</idno>
             </event>
             <event when-iso="1892-03-16">
-               <head>Arthur Schnitzler an Hugo von Hofmannsthal, 16. 3. 1892</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14756">Ferry Bératon</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29935">Anatol</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29619">Adolf Bonz &amp; Comp.</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00082.html</idno>
-            </event>
-            <event when-iso="1892-03-16">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -221,6 +180,20 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208541.html</idno>
+            </event>
+            <event when-iso="1892-03-16">
+               <head>Eugen Deimel an Arthur Schnitzler, 16.3.1892</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

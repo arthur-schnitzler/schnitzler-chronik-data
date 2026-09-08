@@ -108,6 +108,20 @@
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1923-03-11</idno>
             </event>
+            <event when-iso="1923-03-11">
+               <head>Gustaf Linden an Arthur Schnitzler, 11.3.1923</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler,
+                  Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien: Edition Praesens 2005
+                  (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
+            </event>
          </listEvent>
       </body>
    </text>

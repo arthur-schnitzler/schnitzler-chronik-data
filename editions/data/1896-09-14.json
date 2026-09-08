@@ -233,189 +233,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00589",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00589.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 14. 9. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listPlace":
-  [
- {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "Baden bei Wien",
- "ref":
- "pmb662"}
- ,  {
- "placeName":
- "Kaiser-Franz-Ring",
- "ref":
- "pmb680"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00590",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00590.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 14. 9. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "?? [Dienstbote]",
- "ref":
- "pmb41723"}],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ,  {
- "placeName":
- "Baden bei Wien",
- "ref":
- "pmb662"}
- ,  {
- "placeName":
- "Kaiser-Franz-Ring",
- "ref":
- "pmb680"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03701",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03701.html",
- "head":
- "Elsa Plessner an Arthur Schnitzler, 14. 9. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Elsa Plessner",
- "ref":
- "pmb2128"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listBibl":
-  [
- {
- "title":
- "Baby",
- "ref":
- "pmb295179"}
- ,  {
- "title":
- "Der Begräbnißtag",
- "ref":
- "pmb295182"}
- ,  {
- "title":
- "Pierettes Tagebuch [19 unveröffentlichte Gedichte]",
- "ref":
- "pmb295716"}
- ,  {
- "title":
- "Heimkehr [dreiaktige Tragikomödie]",
- "ref":
- "pmb296028"}
- ,  {
- "title":
- "Warten. Novelle",
- "ref":
- "pmb32316"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Bäckerstraße 1",
- "ref":
- "pmb295211"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -440,4 +257,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Otto Brahm, 14. 9. 1896",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

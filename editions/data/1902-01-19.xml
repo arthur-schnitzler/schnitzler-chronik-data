@@ -158,77 +158,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04543.html</idno>
             </event>
             <event when-iso="1902-01-19">
-               <head>Rainer Maria Rilke an Arthur Schnitzler, 19. 1. 1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb9531">Rilke, Rainer Maria</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13055">Jakob Wassermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2598">Sigmund Lautenburg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb119608">Martin Zickel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4342">Sándor Wolf</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10762">Lou Andreas-Salomé</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb79052">Das tägliche Leben. Drama in zwei Akten</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb258929">Westerwede</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29414">Neues Wiener Tagblatt</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29421">Österreichische Volks-Zeitung</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29277">Steyrermühl</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04543.html</idno>
-            </event>
-            <event when-iso="1902-01-19">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -288,6 +217,20 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209232.html</idno>
+            </event>
+            <event when-iso="1902-01-19">
+               <head>Otto Brahm an Arthur Schnitzler, 19.1.1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Der Briefwechsel
+                  Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von
+                  Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

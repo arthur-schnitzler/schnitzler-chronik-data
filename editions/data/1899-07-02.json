@@ -133,104 +133,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02878",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02878.html",
- "head":
- "Paul Goldmann an Arthur Schnitzler, 2. 7. 1899",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"}],
- "listPlace":
-  [
- {
- "placeName":
- "Engadin",
- "ref":
- "pmb1061"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Slawonien",
- "ref":
- "pmb40529"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Schweiz",
- "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Rennes",
- "ref":
- "pmb55293"}
- ,  {
- "placeName":
- "Orahovica",
- "ref":
- "pmb42960"}
- ,  {
- "placeName":
- "Budapest",
- "ref":
- "pmb43471"}
- ,  {
- "placeName":
- "Belišće",
- "ref":
- "pmb90320"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -304,4 +206,17 @@
  ""}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#sf764ae3-dd0e-4189-99ce-df42a712c689",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Olga Schnitzler an Arthur Schnitzler, 2.7.1899",
+ "source":
+ "Max Haberich: Arthur Schnitzler. Anatom des Fin de Siècle. Die Biografie. Wien: Kremayr und Scheriau 2017, ISBN 13: 9783218010641, Anhang: Korrespondenz Arthur und Olga Schnitzler, S. 277–293."
 }] 

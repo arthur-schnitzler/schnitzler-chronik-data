@@ -184,88 +184,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03024.html</idno>
             </event>
             <event when-iso="1928-04-11">
-               <head>Felix Salten an Arthur Schnitzler, 11. 4. 1928</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb143748">Die Gedenktafel der Prinzessin Anna. Der Schrei der Liebe. Zwei Novellen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76510">Der Schrei der Liebe. Novelle</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29584">Georg Müller Verlag</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29636">Wiener Verlag</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03586.html</idno>
-            </event>
-            <event when-iso="1928-04-11">
-               <head>Arthur Schnitzler an Felix Salten, 11. 4. 1928</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14850">Arnoldo Cappellini</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb30969">Quer durch den Wurstelprater</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb44292">Rhodos</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb505">Athen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb873">Triest</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb966">Istanbul</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb142987">Stella d’Italia</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03024.html</idno>
-            </event>
-            <event when-iso="1928-04-11">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -329,6 +247,21 @@
                <head>Tagebuch von Clara Katharina Pollaczek, 27. März – 1. Mai 1928</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp520.html</idno>
+            </event>
+            <event when-iso="1928-04-11">
+               <head>Arthur Schnitzler an Felix Salten, 11. 4. 1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth, Richard Miklin, Susanne
+                  Pertlik und Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1984. (PDF unter:
+                  https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1928-04-11">
                <head>Schnitzler geht ins Kino, 11. April 1928</head>

@@ -161,112 +161,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L03501",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L03501.html",
- "head":
- "Felix Salten an Arthur Schnitzler, 29. 6. 1909",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Josef Kainz",
- "ref":
- "pmb11851"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Margarethe Kainz",
- "ref":
- "pmb2273"},
- {
- "persName":
- "Anna Katharina Rehmann",
- "ref":
- "pmb23915"},
- {
- "persName":
- "Paul Salten",
- "ref":
- "pmb2922"}],
- "listBibl":
-  [
- {
- "title":
- "Der neue Vertrag Josef Kainz’",
- "ref":
- "pmb147914"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Villa Bauer",
- "ref":
- "pmb147819"}
- ,  {
- "placeName":
- "Lido",
- "ref":
- "pmb259"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Grado",
- "ref":
- "pmb53379"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -533,4 +427,17 @@
  "pmb189"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Otto Brahm, 29.6.1909",
+ "source":
+ "Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag 2018"
 }] 

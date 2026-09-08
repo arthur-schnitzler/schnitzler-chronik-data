@@ -149,68 +149,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02009.html</idno>
             </event>
             <event when-iso="1911-02-09">
-               <head>Arthur Schnitzler an Albert Ehrenstein, 9. 2. 1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11230">Ehrenstein, Albert</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11527">Stefan Großmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29308">Die Fackel</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02008.html</idno>
-            </event>
-            <event when-iso="1911-02-09">
-               <head>Robert Adam an Arthur Schnitzler, 9. 2. 1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb12438">Adam, Robert</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33580">Neidhard</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02009.html</idno>
-            </event>
-            <event when-iso="1911-02-09">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -260,6 +198,20 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209593.html</idno>
+            </event>
+            <event when-iso="1911-02-09">
+               <head>Arthur Schnitzler an Harley Granville-Barker, 9. 2. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/118639323">Granville-Barker, Harley</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Arthur Schnitzler:
+                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
+                  Main: S. Fischer 1981.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

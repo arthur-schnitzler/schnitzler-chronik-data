@@ -118,84 +118,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02196",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02196.html",
- "head":
- "Hugo von Hofmannsthal an Arthur Schnitzler, 11. 9. [1914]",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
- "Hugo August von Hofmannsthal",
- "ref":
- "pmb11737"}],
- "listPlace":
-  [
- {
- "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Elisabethstraße [Wien]",
- "ref":
- "pmb795"}
- ],
- "listOrg":
-  [
- {
- "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
- ,  {
- "orgName":
- "Wiener freiwillige Rettungsgesellschaft",
- "ref":
- "pmb36931"}
- ,  {
- "orgName":
- "Internationales Komitee vom Roten Kreuz",
- "ref":
- "pmb43466"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -313,4 +235,17 @@
  "#pmb50"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#y8d39a2f-76d4-4426-8799-986c8bf5bc60",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Samuel Fischer, 11.9.1914",
+ "source":
+ "Samuel Fischer, Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main: 1989. (nur Korrespondenz mit Arthur Schnitzler)"
 }] 

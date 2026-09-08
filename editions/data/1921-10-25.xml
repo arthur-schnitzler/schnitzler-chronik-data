@@ -203,6 +203,20 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210120.html</idno>
             </event>
+            <event when-iso="1921-10-25">
+               <head>Karl Rosen an Arthur Schnitzler, 25.10.1921</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/116621338">Rosen, Karl</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Renate Wagner (Hg.):
+                  Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern.
+                  Otto Müller Verlag, Salzburg: 1971.</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
+            </event>
          </listEvent>
       </body>
    </text>

@@ -189,106 +189,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02522.html</idno>
             </event>
             <event when-iso="1929-09-03">
-               <head>Arthur Schnitzler an Berta Zuckerkandl, 3. 9. 1929</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14442">Édouard Bourdet</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb299474">Irénée Mauget</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb52051">Territet</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb90607">Évian-les-Bains</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb390">Franzensbad</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb562">Genf</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb772">Marienbad</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb90460">Caux</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb512">Genfer See</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb334649">Völkerbund</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03983.html</idno>
-            </event>
-            <event when-iso="1929-09-03">
-               <head>Christiane Hofmannsthal an Arthur Schnitzler, 3. 9. 1929</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb3220">Hofmannsthal, Christiane</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11891">Rudolf Kayser</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb44557">Aus dem Nachlass</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29212">Neue Rundschau, Neue Deutsche Rundschau, Freie Bühne</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02522.html</idno>
-            </event>
-            <event when-iso="1929-09-03">
                <head corresp="#pmb52051">Territet</head>
                <desc>
                   <listPlace>
@@ -319,6 +219,22 @@
                <head>Tagebuch von Clara Katharina Pollaczek, 3.–8. September 1929</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp719.html</idno>
+            </event>
+            <event when-iso="1929-09-03">
+               <head>Hedy Kempny an Arthur Schnitzler, 3.9.1929</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hedy Kempny und
+                  Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz ergänzt
+                  durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                  Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt 1984. (Neue
+                  Frau)</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

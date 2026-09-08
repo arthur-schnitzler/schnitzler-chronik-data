@@ -161,57 +161,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02174.html</idno>
             </event>
             <event when-iso="1914-04-09">
-               <head>Arthur Schnitzler, Olga Schnitzler an Richard Beer-Hofmann, 9. 4. 1914</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb298283">Wien, XVIII, Sternwartestr. 71.</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34869">Cap-d’Ail</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36456">Menton</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41759">Riviera</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb52367">Hotel Regina Palace</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02174.html</idno>
-            </event>
-            <event when-iso="1914-04-09">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -234,6 +183,20 @@
                <head>Mappe A116</head>
                <desc>Datumsangabe auf Blatt von Fink und Fliederbusch: »Vierter Akt.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428582_0234.html</idno>
+            </event>
+            <event when-iso="1914-04-09">
+               <head>Eugen Deimel an Arthur Schnitzler, 9.4.1914</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Heinz P. Adamek
+                  (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen Deimel. Briefwechsel.
+                  Holzhausen Verlag: Wien 2003</bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
             <event when-iso="1914-04-09">
                <head>Schnitzler, Arthur an Huber-A..., ... [Briefe]</head>

@@ -168,129 +168,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02385",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02385.html",
- "head":
- "Arthur Schnitzler an Hermann Bahr, 6. 6. 1922",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"}],
- "listBibl":
-  [
- {
- "title":
- "Brief an Arthur Schnitzler",
- "ref":
- "pmb30049"}
- ,  {
- "title":
- "Arthur Schnitzler. Zu seinem sechzigsten Geburtstag (15. Mai 1922)",
- "ref":
- "pmb31455"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Barerstraße",
- "ref":
- "pmb161"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L02386",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L02386.html",
- "head":
- "Arthur Schnitzler an Gerhart Hauptmann, 6. 6. 1922",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
- "Margarete Hauptmann",
- "ref":
- "pmb11621"}],
- "listPlace":
-  [
- {
- "placeName":
- "Schlesien",
- "ref":
- "pmb1122"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ,  {
- "placeName":
- "Jagniątków",
- "ref":
- "pmb735"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -414,4 +291,17 @@
  "pmb161"}
  ]
 }
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#gc49cd7e-1c35-4af4-808b-831b06a17f3d",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Theodor Reik an Arthur Schnitzler, 6.6.1922",
+ "source":
+ "Jeffrey B. Berlin/Hans Ulrich Lindken: Theodor Reiks unveröffentlichte Briefe an Arthur Schnitzler. In: Literatur und Kritik, 1983, H. 173/174, 182-197."
 }] 

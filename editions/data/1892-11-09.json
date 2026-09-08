@@ -149,132 +149,6 @@
 }
 }, {
  "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00133",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00133.html",
- "head":
- "Arthur Schnitzler an Hugo von Hofmannsthal, 9. 11. 1892",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Wilhelm Bölsche",
- "ref":
- "pmb11061"},
- {
- "persName":
- "Robert Ehrhart-Ehrhartstein",
- "ref":
- "pmb4326"}],
- "listBibl":
-  [
- {
- "title":
- "Musotte. Schauspiel in drei Akten",
- "ref":
- "pmb31971"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Grillparzerstraße",
- "ref":
- "pmb412"}
- ,  {
- "placeName":
- "Café Union",
- "ref":
- "pmb48"}
- ,  {
- "placeName":
- "Café Pfob",
- "ref":
- "pmb49"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00134",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00134.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 9. 11. 1892",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Moritz E. Schwarz",
- "ref":
- "pmb40394"}],
- "listBibl":
-  [
- {
- "title":
- "Musotte. Schauspiel in drei Akten",
- "ref":
- "pmb31971"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Brünn",
- "ref":
- "pmb833"}
- ]
-}
-}, {
- "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -377,4 +251,17 @@
  "Mappe A65",
  "text":
  "Datumsangabe auf Blatt von Familie: »II. Akt.«"
+}, {
+ "type":
+ "schnitzler-cmif",
+ "subtype":
+ "#j7685005-64da-4e31-99b6-b4641aa1628c",
+ "color":
+ "#654321",
+ "caption":
+ "Gedruckte Briefwechsel",
+ "head":
+ "Arthur Schnitzler an Marie Glümer, 9. 11. 1892",
+ "source":
+ "Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main: S. Fischer 1981."
 }] 

@@ -192,67 +192,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01996.html</idno>
             </event>
             <event when-iso="1910-12-27">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, [27. 12. 1910]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb24233">Franziska Schlesinger</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29935">Anatol</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb819">Café Pucher</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb33996">Neubeuern</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01995.html</idno>
-            </event>
-            <event when-iso="1910-12-27">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 27. 12. 1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb819">Café Pucher</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01996.html</idno>
-            </event>
-            <event when-iso="1910-12-27">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -278,6 +217,36 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-12-27</idno>
+            </event>
+            <event when-iso="1910-12-27">
+               <head>Julius Strebinger an Arthur Schnitzler, 27.12.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/117312835">Strebinger, Julius</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
+            </event>
+            <event when-iso="1910-12-27">
+               <head>Georg Reimers an Arthur Schnitzler, 27.12.1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="https://d-nb.info/gnd/11641488X">Reimers, Georg</persName>
+                     </person>
+                  </listPerson>
+                  <bibl>Hans Peter Buohler:
+                  Arthur Schnitzlers »Medardus Affairen« Teil 1: Korrespondenzen. In:
+                  Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg. 19 (2011), S. 79–215. 
+               </bibl>
+               </desc>
+               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
             </event>
             <event when-iso="1910-12-27">
                <head>Kinzbrunner, Chas. an Schnitzler, Arthur [Briefe]</head>
