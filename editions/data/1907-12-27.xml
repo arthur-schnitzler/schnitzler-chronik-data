@@ -100,6 +100,38 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01746.html</idno>
             </event>
             <event when-iso="1907-12-27">
+               <head>Max Burckhard an Arthur Schnitzler, 27. 12. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11036">Burckhard, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb48443">Das Theater</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29309">Rütten &amp; Loening</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01746.html</idno>
+            </event>
+            <event when-iso="1907-12-27">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -114,21 +146,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1907-12-27</idno>
-            </event>
-            <event when-iso="1907-12-27">
-               <head>Arthur Schnitzler an Artur Landsberger, 27.12.1907</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116681691">Landsberger,
-                              Artur</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: »Das Zeitlose ist von kürzester Dauer.« Interviews,
-                        Meinungen, Proteste. Hg. Martin Anton Müller. Göttingen: Wallstein 2023,
-                        ISBN 978-3-8353-5471-5 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#t6feed8f-d3e7-4693-90eb-59342c79aed0"/>
             </event>
          </listEvent>
       </body>

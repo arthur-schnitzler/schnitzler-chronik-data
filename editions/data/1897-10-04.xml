@@ -148,6 +148,70 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00730.html</idno>
             </event>
             <event when-iso="1897-10-04">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 4. 10. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb159">Heiligenstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00729.html</idno>
+            </event>
+            <event when-iso="1897-10-04">
+               <head>Arthur Schnitzler an Hugo von Hofmannsthal, 4. 10. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2378">Marie Reinhard</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb34244">Die Rede Gabriele d’Annunzios. Notizen von einer Reise im oberen Italien</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29849">Die Hochzeit der Sobeide</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32067">Die Frau im Fenster</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00730.html</idno>
+            </event>
+            <event when-iso="1897-10-04">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -218,21 +282,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041389.html</idno>
-            </event>
-            <event when-iso="1897-10-04">
-               <head>Rosa Freudenthal an Arthur Schnitzler, 4.10.1897</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName>Freudenthal, Rosa</persName>
-                     </person>
-                  </listPerson>
-                  <bibl> Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente
-                        1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen:
-                        Wallstein Verlag 2018 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
             </event>
             <event when-iso="1897-10-04">
                <head>Schidloff, Arthur an Schnitzler, Arthur [Briefe]</head>

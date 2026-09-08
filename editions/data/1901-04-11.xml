@@ -120,6 +120,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03879.html</idno>
             </event>
             <event when-iso="1901-04-11">
+               <head>Theodor Herzl an Arthur Schnitzler, 11. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11673">Herzl, Theodor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb533">Währinger Cottage</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03879.html</idno>
+            </event>
+            <event when-iso="1901-04-11">
                <head corresp="#pmb445">Rom</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-04-11</idno>
@@ -128,20 +158,6 @@
                <head corresp="#pmb263">Florenz</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-04-11</idno>
-            </event>
-            <event when-iso="1901-04-11">
-               <head>Arthur Schnitzler an Olga Schnitzler, 11. 4. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1901-04-11">
                <head>Baumann, Lina an Schnitzler, Arthur [Briefe]</head>

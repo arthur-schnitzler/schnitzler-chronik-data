@@ -138,6 +138,54 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03201.html</idno>
             </event>
             <event when-iso="1902-03-21">
+               <head>Paul Goldmann an Arthur Schnitzler, 21. 3. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11581">Maximilian Harden</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12899">Hermann Sudermann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb40042">Die Zukunft</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb145345">Theater</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03201.html</idno>
+            </event>
+            <event when-iso="1902-03-21">
                <head corresp="#pmb75">Hinterbrühl</head>
                <desc>
                   <listPlace>
@@ -158,22 +206,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-03-21</idno>
-            </event>
-            <event when-iso="1902-03-21">
-               <head>Erhalt von Richard Schaukal an Arthur Schnitzler, nach 15.3.1902und vor
-                     20.3.1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118606662">Schaukal,
-                              Richard</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Reinhard Urbach: Richard Schaukal – Arthur Schnitzler, Briefwechsel
-                        (1900-1902). In: Modern Austrian Literature, Jg. 8, 1975, H.3/4,
-                        S.15-43.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#s68ac8da-2b04-4b21-afc4-b597655696e0"/>
             </event>
          </listEvent>
       </body>

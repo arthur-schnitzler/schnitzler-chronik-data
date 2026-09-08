@@ -154,6 +154,49 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04245.html</idno>
             </event>
             <event when-iso="1915-08-10">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 10. 8. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb249361">Schottenkirche</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb42117">Esplanade [Bad Ischl]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb655">Hotel Kaiserkrone</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04245.html</idno>
+            </event>
+            <event when-iso="1915-08-10">
                <head corresp="#pmb213">Bad Ischl</head>
                <desc>
                   <listPlace>
@@ -175,19 +218,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-08-10</idno>
-            </event>
-            <event when-iso="1915-08-10">
-               <head>Eugen Deimel an Arthur Schnitzler, 10.8.1915</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

@@ -124,24 +124,40 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00566.html</idno>
             </event>
             <event when-iso="1896-07-22">
-               <head corresp="#pmb91320">Namsos</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-22</idno>
-            </event>
-            <event when-iso="1896-07-22">
-               <head>Arthur Schnitzler an Marie Reinhard, 22.7.1896</head>
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 22. 7. 1896</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="https://d-nb.info/gnd/123368790">Reinhard,
-                              Marie</persName>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                   </listPerson>
-                  <bibl>Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern
-                        Austrian Literature, Jg. 10, 1977, H. 3/4, S. 22–68 (verfügbar auf:
-                        https://www.jstor.org/stable/24645882)</bibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40290">Trondheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="schnitzler-cmif" subtype="#q0f31f7c-c385-4bdd-b199-e671f4a30389"/>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00566.html</idno>
+            </event>
+            <event when-iso="1896-07-22">
+               <head corresp="#pmb91320">Namsos</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-22</idno>
             </event>
          </listEvent>
       </body>

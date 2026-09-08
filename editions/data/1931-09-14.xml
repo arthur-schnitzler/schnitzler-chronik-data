@@ -118,6 +118,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02548.html</idno>
             </event>
             <event when-iso="1931-09-14">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 14. 9. 1931</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02548.html</idno>
+            </event>
+            <event when-iso="1931-09-14">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -162,21 +190,6 @@
                <head>Tagebuch von Clara Katharina Pollaczek, 13.–17. September 1931</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp981.html</idno>
-            </event>
-            <event when-iso="1931-09-14">
-               <head>Arthur Schnitzler an Walter Nagelstock, 14.9.1931</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/1285123328">Nagelstock,
-                              Walter</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: »Das Zeitlose ist von kürzester Dauer.« Interviews,
-                        Meinungen, Proteste. Hg. Martin Anton Müller. Göttingen: Wallstein 2023,
-                        ISBN 978-3-8353-5471-5 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#t6feed8f-d3e7-4693-90eb-59342c79aed0"/>
             </event>
             <event when-iso="1931-09-14">
                <head>Schnitzler geht ins Kino, 14. September 1931</head>

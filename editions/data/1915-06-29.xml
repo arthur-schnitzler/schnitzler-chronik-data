@@ -157,6 +157,49 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02211.html</idno>
             </event>
             <event when-iso="1915-06-29">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 29. 6. 1915</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12495">Theodor Reik</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2496">Arthur Kaufmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02211.html</idno>
+            </event>
+            <event when-iso="1915-06-29">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -171,20 +214,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1915-06-29</idno>
-            </event>
-            <event when-iso="1915-06-29">
-               <head>Fritz Unruh an Arthur Schnitzler, 29.6.1915</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Ulrich K. Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur
-                        Schnitzler. In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4, S.
-                        69-128.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#dc95034c-3e70-47e1-9072-3fc75d84b47a"/>
             </event>
          </listEvent>
       </body>

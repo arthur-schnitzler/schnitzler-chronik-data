@@ -130,6 +130,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02024.html</idno>
             </event>
             <event when-iso="1911-06-26">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [26. 6. 1911]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12749">Karl Schönherr</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02024.html</idno>
+            </event>
+            <event when-iso="1911-06-26">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -147,19 +175,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-06-26</idno>
-            </event>
-            <event when-iso="1911-06-26">
-               <head>Arthur Schnitzler an Heinrich Mann, 26. 6. 1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118577131">Mann, Heinrich</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1911-06-26">
                <head>Schnitzler, Arthur an Rjetsch &lt;Zeitung, Petersburg&gt; [Briefe]</head>

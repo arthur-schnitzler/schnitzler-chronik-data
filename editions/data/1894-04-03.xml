@@ -155,6 +155,69 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02615.html</idno>
             </event>
             <event when-iso="1894-04-03">
+               <head>Paul Goldmann an Arthur Schnitzler, 3. 4. [1894]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11673">Theodor Herzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2801">Henri Albert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb87848">Karl Meunier</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb115432">Constantin Meunier</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23593">Josef Rosengart</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb34971">Vally Rosengart</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30393">Die Glosse. Lustspiel in einem Act</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32252">Moderner Musen-Almanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb34296">Le nouvel almanach de M. Bierbaum</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36344">Frankfurter Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb87849">Charles Meunier</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30163">Weihnachts-Einkäufe</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02615.html</idno>
+            </event>
+            <event when-iso="1894-04-03">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -251,22 +314,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/P049.html</idno>
-            </event>
-            <event when-iso="1894-04-03">
-               <head>Olga Waissnix an Arthur Schnitzler, 3.4.1894</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein
-                        Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten
-                        Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien,
-                        München, Zürich: Verlag Fritz Molden 1970. (PDF:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

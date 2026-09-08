@@ -123,6 +123,45 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04499.html</idno>
             </event>
             <event when-iso="1923-07-03">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 3. 7. 1923</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb207301">Tiefer Graben 17</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb228">Baden-Baden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92291">Villa Hohenstein</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb363469">Grosser Preis von Baden [Pferderennen]</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04499.html</idno>
+            </event>
+            <event when-iso="1923-07-03">
                <head corresp="#pmb228">Baden-Baden</head>
                <desc>
                   <listPlace>
@@ -140,20 +179,6 @@
                <head>Arthur Schnitzler an Clara Katharina Pollaczek, 3. Juli 1923</head>
                <desc/>
                <idno type="pollaczek">https://pollaczek.acdh.oeaw.ac.at/ckp069.html</idno>
-            </event>
-            <event when-iso="1923-07-03">
-               <head>Theodor Reik an Arthur Schnitzler, 3.7.1923</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Jeffrey B. Berlin/Hans Ulrich Lindken: Theodor Reiks unveröffentlichte
-                        Briefe an Arthur Schnitzler. In: Literatur und Kritik, 1983, H. 173/174,
-                        182-197.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#gc49cd7e-1c35-4af4-808b-831b06a17f3d"/>
             </event>
          </listEvent>
       </body>

@@ -123,6 +123,42 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03292.html</idno>
             </event>
             <event when-iso="1899-05-13">
+               <head>Felix Salten an Arthur Schnitzler, 13. 5. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb161807">Emanuel Raul</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb955">Teplice</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb146124">Stadttheater Teplitz</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03292.html</idno>
+            </event>
+            <event when-iso="1899-05-13">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -153,23 +189,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-05-13</idno>
-            </event>
-            <event when-iso="1899-05-13">
-               <head>Franziska Lawner an Arthur Schnitzler, 13.5.1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/1190590301">Lawner,
-                              Franziska</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Frau Bertha Garlan. Historisch-kritische Ausgabe.
-                        Herausgegeben von Gerhard Hubmann und Isabella Schwentner und Mitarbeit von
-                        Anna Lindner und Martin Anton Müller. Berlin, Boston: De Gruyter 2015
-                        (Arthur Schnitzler: Werke in historisch-kritischen Ausgaben. Herausgegeben
-                        von Konstanze Fliedl), S. 281–298.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#sb5b8e07-e0c8-47e6-8add-494150f56e37"/>
             </event>
          </listEvent>
       </body>

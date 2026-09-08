@@ -191,6 +191,118 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03206.html</idno>
             </event>
             <event when-iso="1902-05-02">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 2. [5.?] 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb118">Carl-Theater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40101">Liesingerstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01217.html</idno>
+            </event>
+            <event when-iso="1902-05-02">
+               <head>Paul Goldmann an Arthur Schnitzler, 2. 5. [1902]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb17461">Ernest von Gréger-Jurco</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4794">Karl Strecker</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12749">Karl Schönherr</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb41550">Tägliche Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb88182">Ein litterarisch-dramatisches Hochstapler-Stücklein</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb75">Hinterbrühl</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29691">Tägliche Rundschau</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03206.html</idno>
+            </event>
+            <event when-iso="1902-05-02">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -213,19 +325,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-05-02</idno>
-            </event>
-            <event when-iso="1902-05-02">
-               <head>Otto Brahm an Arthur Schnitzler, 2.5.1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

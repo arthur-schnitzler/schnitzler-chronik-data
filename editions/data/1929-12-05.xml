@@ -141,6 +141,51 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03735.html</idno>
             </event>
             <event when-iso="1929-12-05">
+               <head>Arthur Schnitzler an Stefan Zweig, 5. 12. 1929</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb295299">Kleine Chronik</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76570">Barbara oder Die Frömmigkeit. Roman</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76935">Christoph Columbus. Der Don Quichote des Ozeans</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30945">Im Spiel der Sommerlüfte. In drei Aufzügen</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb253003">Paschinger Schlössl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03735.html</idno>
+            </event>
+            <event when-iso="1929-12-05">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -191,37 +236,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211120.html</idno>
-            </event>
-            <event when-iso="1929-12-05">
-               <head>Arthur Schnitzler an Miriam M. Cohen, 5. 12. 1929</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName>Cohen, Miriam M.</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth,
-                        Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main:
-                        S. Fischer 1984. (PDF unter:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
-            </event>
-            <event when-iso="1929-12-05">
-               <head>Arthur Schnitzler an Heinrich Schnitzler, 5. 12. 1929</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848510">Schnitzler,
-                              Heinrich</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth,
-                        Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main:
-                        S. Fischer 1984. (PDF unter:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1929-12-05">
                <head>Schnitzler geht ins Kino, 5. Dezember 1929</head>

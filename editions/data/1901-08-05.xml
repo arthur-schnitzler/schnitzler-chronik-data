@@ -123,6 +123,61 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03077.html</idno>
             </event>
             <event when-iso="1901-08-05">
+               <head>Paul Goldmann an Arthur Schnitzler, 5. 8. [1901]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25179">Albert Speyer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25187">Nanette Speyer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb144279">Hotel Baur</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43157">Monte Cristallo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb758">Höhlenstein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50822">Klobenstein</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03077.html</idno>
+            </event>
+            <event when-iso="1901-08-05">
                <head corresp="#pmb946">Vahrn</head>
                <desc>
                   <listPlace>
@@ -132,19 +187,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-08-05</idno>
-            </event>
-            <event when-iso="1901-08-05">
-               <head>Eugen Deimel an Arthur Schnitzler, 5.8.1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

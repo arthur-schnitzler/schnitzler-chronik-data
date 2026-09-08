@@ -132,6 +132,54 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00813.html</idno>
             </event>
             <event when-iso="1898-07-05">
+               <head>Arthur Schnitzler an Hugo von Hofmannsthal, 5. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb39752">Tegernsee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45274">Tschortkiw</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb644">Galizien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb867">Innsbruck</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00813.html</idno>
+            </event>
+            <event when-iso="1898-07-05">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -154,19 +202,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-07-05</idno>
-            </event>
-            <event when-iso="1898-07-05">
-               <head>Arthur Schnitzler an Otto Brahm, 5.7.1898</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

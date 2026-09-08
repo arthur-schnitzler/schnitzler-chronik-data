@@ -131,6 +131,38 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01817.html</idno>
             </event>
             <event when-iso="1908-12-01">
+               <head>Hermann Bahr an Arthur Schnitzler, Dezember 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31097">Buch der Jugend</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb864">Leipzig</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29747">Hugo Heller</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01817.html</idno>
+            </event>
+            <event when-iso="1908-12-01">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -360,20 +392,6 @@
                <head>Mappe A92</head>
                <desc>Datumsangabe auf Blatt von Der junge Medardus: »Garten beim Marquis.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428191_0255.html</idno>
-            </event>
-            <event when-iso="1908-12-01">
-               <head>Peter Nansen an Arthur Schnitzler, 1.12.1908</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Peter Nansen - Arthur Schnitzler: Ein Briefwechsel zweier
-                        Geistsverwandter. Hg. Karin Bang. In: Småskrifter fra CØNK, Nr. 9, 2005, S.
-                        1-60. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae"/>
             </event>
          </listEvent>
       </body>

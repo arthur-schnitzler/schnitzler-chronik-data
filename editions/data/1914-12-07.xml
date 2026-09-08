@@ -143,6 +143,45 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03645.html</idno>
             </event>
             <event when-iso="1914-12-07">
+               <head>Stefan Zweig an Arthur Schnitzler, [7.?] 12. 1914</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13374">Gustinus Ambrosi</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb294323">Stefan Zweig</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb294342">Gerhart Hauptmann</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb533">Währinger Cottage</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03645.html</idno>
+            </event>
+            <event when-iso="1914-12-07">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -157,22 +196,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1914-12-07</idno>
-            </event>
-            <event when-iso="1914-12-07">
-               <head>Arthur Schnitzler an Winternitz, Jakob,von, 7. 12. 1914</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/1026292271">Winternitz,
-                              Jakob,von</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth,
-                        Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main:
-                        S. Fischer 1984. (PDF unter:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1914-12-07">
                <head>Schnitzler, Arthur an Winternitz, Jakob von [Briefe]</head>

@@ -202,6 +202,77 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03570.html</idno>
             </event>
             <event when-iso="1921-03-30">
+               <head>Arthur Schnitzler an Robert Adam, 30. 3. 1921</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Adam, Robert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1239">Meidlinger Hauptstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb62">XII., Meidling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb89">Sanatorium Loew</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02365.html</idno>
+            </event>
+            <event when-iso="1921-03-30">
+               <head>Felix Salten an Arthur Schnitzler, 30. 3. 1921</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb22728">Frieda Pollak</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb143686">Tempelhaus [Hildesheim]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb55271">Hildesheim</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03570.html</idno>
+            </event>
+            <event when-iso="1921-03-30">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -259,19 +330,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb292700.html</idno>
-            </event>
-            <event when-iso="1921-03-30">
-               <head>Arthur Schnitzler an Gustaf Linden, 30.3.1921</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler, Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien:
-                        Edition Praesens 2005 (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
             </event>
          </listEvent>
       </body>

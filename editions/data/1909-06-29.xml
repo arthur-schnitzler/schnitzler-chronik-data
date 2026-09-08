@@ -161,6 +161,68 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03501.html</idno>
             </event>
             <event when-iso="1909-06-29">
+               <head>Felix Salten an Arthur Schnitzler, 29. 6. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11851">Josef Kainz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2273">Margarethe Kainz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23915">Anna Katharina Rehmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2922">Paul Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb147914">Der neue Vertrag Josef Kainz’</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb147819">Villa Bauer</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb259">Lido</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb462">Venedig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb53379">Grado</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03501.html</idno>
+            </event>
+            <event when-iso="1909-06-29">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -330,21 +392,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041546.html</idno>
-            </event>
-            <event when-iso="1909-06-29">
-               <head>Arthur Schnitzler an Otto Brahm, 29.6.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl> Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente
-                        1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen:
-                        Wallstein Verlag 2018 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
             </event>
          </listEvent>
       </body>

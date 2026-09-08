@@ -130,6 +130,40 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00972.html</idno>
             </event>
             <event when-iso="1899-09-10">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 10. 9. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41430">Sachsenburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb423">Tirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43040">Brixen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00972.html</idno>
+            </event>
+            <event when-iso="1899-09-10">
                <head corresp="#pmb213">Bad Ischl</head>
                <desc>
                   <listPlace>
@@ -144,19 +178,6 @@
                <head corresp="#pmb415">Bad Aussee</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-10</idno>
-            </event>
-            <event when-iso="1899-09-10">
-               <head>Otto Brahm an Arthur Schnitzler, 10.9.1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

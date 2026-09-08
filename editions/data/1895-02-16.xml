@@ -174,6 +174,64 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03848.html</idno>
             </event>
             <event when-iso="1895-02-16">
+               <head>Theodor Herzl an Arthur Schnitzler, 16. 2. 1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11673">Herzl, Theodor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12331">Adam Müller-Guttenbrunn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14328">Oskar Blumenthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2420">Friedrich Schik</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27711">
+      ?? [Schreibkraft für Arthur Schnitzler]
+  </persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76499">Das neue Ghetto. Schauspiel in vier Acten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb112436">Palais Bourbon</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296539">Reisnerstraße 35</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb451">Sizilien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb39666">Raimund-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03848.html</idno>
+            </event>
+            <event when-iso="1895-02-16">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -240,33 +298,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208730.html</idno>
-            </event>
-            <event when-iso="1895-02-16">
-               <head>Arthur Schnitzler an Adele Sandrock, 16.2.1895</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118605429">Sandrock,
-                              Adele</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Renate Wagner (Hg.): Dilly. Geschichte einer Liebe in Briefen, Bildern
-                        und Dokumenten. Wien/München: Amalthea 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#g21edf0a-7af3-4163-813b-7d55aaaf2eba"/>
-            </event>
-            <event when-iso="1895-02-16">
-               <head>Otto Brahm an Arthur Schnitzler, 16.2.1895</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

@@ -126,6 +126,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02584.html</idno>
             </event>
             <event when-iso="1927-04-11">
+               <head>Arthur Schnitzler an Lotte Bloch-Zavřel, 11. 4. 1927</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb63579">Bloch-Zavřel, Lotte</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb63583">Briefe an Auguste Hauschner</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb9925">Charlottenburg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02584.html</idno>
+            </event>
+            <event when-iso="1927-04-11">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -148,20 +178,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1927-04-11</idno>
-            </event>
-            <event when-iso="1927-04-11">
-               <head>Arthur Schnitzler an Lotte Bloch-Zavřel, 11.4.1927</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName>Bloch-Zavřel, Lotte</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: »Das Zeitlose ist von kürzester Dauer.« Interviews,
-                        Meinungen, Proteste. Hg. Martin Anton Müller. Göttingen: Wallstein 2023,
-                        ISBN 978-3-8353-5471-5 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#t6feed8f-d3e7-4693-90eb-59342c79aed0"/>
             </event>
             <event when-iso="1927-04-11">
                <head>Schnitzler, Arthur an Bloch-Zavrel, Lotte [Briefe]</head>

@@ -122,6 +122,46 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04533.html</idno>
             </event>
             <event when-iso="1910-05-24">
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 24. 5. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb90404">Brünig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb91221">Meiringen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb90075">Grimselpass</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb967">Luzern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb916">Interlaken</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04533.html</idno>
+            </event>
+            <event when-iso="1910-05-24">
                <head corresp="#pmb967">Luzern</head>
                <desc>
                   <listPlace>
@@ -153,22 +193,6 @@
                <head corresp="#pmb90404">Brünig</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-05-24</idno>
-            </event>
-            <event when-iso="1910-05-24">
-               <head>Erhalt von Zinaida Vengerova an Arthur Schnitzler, 23. 5. 1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName>Vengerova, Zinaida</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Die Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und
-                        Zinaida Vengerova. Herausgegeben von Konstantin Asadowski und Martin Anton
-                        Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022),
-                        S. 7–91.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86"/>
             </event>
          </listEvent>
       </body>

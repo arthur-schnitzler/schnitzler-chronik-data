@@ -220,6 +220,95 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02070.html</idno>
             </event>
             <event when-iso="1912-05-23">
+               <head>Arthur Schnitzler an Albert Ehrenstein, [zwischen 23. und 25.] 5. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Ehrenstein, Albert</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02068.html</idno>
+            </event>
+            <event when-iso="1912-05-23">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 23. 5. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02069.html</idno>
+            </event>
+            <event when-iso="1912-05-23">
+               <head>Hugo von Hofmannsthal, Gerty von Hofmannsthal an Arthur Schnitzler, 23. 5. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292">Hofmannsthal, Gerty von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb44815">Anton Sieß</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb47424">Franz Paul Kleewein</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb47422">Zunftfahne der Bäcker und Müller mit den Heiligen Elisabeth, Sebastian und Agnes</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40302">Sterzing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44816">Alte Post</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02070.html</idno>
+            </event>
+            <event when-iso="1912-05-23">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -312,23 +401,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041081.html</idno>
-            </event>
-            <event when-iso="1912-05-23">
-               <head>Erhalt von Isabella Vengerova an Arthur Schnitzler, 21. 5. [1912]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/119401215">Vengerova,
-                              Isabella</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Die Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und
-                        Zinaida Vengerova. Herausgegeben von Konstantin Asadowski und Martin Anton
-                        Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022),
-                        S. 7–91.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86"/>
             </event>
             <event when-iso="1912-05-23">
                <head>Stock, P. V. an Schnitzler, Arthur [Briefe]</head>

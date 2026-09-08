@@ -260,6 +260,212 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L03085",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L03085.html",
+ "head":
+ "Paul Goldmann an Arthur Schnitzler, 23. 9. [1901]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Franz Lenbach",
+ "ref":
+ "pmb113956"},
+ {
+ "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"},
+ {
+ "persName":
+ "Alfred Kerr",
+ "ref":
+ "pmb11910"},
+ {
+ "persName":
+ "Irene Triesch",
+ "ref":
+ "pmb12977"},
+ {
+ "persName":
+ "Peter Dorner",
+ "ref":
+ "pmb15445"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Franz von Stuck",
+ "ref":
+ "pmb3904"},
+ {
+ "persName":
+ "Sébastien Roch Nicolas Chamfort",
+ "ref":
+ "pmb39417"},
+ {
+ "persName":
+ "Adolf Brüning",
+ "ref":
+ "pmb144246"},
+ {
+ "persName":
+ "Adolphe Mathurin de Lescure",
+ "ref":
+ "pmb144509"},
+ {
+ "persName":
+ "M. v. Berthof",
+ "ref":
+ "pmb148179"},
+ {
+ "persName":
+ "H. G. Wells",
+ "ref":
+ "pmb5815"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Elisabeth Steinrück",
+ "ref":
+ "pmb2315"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die Schmiedekunst seit dem Ende der Renaissance",
+ "ref":
+ "pmb144245"}
+ ,  {
+ "title":
+ "Œuvres choisies de N. Chamfort, publiées avec préface, notes et tables",
+ "ref":
+ "pmb144258"}
+ ,  {
+ "title":
+ "Das rothe Zimmer",
+ "ref":
+ "pmb144506"}
+ ,  {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ "pmb29865"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
+ ,  {
+ "title":
+ "Die Schmiedekunst nach Originalen des XV. bis XVIII. Jahrhunderts",
+ "ref":
+ "pmb144254"}
+ ,  {
+ "title":
+ "Lebendige Stunden. Vier Einakter",
+ "ref":
+ "pmb29863"}
+ ,  {
+ "title":
+ "Literatur",
+ "ref":
+ "pmb29869"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Dessauer Straße",
+ "ref":
+ "pmb40583"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Rooseveltplatz",
+ "ref":
+ "pmb721"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
+ ,  {
+ "placeName":
+ "Leipzig",
+ "ref":
+ "pmb864"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Flammarion",
+ "ref":
+ "pmb89863"}
+ ,  {
+ "orgName":
+ "Hermann Seemann Nachfolger",
+ "ref":
+ "pmb144250"}
+ ,  {
+ "orgName":
+ "Verlag von Ernst Wasmuth",
+ "ref":
+ "pmb144255"}
+ ,  {
+ "orgName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb35597"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -284,17 +490,4 @@
  ""}
  ]
 }
-}, {
- "type":
- "schnitzler-cmif",
- "subtype":
- "#ya489e21-54d5-40de-a56d-f4548e894428",
- "color":
- "#654321",
- "caption":
- "Gedruckte Briefwechsel",
- "head":
- "Arthur Schnitzler an Otto Brahm, 23.9.1901",
- "source":
- "Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975."
 }] 

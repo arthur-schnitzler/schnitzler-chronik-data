@@ -109,6 +109,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03704.html</idno>
             </event>
             <event when-iso="1896-09-28">
+               <head>Elsa Plessner an Arthur Schnitzler, 28. 9. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2128">Plessner, Elsa</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb296028">Heimkehr [dreiaktige Tragikomödie]</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb295211">Bäckerstraße 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03704.html</idno>
+            </event>
+            <event when-iso="1896-09-28">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -136,20 +166,6 @@
                <head>Schnitzler schreibt einen Brief an Emerich von Bukovics vom Deutschen Volkstheater, in dem er Erklärungen zum Freiwild gibt</head>
                <desc/>
                <idno type="schnitzler-chronik-manuell">Versteigerung Dorotheum</idno>
-            </event>
-            <event when-iso="1896-09-28">
-               <head>Arthur Schnitzler an Peter Nansen, 28.9.1896</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Peter Nansen - Arthur Schnitzler: Ein Briefwechsel zweier
-                        Geistsverwandter. Hg. Karin Bang. In: Småskrifter fra CØNK, Nr. 9, 2005, S.
-                        1-60. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae"/>
             </event>
          </listEvent>
       </body>

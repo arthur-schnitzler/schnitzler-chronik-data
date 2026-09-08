@@ -144,6 +144,40 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01878.html</idno>
             </event>
             <event when-iso="1909-09-21">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 21. 9. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27289">Emil Wolf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01878.html</idno>
+            </event>
+            <event when-iso="1909-09-21">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -210,48 +244,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209574.html</idno>
-            </event>
-            <event when-iso="1909-09-21">
-               <head>Arthur Schnitzler an Paul Schlenther, 21.9.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118795112">Schlenther,
-                              Paul</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hans Peter Buohler: Arthur Schnitzlers »Medardus Affairen« Teil 1:
-                        Korrespondenzen. In: Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg.
-                        19 (2011), S. 79–215. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
-            </event>
-            <event when-iso="1909-09-21">
-               <head>Arthur Kahane an Arthur Schnitzler, 21.9.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max
-                        Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg:
-                        1971.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
-            </event>
-            <event when-iso="1909-09-21">
-               <head>Arthur Schnitzler an Eugen Deimel, 21.9.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

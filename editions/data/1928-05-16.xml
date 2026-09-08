@@ -148,6 +148,37 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03742.html</idno>
             </event>
             <event when-iso="1928-05-16">
+               <head>Arthur Schnitzler an Stefan Zweig, 16. 5. 1928</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb253003">Paschinger Schlössl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03742.html</idno>
+            </event>
+            <event when-iso="1928-05-16">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -217,23 +248,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11413</idno>
-            </event>
-            <event when-iso="1928-05-16">
-               <head>Raoul Auernheimer an Arthur Schnitzler, 16.5.1928</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118505033">Auernheimer,
-                              Raoul</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>The Correspondence of Arthur Schnitzler and Raoul Auernheimer with Raoul
-                        Auernheimer’s Aphorism. Edited with introduction and notes by Donald G.
-                        Daviau and Jorun B. Johns. Chapel Hill: The University of North Carolina
-                        Press, 1972 (University of North Carolina Studies in the Germanic Languages
-                        and Literatures, 73).</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#v02efeb3-b382-4ed8-a71f-1366a4647e76"/>
             </event>
          </listEvent>
       </body>

@@ -114,6 +114,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01511.html</idno>
             </event>
             <event when-iso="1905-04-12">
+               <head>Max Burckhard an Arthur Schnitzler, [12. 4. 1905?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11036">Burckhard, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30673">Rat Schrimpf. Komödie in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb47979">Börsenblatt für den Deutschen Buchhandel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01511.html</idno>
+            </event>
+            <event when-iso="1905-04-12">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -128,20 +163,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-04-12</idno>
-            </event>
-            <event when-iso="1905-04-12">
-               <head>Arthur Schnitzler an Milena Preindlsberger, 12. 4. 1905</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116281774">Preindlsberger,
-                              Milena</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1905-04-12">
                <head>Schnitzler, Arthur an Preindlsperger, Milena [Briefe]</head>

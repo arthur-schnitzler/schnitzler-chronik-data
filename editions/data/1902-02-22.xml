@@ -106,6 +106,28 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01205.html</idno>
             </event>
             <event when-iso="1902-02-22">
+               <head>Joseph Victor Widmann an Arthur Schnitzler, [22.?] 2. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb3557">Widmann, Joseph Victor</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1223">Bern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01205.html</idno>
+            </event>
+            <event when-iso="1902-02-22">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -128,20 +150,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-02-22</idno>
-            </event>
-            <event when-iso="1902-02-22">
-               <head>Arthur Schnitzler an Peter Nansen, 22.2.1902</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Peter Nansen - Arthur Schnitzler: Ein Briefwechsel zweier
-                        Geistsverwandter. Hg. Karin Bang. In: Småskrifter fra CØNK, Nr. 9, 2005, S.
-                        1-60. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae"/>
             </event>
          </listEvent>
       </body>

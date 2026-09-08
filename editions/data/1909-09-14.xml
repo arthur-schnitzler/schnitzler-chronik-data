@@ -185,6 +185,90 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04154.html</idno>
             </event>
             <event when-iso="1909-09-14">
+               <head>Arthur Schnitzler an Hermann Bahr, 14. 9. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01872.html</idno>
+            </event>
+            <event when-iso="1909-09-14">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, Paula Beer-Hofmann, 14. 9. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Beer-Hofmann, Paula</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01873.html</idno>
+            </event>
+            <event when-iso="1909-09-14">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 14. 9. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb133">Edmund-Weiß-Gasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04154.html</idno>
+            </event>
+            <event when-iso="1909-09-14">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -229,36 +313,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041112.html</idno>
-            </event>
-            <event when-iso="1909-09-14">
-               <head>Arthur Schnitzler an Isabella Vengerova, 14. 9. 1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/119401215">Vengerova,
-                              Isabella</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Die Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und
-                        Zinaida Vengerova. Herausgegeben von Konstantin Asadowski und Martin Anton
-                        Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022),
-                        S. 7–91.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86"/>
-            </event>
-            <event when-iso="1909-09-14">
-               <head>Otto Brahm an Arthur Schnitzler, 14.9.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

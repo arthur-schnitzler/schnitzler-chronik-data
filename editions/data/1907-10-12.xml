@@ -142,6 +142,47 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01722.html</idno>
             </event>
             <event when-iso="1907-10-12">
+               <head>Stefan Großmann an Arthur Schnitzler, 12. 10. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11527">Großmann, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29893">Excentric</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30655">Das neue Lied</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1210">Königseggasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb302">Mariahilfer Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb56">VI., Mariahilf</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29569">Wiener Freie Volksbühne</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01722.html</idno>
+            </event>
+            <event when-iso="1907-10-12">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -207,19 +248,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb246795.html</idno>
-            </event>
-            <event when-iso="1907-10-12">
-               <head>Gustaf Linden an Arthur Schnitzler, 12.10.1907</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler, Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien:
-                        Edition Praesens 2005 (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
             </event>
          </listEvent>
       </body>

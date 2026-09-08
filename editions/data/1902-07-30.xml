@@ -158,22 +158,66 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03215.html</idno>
             </event>
             <event when-iso="1902-07-30">
-               <head corresp="#pmb90721">Gießhübl</head>
-               <desc/>
-               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-07-30</idno>
-            </event>
-            <event when-iso="1902-07-30">
-               <head>Otto Brahm an Arthur Schnitzler, 30.7.1902</head>
+               <head>Paul Goldmann an Arthur Schnitzler, 30. 7. [1902]</head>
                <desc>
                   <listPerson>
                      <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                   </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb44080">Jugend</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29893">Excentric</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30647">Andreas Thameyers letzter Brief</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb75">Hinterbrühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb88187">Mürren</placeName>
+                     </place>
+                  </listPlace>
                </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03215.html</idno>
+            </event>
+            <event when-iso="1902-07-30">
+               <head corresp="#pmb90721">Gießhübl</head>
+               <desc/>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1902-07-30</idno>
             </event>
          </listEvent>
       </body>

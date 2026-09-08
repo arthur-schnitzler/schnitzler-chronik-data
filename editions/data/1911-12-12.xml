@@ -154,6 +154,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03052.html</idno>
             </event>
             <event when-iso="1911-12-12">
+               <head>Felix Salten an Arthur Schnitzler, 12. 12. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb99520">Emil Mayer</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb143518">Wurstelprater</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb864">Leipzig</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb143520">Verlagsanstalt Brüder Rosenbaum</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03052.html</idno>
+            </event>
+            <event when-iso="1911-12-12">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -168,19 +203,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-12-12</idno>
-            </event>
-            <event when-iso="1911-12-12">
-               <head>Eugen Deimel an Arthur Schnitzler, 12.12.1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>

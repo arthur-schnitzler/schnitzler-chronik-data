@@ -149,6 +149,63 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03158.html</idno>
             </event>
             <event when-iso="1895-07-16">
+               <head>Felix Salten an Arthur Schnitzler, 16. 7. [1895]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4785">Theodor Zasche</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb30969">Quer durch den Wurstelprater</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36133">Pan</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76497">Terzinen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb745">Skandinavien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03158.html</idno>
+            </event>
+            <event when-iso="1895-07-16">
                <head corresp="#pmb213">Bad Ischl</head>
                <desc>
                   <listPlace>
@@ -200,20 +257,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208751.html</idno>
-            </event>
-            <event when-iso="1895-07-16">
-               <head>Arthur Schnitzler an Marie Reinhard, 16. 7. 1895</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/123368790">Reinhard,
-                              Marie</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

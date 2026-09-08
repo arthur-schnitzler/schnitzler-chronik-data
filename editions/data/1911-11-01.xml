@@ -145,6 +145,41 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02042.html</idno>
             </event>
             <event when-iso="1911-11-01">
+               <head>Hermann Bahr an Arthur Schnitzler, November 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29943">Bayreuth</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb864">Leipzig</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29756">Ernst Rowohlt Verlag</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02042.html</idno>
+            </event>
+            <event when-iso="1911-11-01">
                <head corresp="#pmb652">Prag</head>
                <desc>
                   <listPlace>
@@ -240,20 +275,6 @@
                <head>Mappe A117</head>
                <desc>Datumsangabe auf Blatt von Professor Bernhardi: »In drei Akten.«</desc>
                <idno type="schnitzler-mikrofilme-daten">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428583_0085.html</idno>
-            </event>
-            <event when-iso="1911-11-01">
-               <head>Arthur Schnitzler an Olga Schnitzler, 1. 11. 1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
             <event when-iso="1911-11-01">
                <head>Böhmer, M. an Schnitzler, Arthur [Briefe]</head>

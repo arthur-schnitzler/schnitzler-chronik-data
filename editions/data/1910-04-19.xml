@@ -132,6 +132,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03470.html</idno>
             </event>
             <event when-iso="1910-04-19">
+               <head>Paul Goldmann an Arthur Schnitzler, 19. 4. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11937">Victor Klemperer</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb57358">Schöneberger Ufer</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03470.html</idno>
+            </event>
+            <event when-iso="1910-04-19">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -202,21 +230,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10312</idno>
-            </event>
-            <event when-iso="1910-04-19">
-               <head>Arthur Schnitzler an Samuel Fischer, 19.4.1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118691406">Fischer,
-                              Samuel</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hans Peter Buohler: Arthur Schnitzlers »Medardus Affairen« Teil 1:
-                        Korrespondenzen. In: Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg.
-                        19 (2011), S. 79–215. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
             </event>
             <event when-iso="1910-04-19">
                <head>Schnitzler, Arthur: Der letzte Brief eines Literaten [Prosa] (Drucktitel)</head>

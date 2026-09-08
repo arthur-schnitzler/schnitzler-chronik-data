@@ -124,6 +124,34 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00574.html</idno>
             </event>
             <event when-iso="1896-07-30">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 30. 07. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb1119">Stockholm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40700">Göteborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00574.html</idno>
+            </event>
+            <event when-iso="1896-07-30">
                <head corresp="#pmb1119">Stockholm</head>
                <desc>
                   <listPlace>
@@ -154,21 +182,6 @@
                <head corresp="#pmb90529">Djurgården</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-30</idno>
-            </event>
-            <event when-iso="1896-07-30">
-               <head>Arthur Schnitzler an Marie Reinhard, 30.7.1896</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/123368790">Reinhard,
-                              Marie</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern
-                        Austrian Literature, Jg. 10, 1977, H. 3/4, S. 22–68 (verfügbar auf:
-                        https://www.jstor.org/stable/24645882)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#q0f31f7c-c385-4bdd-b199-e671f4a30389"/>
             </event>
             <event when-iso="1896-07-30">
                <head>Reinhard, Marie an Schnitzler, Arthur [Briefe]</head>

@@ -156,6 +156,57 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03968.html</idno>
             </event>
             <event when-iso="1926-02-04">
+               <head>Arthur Schnitzler an Berta Zuckerkandl, 4. 2. 1926</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb15296">Maurice Delamain</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10886">Elisabeth Bergner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb295321">Madmoiselle Else</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29941">Fräulein Else</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb142545">Reichstag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb245">Hotel Esplanade [Berlin]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb235784">Oppolzergasse 6</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03968.html</idno>
+            </event>
+            <event when-iso="1926-02-04">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -206,21 +257,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/11229</idno>
-            </event>
-            <event when-iso="1926-02-04">
-               <head>Arthur Schnitzler an Arnold Pressburger, 4.2.1926</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/129653691">Pressburger,
-                              Arnold</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hans Peter Buohler: Arthur Schnitzlers »Medardus Affairen« Teil 1:
-                        Korrespondenzen. In: Hofmannsthal-Jahrbuch ⋅ Zur europäischen Moderne, Jg.
-                        19 (2011), S. 79–215. </bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#s364f351-b14a-4d77-b480-295e58878c66"/>
             </event>
          </listEvent>
       </body>

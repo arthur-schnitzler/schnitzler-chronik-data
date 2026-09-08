@@ -230,6 +230,90 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03557.html</idno>
             </event>
             <event when-iso="1912-07-02">
+               <head>Felix Salten an Arthur Schnitzler, 2. 7. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27312">Louise Wolff</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb148387">Eine Gerhart Hauptmann-Première in Lauchstedt. (»Gabriel Schillings Flucht.«)</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30357">Gabriel Schillings Flucht. Drama</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb197">Weimar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb411">Berghof</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45260">Brijuni</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb46449">Landshut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb652">Prag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb864">Leipzig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb866">Dresden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb877">Unterach am Attersee</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03557.html</idno>
+            </event>
+            <event when-iso="1912-07-02">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -252,20 +336,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1912-07-02</idno>
-            </event>
-            <event when-iso="1912-07-02">
-               <head>Theodor Reik an Arthur Schnitzler, 2.7.1912</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Jeffrey B. Berlin/Hans Ulrich Lindken: Theodor Reiks unveröffentlichte
-                        Briefe an Arthur Schnitzler. In: Literatur und Kritik, 1983, H. 173/174,
-                        182-197.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#gc49cd7e-1c35-4af4-808b-831b06a17f3d"/>
             </event>
          </listEvent>
       </body>

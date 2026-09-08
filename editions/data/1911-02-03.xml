@@ -179,6 +179,44 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02002.html</idno>
             </event>
             <event when-iso="1911-02-03">
+               <head>Robert Adam an Arthur Schnitzler, 3. 2. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12438">Adam, Robert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10948">Julius Bittner</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33578">Die Geschichte des Alî ibn Bekkâr mit Schams an-Nahâr</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33580">Neidhard</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29560">Der Merker</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02002.html</idno>
+            </event>
+            <event when-iso="1911-02-03">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -209,19 +247,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-02-03</idno>
-            </event>
-            <event when-iso="1911-02-03">
-               <head>Otto Brahm an Arthur Schnitzler, 3.2.1911</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
          </listEvent>
       </body>

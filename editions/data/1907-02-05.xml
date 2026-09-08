@@ -146,6 +146,44 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01655.html</idno>
             </event>
             <event when-iso="1907-02-05">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [zwischen
+                  3. – 7. 2. 1907]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb183">Gerngroß</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb413">Südbahnhotel [Semmering]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01655.html</idno>
+            </event>
+            <event when-iso="1907-02-05">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -203,23 +241,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209469.html</idno>
-            </event>
-            <event when-iso="1907-02-05">
-               <head>Erhalt von Isabella Vengerova an Arthur Schnitzler, 2. 2. [1907]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/119401215">Vengerova,
-                              Isabella</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Die Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und
-                        Zinaida Vengerova. Herausgegeben von Konstantin Asadowski und Martin Anton
-                        Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30 (2022),
-                        S. 7–91.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86"/>
             </event>
          </listEvent>
       </body>

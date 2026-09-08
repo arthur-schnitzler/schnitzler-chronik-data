@@ -154,6 +154,76 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00556.html</idno>
             </event>
             <event when-iso="1896-06-27">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 27. 6. 1896</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb119747">Bergen [Norwegen]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36296">Oslo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40290">Trondheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb506">Hamburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00555.html</idno>
+            </event>
+            <event when-iso="1896-06-27">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, 27. 6. [1896]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb34220">Geschichte der beiden Liebespaare</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00556.html</idno>
+            </event>
+            <event when-iso="1896-06-27">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -217,22 +287,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10053</idno>
-            </event>
-            <event when-iso="1896-06-27">
-               <head>Olga Waissnix an Arthur Schnitzler, 27.6.1896</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein
-                        Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten
-                        Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien,
-                        München, Zürich: Verlag Fritz Molden 1970. (PDF:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

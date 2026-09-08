@@ -147,6 +147,52 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04258.html</idno>
             </event>
             <event when-iso="1920-02-20">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, 20. 2. 1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb334794">Städtische Kuranstalt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb533">Währinger Cottage</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb662">Baden bei Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190818">Stadttheater Baden</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04258.html</idno>
+            </event>
+            <event when-iso="1920-02-20">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -161,21 +207,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1920-02-20</idno>
-            </event>
-            <event when-iso="1920-02-20">
-               <head>Hedy Kempny an Arthur Schnitzler, 20.2.1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hedy Kempny und Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen.
-                        Eine Korrespondenz ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie
-                        durch eine Auswahl ihrer Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei
-                        Hamburg: Rowohlt 1984. (Neue Frau)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

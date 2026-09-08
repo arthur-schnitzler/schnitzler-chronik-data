@@ -125,6 +125,36 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03172.html</idno>
             </event>
             <event when-iso="1896-06-09">
+               <head>Felix Salten an Arthur Schnitzler, [9. 6. 1896?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27456">Alexander Zeitlin</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb14">Burgtheater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb60329">Akademie der Bildenden Künste Wien</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03172.html</idno>
+            </event>
+            <event when-iso="1896-06-09">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -223,22 +253,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168391.html</idno>
-            </event>
-            <event when-iso="1896-06-09">
-               <head>Olga Waissnix an Arthur Schnitzler, 9.6.1896</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein
-                        Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten
-                        Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien,
-                        München, Zürich: Verlag Fritz Molden 1970. (PDF:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

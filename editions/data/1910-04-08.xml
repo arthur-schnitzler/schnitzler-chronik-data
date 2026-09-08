@@ -177,6 +177,79 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01923.html</idno>
             </event>
             <event when-iso="1910-04-08">
+               <head>Max Burckhard an Arthur Schnitzler, 8. 4. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11036">Burckhard, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33516">Trinacria</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb33">St. Gilgen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb436">Porzellangasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44269">Portofino</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb451">Sizilien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01922.html</idno>
+            </event>
+            <event when-iso="1910-04-08">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, 8. 4. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb198">Pelikangasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb89">Sanatorium Loew</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01923.html</idno>
+            </event>
+            <event when-iso="1910-04-08">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -240,19 +313,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb249934.html</idno>
-            </event>
-            <event when-iso="1910-04-08">
-               <head>Arthur Schnitzler an Gustaf Linden, 8.4.1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler, Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien:
-                        Edition Praesens 2005 (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
             </event>
             <event when-iso="1910-04-08">
                <head>Schnitzler, Arthur an Breitkopf &amp; Härtel (Leipzig) [Briefe]</head>

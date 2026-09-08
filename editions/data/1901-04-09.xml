@@ -157,6 +157,90 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04500.html</idno>
             </event>
             <event when-iso="1901-04-09">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 9. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb50775">
+      Melozzo da Forlì
+  </persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb50774">Musizierende Engel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb148287">Roma Termini</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50782">Basilika Santi XII Apostoli</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01107.html</idno>
+            </event>
+            <event when-iso="1901-04-09">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 9. 4. 1901</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb231438">Kolosseum [Rom]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04500.html</idno>
+            </event>
+            <event when-iso="1901-04-09">
                <head corresp="#pmb445">Rom</head>
                <desc>
                   <listPlace>
@@ -169,47 +253,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1901-04-09</idno>
-            </event>
-            <event when-iso="1901-04-09">
-               <head>Arthur Schnitzler an Olga Schnitzler, 9. 4. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
-            </event>
-            <event when-iso="1901-04-09">
-               <head>Arthur Schnitzler an Olga Schnitzler, 9. 4. 1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
-            </event>
-            <event when-iso="1901-04-09">
-               <head>Arthur Schnitzler an Eugen Deimel, 9.4.1901</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
             <event when-iso="1901-04-09">
                <head>Karlweis, Emilie an Schnitzler, Arthur [Briefe]</head>

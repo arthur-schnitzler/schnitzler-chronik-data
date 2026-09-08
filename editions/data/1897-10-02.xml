@@ -192,6 +192,106 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00727.html</idno>
             </event>
             <event when-iso="1897-10-02">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 2. 10. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10765">Leopold von Andrian-Werburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28820">
+      Stendhal
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb42793">John Milton</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5449">Joris-Karl Huysmans</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14723">William Busnach</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb6892">Georges Duval</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33418">En route</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42786">Der Stellvertreter. Schwank in 3 Acten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb118">Carl-Theater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb228">Baden-Baden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb42783">Sanatorium Frey-Dengler</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00726.html</idno>
+            </event>
+            <event when-iso="1897-10-02">
+               <head>Max Burckhard an Arthur Schnitzler, [2. 10. 1897?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11036">Burckhard, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29965">Simon Thums. Einige Tage aus seinem Leben</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb47979">Börsenblatt für den Deutschen Buchhandel</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb872">Stuttgart</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29215">J.G. Cotta’sche Buchhandlung Nachfolger</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00727.html</idno>
+            </event>
+            <event when-iso="1897-10-02">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -214,19 +314,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-10-02</idno>
-            </event>
-            <event when-iso="1897-10-02">
-               <head>Arthur Schnitzler an Rosa Freudenthal, 2. 10. 1897</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName>Freudenthal, Rosa</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

@@ -179,6 +179,69 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01867.html</idno>
             </event>
             <event when-iso="1909-08-24">
+               <head>Albert Ehrenstein an Arthur Schnitzler, 24. 8. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11230">Ehrenstein, Albert</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10788">Raoul Auernheimer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5626">
+      Theoderich der Große
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5629">
+      Gustav II. Adolf von Schweden
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5643">Gaius Duilius</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27755">
+      ?? [Studienkollege von Albert Ehrenstein]
+  </persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33452">Tubutsch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33454">Tod des Zehir eddin Muhammed Baber</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33482">Apaturien</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33478">?? [Dissertation]</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb44146">Mixnitz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb462">Venedig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb470">Edlach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01867.html</idno>
+            </event>
+            <event when-iso="1909-08-24">
                <head corresp="#pmb45258">München</head>
                <desc>
                   <listPlace>
@@ -228,20 +291,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209569.html</idno>
-            </event>
-            <event when-iso="1909-08-24">
-               <head>Arthur Schnitzler an Olga Schnitzler, 24. 8. 1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

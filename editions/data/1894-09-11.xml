@@ -191,6 +191,93 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03145.html</idno>
             </event>
             <event when-iso="1894-09-11">
+               <head>Felix Salten an Arthur Schnitzler, [zwischen 7. und 12. 9.? 1894]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb144618">
+      Reisner
+  </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23236">Adele Reisner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb199347">Hörlgasse 16</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29207">Berliner Neueste Nachrichten</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29664">Münchener General-Anzeiger</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03134.html</idno>
+            </event>
+            <event when-iso="1894-09-11">
+               <head>Felix Salten an Arthur Schnitzler, [11. 9. 1894]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31275">Studien zur Kritik der Moderne</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb199347">Hörlgasse 16</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29207">Berliner Neueste Nachrichten</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29664">Münchener General-Anzeiger</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03145.html</idno>
+            </event>
+            <event when-iso="1894-09-11">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -324,21 +411,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10017</idno>
-            </event>
-            <event when-iso="1894-09-11">
-               <head>Samuel Fischer an Arthur Schnitzler, 11.9.1894</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118691406">Fischer,
-                              Samuel</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Samuel Fischer, Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer
-                        Verlag, Frankfurt am Main: 1989. (nur Korrespondenz mit Arthur
-                        Schnitzler)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
          </listEvent>
       </body>

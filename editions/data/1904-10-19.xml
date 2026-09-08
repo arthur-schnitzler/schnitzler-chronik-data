@@ -147,6 +147,52 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01458.html</idno>
             </event>
             <event when-iso="1904-10-19">
+               <head>Hermann Bahr an Arthur Schnitzler, 19. [10. 1904]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27674">Helene Flöge</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27677">Pauline Flöge</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2972">Emilie Flöge</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13682">Rosa Bahr</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb302">Mariahilfer Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb303">Casa Piccola</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb682">Dubrovnik</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb265">Dalmatien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01458.html</idno>
+            </event>
+            <event when-iso="1904-10-19">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -212,20 +258,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041283.html</idno>
-            </event>
-            <event when-iso="1904-10-19">
-               <head>Max Reinhardt an Arthur Schnitzler, 19.10.1904</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max
-                        Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg:
-                        1971.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
             </event>
          </listEvent>
       </body>

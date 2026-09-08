@@ -132,6 +132,54 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03747.html</idno>
             </event>
             <event when-iso="1926-10-02">
+               <head>Arthur Schnitzler an Stefan Zweig, 2. 10. 1926</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12654">Friedrich von Schiller</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76772">Verwirrung der Gefühle. Drei Novellen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb195353">Die Piccolomini. Dramatisches Gedicht in fünf Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb296166">Vierundzwanzig Stunden aus dem Leben einer Frau. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb296169">Untergang eines Herzens</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb296173">Verwirrung der Gefühle</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03747.html</idno>
+            </event>
+            <event when-iso="1926-10-02">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -146,21 +194,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1926-10-02</idno>
-            </event>
-            <event when-iso="1926-10-02">
-               <head>Arthur Schnitzler an Max Montor, 2. 10. 1926</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/117134384">Montor, Max</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1913–1931. Hrsg. v. Peter Michael Braunwarth,
-                        Richard Miklin, Susanne Pertlik und Heinrich Schnitzler. Frankfurt am Main:
-                        S. Fischer 1984. (PDF unter:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at/)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"/>
             </event>
             <event when-iso="1926-10-02">
                <head>Schnitzler, Arthur an Montor, Max [Briefe]</head>

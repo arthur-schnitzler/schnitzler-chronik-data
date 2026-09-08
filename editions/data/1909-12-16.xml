@@ -174,6 +174,84 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01904.html</idno>
             </event>
             <event when-iso="1909-12-16">
+               <head>Arthur Schnitzler an Stefan Zweig, [zwischen 14. und 16. 12. 1909?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03807.html</idno>
+            </event>
+            <event when-iso="1909-12-16">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 16. 12. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10765">Leopold von Andrian-Werburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2642">Else Speidel-Haeberle</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2646">Felix Speidel</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01903.html</idno>
+            </event>
+            <event when-iso="1909-12-16">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [16. 12. 1909?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10765">Leopold von Andrian-Werburg</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01904.html</idno>
+            </event>
+            <event when-iso="1909-12-16">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -313,34 +391,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041620.html</idno>
-            </event>
-            <event when-iso="1909-12-16">
-               <head>Otto Brahm an Arthur Schnitzler, 16.12.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl> Hermann Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente
-                        1891–1931. Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen:
-                        Wallstein Verlag 2018 </bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
-            </event>
-            <event when-iso="1909-12-16">
-               <head>Otto Brahm an Arthur Schnitzler, 16.12.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Der Briefwechsel Arthur Schnitzler – Otto Brahm. Vollständige Ausgabe.
-                        Hg., eingel. und erl. von Oskar Seidlin. Tübingen: Niemeyer, 1975.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#ya489e21-54d5-40de-a56d-f4548e894428"/>
             </event>
             <event when-iso="1909-12-16">
                <head>Schnitzler, Arthur: Frau Beate und ihr Sohn [Prosa] (Drucktitel)</head>

@@ -118,6 +118,45 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04089.html</idno>
             </event>
             <event when-iso="1900-09-05">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, 5. 9. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12698">Julius Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb510">Hotel Waldmühle [Karlsbad]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04089.html</idno>
+            </event>
+            <event when-iso="1900-09-05">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -132,23 +171,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1900-09-05</idno>
-            </event>
-            <event when-iso="1900-09-05">
-               <head>Franziska Lawner an Arthur Schnitzler, 5.9.1900</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/1190590301">Lawner,
-                              Franziska</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Frau Bertha Garlan. Historisch-kritische Ausgabe.
-                        Herausgegeben von Gerhard Hubmann und Isabella Schwentner und Mitarbeit von
-                        Anna Lindner und Martin Anton Müller. Berlin, Boston: De Gruyter 2015
-                        (Arthur Schnitzler: Werke in historisch-kritischen Ausgaben. Herausgegeben
-                        von Konstanze Fliedl), S. 281–298.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#sb5b8e07-e0c8-47e6-8add-494150f56e37"/>
             </event>
          </listEvent>
       </body>

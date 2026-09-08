@@ -144,6 +144,43 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03507.html</idno>
             </event>
             <event when-iso="1909-08-26">
+               <head>Felix Salten an Arthur Schnitzler, 26. 8. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb147843">Hotel de l’Europe [Bregenz]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147849">Maria-Theresien-Straße [Innsbruck]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40321">Bregenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb485">Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb867">Innsbruck</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03507.html</idno>
+            </event>
+            <event when-iso="1909-08-26">
                <head corresp="#pmb45258">München</head>
                <desc>
                   <listPlace>
@@ -218,21 +255,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184058.html</idno>
-            </event>
-            <event when-iso="1909-08-26">
-               <head>Olga Schnitzler an Arthur Schnitzler, 26.8.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116848723">Schnitzler,
-                              Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Max Haberich: Arthur Schnitzler. Anatom des Fin de Siècle. Die Biografie.
-                        Wien: Kremayr und Scheriau 2017, ISBN 13: 9783218010641, Anhang:
-                        Korrespondenz Arthur und Olga Schnitzler, S. 277–293.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#sf764ae3-dd0e-4189-99ce-df42a712c689"/>
             </event>
          </listEvent>
       </body>

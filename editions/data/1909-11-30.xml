@@ -193,6 +193,74 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01890.html</idno>
             </event>
             <event when-iso="1909-11-30">
+               <head>Arthur Schnitzler an Stefan Zweig, 30. 11. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03805.html</idno>
+            </event>
+            <event when-iso="1909-11-30">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, 30. 11. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10765">Leopold von Andrian-Werburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2527">Felix von Oppenheimer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb44595">Ludwig von Oppenheimer</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41831">Reisnerstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01890.html</idno>
+            </event>
+            <event when-iso="1909-11-30">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -234,20 +302,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1909-11-30</idno>
-            </event>
-            <event when-iso="1909-11-30">
-               <head>Arthur Schnitzler an Arthur Kahane, 30.11.1909</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max
-                        Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg:
-                        1971.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d"/>
             </event>
          </listEvent>
       </body>

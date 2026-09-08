@@ -152,6 +152,71 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03719.html</idno>
             </event>
             <event when-iso="1899-01-04">
+               <head>Arthur Schnitzler an Georg Brandes, 4. 1. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10992">Brandes, Georg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb29102">Emilie Brandes</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33277">Ein Nachruf für Frau Brandes</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00874.html</idno>
+            </event>
+            <event when-iso="1899-01-04">
+               <head>Elsa Plessner an Arthur Schnitzler, 4. 1. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2128">Plessner, Elsa</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb295201">Der neue Lehrer. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb43198">Die Wage. Eine Wiener Wochenschrift</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb295169">Spiegelgasse 2</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03719.html</idno>
+            </event>
+            <event when-iso="1899-01-04">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -207,19 +272,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209054.html</idno>
-            </event>
-            <event when-iso="1899-01-04">
-               <head>Arthur Schnitzler an Ludwig Fulda, 4. 1. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118840452">Fulda, Ludwig</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler: Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich
-                        Schnitzler. Frankfurt am Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

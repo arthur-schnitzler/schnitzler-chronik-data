@@ -109,6 +109,31 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01004.html</idno>
             </event>
             <event when-iso="1899-12-05">
+               <head>Max Burckhard an Arthur Schnitzler, [5. 12. 1899]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11036">Burckhard, Max</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4200">Babette Reinhold</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01004.html</idno>
+            </event>
+            <event when-iso="1899-12-05">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>

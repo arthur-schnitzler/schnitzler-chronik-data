@@ -166,6 +166,74 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03684.html</idno>
             </event>
             <event when-iso="1920-08-14">
+               <head>Stefan Zweig an Arthur Schnitzler, 14. 8. 1920</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24825">Thomas Seltzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5027">Eden Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5030">Cedar Paul</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb294768">Brennendes Geheimnis</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb298778">Jeremiah. A Drama in Nine Scenes</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb298790">The Burning Secret</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb298794">Romain Rolland. The man and his work</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30971">Casanovas Heimfahrt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76769">Jeremias. Eine dramatische Dichtung in neun Bildern</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb76771">Romain Rolland. Der Mann und das Werk.</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb294764">5 west 50th Street</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44053">New York City</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb254">England</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29336">Thomas Seltzer, Inc.</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03684.html</idno>
+            </event>
+            <event when-iso="1920-08-14">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -277,36 +345,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/D041588.html</idno>
-            </event>
-            <event when-iso="1920-08-14">
-               <head>Arthur Schnitzler an Hedy Kempny, 14.8.1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hedy Kempny und Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen.
-                        Eine Korrespondenz ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie
-                        durch eine Auswahl ihrer Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei
-                        Hamburg: Rowohlt 1984. (Neue Frau)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
-            </event>
-            <event when-iso="1920-08-14">
-               <head>Arthur Schnitzler an Hedy Kempny, 14.8.1920</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Hedy Kempny und Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen.
-                        Eine Korrespondenz ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie
-                        durch eine Auswahl ihrer Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei
-                        Hamburg: Rowohlt 1984. (Neue Frau)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#n0827e77-245d-4359-a0b0-5b601a5370ee"/>
             </event>
          </listEvent>
       </body>

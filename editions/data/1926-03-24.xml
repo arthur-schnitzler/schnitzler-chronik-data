@@ -126,6 +126,39 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03889.html</idno>
             </event>
             <event when-iso="1926-03-24">
+               <head>Sigmund Freud an Arthur Schnitzler, 24. 3. 1926</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11370">Freud, Sigmund</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33247">Der Zauberberg. Roman</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb253790">Berggasse 19</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb61755">Cottage-Sanatorium für Nerven- und Stoffwechselkranke</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03889.html</idno>
+            </event>
+            <event when-iso="1926-03-24">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -195,20 +228,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210371.html</idno>
-            </event>
-            <event when-iso="1926-03-24">
-               <head>Sigmund Freud an Arthur Schnitzler, 24.3.1926</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Freud, Sigmund</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Freud, Sigmund: Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler.
-                        In: Neue deutsche Rundschau, Jg. 66/1(1955), S. 95–106.
-                        https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#v149ca80-1848-4eff-991d-4c2560c2e17b"/>
             </event>
          </listEvent>
       </body>

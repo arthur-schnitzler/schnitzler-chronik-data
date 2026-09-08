@@ -171,6 +171,89 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02964.html</idno>
             </event>
             <event when-iso="1897-05-29">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 29. 5. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb224">London</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43409">Forest Hill</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00681.html</idno>
+            </event>
+            <event when-iso="1897-05-29">
+               <head>Arthur Schnitzler an Felix Salten, 29. 5. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb224">London</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb417">Hörlgasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43409">Forest Hill</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb819">Café Pucher</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34">Café Griensteidl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb254">England</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02964.html</idno>
+            </event>
+            <event when-iso="1897-05-29">
                <head corresp="#pmb224">London</head>
                <desc>
                   <listPlace>
@@ -199,22 +282,6 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208951.html</idno>
-            </event>
-            <event when-iso="1897-05-29">
-               <head>Arthur Schnitzler an Olga Waissnix, 29.5.1897</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein
-                        Briefwechsel. Mit einem Vorwort von Hans Weigel. Mit 16 Seiten
-                        Kunstdruckbildern. Hg. v. Therese Nickl und Heinrich Schnitzler. Wien,
-                        München, Zürich: Verlag Fritz Molden 1970. (PDF:
-                        https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#d2b0f559-bde7-4114-82b9-741a8810c463"/>
             </event>
          </listEvent>
       </body>

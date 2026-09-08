@@ -128,6 +128,52 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02556.html</idno>
             </event>
             <event when-iso="1910-05-18">
+               <head>Olga Schnitzler, Arthur Schnitzler an Richard Beer-Hofmann, Paula Beer-Hofmann, 18. 5. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Beer-Hofmann, Paula</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb484">Zürich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb53124">Grand Hotel Bellevue [Zürich]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb69">XIX., Döbling</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02556.html</idno>
+            </event>
+            <event when-iso="1910-05-18">
                <head corresp="#pmb484">Zürich</head>
                <desc>
                   <listPlace>
@@ -143,19 +189,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1910-05-18</idno>
-            </event>
-            <event when-iso="1910-05-18">
-               <head>Gustaf Linden an Arthur Schnitzler, 18.5.1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/117024562">Linden, Gustaf</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler, Gustaf Linden: Ein Briefwechsel. 1907–1929, Wien:
-                        Edition Praesens 2005 (Wechselbeziehungen Österreich-Norden, Band 7).</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#m5ca120f-450d-4a59-9a44-d5822a34aee9"/>
             </event>
             <event when-iso="1910-05-18">
                <head>Schnitzler, Olga an Schnitzler, Heinrich [Briefe]</head>

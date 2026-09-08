@@ -130,6 +130,51 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00891.html</idno>
             </event>
             <event when-iso="1899-02-17">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1899]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12556">Richard Rosenbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12809">Adolf von Sonnenthal</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29849">Die Hochzeit der Sobeide</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32512">Der Abenteurer und die Sängerin oder Die Geschenke des Lebens</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb34804">Café Rebhuhn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00891.html</idno>
+            </event>
+            <event when-iso="1899-02-17">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -144,19 +189,6 @@
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-02-17</idno>
-            </event>
-            <event when-iso="1899-02-17">
-               <head>Eugen Deimel an Arthur Schnitzler, 17.2.1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Heinz P. Adamek (Hg.): In die Neue Welt... Arthur Schnitzler - Eugen
-                        Deimel. Briefwechsel. Holzhausen Verlag: Wien 2003</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#w6429315-92be-4f82-b2f1-926125f9bfa5"/>
             </event>
          </listEvent>
       </body>
