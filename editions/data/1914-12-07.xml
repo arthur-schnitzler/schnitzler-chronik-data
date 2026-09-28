@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,7 +104,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-12-07.html</idno>
             </event>
             <event when-iso="1914-12-07">
-               <head>Stefan Zweig an Arthur Schnitzler, [7.?] 12. 1914</head>
+               <head>Stefan Zweig an Arthur Schnitzler, [6. oder 7]. 12. 1914</head>
                <desc>
                   <listPerson>
                      <person>
@@ -114,10 +114,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                        <persName ref="pmb13374">Gustinus Ambrosi</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13374">Gustinus Ambrosi</persName>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -130,10 +130,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb533">Währinger Cottage</placeName>

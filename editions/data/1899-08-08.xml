@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,10 +103,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb142350">Militärgefängnis</placeName>
+                        <placeName ref="pmb55293">Rennes</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
@@ -115,13 +118,10 @@
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb55293">Rennes</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb142350">Militärgefängnis</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40306">Italien</placeName>
@@ -141,6 +141,40 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb877">Unterach am Attersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44317">Carbonin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03296.html</idno>
+            </event>
+            <event when-iso="1899-08-08">
+               <head>Gustav Schwarzkopf an Arthur Schnitzler, [8. oder 9]. 8. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
@@ -149,20 +183,29 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44317">Carbonin</placeName>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb877">Unterach am Attersee</placeName>
+                        <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb246523">Husarentempel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03296.html</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04296.html</idno>
             </event>
             <event when-iso="1899-08-08">
                <head corresp="#pmb90446">Caprile</head>

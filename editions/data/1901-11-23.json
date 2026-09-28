@@ -66,9 +66,9 @@
  "pmb2121"},
  {
  "persName":
- "Otto Brahm",
+ "Olga Schnitzler",
  "ref":
- "pmb10986"},
+ "pmb2173"},
  {
  "persName":
  "Gerhart Hauptmann",
@@ -76,9 +76,9 @@
  "pmb11617"},
  {
  "persName":
- "Siegfried Loewy",
+ "Otto Brahm",
  "ref":
- "pmb12101"},
+ "pmb10986"},
  {
  "persName":
  "Wilhelm Meyer-Förster",
@@ -91,14 +91,9 @@
  "pmb2167"},
  {
  "persName":
- "Olga Schnitzler",
+ "Siegfried Loewy",
  "ref":
- "pmb2173"},
- {
- "persName":
- "Moriz Neuda",
- "ref":
- "pmb115482"},
+ "pmb12101"},
  {
  "persName":
  "Leo Ebermann",
@@ -106,14 +101,14 @@
  "pmb2157"},
  {
  "persName":
+ "Moriz Neuda",
+ "ref":
+ "pmb115482"},
+ {
+ "persName":
  "Clementine Goldmann",
  "ref":
  "pmb17163"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
  {
  "persName":
  "Josef Rosengart",
@@ -123,7 +118,27 @@
  "persName":
  "Vally Rosengart",
  "ref":
- "pmb34971"}],
+ "pmb34971"},
+ {
+ "persName":
+ "Elisabeth Steinrück",
+ "ref":
+ "pmb2315"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
@@ -131,16 +146,6 @@
  "Der rothe Hahn. Tragikomödie in vier Akten",
  "ref":
  "pmb144168"}
- ,  {
- "title":
- "Berliner Theater. »Der Rothe Hahn.«",
- "ref":
- "pmb144164"}
- ,  {
- "title":
- "Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«",
- "ref":
- "pmb144201"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -153,9 +158,19 @@
  "pmb31505"}
  ,  {
  "title":
+ "Berliner Theater. »Der Rothe Hahn.«",
+ "ref":
+ "pmb144164"}
+ ,  {
+ "title":
  "Neue Freie Presse",
  "ref":
  "pmb36374"}
+ ,  {
+ "title":
+ "Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«",
+ "ref":
+ "pmb144201"}
  ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
@@ -166,14 +181,14 @@
   [
  {
  "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Dessauer Straße",
@@ -186,18 +201,13 @@
  "pmb483"}
  ,  {
  "placeName":
- "Wien",
+ "Frankfurt am Main",
  "ref":
- "pmb50"}
+ "pmb146"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "Jung-Wiener Theater zum Lieben Augustin",
- "ref":
- "pmb143199"}
- ,  {
  "orgName":
  "Reichstag",
  "ref":
@@ -207,6 +217,11 @@
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
+ ,  {
+ "orgName":
+ "Jung-Wiener Theater zum Lieben Augustin",
+ "ref":
+ "pmb143199"}
  ,  {
  "orgName":
  "Berliner Theater",

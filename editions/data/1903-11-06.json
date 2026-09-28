@@ -45,7 +45,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L04379.html",
  "head":
- "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 6. 11. 190[3]",
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 6. 11. 1903",
  "desc":
 {"listPerson":
   [
@@ -73,19 +73,19 @@
  "pmb189"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "1/1 Post- und Telegraphenamt 1",
  "ref":
- "pmb51"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb365214"}
  ,  {
  "placeName":
  "Tiefer Graben 23",
  "ref":
  "pmb207296"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
  ,  {
  "placeName":
  "Hochstraße [Semmering]",
@@ -146,14 +146,14 @@
  "pmb68"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Edmund-Weiß-Gasse 7",
  "ref":
  "pmb168940"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -172,6 +172,11 @@
   [
  {
  "placeName":
+ "X., Favoriten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
  "XVIII., Währing",
  "ref":
  ""}
@@ -187,7 +192,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1903-11-06",
  "head":
- "Semmering"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Semmering",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "schnitzler-fischer",

@@ -64,14 +64,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Metzl",
- "ref":
- "pmb21365"},
- {
- "persName":
  "Ottilie Salten",
  "ref":
- "pmb23918"}],
+ "pmb23918"},
+ {
+ "persName":
+ "Richard Metzl",
+ "ref":
+ "pmb21365"}],
  "listPlace":
   [
  {
@@ -81,9 +81,24 @@
  "pmb147498"}
  ,  {
  "placeName":
+ "18/1 Post- und Telegraphenamt 110",
+ "ref":
+ "pmb365223"}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
+ ,  {
+ "placeName":
  "Edmund-Weiß-Gasse 7",
  "ref":
  "pmb168940"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Weimar",
@@ -91,9 +106,29 @@
  "pmb197"}
  ,  {
  "placeName":
+ "Lübeck",
+ "ref":
+ "pmb884"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
+ ,  {
+ "placeName":
  "Eisenach",
  "ref":
  "pmb44240"}
+ ,  {
+ "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
+ ,  {
+ "placeName":
+ "Adriatisches Meer",
+ "ref":
+ "pmb568"}
  ,  {
  "placeName":
  "Venedig",
@@ -106,39 +141,9 @@
  "pmb483"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
- ,  {
- "placeName":
- "Adriatisches Meer",
- "ref":
- "pmb568"}
- ,  {
- "placeName":
  "Kantstraße",
  "ref":
  "pmb62140"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ,  {
- "placeName":
- "Dresden",
- "ref":
- "pmb866"}
- ,  {
- "placeName":
- "Lübeck",
- "ref":
- "pmb884"}
  ,  {
  "placeName":
  "Berlin",
@@ -152,6 +157,84 @@
  "Ullstein Verlag",
  "ref":
  "pmb29681"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04202",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04202.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [23. oder 24]. 8. 1906",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Jacques Offenbach",
+ "ref":
+ "pmb9131"},
+ {
+ "persName":
+ "Ludovic Halévy",
+ "ref":
+ "pmb4197"},
+ {
+ "persName":
+ "Hector Jonathan Crémieux",
+ "ref":
+ "pmb114449"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Orphée aux enfers",
+ "ref":
+ "pmb201672"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
  ]
 }
 }, {

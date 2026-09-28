@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,19 +92,25 @@
                         <persName ref="pmb10815">Bahr, Hermann</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb2288">Alfred Deutsch-German</persName>
                      </person>
                      <person>
                         <persName ref="pmb2284">Markus Hajek</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2288">Alfred Deutsch-German</persName>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb36376">Neues Wiener Journal</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
@@ -112,18 +118,18 @@
                         <title ref="pmb35935">Die Zeit</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36376">Neues Wiener Journal</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb29891">Rezensionen. Wiener Theater 1901 bis 1903</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb80">Kuranstalt Dr. Konried</placeName>
@@ -142,6 +148,36 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01287.html</idno>
+            </event>
+            <event when-iso="1903-04-06">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [6. 4. 1903?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04198.html</idno>
             </event>
             <event when-iso="1903-04-06">
                <head corresp="#pmb50">Wien</head>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,13 +111,19 @@
                      <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
+                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
+                        <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb237193">Aus der Wiener Mappe</title>
@@ -125,10 +131,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb295173">Kärntner Straße 10</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb295173">Kärntner Straße 10</placeName>
                      </place>
                   </listPlace>
                </desc>

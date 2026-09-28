@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,8 +101,8 @@
                      </person>
                      <person>
                         <persName ref="pmb143364">
-      ?? [Hausmeister von Felix Salten in der Kochgasse 1901]
-  </persName>
+                  ?? [Hausmeister von Felix Salten in der Kochgasse 1901]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -113,10 +113,10 @@
                         <title ref="pmb29877">Die letzten Masken</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                        <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29869">Literatur</title>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29957">Lebendige Stunden</title>
@@ -146,22 +146,22 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10986">Otto Brahm</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
+                        <persName ref="pmb12977">Irene Triesch</persName>
                      </person>
                      <person>
                         <persName ref="pmb12899">Hermann Sudermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12977">Irene Triesch</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Gustav Schwarzkopf</persName>
                      </person>
                      <person>
                         <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
                      </person>
                      <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
@@ -169,27 +169,30 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb144497">Es lebe das Leben</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb144497">Es lebe das Leben</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb29957">Lebendige Stunden</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
@@ -198,21 +201,18 @@
                         <placeName ref="pmb42763">Danzig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb144488">Verwaltungsgerichtshof</orgName>
-                     </org>
-                     <org>
                         <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb144488">Verwaltungsgerichtshof</orgName>
                      </org>
                   </listOrg>
                </desc>

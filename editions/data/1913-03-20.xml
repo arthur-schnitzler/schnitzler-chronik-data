@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,7 +105,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-03-20.html</idno>
             </event>
             <event when-iso="1913-03-20">
-               <head>Stefan Zweig an Arthur Schnitzler, 20. 3. 1913</head>
+               <head>Stefan Zweig an Arthur Schnitzler, [19. oder 20]. 3. 1913</head>
                <desc>
                   <listPerson>
                      <person>
@@ -123,22 +123,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb294051">Hôtel de Beaujolais</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb294289">colonne de Juillet</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb294291">Place de la Bastille</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

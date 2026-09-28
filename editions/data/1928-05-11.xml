@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,10 +106,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb5787">Arthur Schopenhauer</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11798">Henrik Ibsen</persName>
                      </person>
                      <person>
-                        <persName ref="pmb5787">Arthur Schopenhauer</persName>
+                        <persName ref="pmb12201">Guy de Maupassant</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -128,19 +131,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb103">Volksgarten</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1257">Jardin du Luxembourg</placeName>
+                        <placeName ref="pmb8">Prater</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb8">Prater</placeName>
+                        <placeName ref="pmb1257">Jardin du Luxembourg</placeName>
                      </place>
                   </listPlace>
                </desc>

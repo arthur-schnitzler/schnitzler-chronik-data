@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,10 +100,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
+                        <persName ref="pmb2161">Emerich von Bukovics</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2161">Emerich von Bukovics</persName>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
                      </person>
                      <person>
                         <persName ref="pmb10879">Henri Berény</persName>
@@ -119,13 +119,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb19">Ronacher</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb20">Volkstheater</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb19">Ronacher</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb107">Sofiensäle</placeName>
@@ -144,6 +144,15 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -155,10 +164,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb237534">Fichtegasse 11</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb237534">Fichtegasse 11</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -185,10 +194,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -245,6 +254,21 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb7777">Hellmer, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb302011">Appelt, Wilhelm</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb27955">Strial, Anna Henriette</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb4127">Meixner, Julius</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12595">Römpler, Alexander</persName>
                      </person>
                   </listPerson>
                   <listPlace>

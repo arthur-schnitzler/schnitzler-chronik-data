@@ -60,14 +60,14 @@
   [
  {
  "title":
+ "Frau Bertha Garlan. Roman",
+ "ref":
+ "pmb30486"}
+ ,  {
+ "title":
  "Lieutenant Gustl. Novelle",
  "ref":
  "pmb29853"}
- ,  {
- "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
  ,  {
  "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
@@ -75,9 +75,9 @@
  "pmb30219"}
  ,  {
  "title":
- "Frau Bertha Garlan. Roman",
+ "Freiwild. Schauspiel in 3 Akten",
  "ref":
- "pmb30486"}
+ "pmb29899"}
  ,  {
  "title":
  "Bücher und Zeitschriftenschau [Frau Bertha Garlan]",
@@ -139,11 +139,6 @@
  "pmb12740"},
  {
  "persName":
- "?? [Herausgeber einer reichsdeutschen Zeitschrift]",
- "ref":
- "pmb335051"},
- {
- "persName":
  "?? [Vater] Sosnosky",
  "ref":
  "pmb335055"},
@@ -161,7 +156,17 @@
  "persName":
  "?? [Urgroßvater von Theodor von Sosnosky]",
  "ref":
- "pmb335062"}],
+ "pmb335062"},
+ {
+ "persName":
+ "?? [Herausgeber einer reichsdeutschen Zeitschrift]",
+ "ref":
+ "pmb335051"},
+ {
+ "persName":
+ "Gerhart Hauptmann",
+ "ref":
+ "pmb11617"}],
  "listBibl":
   [
  {
@@ -171,9 +176,9 @@
  "pmb29827"}
  ,  {
  "title":
- "Lieutenant Gustl. Novelle",
+ "Frau Bertha Garlan. Roman",
  "ref":
- "pmb29853"}
+ "pmb30486"}
  ,  {
  "title":
  "Reigen. Zehn Dialoge",
@@ -181,9 +186,14 @@
  "pmb29855"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
+ "Das literarische Echo",
  "ref":
- "pmb29899"}
+ "pmb58341"}
+ ,  {
+ "title":
+ "Lieutenant Gustl. Novelle",
+ "ref":
+ "pmb29853"}
  ,  {
  "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
@@ -191,19 +201,14 @@
  "pmb30219"}
  ,  {
  "title":
- "Frau Bertha Garlan. Roman",
+ "Freiwild. Schauspiel in 3 Akten",
  "ref":
- "pmb30486"}
+ "pmb29899"}
  ,  {
  "title":
  "Neues Wiener Tagblatt",
  "ref":
  "pmb41321"}
- ,  {
- "title":
- "Das literarische Echo",
- "ref":
- "pmb58341"}
  ,  {
  "title":
  "Bücher und Zeitschriftenschau [Frau Bertha Garlan]",
@@ -219,11 +224,6 @@
   [
  {
  "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
  "Kremsmünster",
  "ref":
  "pmb48393"}
@@ -232,6 +232,11 @@
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
  ,  {
  "placeName":
  "Österreich-Ungarn",

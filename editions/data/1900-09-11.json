@@ -32,7 +32,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L04091.html",
  "head":
- "Arthur Schnitzler an Gustav Schwarzkopf, 11. 9. 1900",
+ "Arthur Schnitzler an Gustav Schwarzkopf, [10. oder 11]. 9. 1900",
  "desc":
 {"listPerson":
   [
@@ -45,27 +45,37 @@
  "persName":
  "Gustav Schwarzkopf",
  "ref":
- "pmb12740"}],
+ "pmb12740"},
+ {
+ "persName":
+ "Richard Wagner",
+ "ref":
+ "pmb13024"}],
  "listBibl":
   [
  {
  "title":
- "Der Ring des Nibelungen. Dritter Tag: Götterdämmerung",
- "ref":
- "pmb203322"}
- ,  {
- "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Der Ring des Nibelungen. Dritter Tag: Götterdämmerung",
+ "ref":
+ "pmb203322"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Oper",
+ "I., Innere Stadt",
  "ref":
- "pmb15"}
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ,  {
  "placeName":
  "Tiefer Graben 23",
@@ -78,9 +88,9 @@
  "pmb50"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "Oper",
  "ref":
- "pmb51"}
+ "pmb15"}
  ]
 }
 }, {

@@ -69,9 +69,9 @@
   [
  {
  "placeName":
- "Berlin",
+ "Wiesbaden",
  "ref":
- "pmb168"}
+ "pmb883"}
  ,  {
  "placeName":
  "Sankt Michael",
@@ -84,14 +84,14 @@
  "pmb43055"}
  ,  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Hotel Savoy [Berlin]",
  "ref":
  "pmb545"}
- ,  {
- "placeName":
- "Wiesbaden",
- "ref":
- "pmb883"}
  ]
 }
 }, {
@@ -137,19 +137,19 @@
   [
  {
  "placeName":
- "Bozen",
- "ref":
- "pmb40260"}
- ,  {
- "placeName":
  "Sankt Michael",
  "ref":
  "pmb40832"}
  ,  {
  "placeName":
- "Mendelpass",
+ "Vahrn",
  "ref":
- "pmb41083"}
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Bozen",
+ "ref":
+ "pmb40260"}
  ,  {
  "placeName":
  "Caldaro sulla strada del vino",
@@ -157,14 +157,14 @@
  "pmb42210"}
  ,  {
  "placeName":
+ "Mendelpass",
+ "ref":
+ "pmb41083"}
+ ,  {
+ "placeName":
  "Eppaner Hof",
  "ref":
  "pmb43052"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
  ],
  "listOrg":
   [
@@ -210,11 +210,6 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
@@ -223,6 +218,11 @@
  "Wiesbaden",
  "ref":
  "pmb883"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ]
 }
 }, {
@@ -253,9 +253,9 @@
  "pmb2121"},
  {
  "persName":
- "Karl Kraus",
+ "Felix Salten",
  "ref":
- "pmb11988"},
+ "pmb2167"},
  {
  "persName":
  "Jakob Wassermann",
@@ -263,9 +263,14 @@
  "pmb13055"},
  {
  "persName":
- "Auguste Glümer",
+ "Alfred Dreyfus",
  "ref":
- "pmb14948"},
+ "pmb4216"},
+ {
+ "persName":
+ "Karl Kraus",
+ "ref":
+ "pmb11988"},
  {
  "persName":
  "Marie Glümer",
@@ -273,14 +278,9 @@
  "pmb14953"},
  {
  "persName":
- "Felix Salten",
+ "Auguste Glümer",
  "ref":
- "pmb2167"},
- {
- "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"},
+ "pmb14948"},
  {
  "persName":
  "Paul Schlenther",
@@ -290,7 +290,27 @@
  "persName":
  "Marie Elsinger",
  "ref":
- "pmb2938"}],
+ "pmb2938"},
+ {
+ "persName":
+ "Robert Adam",
+ "ref":
+ "pmb12438"},
+ {
+ "persName":
+ "Berthold Viertel",
+ "ref":
+ "pmb10364"},
+ {
+ "persName":
+ "Albert Ehrenstein",
+ "ref":
+ "pmb11230"},
+ {
+ "persName":
+ "Fritz Wittels",
+ "ref":
+ "pmb10574"}],
  "listBibl":
   [
  {
@@ -308,14 +328,9 @@
   [
  {
  "placeName":
- "Polná",
+ "Tiefer Graben 23",
  "ref":
- "pmb100693"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
+ "pmb207296"}
  ,  {
  "placeName":
  "Berlin",
@@ -323,19 +338,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Graben",
- "ref":
- "pmb39599"}
- ,  {
- "placeName":
  "Brühl",
  "ref":
  "pmb44413"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Baden bei Wien",
@@ -343,19 +348,39 @@
  "pmb662"}
  ,  {
  "placeName":
- "Wiesbaden",
- "ref":
- "pmb883"}
- ,  {
- "placeName":
  "Bad Vöslau",
  "ref":
  "pmb992"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Wiesbaden",
+ "ref":
+ "pmb883"}
+ ,  {
+ "placeName":
  "Bukarest",
  "ref":
  "pmb993"}
+ ,  {
+ "placeName":
+ "Graben",
+ "ref":
+ "pmb39599"}
+ ,  {
+ "placeName":
+ "Polná",
+ "ref":
+ "pmb100693"}
  ]
 }
 }, {

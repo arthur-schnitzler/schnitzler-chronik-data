@@ -64,9 +64,9 @@
  "pmb2121"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Elisabeth Steinrück",
  "ref":
- "pmb11461"},
+ "pmb2315"},
  {
  "persName":
  "Paul Goldmann",
@@ -79,19 +79,9 @@
  "pmb11916"},
  {
  "persName":
- "Heinrich Schnitzler",
+ "Johann Wolfgang von Goethe",
  "ref":
- "pmb12692"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
+ "pmb11461"},
  {
  "persName":
  "Lili Schalk",
@@ -99,9 +89,24 @@
  "pmb24048"},
  {
  "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
+ {
+ "persName":
  "Pauline Sachsen-Weimar",
  "ref":
- "pmb39917"}],
+ "pmb39917"},
+ {
+ "persName":
+ "Alexandre père Dumas",
+ "ref":
+ "pmb11190"}],
  "listBibl":
   [
  {
@@ -111,72 +116,22 @@
  "pmb31639"}
  ,  {
  "title":
- "Die drei Musketiere",
- "ref":
- "pmb31517"}
- ,  {
- "title":
  "Iphigenie auf Tauris",
  "ref":
  "pmb32951"}
+ ,  {
+ "title":
+ "Die drei Musketiere",
+ "ref":
+ "pmb31517"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berlin",
+ "Brenner",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Schloss Belvedere [Weimar]",
- "ref":
- "pmb195"}
- ,  {
- "placeName":
- "Weimar",
- "ref":
- "pmb197"}
- ,  {
- "placeName":
- "Valle d’Ampezzo",
- "ref":
- "pmb34207"}
- ,  {
- "placeName":
- "Matrei in Osttirol",
- "ref":
- "pmb364"}
- ,  {
- "placeName":
- "Gasthof Post",
- "ref":
- "pmb36493"}
- ,  {
- "placeName":
- "Archkogel",
- "ref":
- "pmb39908"}
- ,  {
- "placeName":
- "Val Sugana",
- "ref":
- "pmb39934"}
- ,  {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Vicenza",
- "ref":
- "pmb44151"}
- ,  {
- "placeName":
- "Grundlsee [Gemeinde]",
- "ref":
- "pmb46000"}
+ "pmb608"}
  ,  {
  "placeName":
  "Wien",
@@ -184,14 +139,64 @@
  "pmb50"}
  ,  {
  "placeName":
+ "Gasthof Post",
+ "ref":
+ "pmb36493"}
+ ,  {
+ "placeName":
  "Stubaital",
  "ref":
  "pmb607"}
  ,  {
  "placeName":
- "Brenner",
+ "Matrei in Osttirol",
  "ref":
- "pmb608"}
+ "pmb364"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "Valle d’Ampezzo",
+ "ref":
+ "pmb34207"}
+ ,  {
+ "placeName":
+ "Vicenza",
+ "ref":
+ "pmb44151"}
+ ,  {
+ "placeName":
+ "Val Sugana",
+ "ref":
+ "pmb39934"}
+ ,  {
+ "placeName":
+ "Weimar",
+ "ref":
+ "pmb197"}
+ ,  {
+ "placeName":
+ "Schloss Belvedere [Weimar]",
+ "ref":
+ "pmb195"}
+ ,  {
+ "placeName":
+ "Grundlsee [Gemeinde]",
+ "ref":
+ "pmb46000"}
+ ,  {
+ "placeName":
+ "Archkogel",
+ "ref":
+ "pmb39908"}
  ]
 }
 }, {

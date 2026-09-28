@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,18 +132,18 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4083">Titus Maccius Plautus</persName>
+                        <persName ref="pmb5845">Otto Fürth</persName>
                      </person>
                      <person>
-                        <persName ref="pmb5845">Otto Fürth</persName>
+                        <persName ref="pmb4083">Titus Maccius Plautus</persName>
                      </person>
                      <person>
                         <persName ref="pmb5854">Gaius Valerius Flaccus</persName>
                      </person>
                      <person>
                         <persName ref="pmb5855">
-      Florus
-  </persName>
+                  Florus
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -156,13 +156,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb254">England</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40306">Italien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

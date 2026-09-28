@@ -79,6 +79,55 @@
  "color":
  "#A63437",
  "filename":
+ "L04211",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04211.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [zwischen 4. und
+                  10. 10. 1894?]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die kleine Komödie",
+ "ref":
+ "pmb31975"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L00378",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -103,32 +152,47 @@
  "persName":
  "Hermann Bahr",
  "ref":
- "pmb10815"}],
+ "pmb10815"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
+ {
+ "persName":
+ "Hermann Sudermann",
+ "ref":
+ "pmb12899"}],
  "listBibl":
   [
  {
  "title":
- "Die Schmetterlingsschlacht. Komödie in 4 Akten",
- "ref":
- "pmb30397"}
- ,  {
- "title":
  "Die Zeit. Wiener Wochenschrift",
  "ref":
  "pmb36340"}
+ ,  {
+ "title":
+ "Die Schmetterlingsschlacht. Komödie in 4 Akten",
+ "ref":
+ "pmb30397"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Frankgasse 1",
+ "Hotel Quirinale",
  "ref":
- "pmb168934"}
+ "pmb769"}
  ,  {
  "placeName":
- "Österreich",
+ "9/3 Post- und Telegraphenamt 72",
  "ref":
- "pmb41240"}
+ "pmb365208"}
  ,  {
  "placeName":
  "Engelsburg",
@@ -146,19 +210,24 @@
  "pmb445"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "IX., Alsergrund",
  "ref":
  "pmb59"}
  ,  {
  "placeName":
- "Hotel Quirinale",
+ "Frankgasse 1",
  "ref":
- "pmb769"}
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -196,6 +265,26 @@
   [
  {
  "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Währinger Gürtel 90",
+ "ref":
+ "pmb364920"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
@@ -204,21 +293,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "XVIII., Währing",
- "ref":
- "pmb68"}
- ,  {
- "placeName":
- "Währinger Gürtel",
- "ref":
- "pmb727"}
  ],
  "listOrg":
   [

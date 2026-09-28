@@ -96,24 +96,14 @@
   [
  {
  "placeName":
- "Badgasse",
+ "Palermo",
  "ref":
- "pmb1006"}
+ "pmb901"}
  ,  {
  "placeName":
  "Rodaun",
  "ref":
  "pmb173"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Castellaccio di Monreale",
- "ref":
- "pmb43262"}
  ,  {
  "placeName":
  "Monreale",
@@ -126,9 +116,19 @@
  "pmb50"}
  ,  {
  "placeName":
- "Palermo",
+ "Badgasse",
  "ref":
- "pmb901"}
+ "pmb1006"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Castellaccio di Monreale",
+ "ref":
+ "pmb43262"}
  ]
 }
 }, {
@@ -166,9 +166,9 @@
   [
  {
  "placeName":
- "Badgasse",
+ "Palermo",
  "ref":
- "pmb1006"}
+ "pmb901"}
  ,  {
  "placeName":
  "Rodaun",
@@ -176,14 +176,82 @@
  "pmb173"}
  ,  {
  "placeName":
+ "Monreale",
+ "ref":
+ "pmb45264"}
+ ,  {
+ "placeName":
  "Österreich",
  "ref":
  "pmb41240"}
  ,  {
  "placeName":
+ "Badgasse",
+ "ref":
+ "pmb1006"}
+ ,  {
+ "placeName":
  "Castellaccio di Monreale",
  "ref":
  "pmb43262"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04415",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04415.html",
+ "head":
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 16. 5. 1904",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Max Schwarzkopf",
+ "ref":
+ "pmb24648"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Der reine Tor. Gesellschaftsstück in vier Akten",
+ "ref":
+ "pmb300273"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Palermo",
+ "ref":
+ "pmb901"}
+ ,  {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
  ,  {
  "placeName":
  "Monreale",
@@ -191,9 +259,29 @@
  "pmb45264"}
  ,  {
  "placeName":
- "Palermo",
+ "Tiefer Graben 23",
  "ref":
- "pmb901"}
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Chiostro di Monreale",
+ "ref":
+ "pmb364211"}
+ ,  {
+ "placeName":
+ "Taormina",
+ "ref":
+ "pmb906"}
  ]
 }
 }, {

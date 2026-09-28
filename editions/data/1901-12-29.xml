@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -122,10 +122,10 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb333653">?? [Ölgemälde mit zwei hochrangigen Personen]</title>
@@ -136,13 +136,13 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -169,9 +169,6 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb144131">Bethmannstraße</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
@@ -179,6 +176,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb88597">Central-Hotel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb144131">Bethmannstraße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>

@@ -78,44 +78,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Friedrich Michael Fels",
  "ref":
- "pmb10863"},
+ "pmb2450"},
  {
  "persName":
  "Julius von Gans-Ludassy",
  "ref":
  "pmb11406"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
- "Else Berger",
- "ref":
- "pmb14056"},
- {
- "persName":
- "Jaques Joachim",
- "ref":
- "pmb18870"},
- {
- "persName":
- "Friedrich Kapper",
- "ref":
- "pmb19106"},
  {
  "persName":
  "Julius Bauer",
@@ -128,14 +98,9 @@
  "pmb22025"},
  {
  "persName":
- "Friedrich Michael Fels",
+ "Theodor Herzl",
  "ref":
- "pmb2450"},
- {
- "persName":
- "Hilda von Mitis",
- "ref":
- "pmb65913"},
+ "pmb11673"},
  {
  "persName":
  "Leopold Sonnemann",
@@ -143,14 +108,39 @@
  "pmb87771"},
  {
  "persName":
- "Kurt Eisner",
+ "Heinrich Kanner",
  "ref":
- "pmb11240"},
+ "pmb11867"},
  {
  "persName":
- "Johann Schnitzler",
+ "Jaques Joachim",
  "ref":
- "pmb12695"},
+ "pmb18870"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Friedrich Kapper",
+ "ref":
+ "pmb19106"},
+ {
+ "persName":
+ "Else Berger",
+ "ref":
+ "pmb14056"},
+ {
+ "persName":
+ "Hilda von Mitis",
+ "ref":
+ "pmb65913"},
  {
  "persName":
  "Jakob Julius David",
@@ -168,9 +158,24 @@
  "pmb3442"},
  {
  "persName":
+ "Johann Schnitzler",
+ "ref":
+ "pmb12695"},
+ {
+ "persName":
  "August Stein",
  "ref":
  "pmb89794"},
+ {
+ "persName":
+ "Kurt Eisner",
+ "ref":
+ "pmb11240"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
  {
  "persName":
  "Julius Schnitzler",
@@ -178,56 +183,21 @@
  "pmb12698"},
  {
  "persName":
- "Louise Schnitzler",
+ "Ludwig Basch",
  "ref":
- "pmb12701"}],
+ "pmb13791"},
+ {
+ "persName":
+ "Moriz Szeps",
+ "ref":
+ "pmb25798"}],
  "listBibl":
   [
  {
  "title":
- "Das Märchen. Schauspiel in drei Aufzügen",
+ "[Mit unserer österreichischen Literatur]",
  "ref":
- "pmb29823"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Fremden-Blatt",
- "ref":
- "pmb40003"}
- ,  {
- "title":
- "Neues Wiener Tagblatt",
- "ref":
- "pmb41321"}
- ,  {
- "title":
- "Allgemeine Kunst-Chronik",
- "ref":
- "pmb41466"}
- ,  {
- "title":
- "Illustrirtes Wiener Extrablatt",
- "ref":
- "pmb41484"}
+ "pmb89493"}
  ,  {
  "title":
  "Berliner Neueste Nachrichten",
@@ -235,19 +205,19 @@
  "pmb41512"}
  ,  {
  "title":
- "Wiener Tagblatt",
+ "Anatol",
  "ref":
- "pmb42146"}
+ "pmb29935"}
  ,  {
  "title":
- "Neues Wiener Abendblatt",
+ "»Anatol.« Von Arthur Schnitzler",
  "ref":
- "pmb65921"}
+ "pmb92804"}
  ,  {
  "title":
- "[Mit unserer österreichischen Literatur]",
+ "Allgemeine Kunst-Chronik",
  "ref":
- "pmb89493"}
+ "pmb41466"}
  ,  {
  "title":
  "Probleme",
@@ -260,9 +230,39 @@
  "pmb89507"}
  ,  {
  "title":
+ "Fremden-Blatt",
+ "ref":
+ "pmb40003"}
+ ,  {
+ "title":
  "* [Im Verlage von Freund und Jeckel…]",
  "ref":
  "pmb89511"}
+ ,  {
+ "title":
+ "Illustrirtes Wiener Extrablatt",
+ "ref":
+ "pmb41484"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
+ ,  {
+ "title":
+ "Neues Wiener Tagblatt",
+ "ref":
+ "pmb41321"}
+ ,  {
+ "title":
+ "Wiener Tagblatt",
+ "ref":
+ "pmb42146"}
+ ,  {
+ "title":
+ "Wiener Autoren",
+ "ref":
+ "pmb92811"}
  ,  {
  "title":
  "Vom Lesetische. Österreichische Autoren",
@@ -270,23 +270,28 @@
  "pmb89516"}
  ,  {
  "title":
- "»Anatol.« Von Arthur Schnitzler",
+ "Neues Wiener Abendblatt",
  "ref":
- "pmb92804"}
+ "pmb65921"}
  ,  {
  "title":
- "Wiener Autoren",
+ "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
- "pmb92811"}
+ "pmb29823"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
+ "Sterben. Novelle",
+ "ref":
+ "pmb30117"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
  "placeName":
  "Paris",
  "ref":
@@ -298,6 +303,16 @@
  "pmb50"}
  ,  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Prag",
+ "ref":
+ "pmb652"}
+ ,  {
+ "placeName":
  "Galați",
  "ref":
  "pmb36202"}
@@ -306,19 +321,14 @@
  "Rumänien",
  "ref":
  "pmb378"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Lessing-Theater",
+ "Volkstheater",
  "ref":
- "pmb35053"}
+ "pmb36430"}
  ,  {
  "orgName":
  "Burgtheater",
@@ -326,14 +336,14 @@
  "pmb36247"}
  ,  {
  "orgName":
- "Volkstheater",
- "ref":
- "pmb36430"}
- ,  {
- "orgName":
  "Neues Deutsches Theater",
  "ref":
  "pmb37080"}
+ ,  {
+ "orgName":
+ "Lessing-Theater",
+ "ref":
+ "pmb35053"}
  ,  {
  "orgName":
  "Frankfurter Zeitung",

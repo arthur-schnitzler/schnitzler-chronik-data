@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -89,10 +89,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb21810">Eugen Nathorff</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb13055">Jakob Wassermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb21810">Eugen Nathorff</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -104,6 +110,9 @@
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>

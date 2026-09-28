@@ -41,6 +41,55 @@
  "color":
  "#A63437",
  "filename":
+ "L04211",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04211.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [zwischen 4. und
+                  10. 10. 1894?]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Die kleine Komödie",
+ "ref":
+ "pmb31975"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L00376",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -63,24 +112,9 @@
  "pmb10863"},
  {
  "persName":
- "Denis Diderot",
+ "Guercino",
  "ref":
- "pmb11157"},
- {
- "persName":
- "Julius von Gans-Ludassy",
- "ref":
- "pmb11406"},
- {
- "persName":
- "Gaius Iulius Caesar",
- "ref":
- "pmb14796"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
+ "pmb4613"},
  {
  "persName":
  "Wilhelm Lübke",
@@ -88,14 +122,9 @@
  "pmb39896"},
  {
  "persName":
- "Guercino",
+ "Gaius Iulius Caesar",
  "ref":
- "pmb4613"},
- {
- "persName":
- "Otto Keller",
- "ref":
- "pmb8168"},
+ "pmb14796"},
  {
  "persName":
  "Karl Ploetz",
@@ -103,31 +132,51 @@
  "pmb9298"},
  {
  "persName":
+ "Julius von Gans-Ludassy",
+ "ref":
+ "pmb11406"},
+ {
+ "persName":
  "Karl Rosenkranz",
  "ref":
  "pmb9577"},
  {
  "persName":
+ "Denis Diderot",
+ "ref":
+ "pmb11157"},
+ {
+ "persName":
+ "Otto Keller",
+ "ref":
+ "pmb8168"},
+ {
+ "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
  "Guy de Maupassant",
  "ref":
- "pmb12201"}],
+ "pmb12201"},
+ {
+ "persName":
+ "Hermann Sudermann",
+ "ref":
+ "pmb12899"}],
  "listBibl":
   [
  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
  "title":
  "Die Schmetterlingsschlacht. Komödie in 4 Akten",
  "ref":
  "pmb30397"}
  ,  {
  "title":
- "Die Athenerin. Drama in drei Aufzügen",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
- "pmb30417"}
+ "pmb29917"}
  ,  {
  "title":
  "Diderots Leben und Werke",
@@ -140,14 +189,19 @@
  "pmb39887"}
  ,  {
  "title":
+ "Die Athenerin. Drama in drei Aufzügen",
+ "ref":
+ "pmb30417"}
+ ,  {
+ "title":
  "Die Verstoßung der Hagar",
  "ref":
  "pmb32368"}
  ,  {
  "title":
- "Die Schwestern Rondoli",
+ "Grundriß der Kunstgeschichte",
  "ref":
- "pmb39882"}
+ "pmb39899"}
  ,  {
  "title":
  "Auszug aus der alten, mittleren und neueren Geschichte",
@@ -155,13 +209,28 @@
  "pmb39893"}
  ,  {
  "title":
- "Grundriß der Kunstgeschichte",
+ "Die Schwestern Rondoli",
  "ref":
- "pmb39899"}
+ "pmb39882"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Rom",
+ "ref":
+ "pmb445"}
+ ,  {
+ "placeName":
+ "Hotel Quirinale",
+ "ref":
+ "pmb769"}
+ ,  {
  "placeName":
  "Frankgasse 1",
  "ref":
@@ -173,24 +242,9 @@
  "pmb40306"}
  ,  {
  "placeName":
- "Rom",
- "ref":
- "pmb445"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ,  {
- "placeName":
- "Hotel Quirinale",
- "ref":
- "pmb769"}
  ,  {
  "placeName":
  "Mailand",
@@ -236,14 +290,24 @@
   [
  {
  "placeName":
+ "Rom",
+ "ref":
+ "pmb445"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
- ,  {
- "placeName":
- "Florenz",
- "ref":
- "pmb263"}
  ,  {
  "placeName":
  "Österreich",
@@ -251,24 +315,19 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Santa Croce [Florenz]",
- "ref":
- "pmb41957"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "IX., Alsergrund",
+ "Florenz",
  "ref":
- "pmb59"}
+ "pmb263"}
+ ,  {
+ "placeName":
+ "Santa Croce [Florenz]",
+ "ref":
+ "pmb41957"}
  ]
 }
 }, {

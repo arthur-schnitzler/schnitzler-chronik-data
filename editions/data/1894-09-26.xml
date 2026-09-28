@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -107,7 +107,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-09-26.html</idno>
             </event>
             <event when-iso="1894-09-26">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, 2[6?]. 9. 189</head>
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [zwischen 23. und 27.] 9. 1894</head>
                <desc>
                   <listPerson>
                      <person>
@@ -119,19 +119,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb886">Mailand</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb886">Mailand</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

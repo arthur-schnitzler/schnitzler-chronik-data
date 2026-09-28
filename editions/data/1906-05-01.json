@@ -76,79 +76,9 @@
  "pmb2121"},
  {
  "persName":
- "Samuel Fischer",
- "ref":
- "pmb11324"},
- {
- "persName":
- "Julius von Gans-Ludassy",
- "ref":
- "pmb11406"},
- {
- "persName":
- "Maximilian Harden",
- "ref":
- "pmb11581"},
- {
- "persName":
- "Moritz Heimann",
- "ref":
- "pmb11632"},
- {
- "persName":
  "Theodor Herzl",
  "ref":
  "pmb11673"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Siegfried Jacobsohn",
- "ref":
- "pmb11813"},
- {
- "persName":
- "Alfred Kerr",
- "ref":
- "pmb11910"},
- {
- "persName":
- "Fritz Kreisler",
- "ref":
- "pmb11992"},
- {
- "persName":
- "Felix Poppenberg",
- "ref":
- "pmb12441"},
- {
- "persName":
- "Max Reinhardt",
- "ref":
- "pmb12504"},
- {
- "persName":
- "Rudolf Rittner",
- "ref":
- "pmb12530"},
- {
- "persName":
- "Vasilij Ilʹič Safonov",
- "ref":
- "pmb146023"},
- {
- "persName":
- "Herbert Ginsberg",
- "ref":
- "pmb17629"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
  {
  "persName":
  "Ottilie Salten",
@@ -156,9 +86,24 @@
  "pmb23918"},
  {
  "persName":
- "Ida d’Albert",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb2537"},
+ "pmb11740"},
+ {
+ "persName":
+ "Moritz Heimann",
+ "ref":
+ "pmb11632"},
+ {
+ "persName":
+ "Siegfried Jacobsohn",
+ "ref":
+ "pmb11813"},
+ {
+ "persName":
+ "Rudolf Rittner",
+ "ref":
+ "pmb12530"},
  {
  "persName":
  "Hedwig Fischer",
@@ -166,9 +111,39 @@
  "pmb2657"},
  {
  "persName":
+ "Samuel Fischer",
+ "ref":
+ "pmb11324"},
+ {
+ "persName":
+ "Max Reinhardt",
+ "ref":
+ "pmb12504"},
+ {
+ "persName":
  "Oskar Bie",
  "ref":
  "pmb2914"},
+ {
+ "persName":
+ "Felix Poppenberg",
+ "ref":
+ "pmb12441"},
+ {
+ "persName":
+ "Alfred Kerr",
+ "ref":
+ "pmb11910"},
+ {
+ "persName":
+ "Maximilian Harden",
+ "ref":
+ "pmb11581"},
+ {
+ "persName":
+ "Vasilij Ilʹič Safonov",
+ "ref":
+ "pmb146023"},
  {
  "persName":
  "Leopold Godowsky",
@@ -181,19 +156,29 @@
  "pmb9085"},
  {
  "persName":
- "Victoria Eugénie von Spanien",
+ "Fritz Kreisler",
  "ref":
- "pmb147521"},
+ "pmb11992"},
  {
  "persName":
- "Heinrich Friedrich Karl vom und zum Stein",
+ "Ida d’Albert",
  "ref":
- "pmb153933"},
+ "pmb2537"},
  {
  "persName":
- "Karl August von Hardenberg",
+ "Olga Schnitzler",
  "ref":
- "pmb153934"},
+ "pmb2173"},
+ {
+ "persName":
+ "Julius von Gans-Ludassy",
+ "ref":
+ "pmb11406"},
+ {
+ "persName":
+ "Herbert Ginsberg",
+ "ref":
+ "pmb17629"},
  {
  "persName":
  "Alfons XIII.",
@@ -201,14 +186,19 @@
  "pmb89420"},
  {
  "persName":
- "Heinrich Schnitzler",
+ "Victoria Eugénie von Spanien",
  "ref":
- "pmb12692"},
+ "pmb147521"},
  {
  "persName":
- "Richard Metzl",
+ "Karl August von Hardenberg",
  "ref":
- "pmb21365"},
+ "pmb153934"},
+ {
+ "persName":
+ "Heinrich Friedrich Karl vom und zum Stein",
+ "ref":
+ "pmb153933"},
  {
  "persName":
  "Anna Katharina Rehmann",
@@ -218,7 +208,17 @@
  "persName":
  "Paul Salten",
  "ref":
- "pmb2922"}],
+ "pmb2922"},
+ {
+ "persName":
+ "Richard Metzl",
+ "ref":
+ "pmb21365"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"}],
  "listBibl":
   [
  {
@@ -236,59 +236,9 @@
   [
  {
  "placeName":
- "Świnoujście",
- "ref":
- "pmb142880"}
- ,  {
- "placeName":
- "Cadiz",
- "ref":
- "pmb147483"}
- ,  {
- "placeName":
- "Granada",
- "ref":
- "pmb147487"}
- ,  {
- "placeName":
- "Bansin",
- "ref":
- "pmb147498"}
- ,  {
- "placeName":
- "Lissabon",
- "ref":
- "pmb15227"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Toledo",
- "ref":
- "pmb29004"}
- ,  {
- "placeName":
- "Tiergarten",
- "ref":
- "pmb36914"}
- ,  {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Friedrichstraße [Berlin]",
- "ref":
- "pmb482"}
- ,  {
- "placeName":
- "Sevilla",
- "ref":
- "pmb49183"}
  ,  {
  "placeName":
  "Wien",
@@ -296,19 +246,24 @@
  "pmb50"}
  ,  {
  "placeName":
- "Gibraltar",
- "ref":
- "pmb51646"}
- ,  {
- "placeName":
- "Heringsdorf",
- "ref":
- "pmb64659"}
- ,  {
- "placeName":
  "Madrid",
  "ref":
  "pmb914"}
+ ,  {
+ "placeName":
+ "Toledo",
+ "ref":
+ "pmb29004"}
+ ,  {
+ "placeName":
+ "Sevilla",
+ "ref":
+ "pmb49183"}
+ ,  {
+ "placeName":
+ "Cadiz",
+ "ref":
+ "pmb147483"}
  ,  {
  "placeName":
  "Tanger",
@@ -316,14 +271,54 @@
  "pmb951"}
  ,  {
  "placeName":
+ "Gibraltar",
+ "ref":
+ "pmb51646"}
+ ,  {
+ "placeName":
+ "Granada",
+ "ref":
+ "pmb147487"}
+ ,  {
+ "placeName":
+ "Lissabon",
+ "ref":
+ "pmb15227"}
+ ,  {
+ "placeName":
+ "Bansin",
+ "ref":
+ "pmb147498"}
+ ,  {
+ "placeName":
+ "Świnoujście",
+ "ref":
+ "pmb142880"}
+ ,  {
+ "placeName":
+ "Heringsdorf",
+ "ref":
+ "pmb64659"}
+ ,  {
+ "placeName":
  "Skodsborg",
  "ref":
  "pmb958"}
  ,  {
  "placeName":
- "Auerstedt",
+ "Italien",
  "ref":
- "pmb169686"}
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "Tiergarten",
+ "ref":
+ "pmb36914"}
+ ,  {
+ "placeName":
+ "Friedrichstraße [Berlin]",
+ "ref":
+ "pmb482"}
  ,  {
  "placeName":
  "Preußen",
@@ -336,14 +331,19 @@
  "pmb876"}
  ,  {
  "placeName":
- "Spanien",
+ "Auerstedt",
  "ref":
- "pmb388"}
+ "pmb169686"}
  ,  {
  "placeName":
  "Ostsee",
  "ref":
  "pmb44599"}
+ ,  {
+ "placeName":
+ "Spanien",
+ "ref":
+ "pmb388"}
  ]
 }
 }, {

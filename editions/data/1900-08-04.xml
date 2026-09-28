@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,10 +116,10 @@
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -136,6 +136,9 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
@@ -145,7 +148,12 @@
                         <persName ref="pmb24645">Emil Schwarzkopf</persName>
                      </person>
                      <person>
-                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                        <persName ref="pmb335100">
+                  ?? [Köchin von Gustav und Max Schwarzkopf, 1900]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                      <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
@@ -154,12 +162,10 @@
                         <persName ref="pmb12701">Louise Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb26392">Leo Van-Jung</persName>
+                        <persName ref="pmb335201">Ludwig Passarge</persName>
                      </person>
                      <person>
-                        <persName ref="pmb335100">
-      ?? [Köchin von Gustav und Max Schwarzkopf, 1900]
-  </persName>
+                        <persName ref="pmb11798">Henrik Ibsen</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -169,10 +175,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb184918">Westbahnhof</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
@@ -184,7 +187,10 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                        <placeName ref="pmb184918">Westbahnhof</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

@@ -89,14 +89,14 @@
  "pmb26079"},
  {
  "persName":
- "Arthur Kaufmann",
- "ref":
- "pmb2496"},
- {
- "persName":
  "Isabella Vengerova",
  "ref":
- "pmb3068"}],
+ "pmb3068"},
+ {
+ "persName":
+ "Arthur Kaufmann",
+ "ref":
+ "pmb2496"}],
  "listBibl":
   [
  {
@@ -119,19 +119,14 @@
   [
  {
  "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
- "placeName":
- "Rodaun",
- "ref":
- "pmb173"}
- ,  {
- "placeName":
  "Lido",
  "ref":
  "pmb259"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
  ,  {
  "placeName":
  "Österreich",
@@ -139,14 +134,19 @@
  "pmb41240"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Venedig",
  "ref":
  "pmb462"}
  ,  {
  "placeName":
- "Wien",
+ "Rodaun",
  "ref":
- "pmb50"}
+ "pmb173"}
  ,  {
  "placeName":
  "Bozen",
@@ -165,6 +165,61 @@
  "Accademia di belle arti di Venezia",
  "ref":
  "pmb44602"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04483",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04483.html",
+ "head":
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [24. oder 25]. 9. 1905",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Semmering",
+ "ref":
+ "pmb189"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Südbahnhotel [Semmering]",
+ "ref":
+ "pmb413"}
  ]
 }
 }, {

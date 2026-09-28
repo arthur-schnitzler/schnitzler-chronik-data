@@ -61,14 +61,14 @@
   [
  {
  "placeName":
- "Steindorf am Ossiacher See",
- "ref":
- "pmb34860"}
- ,  {
- "placeName":
  "Biel",
  "ref":
  "pmb36477"}
+ ,  {
+ "placeName":
+ "Steindorf am Ossiacher See",
+ "ref":
+ "pmb34860"}
  ,  {
  "placeName":
  "Ossiacher See",
@@ -76,9 +76,9 @@
  "pmb40374"}
  ,  {
  "placeName":
- "Genfer See",
+ "Kärnten",
  "ref":
- "pmb512"}
+ "pmb651"}
  ,  {
  "placeName":
  "Genf",
@@ -86,9 +86,9 @@
  "pmb562"}
  ,  {
  "placeName":
- "Kärnten",
+ "Genfer See",
  "ref":
- "pmb651"}
+ "pmb512"}
  ,  {
  "placeName":
  "Lugano",
@@ -106,7 +106,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-08-13",
  "head":
- "Delémont"
+ "Delémont",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Delémont",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -117,7 +127,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-08-13",
  "head":
- "Biel"
+ "Biel",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Biel/Bienne",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

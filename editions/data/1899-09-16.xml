@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,13 +90,22 @@
                      <place corresp="#pmb806">
                         <placeName>Hotel Rheinischer Hof München</placeName>
                      </place>
+                     <place corresp="#pmb247583">
+                        <placeName>Hauptbahnhof München</placeName>
+                     </place>
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-16</idno>
             </event>
             <event when-iso="1899-09-16">
                <head corresp="#pmb44172">Nürnberg</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb266364">
+                        <placeName>Nürnberg Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1899-09-16</idno>
             </event>
          </listEvent>

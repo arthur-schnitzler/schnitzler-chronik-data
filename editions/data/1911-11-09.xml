@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,39 +97,39 @@
                      <person>
                         <persName ref="pmb23787">Maurice Rémon</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb46140">Noémi Valentin</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb46129">La femme au poignard</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb296453">Les Morts se taisent</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296467">Jour de gloire</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb46129">La femme au poignard</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb506">Hamburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb774">Hotel Atlantic</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb263991">Restaurant Pfordte im Hotel Atlantic</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43520">Meran</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb506">Hamburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb774">Hotel Atlantic</placeName>
                      </place>
                   </listPlace>
                </desc>

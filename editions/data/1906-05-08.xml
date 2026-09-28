@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,7 +92,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-05-08.html</idno>
             </event>
             <event when-iso="1906-05-08">
-               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11. 5. 1906?]</head>
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11.? 5. 1906]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -118,13 +118,10 @@
                         <placeName ref="pmb75">Hinterbrühl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb364311">Wagnerstraße [Hinterbrühl]</placeName>
@@ -152,22 +149,56 @@
                         <title ref="pmb296343">Bruchstück einer Hysterie-Analyse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296347">Monatsschrift für Psychiatrie und Neurologie</title>
+                        <title ref="pmb30403">Paracelsus. Versspiel in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30403">Paracelsus. Versspiel in einem Akt</title>
+                        <title ref="pmb296347">Monatsschrift für Psychiatrie und Neurologie</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb253790">Berggasse 19</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb253790">Berggasse 19</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03819.html</idno>
+            </event>
+            <event when-iso="1906-05-08">
+               <head>Felix Salten, Paul Lindau, Marie Barthel an Arthur Schnitzler, [8. oder 9]. 5. 1906</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12078">Lindau, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb147533">Barthel, Marie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb143185">Wartburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03423.html</idno>
             </event>
             <event when-iso="1906-05-08">
                <head corresp="#pmb75">Hinterbrühl</head>

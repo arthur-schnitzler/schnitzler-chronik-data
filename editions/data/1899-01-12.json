@@ -58,19 +58,19 @@
  "pmb10992"},
  {
  "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
  {
  "persName":
- "Jakob Wassermann",
+ "Paula Beer-Hofmann",
  "ref":
- "pmb13055"},
+ "pmb10860"},
+ {
+ "persName":
+ "Mirjam Beer-Hofmann",
+ "ref":
+ "pmb2668"},
  {
  "persName":
  "Naëmah Beer-Hofmann",
@@ -78,9 +78,9 @@
  "pmb2534"},
  {
  "persName":
- "Mirjam Beer-Hofmann",
+ "Jakob Wassermann",
  "ref":
- "pmb2668"},
+ "pmb13055"},
  {
  "persName":
  "V. A.",
@@ -90,24 +90,24 @@
  "persName":
  "Johann III. Sobieski",
  "ref":
- "pmb46234"}],
+ "pmb46234"},
+ {
+ "persName":
+ "Adele Neustädter",
+ "ref":
+ "pmb2361"}],
  "listBibl":
   [
  {
- "title":
- "Der grüne Kakadu. Groteske in einem Akt",
- "ref":
- "pmb29843"}
- ,  {
  "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
  "ref":
  "pmb30219"}
  ,  {
  "title":
- "Die Frau des Weisen. Novelletten",
+ "Der grüne Kakadu. Groteske in einem Akt",
  "ref":
- "pmb32460"}
+ "pmb29843"}
  ,  {
  "title":
  "Die Juden von Zirndorf",
@@ -115,14 +115,9 @@
  "pmb33291"}
  ,  {
  "title":
- "Polen",
+ "Die Frau des Weisen. Novelletten",
  "ref":
- "pmb32065"}
- ,  {
- "title":
- "Köllers Erfolge",
- "ref":
- "pmb33335"}
+ "pmb32460"}
  ,  {
  "title":
  "Bei Georg Brandes",
@@ -135,9 +130,19 @@
  "pmb41531"}
  ,  {
  "title":
+ "Köllers Erfolge",
+ "ref":
+ "pmb33335"}
+ ,  {
+ "title":
  "Brandes in Lemberg",
  "ref":
  "pmb46237"}
+ ,  {
+ "title":
+ "Polen",
+ "ref":
+ "pmb32065"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
@@ -145,14 +150,14 @@
  "pmb29845"}
  ,  {
  "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
  "Paracelsus. Versspiel in einem Akt",
  "ref":
  "pmb30403"}
+ ,  {
+ "title":
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29857"}
  ,  {
  "title":
  "Der Tod Georgs",
@@ -168,29 +173,9 @@
   [
  {
  "placeName":
- "Frankreich",
+ "Wien",
  "ref":
- "pmb166"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Preußen",
- "ref":
- "pmb206"}
- ,  {
- "placeName":
- "Polen",
- "ref":
- "pmb313"}
+ "pmb50"}
  ,  {
  "placeName":
  "Kopenhagen",
@@ -198,9 +183,14 @@
  "pmb36300"}
  ,  {
  "placeName":
- "Italien",
+ "Preußen",
  "ref":
- "pmb40306"}
+ "pmb206"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
  ,  {
  "placeName":
  "Österreich",
@@ -208,9 +198,9 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
  ,  {
  "placeName":
  "Bastille",
@@ -218,14 +208,29 @@
  "pmb518"}
  ,  {
  "placeName":
- "Nordschleswig",
+ "Paris",
  "ref":
- "pmb1115"}
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Polen",
+ "ref":
+ "pmb313"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
  ,  {
  "placeName":
  "Dänemark",
  "ref":
  "pmb43570"}
+ ,  {
+ "placeName":
+ "Nordschleswig",
+ "ref":
+ "pmb1115"}
  ,  {
  "placeName":
  "Lviv",

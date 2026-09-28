@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,25 +103,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb2318">Partenkirchen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb251927">Grand Hôtel National [Menton]</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb36456">Menton</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb251927">Grand Hôtel National [Menton]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb2318">Partenkirchen</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -144,21 +141,33 @@
                         <persName ref="pmb23787">Maurice Rémon</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3690">Aurélien-Marie Lugné-Poe</persName>
+                        <persName ref="pmb46140">Noémi Valentin</persName>
                      </person>
                      <person>
-                        <persName ref="pmb46140">Noémi Valentin</persName>
+                        <persName ref="pmb3690">Aurélien-Marie Lugné-Poe</persName>
                      </person>
                      <person>
                         <persName ref="pmb3659">Suzanne Desprès</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb26414">Maurice Vaucaire</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2199">Stephan Epstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2206">Émile Lutz</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
@@ -167,19 +176,25 @@
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                        <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
+                        <title ref="pmb59837">La Compagne. Comédie en une acte</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58367">Au Perroquet Vert</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb46129">La femme au poignard</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296458">La Revue de Paris</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296465">La Revue bleue</title>
+                        <title ref="pmb299697">Les Derniers masques. Comédie en un act</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb299697">Les Derniers masques. Comédie en un act</title>
+                        <title ref="pmb296465">La Revue bleue</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb299869">Littérature. Comédie en un acte</title>
@@ -187,26 +202,8 @@
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb46129">La femme au poignard</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58367">Au Perroquet Vert</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb59837">La Compagne. Comédie en une acte</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb251927">Grand Hôtel National [Menton]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb254">England</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb36456">Menton</placeName>
                      </place>
@@ -214,16 +211,25 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43180">Ligurien</placeName>
+                        <placeName ref="pmb251927">Grand Hôtel National [Menton]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb254">England</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb5862">Monte Carlo</placeName>
+                        <placeName ref="pmb667">Garmisch-Partenkirchen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb667">Garmisch-Partenkirchen</placeName>
+                        <placeName ref="pmb43180">Ligurien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb5862">Monte Carlo</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb926">Nizza</placeName>

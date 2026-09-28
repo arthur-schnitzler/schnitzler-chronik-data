@@ -76,24 +76,24 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Hotel de Rome",
  "ref":
  "pmb215"}
  ,  {
  "placeName":
- "Deutsches Theater Berlin",
+ "Berlin",
  "ref":
- "pmb3"}
+ "pmb168"}
  ,  {
  "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
  ],
  "listOrg":
   [
@@ -132,9 +132,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Emilie Dorothea Popper",
  "ref":
- "pmb10815"},
+ "pmb22798"},
  {
  "persName":
  "Ludwig Bauer",
@@ -142,19 +142,19 @@
  "pmb10848"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Emilie Dorothea Popper",
- "ref":
- "pmb22798"},
- {
- "persName":
  "Karl Eduard Vehse",
  "ref":
  "pmb27903"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "?? [Berliner Musikkorrespondent der National-Zeitung]",
@@ -179,7 +179,27 @@
  "persName":
  "Theodore Rottenberg",
  "ref":
- "pmb23674"}],
+ "pmb23674"},
+ {
+ "persName":
+ "Elisabeth von Heyking",
+ "ref":
+ "pmb143417"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
@@ -189,19 +209,14 @@
  "pmb146972"}
  ,  {
  "title":
- "[Aus Berlin wird uns gemeldet: »Der einsame Weg«]",
- "ref":
- "pmb147110"}
- ,  {
- "title":
  "Theater- und Kunstnachrichten. [Man schreibt uns aus Berlin]",
  "ref":
  "pmb147196"}
  ,  {
  "title":
- "Der Meister. Komödie in drei Akten",
+ "Neue Freie Presse",
  "ref":
- "pmb29983"}
+ "pmb36374"}
  ,  {
  "title":
  "Die Gouvernante",
@@ -209,9 +224,14 @@
  "pmb33784"}
  ,  {
  "title":
- "Neue Freie Presse",
+ "[Aus Berlin wird uns gemeldet: »Der einsame Weg«]",
  "ref":
- "pmb36374"}
+ "pmb147110"}
+ ,  {
+ "title":
+ "Der Meister. Komödie in drei Akten",
+ "ref":
+ "pmb29983"}
  ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
@@ -222,24 +242,14 @@
   [
  {
  "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
- "Semmering",
+ "Wien",
  "ref":
- "pmb189"}
- ,  {
- "placeName":
- "Ägypten",
- "ref":
- "pmb211"}
+ "pmb50"}
  ,  {
  "placeName":
  "Dessauer Straße",
@@ -247,22 +257,32 @@
  "pmb40583"}
  ,  {
  "placeName":
- "Wien",
+ "Semmering",
  "ref":
- "pmb50"}
+ "pmb189"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Ägypten",
+ "ref":
+ "pmb211"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Reichstag",
- "ref":
- "pmb144185"}
- ,  {
- "orgName":
  "National-Zeitung",
  "ref":
  "pmb147105"}
+ ,  {
+ "orgName":
+ "Reichstag",
+ "ref":
+ "pmb144185"}
  ,  {
  "orgName":
  "Verein zur Förderung der Künste",

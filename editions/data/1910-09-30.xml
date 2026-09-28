@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -127,6 +127,12 @@
                      <person>
                         <persName ref="pmb2743">Albert Heine</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11691">Paul Heyse</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21891">Franz Neumann</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -139,21 +145,21 @@
                         <title ref="pmb30279">Der Thor und der Tod</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31311">Liebelei. Oper in drei Akten</title>
+                        <title ref="pmb46941">Die Tochter der Semiramis. Tragödie</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb46941">Die Tochter der Semiramis. Tragödie</title>
+                        <title ref="pmb31311">Liebelei. Oper in drei Akten</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb401">Hotel Marienbad [München]</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb401">Hotel Marienbad [München]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb146">Frankfurt am Main</placeName>

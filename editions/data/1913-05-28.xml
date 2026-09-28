@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,7 +101,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-05-28.html</idno>
             </event>
             <event when-iso="1913-05-28">
-               <head>Stefan Zweig an Arthur Schnitzler, [28. 5. 1913?]</head>
+               <head>Stefan Zweig an Arthur Schnitzler, [27. oder 28. 5. 1913?]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -116,6 +116,15 @@
                      <person>
                         <persName ref="pmb12405">Erwin August Pendl</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -127,27 +136,30 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb195987">Maria am Gestade</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb533">Währinger Cottage</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb195987">Maria am Gestade</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                        <orgName ref="pmb36889">Akademischer Verband für Literatur und Musik in Wien</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb36889">Akademischer Verband für Literatur und Musik in Wien</orgName>
+                        <orgName ref="pmb29351">Neue Freie Presse</orgName>
                      </org>
                   </listOrg>
                </desc>

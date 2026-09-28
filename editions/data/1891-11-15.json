@@ -56,44 +56,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Max Eugen Burckhard",
- "ref":
- "pmb11036"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Edmund Wengraf",
  "ref":
  "pmb13088"},
  {
  "persName":
- "Oskar Blumenthal",
- "ref":
- "pmb14328"},
- {
- "persName":
  "Jaques Joachim",
  "ref":
  "pmb18870"},
- {
- "persName":
- "Friedrich Kapper",
- "ref":
- "pmb19106"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
  {
  "persName":
  "Eduard Michael Kafka",
@@ -106,14 +76,34 @@
  "pmb8236"},
  {
  "persName":
- "Marie Glümer",
+ "Oskar Blumenthal",
  "ref":
- "pmb14953"},
+ "pmb14328"},
  {
  "persName":
- "Bertha Karlsburg",
+ "Max Eugen Burckhard",
  "ref":
- "pmb19143"},
+ "pmb11036"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Friedrich Kapper",
+ "ref":
+ "pmb19106"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
  {
  "persName":
  "Max Devrient",
@@ -133,7 +123,22 @@
  "persName":
  "Rudolf Baumbach",
  "ref":
- "pmb6169"}],
+ "pmb6169"},
+ {
+ "persName":
+ "Bertha Karlsburg",
+ "ref":
+ "pmb19143"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
+ {
+ "persName":
+ "Wilhelm Bölsche",
+ "ref":
+ "pmb11061"}],
  "listBibl":
   [
  {
@@ -143,19 +148,19 @@
  "pmb29823"}
  ,  {
  "title":
- "Alkandi’s Lied",
- "ref":
- "pmb31637"}
- ,  {
- "title":
  "»Freie Bühne«",
  "ref":
  "pmb89567"}
  ,  {
  "title":
- "Tagebuch",
+ "Alkandi’s Lied",
  "ref":
- "pmb33243"}
+ "pmb31637"}
+ ,  {
+ "title":
+ "Am Flügel",
+ "ref":
+ "pmb35829"}
  ,  {
  "title":
  "An die Alten",
@@ -163,9 +168,9 @@
  "pmb35818"}
  ,  {
  "title":
- "Am Flügel",
+ "Wiener Brief",
  "ref":
- "pmb35829"}
+ "pmb89545"}
  ,  {
  "title":
  "Freie Bühne für den Entwickelungskampf der Zeit",
@@ -178,22 +183,17 @@
  "pmb41189"}
  ,  {
  "title":
- "Wiener Brief",
+ "Tagebuch",
  "ref":
- "pmb89545"}
+ "pmb33243"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berlin",
+ "Brüssel",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
+ "pmb862"}
  ,  {
  "placeName":
  "Wien",
@@ -201,14 +201,19 @@
  "pmb50"}
  ,  {
  "placeName":
- "Brüssel",
- "ref":
- "pmb862"}
- ,  {
- "placeName":
  "rue des Plantes",
  "ref":
  "pmb88479"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ],
  "listOrg":
   [

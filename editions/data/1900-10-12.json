@@ -74,24 +74,24 @@
   [
  {
  "placeName":
+ "13/7 Post- und Telegraphenamt 94",
+ "ref":
+ "pmb365275"}
+ ,  {
+ "placeName":
+ "Haus Bahr",
+ "ref":
+ "pmb207274"}
+ ,  {
+ "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "IX., Alsergrund",
  "ref":
  "pmb59"}
- ,  {
- "placeName":
- "XIII., Hietzing",
- "ref":
- "pmb63"}
  ]
 }
 }, {
@@ -154,19 +154,44 @@
  "persName":
  "Sarah Kainz",
  "ref":
- "pmb3908"}],
+ "pmb3908"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"}],
  "listBibl":
   [
  {
+ "title":
+ "Baby",
+ "ref":
+ "pmb295179"}
+ ,  {
+ "title":
+ "Anatol",
+ "ref":
+ "pmb29935"}
+ ,  {
+ "title":
+ "Der gläserne Käfig. Skizzen und Novellen",
+ "ref":
+ "pmb32230"}
+ ,  {
+ "title":
+ "Der neue Lehrer. Novelle",
+ "ref":
+ "pmb295201"}
+ ,  {
  "title":
  "Das erste Kapitel. Schauspiel in drei Akten",
  "ref":
  "pmb295177"}
  ,  {
  "title":
- "Baby",
+ "Die Ehrlosen. Schauspiel in drei Acten",
  "ref":
- "pmb295179"}
+ "pmb295204"}
  ,  {
  "title":
  "Der Begräbnißtag",
@@ -204,31 +229,6 @@
  "pmb295194"}
  ,  {
  "title":
- "Reminiscenz",
- "ref":
- "pmb295196"}
- ,  {
- "title":
- "Warum?",
- "ref":
- "pmb295198"}
- ,  {
- "title":
- "Der neue Lehrer. Novelle",
- "ref":
- "pmb295201"}
- ,  {
- "title":
- "Die Ehrlosen. Schauspiel in drei Acten",
- "ref":
- "pmb295204"}
- ,  {
- "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
  "Der gläserne Käfig. Eine Parabel",
  "ref":
  "pmb30265"}
@@ -239,9 +239,9 @@
  "pmb32161"}
  ,  {
  "title":
- "Der gläserne Käfig. Skizzen und Novellen",
+ "Reminiscenz",
  "ref":
- "pmb32230"}
+ "pmb295196"}
  ,  {
  "title":
  "Warten. Novelle",
@@ -249,27 +249,32 @@
  "pmb32316"}
  ,  {
  "title":
+ "Warum?",
+ "ref":
+ "pmb295198"}
+ ,  {
+ "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
  ,  {
  "title":
- "Berliner Börsen-Courier",
- "ref":
- "pmb41289"}
- ,  {
- "title":
  "Neues Wiener Tagblatt",
  "ref":
  "pmb41321"}
+ ,  {
+ "title":
+ "Berliner Börsen-Courier",
+ "ref":
+ "pmb41289"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Paris",
+ "Wien",
  "ref":
- "pmb182"}
+ "pmb50"}
  ,  {
  "placeName":
  "Kärntner Straße 10",
@@ -277,19 +282,14 @@
  "pmb295173"}
  ,  {
  "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
  "Meran",
  "ref":
  "pmb43520"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Ungarn",
@@ -297,14 +297,19 @@
  "pmb35512"}
  ,  {
  "placeName":
- "Sankt Petersburg",
+ "Berlin",
  "ref":
- "pmb433"}
+ "pmb168"}
  ,  {
  "placeName":
  "Budapest",
  "ref":
  "pmb43471"}
+ ,  {
+ "placeName":
+ "Sankt Petersburg",
+ "ref":
+ "pmb433"}
  ],
  "listOrg":
   [

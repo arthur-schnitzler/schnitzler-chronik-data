@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -130,24 +130,30 @@
                         <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2238">Lili Cappellini</persName>
+                        <persName ref="pmb5567">Evgenij A. Preobraženskij</persName>
                      </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb30205">Komödie der Verführung. In drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb353187">The Call of Life. In Three Acts</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33376">Gaius Julius Cæsar</title>
@@ -156,51 +162,48 @@
                         <title ref="pmb33392">Hellas</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb353187">The Call of Life. In Three Acts</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30751">Die Frau des Richters. Novelle</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30851">Traumnovelle</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb33410">Das ABC des Kommunismus</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33412">Das ABC des Kommunismus</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30751">Die Frau des Richters. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30851">Traumnovelle</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb175">Amerika</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb228">Baden-Baden</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40260">Bozen</placeName>
+                        <placeName ref="pmb228">Baden-Baden</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb433">Sankt Petersburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40260">Bozen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb58636">Dolomiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb175">Amerika</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb1141">Comedy Theatre</placeName>
@@ -208,10 +211,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb44003">Astor Theatre</orgName>
+                        <orgName ref="pmb44005">Guild Theatre</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb44005">Guild Theatre</orgName>
+                        <orgName ref="pmb44003">Astor Theatre</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36430">Volkstheater</orgName>

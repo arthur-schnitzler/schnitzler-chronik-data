@@ -61,9 +61,9 @@
  "pmb10863"},
  {
  "persName":
- "Otto Brahm",
+ "Leo Feld",
  "ref":
- "pmb10986"},
+ "pmb18308"},
  {
  "persName":
  "Paul Goldmann",
@@ -71,14 +71,14 @@
  "pmb11485"},
  {
  "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"},
+ {
+ "persName":
  "Alfred Kerr",
  "ref":
  "pmb11910"},
- {
- "persName":
- "Leo Feld",
- "ref":
- "pmb18308"},
  {
  "persName":
  "Olga Wohlbrück",
@@ -109,6 +109,11 @@
  "Sankt Michael",
  "ref":
  "pmb40832"}
+ ,  {
+ "placeName":
+ "Hotel Savoy [Berlin]",
+ "ref":
+ "pmb545"}
  ,  {
  "placeName":
  "Tirol",
@@ -189,11 +194,6 @@
  "pmb168"}
  ,  {
  "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
- ,  {
- "placeName":
  "Venedig",
  "ref":
  "pmb462"}
@@ -202,6 +202,11 @@
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
  ],
  "listOrg":
   [
@@ -240,11 +245,6 @@
  "pmb12740"},
  {
  "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"},
- {
- "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -257,19 +257,24 @@
  "persName":
  "Elisabeth Steinrück",
  "ref":
- "pmb2315"}],
+ "pmb2315"},
+ {
+ "persName":
+ "Otto Brahm",
+ "ref":
+ "pmb10986"}],
  "listBibl":
   [
  {
  "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
  "ref":
  "pmb30219"}
+ ,  {
+ "title":
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29857"}
  ],
  "listPlace":
   [
@@ -318,19 +323,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "G. Zanetta",
  "ref":
  "pmb135001"},
  {
  "persName":
- "Johann Nepomuk Fuchs",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb140824"},
+ "pmb10863"},
  {
  "persName":
  "Ludwig Rottenberg",
@@ -338,31 +338,26 @@
  "pmb9598"},
  {
  "persName":
- "Gertrud Rottenberg",
+ "Johann Nepomuk Fuchs",
  "ref":
- "pmb140820"},
+ "pmb140824"},
  {
  "persName":
  "Theodore Rottenberg",
  "ref":
- "pmb23674"}],
+ "pmb23674"},
+ {
+ "persName":
+ "Gertrud Rottenberg",
+ "ref":
+ "pmb140820"}],
  "listPlace":
   [
  {
  "placeName":
- "Lungarno Guicciardini",
+ "Florenz",
  "ref":
- "pmb134996"}
- ,  {
- "placeName":
- "Hôtel Pension Barbensi",
- "ref":
- "pmb134998"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
+ "pmb263"}
  ,  {
  "placeName":
  "Berlin",
@@ -370,9 +365,19 @@
  "pmb168"}
  ,  {
  "placeName":
- "Florenz",
+ "Hôtel Pension Barbensi",
  "ref":
- "pmb263"}
+ "pmb134998"}
+ ,  {
+ "placeName":
+ "Lungarno Guicciardini",
+ "ref":
+ "pmb134996"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Venedig",
@@ -380,9 +385,9 @@
  "pmb462"}
  ,  {
  "placeName":
- "Wien",
+ "Frankfurt am Main",
  "ref":
- "pmb50"}
+ "pmb146"}
  ],
  "listOrg":
   [

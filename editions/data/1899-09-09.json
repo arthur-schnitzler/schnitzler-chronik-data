@@ -94,9 +94,9 @@
  "pmb41430"}
  ,  {
  "placeName":
- "Gasthof Fritz",
+ "Vahrn",
  "ref":
- "pmb43036"}
+ "pmb946"}
  ,  {
  "placeName":
  "Brixen",
@@ -104,9 +104,9 @@
  "pmb43040"}
  ,  {
  "placeName":
- "München",
+ "Gasthof Fritz",
  "ref":
- "pmb45258"}
+ "pmb43036"}
  ,  {
  "placeName":
  "Kärnten",
@@ -114,9 +114,9 @@
  "pmb651"}
  ,  {
  "placeName":
- "Vahrn",
+ "München",
  "ref":
- "pmb946"}
+ "pmb45258"}
  ]
 }
 }, {
@@ -147,44 +147,14 @@
  "pmb12740"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Otto Brahm",
- "ref":
- "pmb10986"},
- {
- "persName":
- "Ernst Vergani",
- "ref":
- "pmb113736"},
- {
- "persName":
- "Karl Hermann Wolf",
- "ref":
- "pmb114834"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
  {
  "persName":
- "Karl Kraus",
+ "Marie Elsinger",
  "ref":
- "pmb11988"},
- {
- "persName":
- "Gustav Maran",
- "ref":
- "pmb12179"},
+ "pmb2938"},
  {
  "persName":
  "Gilbert Otto Neumann-Hofer",
@@ -197,19 +167,9 @@
  "pmb14953"},
  {
  "persName":
- "Leo Ebermann",
+ "Otto Brahm",
  "ref":
- "pmb2157"},
- {
- "persName":
- "Marie Elsinger",
- "ref":
- "pmb2938"},
- {
- "persName":
- "Karl Lueger",
- "ref":
- "pmb3561"},
+ "pmb10986"},
  {
  "persName":
  "Auguste Mercier",
@@ -217,19 +177,49 @@
  "pmb42048"},
  {
  "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Gerhart Hauptmann",
+ "ref":
+ "pmb11617"},
+ {
+ "persName":
+ "Gustav Maran",
+ "ref":
+ "pmb12179"},
+ {
+ "persName":
+ "Karl Kraus",
+ "ref":
+ "pmb11988"},
+ {
+ "persName":
  "Jacques Offenbach",
  "ref":
  "pmb9131"},
  {
  "persName":
- "Josef Kainz",
+ "Karl Lueger",
  "ref":
- "pmb11851"},
+ "pmb3561"},
  {
  "persName":
- "Guy de Maupassant",
+ "Ernst Vergani",
  "ref":
- "pmb12201"},
+ "pmb113736"},
+ {
+ "persName":
+ "Karl Hermann Wolf",
+ "ref":
+ "pmb114834"},
  {
  "persName":
  "Alfred Dreyfus",
@@ -237,14 +227,19 @@
  "pmb4216"},
  {
  "persName":
+ "Josef Kainz",
+ "ref":
+ "pmb11851"},
+ {
+ "persName":
  "Maria von Berks",
  "ref":
  "pmb94876"},
  {
  "persName":
- "Rudolf Raimann",
+ "Guy de Maupassant",
  "ref":
- "pmb102199"},
+ "pmb12201"},
  {
  "persName":
  "Johanna Bergmeister",
@@ -254,7 +249,17 @@
  "persName":
  "Helene Samek",
  "ref":
- "pmb23934"}],
+ "pmb23934"},
+ {
+ "persName":
+ "Rudolf Raimann",
+ "ref":
+ "pmb102199"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"}],
  "listBibl":
   [
  {
@@ -294,32 +299,27 @@
  "pmb30005"}
  ,  {
  "title":
- "Der Graf von Charolais. Ein Trauerspiel",
- "ref":
- "pmb30233"}
- ,  {
- "title":
  "?? [Versdrama für Josef Kainz]",
  "ref":
  "pmb333854"}
+ ,  {
+ "title":
+ "Der Graf von Charolais. Ein Trauerspiel",
+ "ref":
+ "pmb30233"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
  "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
  ,  {
  "placeName":
- "Altaussee",
+ "Wien",
  "ref":
- "pmb34401"}
+ "pmb50"}
  ,  {
  "placeName":
  "Hotel und Pension Rudolfshöhe (Leopold Petter)",
@@ -327,14 +327,19 @@
  "pmb414"}
  ,  {
  "placeName":
+ "Altaussee",
+ "ref":
+ "pmb34401"}
+ ,  {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
  ,  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
  ,  {
  "placeName":
  "Frankreich",
@@ -363,6 +368,66 @@
  "Lessing-Theater",
  "ref":
  "pmb35053"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L00972",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L00972.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, 9. 9. 1899",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
+ ,  {
+ "placeName":
+ "Brixen",
+ "ref":
+ "pmb43040"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
+ ,  {
+ "placeName":
+ "Sachsenburg",
+ "ref":
+ "pmb41430"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ]
 }
 }, {

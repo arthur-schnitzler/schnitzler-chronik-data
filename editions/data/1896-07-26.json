@@ -122,6 +122,66 @@
  "color":
  "#A63437",
  "filename":
+ "L00569",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L00569.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, [25. oder 26.] 7. 1896",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Oslo",
+ "ref":
+ "pmb36296"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Skodsborg",
+ "ref":
+ "pmb958"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L00568",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -146,74 +206,14 @@
   [
  {
  "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
  "Stockholm",
  "ref":
  "pmb1119"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00569",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00569.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 2[6?]. 7. 1896",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"}],
- "listPlace":
-  [
- {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Oslo",
- "ref":
- "pmb36296"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Skodsborg",
- "ref":
- "pmb958"}
  ]
 }
 }, {
@@ -259,24 +259,14 @@
   [
  {
  "placeName":
- "Stockholm",
- "ref":
- "pmb1119"}
- ,  {
- "placeName":
- "Köln",
- "ref":
- "pmb145"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Kopenhagen",
+ "Stockholm",
  "ref":
- "pmb36300"}
+ "pmb1119"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -289,9 +279,19 @@
  "pmb50174"}
  ,  {
  "placeName":
+ "Köln",
+ "ref":
+ "pmb145"}
+ ,  {
+ "placeName":
  "Hamburg",
  "ref":
  "pmb506"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
  ],
  "listOrg":
   [

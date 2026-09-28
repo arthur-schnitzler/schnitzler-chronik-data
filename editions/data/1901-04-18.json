@@ -33,7 +33,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L01109.html",
  "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 18. 4. 1901",
+ "Arthur Schnitzler an Richard Beer-Hofmann, [17. oder 18]. 4. 1901",
  "desc":
 {"listPerson":
   [
@@ -51,24 +51,14 @@
   [
  {
  "placeName":
- "Wollzeile 15 (»Berthahof«)",
+ "Bologna",
  "ref":
- "pmb190427"}
+ "pmb896"}
  ,  {
  "placeName":
- "Österreich",
+ "1/1 Post- und Telegraphenamt 1",
  "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Basilica di San Francesco",
- "ref":
- "pmb50790"}
+ "pmb365214"}
  ,  {
  "placeName":
  "I., Innere Stadt",
@@ -76,9 +66,24 @@
  "pmb51"}
  ,  {
  "placeName":
- "Bologna",
+ "Wollzeile 15 (»Berthahof«)",
  "ref":
- "pmb896"}
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Basilica di San Francesco",
+ "ref":
+ "pmb50790"}
  ]
 }
 }, {
@@ -91,5 +96,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1901-04-18",
  "head":
- "Bologna"
+ "Bologna",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Bologna Centrale",
+ "ref":
+ ""}
+ ]
+}
 }] 

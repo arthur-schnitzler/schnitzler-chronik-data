@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -115,13 +115,13 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
                         <persName ref="pmb11701">Georg Hirschfeld</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -131,22 +131,25 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43">Café Imperial</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44">Riedhof</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -163,7 +166,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3966">Jean Thorel</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb112447">Jean-Louis Forain</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                      <person>
                         <persName ref="pmb113878">Henning von Brüsewitz</persName>
@@ -172,34 +184,25 @@
                         <persName ref="pmb114034">Theodor Siepmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb26392">Leo Van-Jung</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3966">Jean Thorel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                        <persName ref="pmb2996">
+                  Nikolaus II. von Russland
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb112786">Alix von Hessen-Darmstadt</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2996">
-      Nikolaus II. von Russland
-  </persName>
-                     </person>
-                     <person>
                         <persName ref="pmb114760">
-      ?? [Wirt im Café Tannhäuser]
-  </persName>
+                  ?? [Wirt im Café Tannhäuser]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb112509">Tages-Rundschau [Offizier hat Bürger niedergestochen]</title>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title ref="pmb112509">Tages-Rundschau [Offizier hat Bürger niedergestochen]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36344">Frankfurter Zeitung</title>
@@ -210,28 +213,28 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb113785">Karlstraße [Karlsruhe]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb114155">Kaiserstraße [Karlsruhe]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34438">Russland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34438">Russland</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb871">Karlsruhe</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb113785">Karlstraße [Karlsruhe]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb114155">Kaiserstraße [Karlsruhe]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>
@@ -242,10 +245,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29397">Société des Auteurs et Compositeurs Dramatiques</orgName>
+                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
+                        <orgName ref="pmb29397">Société des Auteurs et Compositeurs Dramatiques</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb39689">Theater in der Josefstadt</orgName>
@@ -265,13 +268,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10986">Otto Brahm</persName>
+                        <persName ref="pmb2425">Felix Dörmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb18308">Leo Feld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2425">Felix Dörmann</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
                         <persName ref="pmb294750">Clementine Plessner</persName>
@@ -287,13 +290,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb295211">Bäckerstraße 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb77">Raimund-Theater</placeName>
@@ -311,6 +314,14 @@
                         <listPlace>
                            <place corresp="#pmb20">
                               <placeName>Volkstheater</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb44">
+                              <placeName>Riedhof</placeName>
                            </place>
                         </listPlace>
                      </place>

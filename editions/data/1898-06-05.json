@@ -98,14 +98,14 @@
  "pmb40374"}
  ,  {
  "placeName":
- "Ossiach",
- "ref":
- "pmb40376"}
- ,  {
- "placeName":
  "Kärnten",
  "ref":
  "pmb651"}
+ ,  {
+ "placeName":
+ "Ossiach",
+ "ref":
+ "pmb40376"}
  ]
 }
 }, {
@@ -124,6 +124,11 @@
   [
  {
  "placeName":
+ "X., Favoriten",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
  "IX., Alsergrund",
  "ref":
  ""}
@@ -139,7 +144,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-06-05",
  "head":
- "Semmering"
+ "Semmering",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Semmering",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

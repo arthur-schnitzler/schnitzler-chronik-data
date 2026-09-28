@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,19 +99,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb19055">Sulz im Wienerwald</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb19055">Sulz im Wienerwald</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -130,16 +130,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -149,6 +149,14 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb190427">
+                              <placeName>Wollzeile 15 (»Berthahof«)</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#59">
                         <placeName>IX., Alsergrund</placeName>
                         <listPlace>

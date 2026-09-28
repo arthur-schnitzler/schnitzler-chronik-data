@@ -56,14 +56,29 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Ilma Seiler-Willborn",
  "ref":
- "pmb10863"},
+ "pmb144898"},
  {
  "persName":
- "Alphonse Daudet",
+ "Ottilie Salten",
  "ref":
- "pmb11134"},
+ "pmb23918"},
+ {
+ "persName":
+ "Wilhelmine Mitterwurzer",
+ "ref":
+ "pmb12268"},
+ {
+ "persName":
+ "Alexander Zeitlin",
+ "ref":
+ "pmb27456"},
+ {
+ "persName":
+ "Szigfrid Pongrácz",
+ "ref":
+ "pmb144970"},
  {
  "persName":
  "Edmond Huot de Goncourt",
@@ -71,9 +86,9 @@
  "pmb11500"},
  {
  "persName":
- "Wilhelmine Mitterwurzer",
+ "Alphonse Daudet",
  "ref":
- "pmb12268"},
+ "pmb11134"},
  {
  "persName":
  "Max Nordau",
@@ -86,41 +101,46 @@
  "pmb12371"},
  {
  "persName":
- "Ilma Seiler-Willborn",
- "ref":
- "pmb144898"},
- {
- "persName":
- "Szigfrid Pongrácz",
- "ref":
- "pmb144970"},
- {
- "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
- {
- "persName":
- "Alexander Zeitlin",
- "ref":
- "pmb27456"},
- {
- "persName":
  "Jules Huot de Goncourt",
  "ref":
- "pmb2925"}],
+ "pmb2925"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
  "title":
- "Adam und Eva",
- "ref":
- "pmb144980"}
- ,  {
- "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
  "pmb29917"}
+ ,  {
+ "title":
+ "Adam und Eva",
+ "ref":
+ "pmb144980"}
  ,  {
  "title":
  "Frankfurter Zeitung",
@@ -133,6 +153,11 @@
  "pmb144966"}
  ,  {
  "title":
+ "Wiener Allgemeine Zeitung",
+ "ref":
+ "pmb39950"}
+ ,  {
+ "title":
  "† Edmond de Goncourt",
  "ref":
  "pmb144985"}
@@ -141,44 +166,14 @@
  "Neue Freie Presse",
  "ref":
  "pmb36374"}
- ,  {
- "title":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb39950"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Frankreich",
+ "Wien",
  "ref":
- "pmb166"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Valle d’Ampezzo",
- "ref":
- "pmb34207"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Tegernsee",
- "ref":
- "pmb39752"}
+ "pmb50"}
  ,  {
  "placeName":
  "Trondheim",
@@ -186,9 +181,19 @@
  "pmb40290"}
  ,  {
  "placeName":
+ "Jihlava",
+ "ref":
+ "pmb44092"}
+ ,  {
+ "placeName":
  "Nordkap",
  "ref":
  "pmb41072"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ,  {
  "placeName":
  "Bad Aussee",
@@ -196,9 +201,9 @@
  "pmb415"}
  ,  {
  "placeName":
- "Jihlava",
+ "Valle d’Ampezzo",
  "ref":
- "pmb44092"}
+ "pmb34207"}
  ,  {
  "placeName":
  "München",
@@ -206,9 +211,19 @@
  "pmb45258"}
  ,  {
  "placeName":
- "Wien",
+ "Salzburg",
  "ref":
- "pmb50"}
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Schliersee",
+ "ref":
+ "pmb936"}
+ ,  {
+ "placeName":
+ "Tegernsee",
+ "ref":
+ "pmb39752"}
  ,  {
  "placeName":
  "Innsbruck",
@@ -216,9 +231,14 @@
  "pmb867"}
  ,  {
  "placeName":
- "Schliersee",
+ "Frankreich",
  "ref":
- "pmb936"}
+ "pmb166"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
  ,  {
  "placeName":
  "Draveil",

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,7 +111,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-08-29.html</idno>
             </event>
             <event when-iso="1911-08-29">
-               <head>Stefan Zweig an Arthur Schnitzler, 29. 8. 1911</head>
+               <head>Stefan Zweig an Arthur Schnitzler, [28. oder 29]. 8. 1911</head>
                <desc>
                   <listPerson>
                      <person>
@@ -126,6 +126,12 @@
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -137,22 +143,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb197">Weimar</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb533">Währinger Cottage</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb193">Gartenhaus [Goethe]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb197">Weimar</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb293934">Ilm</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb533">Währinger Cottage</placeName>
                      </place>
                   </listPlace>
                </desc>

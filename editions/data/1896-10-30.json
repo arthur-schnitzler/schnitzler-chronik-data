@@ -108,8 +108,8 @@
  {
  "persName":
  "duc d’Orléans
-   
-      Louis Philippe Robert d’Orléans",
+                
+                  Louis Philippe Robert d’Orléans",
  "ref":
  "pmb5617"}],
  "listBibl":
@@ -124,6 +124,11 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -132,11 +137,6 @@
  "Schloss Schönbrunn",
  "ref":
  "pmb21799"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [
@@ -175,9 +175,9 @@
  "pmb2121"},
  {
  "persName":
- "Gerhart Hauptmann",
+ "Leo Ebermann",
  "ref":
- "pmb11617"},
+ "pmb2157"},
  {
  "persName":
  "Gustav Schwarzkopf",
@@ -185,9 +185,9 @@
  "pmb12740"},
  {
  "persName":
- "Leo Ebermann",
+ "Gerhart Hauptmann",
  "ref":
- "pmb2157"},
+ "pmb11617"},
  {
  "persName":
  "Nah-Badû",
@@ -195,19 +195,34 @@
  "pmb29138"},
  {
  "persName":
- "George Gordon Noël Lord Byron",
- "ref":
- "pmb11057"},
- {
- "persName":
  "Georg Hirschfeld",
  "ref":
  "pmb11701"},
  {
  "persName":
+ "George Gordon Noël Lord Byron",
+ "ref":
+ "pmb11057"},
+ {
+ "persName":
  "Friedrich Halm",
  "ref":
- "pmb5591"}],
+ "pmb5591"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
@@ -222,9 +237,9 @@
  "pmb33420"}
  ,  {
  "title":
- "Sämmtliche Werke",
+ "Neue Freie Presse",
  "ref":
- "pmb33422"}
+ "pmb36374"}
  ,  {
  "title":
  "Der Giaur",
@@ -232,9 +247,9 @@
  "pmb33424"}
  ,  {
  "title":
- "Neue Freie Presse",
+ "Sämmtliche Werke",
  "ref":
- "pmb36374"}
+ "pmb33422"}
  ],
  "listPlace":
   [
@@ -245,14 +260,14 @@
  "pmb168"}
  ,  {
  "placeName":
- "Schloss Schönbrunn",
- "ref":
- "pmb21799"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Schloss Schönbrunn",
+ "ref":
+ "pmb21799"}
  ],
  "listOrg":
   [
@@ -301,6 +316,11 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -309,11 +329,6 @@
  "Uppsala",
  "ref":
  "pmb34034"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {
@@ -349,19 +364,14 @@
  "pmb11324"},
  {
  "persName":
- "Friedrich Mitterwurzer",
- "ref":
- "pmb12265"},
- {
- "persName":
- "Wilhelmine Mitterwurzer",
- "ref":
- "pmb12268"},
- {
- "persName":
  "Max Nordau",
  "ref":
  "pmb12365"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"},
  {
  "persName":
  "Jenny Bally",
@@ -369,9 +379,14 @@
  "pmb13698"},
  {
  "persName":
- "Marie Reinhard",
+ "Wilhelmine Mitterwurzer",
  "ref":
- "pmb2378"},
+ "pmb12268"},
+ {
+ "persName":
+ "Friedrich Mitterwurzer",
+ "ref":
+ "pmb12265"},
  {
  "persName":
  "Isidore S. Bally",
@@ -386,14 +401,54 @@
  "persName":
  "?? [Kadett]",
  "ref":
- "pmb168868"}],
+ "pmb168868"},
+ {
+ "persName":
+ "Friedrich von Schiller",
+ "ref":
+ "pmb12654"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
  "title":
+ "Heldentod",
+ "ref":
+ "pmb76518"}
+ ,  {
+ "title":
+ "Der Hinterbliebene",
+ "ref":
+ "pmb29839"}
+ ,  {
+ "title":
+ "Flucht",
+ "ref":
+ "pmb93681"}
+ ,  {
+ "title":
  "Cocotte und Kellner",
  "ref":
  "pmb144994"}
+ ,  {
+ "title":
+ "Begräbnis",
+ "ref":
+ "pmb34361"}
  ,  {
  "title":
  "Der Hund",
@@ -406,9 +461,9 @@
  "pmb144998"}
  ,  {
  "title":
- "Der Hinterbliebene",
+ "Die kleine Veronika",
  "ref":
- "pmb29839"}
+ "pmb76513"}
  ,  {
  "title":
  "Dom Karlos, Infant von Spanien",
@@ -416,39 +471,19 @@
  "pmb33023"}
  ,  {
  "title":
- "Begräbnis",
- "ref":
- "pmb34361"}
- ,  {
- "title":
- "Die kleine Veronika",
- "ref":
- "pmb76513"}
- ,  {
- "title":
- "Heldentod",
- "ref":
- "pmb76518"}
- ,  {
- "title":
  "Judith. Eine Tragödie in fünf Aufzügen",
  "ref":
  "pmb76689"}
  ,  {
  "title":
- "Flucht",
+ "Der Hinterbliebene. Kurze Novellen",
  "ref":
- "pmb93681"}
+ "pmb33301"}
  ,  {
  "title":
  "Einiges über Schiller’s »Don Carlos«",
  "ref":
  "pmb144915"}
- ,  {
- "title":
- "Der Hinterbliebene. Kurze Novellen",
- "ref":
- "pmb33301"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -464,9 +499,9 @@
   [
  {
  "placeName":
- "Burgtheater",
+ "Wien",
  "ref":
- "pmb14"}
+ "pmb50"}
  ,  {
  "placeName":
  "Berlin",
@@ -474,9 +509,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
+ "Burgtheater",
  "ref":
- "pmb50"}
+ "pmb14"}
  ],
  "listOrg":
   [

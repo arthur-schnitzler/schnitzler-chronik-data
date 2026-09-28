@@ -79,9 +79,14 @@
   [
  {
  "placeName":
- "Paris",
+ "München",
  "ref":
- "pmb182"}
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
  ,  {
  "placeName":
  "Wollzeile 15 (»Berthahof«)",
@@ -89,9 +94,9 @@
  "pmb190427"}
  ,  {
  "placeName":
- "München",
+ "Wien",
  "ref":
- "pmb45258"}
+ "pmb50"}
  ,  {
  "placeName":
  "Zürich",
@@ -99,14 +104,9 @@
  "pmb484"}
  ,  {
  "placeName":
- "Wien",
+ "Paris",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
+ "pmb182"}
  ],
  "listOrg":
   [
@@ -127,7 +127,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1897-04-10",
  "head":
- "München"
+ "München",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hauptbahnhof München",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -138,7 +148,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1897-04-10",
  "head":
- "Zürich"
+ "Zürich",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Zürich Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

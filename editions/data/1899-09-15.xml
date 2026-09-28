@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -84,7 +84,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-09-15.html</idno>
             </event>
             <event when-iso="1899-09-15">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 1[5]. 9. 1899</head>
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 15. 9. 1899</head>
                <desc>
                   <listPerson>
                      <person>
@@ -94,36 +94,39 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
+                        <persName ref="pmb43093">Otto Strützel</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb43093">Otto Strützel</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43040">Brixen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43090">Frauenkirche</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb806">Hotel Rheinischer Hof München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb946">Vahrn</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb43040">Brixen</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43090">Frauenkirche</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -156,13 +159,13 @@
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb364399">St. Lukas</placeName>

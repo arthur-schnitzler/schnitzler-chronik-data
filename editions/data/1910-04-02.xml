@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -112,16 +112,19 @@
                      <person>
                         <persName ref="pmb11324">Samuel Fischer</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11273">Herbert Eulenberg</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                        <title ref="pmb32258">Ein halber Held. Tragödie in fünf Aufzügen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32258">Ein halber Held. Tragödie in fünf Aufzügen</title>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29877">Die letzten Masken</title>
@@ -135,22 +138,55 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb302">Mariahilfer Straße</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb29644">Arbeiter-Zeitung</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29569">Wiener Freie Volksbühne</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01921.html</idno>
+            </event>
+            <event when-iso="1910-04-02">
+               <head>Felix Salten an Arthur Schnitzler, [2. oder 3]. 4. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb148366">Monument für Domenico Rossetti</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb873">Triest</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29569">Wiener Freie Volksbühne</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29644">Arbeiter-Zeitung</orgName>
-                     </org>
-                  </listOrg>
                </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01921.html</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03547.html</idno>
             </event>
             <event when-iso="1910-04-02">
                <head corresp="#pmb50">Wien</head>

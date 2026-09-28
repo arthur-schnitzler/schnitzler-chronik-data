@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -82,6 +82,45 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-12-31.html</idno>
             </event>
             <event when-iso="1900-12-31">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [30. oder 31]. 12. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb76951">Hilperich</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04086.html</idno>
+            </event>
+            <event when-iso="1900-12-31">
                <head>Arthur Schnitzler an Theodor Herzl, [zwischen 31. 12. 1900 und 7. 1. 1901?]</head>
                <desc>
                   <listPerson>
@@ -106,42 +145,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03916.html</idno>
             </event>
             <event when-iso="1900-12-31">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 31. 12. 1900</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13055">Jakob Wassermann</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb76951">Hilperich</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04086.html</idno>
-            </event>
-            <event when-iso="1900-12-31">
                <head>Paul Goldmann an Arthur Schnitzler, 31. 12. [1900]</head>
                <desc>
                   <listPerson>
@@ -157,19 +160,22 @@
                      <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb21082">Max Marschalk</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb31735">Die versunkene Glocke. Ein deutsches Märchendrama in fünf Aufzügen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32668">Michael Kramer. Drama</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33037">Fuhrmann Henschel. Schauspiel in 5 Akten</title>
@@ -178,27 +184,36 @@
                         <title ref="pmb76929">Schluck und Jau</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb142613">»Michael Kramer.«</title>
+                        <title ref="pmb32668">Michael Kramer. Drama</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31943">Der Biberpelz. Eine Diebskomödie</title>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb142613">»Michael Kramer.«</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb31943">Der Biberpelz. Eine Diebskomödie</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb142610">Reuterweg</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb142610">Reuterweg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                </desc>

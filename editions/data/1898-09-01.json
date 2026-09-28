@@ -28,6 +28,66 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04426",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04426.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, 1. 9. 1898",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
+ "Padua",
+ "ref":
+ "pmb44156"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Basilica di Sant’Antonio di Padova",
+ "ref":
+ "pmb364300"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -36,7 +96,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-09-01",
  "head":
- "Padua"
+ "Padua",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stazione di Padova",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

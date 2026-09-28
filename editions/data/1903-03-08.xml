@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -124,8 +124,8 @@
                      </person>
                      <person>
                         <persName ref="pmb43446">
-      Weichert
-  </persName>
+                  Weichert
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -163,13 +163,22 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb146895">Der Goethebund gegen die Theatercensur. (Telegramm der »Neuen Freien Presse«.)</title>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb146895">Der Goethebund gegen die Theatercensur. (Telegramm der »Neuen Freien Presse«.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
@@ -177,22 +186,25 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb146879">Redaktion des Berliner Tageblatts</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb146883">Wallnertheaterstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146893">Alte Philharmonie [Berlin]</placeName>
+                        <placeName ref="pmb146879">Redaktion des Berliner Tageblatts</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb146893">Alte Philharmonie [Berlin]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb88">Palasthotel Berlin</placeName>

@@ -65,9 +65,9 @@
   [
  {
  "placeName":
- "Frankgasse 1",
+ "III., Landstraße",
  "ref":
- "pmb168934"}
+ "pmb53"}
  ,  {
  "placeName":
  "Wien",
@@ -75,9 +75,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "III., Landstraße",
+ "Frankgasse 1",
  "ref":
- "pmb53"}
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Reichenau an der Rax",
+ "ref":
+ "pmb483"}
  ]
 }
 }, {
@@ -108,24 +113,9 @@
  "pmb2121"},
  {
  "persName":
- "Eduard Grisebach",
- "ref":
- "pmb113623"},
- {
- "persName":
- "Gerhart Hauptmann",
- "ref":
- "pmb11617"},
- {
- "persName":
  "Irene Triesch",
  "ref":
  "pmb12977"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
  {
  "persName":
  "Olga Schnitzler",
@@ -133,9 +123,24 @@
  "pmb2173"},
  {
  "persName":
+ "Gerhart Hauptmann",
+ "ref":
+ "pmb11617"},
+ {
+ "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
  "Sébastien Roch Nicolas Chamfort",
  "ref":
  "pmb39417"},
+ {
+ "persName":
+ "Eduard Grisebach",
+ "ref":
+ "pmb113623"},
  {
  "persName":
  "Arthur Schopenhauer",
@@ -150,7 +155,27 @@
  "persName":
  "Elisabeth Steinrück",
  "ref":
- "pmb2315"}],
+ "pmb2315"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"},
+ {
+ "persName":
+ "Adolphe Mathurin de Lescure",
+ "ref":
+ "pmb144509"}],
  "listBibl":
   [
  {
@@ -160,9 +185,9 @@
  "pmb144550"}
  ,  {
  "title":
- "»Michael Kramer.«",
+ "Lebendige Stunden. Vier Einakter",
  "ref":
- "pmb142613"}
+ "pmb29863"}
  ,  {
  "title":
  "Hebbels »Maria Magdalena«. (Deutsches Theater.)",
@@ -170,19 +195,14 @@
  "pmb144557"}
  ,  {
  "title":
+ "Berliner Tageblatt",
+ "ref":
+ "pmb41531"}
+ ,  {
+ "title":
  "Berliner Brief. [»Schluck und Jau« von Gerhart Hauptmann am Deutschen Theater]",
  "ref":
  "pmb145492"}
- ,  {
- "title":
- "Berliner Theater. »Einsame Menschen« im Deutschen Theater",
- "ref":
- "pmb29861"}
- ,  {
- "title":
- "Lebendige Stunden. Vier Einakter",
- "ref":
- "pmb29863"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -190,19 +210,24 @@
  "pmb36374"}
  ,  {
  "title":
- "Berliner Tageblatt",
+ "»Michael Kramer.«",
  "ref":
- "pmb41531"}
+ "pmb142613"}
  ,  {
  "title":
- "Œuvres choisies de N. Chamfort, publiées avec préface, notes et tables",
+ "Berliner Theater. »Einsame Menschen« im Deutschen Theater",
  "ref":
- "pmb144258"}
+ "pmb29861"}
  ,  {
  "title":
  "Einsame Menschen. Drama",
  "ref":
  "pmb29879"}
+ ,  {
+ "title":
+ "Œuvres choisies de N. Chamfort, publiées avec préface, notes et tables",
+ "ref":
+ "pmb144258"}
  ],
  "listPlace":
   [
@@ -213,9 +238,19 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Payerbach",
+ "ref":
+ "pmb948"}
+ ,  {
+ "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
  ,  {
  "placeName":
  "München",
@@ -226,16 +261,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
- ,  {
- "placeName":
- "Payerbach",
- "ref":
- "pmb948"}
  ],
  "listOrg":
   [

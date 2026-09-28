@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,22 +103,25 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13897">Henry Becque</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb14842">Regina Candiani</persName>
+                        <persName ref="pmb13897">Henry Becque</persName>
                      </person>
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb26238">Ivan Sergeevič Turgenev</persName>
+                        <persName ref="pmb14842">Regina Candiani</persName>
                      </person>
                      <person>
                         <persName ref="pmb3739">Lew Nikolajewitsch Tolstoi</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26238">Ivan Sergeevič Turgenev</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb40665">Gaspard Vallette</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -137,16 +140,25 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb652">Prag</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb842">Karlsbad</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb772">Marienbad</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb390">Franzensbad</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44172">Nürnberg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
@@ -158,16 +170,7 @@
                         <placeName ref="pmb34438">Russland</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb390">Franzensbad</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44172">Nürnberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb772">Marienbad</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb842">Karlsbad</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb92927">Moldau</placeName>
@@ -196,7 +199,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-07-06</idno>
             </event>
             <event when-iso="1895-07-06">
-               <head corresp="#pmb842">Karlsbad</head>
+               <head corresp="#pmb842">Karlovy Vary</head>
                <desc>
                   <listPlace>
                      <place corresp="#pmb292557">

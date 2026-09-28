@@ -79,57 +79,27 @@
  "pmb2121"},
  {
  "persName":
- "Hugo August von Hofmannsthal",
- "ref":
- "pmb11737"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
  {
  "persName":
- "Olga Schnitzler",
+ "Hugo August von Hofmannsthal",
  "ref":
- "pmb2173"},
+ "pmb11737"},
  {
  "persName":
  "Christiane von Thun-Hohenstein-Salm-Reifferscheidt",
  "ref":
- "pmb26046"}],
+ "pmb26046"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listPlace":
   [
  {
- "placeName":
- "Perugia",
- "ref":
- "pmb41027"}
- ,  {
- "placeName":
- "Ravenna",
- "ref":
- "pmb44290"}
- ,  {
- "placeName":
- "Gubbio",
- "ref":
- "pmb44514"}
- ,  {
- "placeName":
- "Hotel Brufani",
- "ref":
- "pmb44518"}
- ,  {
- "placeName":
- "Ancona",
- "ref":
- "pmb44521"}
- ,  {
- "placeName":
- "Rimini",
- "ref":
- "pmb44523"}
- ,  {
  "placeName":
  "Wien",
  "ref":
@@ -139,6 +109,36 @@
  "Hinterbrühl",
  "ref":
  "pmb75"}
+ ,  {
+ "placeName":
+ "Hotel Brufani",
+ "ref":
+ "pmb44518"}
+ ,  {
+ "placeName":
+ "Ravenna",
+ "ref":
+ "pmb44290"}
+ ,  {
+ "placeName":
+ "Rimini",
+ "ref":
+ "pmb44523"}
+ ,  {
+ "placeName":
+ "Ancona",
+ "ref":
+ "pmb44521"}
+ ,  {
+ "placeName":
+ "Gubbio",
+ "ref":
+ "pmb44514"}
+ ,  {
+ "placeName":
+ "Perugia",
+ "ref":
+ "pmb41027"}
  ]
 }
 }, {
@@ -176,9 +176,14 @@
   [
  {
  "placeName":
- "Kleiner Krausel-Tunnel",
+ "Klamm",
  "ref":
- "pmb147676"}
+ "pmb8281"}
+ ,  {
+ "placeName":
+ "Mödling",
+ "ref":
+ "pmb968"}
  ,  {
  "placeName":
  "Hotel Radetzky",
@@ -191,14 +196,9 @@
  "pmb75"}
  ,  {
  "placeName":
- "Klamm",
+ "Kleiner Krausel-Tunnel",
  "ref":
- "pmb8281"}
- ,  {
- "placeName":
- "Mödling",
- "ref":
- "pmb968"}
+ "pmb147676"}
  ],
  "listOrg":
   [
@@ -230,7 +230,7 @@
  ""}
  ,  {
  "placeName":
- "Hauptstraße 56",
+ "Hauptstraße 56 [Hinterbrühl]",
  "ref":
  ""}
  ]

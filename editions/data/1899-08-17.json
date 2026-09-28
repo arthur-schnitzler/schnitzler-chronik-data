@@ -26,24 +26,24 @@
  "pmb10863"},
  {
  "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
  "Alfred Gold",
  "ref":
  "pmb11469"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Isidor Singer",
  "ref":
  "pmb12790"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
  {
  "persName":
  "Jakob Wassermann",
@@ -71,11 +71,6 @@
  "pmb213"}
  ,  {
  "placeName":
- "Günthergasse",
- "ref":
- "pmb296"}
- ,  {
- "placeName":
  "Seeboden am Millstättersee",
  "ref":
  "pmb34824"}
@@ -86,14 +81,19 @@
  "pmb40788"}
  ,  {
  "placeName":
+ "Kärnten",
+ "ref":
+ "pmb651"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Kärnten",
+ "Günthergasse",
  "ref":
- "pmb651"}
+ "pmb296"}
  ,  {
  "placeName":
  "Bad Aussee",
@@ -147,24 +147,9 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Houston Stewart Chamberlain",
- "ref":
- "pmb11086"},
- {
- "persName":
  "Franz Servaes",
  "ref":
  "pmb12772"},
- {
- "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
  {
  "persName":
  "Karl von Thaler",
@@ -172,22 +157,47 @@
  "pmb25968"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Ottilie Salten",
+ "ref":
+ "pmb23918"},
+ {
+ "persName":
+ "Houston Stewart Chamberlain",
+ "ref":
+ "pmb11086"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
+ {
+ "persName":
  "Theodor Herzl",
  "ref":
  "pmb11673"},
  {
  "persName":
- "Jakob Wassermann",
+ "Eduard Bacher",
  "ref":
- "pmb13055"}],
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
- "title":
- "Die Welt (Wien)",
- "ref":
- "pmb122335"}
- ,  {
  "title":
  "Decadence-Romane",
  "ref":
@@ -197,6 +207,21 @@
  "Die Grundlagen des Neunzehnten Jahrhunderts. 2 Bde.",
  "ref":
  "pmb146061"}
+ ,  {
+ "title":
+ "Die Welt (Wien)",
+ "ref":
+ "pmb122335"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ,  {
  "title":
  "»Das fremde Volk«",
@@ -217,29 +242,19 @@
  "»Das fremde Volk«. III.",
  "ref":
  "pmb167916"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ,  {
  "placeName":
  "Dubrovnik",
@@ -298,6 +313,11 @@
  "pmb2121"},
  {
  "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
  "Hans Kapper",
  "ref":
  "pmb11882"},
@@ -306,11 +326,6 @@
  "Adele Sandrock",
  "ref":
  "pmb12618"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
  {
  "persName":
  "Bernhard Buchbinder",
@@ -325,6 +340,11 @@
   [
  {
  "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -335,11 +355,6 @@
  "pmb247508"}
  ,  {
  "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
  "San Martino di Castrozza",
  "ref":
  "pmb44311"}
@@ -348,6 +363,11 @@
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
  ,  {
  "placeName":
  "Tiefer Graben",
@@ -372,6 +392,11 @@
  {
  "placeName":
  "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bahnhof Bad Ischl",
  "ref":
  ""}
  ]

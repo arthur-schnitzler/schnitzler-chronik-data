@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,6 +123,52 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-08-20.html</idno>
+            </event>
+            <event when-iso="1926-08-20">
+               <head>Stefan Zweig an Arthur Schnitzler, [20. oder 21]. 8. 1926</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12435">Clara Katharina Pollaczek</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb299347">Montreux Bon-Port</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293686">Hôtel Byron</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb245351">Parkhotel Beau Site</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34005">Zermatt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40481">Schloss Chillon</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40482">Montreux</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293684">Clarens</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36464">Ouchy</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92015">Villeneuve</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03671.html</idno>
             </event>
             <event when-iso="1926-08-20">
                <head corresp="#pmb34005">Zermatt</head>

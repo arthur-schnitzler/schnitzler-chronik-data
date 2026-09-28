@@ -55,15 +55,64 @@
 }
 }, {
  "type":
- "wienerschnitzler",
+ "schnitzler-briefe",
  "color":
- "#6F5106",
+ "#A63437",
+ "filename":
+ "L04407",
  "caption":
- "Wiener Schnitzler",
+ "Briefe mit Autorinnen und Autoren",
  "idno":
- "https://wienerschnitzler.org/tag.html#1900-08-17",
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04407.html",
  "head":
- "Innsbruck"
+ "Arthur Schnitzler, Richard Beer-Hofmann, Paul Goldmann an Gustav Schwarzkopf, [17. oder 18.] 8. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Schruns",
+ "ref":
+ "pmb38711"}
+ ,  {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -74,7 +123,38 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1900-08-17",
  "head":
- "Bludenz"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Innsbruck Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1900-08-17",
+ "head":
+ "Bludenz",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Bludenz",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",

@@ -105,14 +105,14 @@
  "pmb2121"},
  {
  "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
- "pmb2173"}],
+ "pmb2173"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"}],
  "listBibl":
   [
  {
@@ -130,24 +130,24 @@
   [
  {
  "placeName":
- "Kochgasse 8",
- "ref":
- "pmb249577"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Burgtheater",
+ "Kochgasse 8",
  "ref":
- "pmb14"}
+ "pmb249577"}
  ,  {
  "placeName":
  "Semmering",
  "ref":
  "pmb189"}
+ ,  {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ "pmb14"}
  ]
 }
 }, {
@@ -188,9 +188,9 @@
   [
  {
  "placeName":
- "Sternwartestraße 71",
+ "Wien",
  "ref":
- "pmb168815"}
+ "pmb50"}
  ,  {
  "placeName":
  "London",
@@ -198,9 +198,9 @@
  "pmb224"}
  ,  {
  "placeName":
- "Wien",
+ "Sternwartestraße 71",
  "ref":
- "pmb50"}
+ "pmb168815"}
  ]
 }
 }, {
@@ -231,19 +231,24 @@
  "pmb2121"},
  {
  "persName":
- "Mechtilde Lichnowsky",
- "ref":
- "pmb38988"},
- {
- "persName":
  "Karl Max Lichnowsky",
  "ref":
  "pmb39994"},
  {
  "persName":
+ "Mechtilde Lichnowsky",
+ "ref":
+ "pmb38988"},
+ {
+ "persName":
  "Josef Kainz",
  "ref":
- "pmb11851"}],
+ "pmb11851"},
+ {
+ "persName":
+ "Richard Strauss",
+ "ref":
+ "pmb12870"}],
  "listBibl":
   [
  {
@@ -263,14 +268,14 @@
  "pmb30279"}
  ,  {
  "title":
- "Der Rosenkavalier. Komödie für Musik",
- "ref":
- "pmb30341"}
- ,  {
- "title":
  "Saul. Ein Tragödienfragment",
  "ref":
  "pmb39985"}
+ ,  {
+ "title":
+ "Der Rosenkavalier. Komödie für Musik",
+ "ref":
+ "pmb30341"}
  ],
  "listPlace":
   [
@@ -281,6 +286,11 @@
  "pmb173"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Neubeuern",
  "ref":
  "pmb33996"}
@@ -289,11 +299,6 @@
  "Hradec nad Moravicí",
  "ref":
  "pmb36534"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [

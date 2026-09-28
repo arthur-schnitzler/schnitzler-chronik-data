@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -125,6 +125,24 @@
                      <person>
                         <persName ref="pmb23918">Ottilie Salten</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4132">Ludwig Tieck</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12228">Felix Mendelssohn Bartholdy</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11127">Berta Czegka</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -134,30 +152,24 @@
                         <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb35935">Die Zeit</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb29951">Zum großen Wurstel. Burleske in einem Akt</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb35933">Schiller-Feier</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb35935">Die Zeit</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb235591">Pötzleinsdorferstraße 88</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb431">Mariazell</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
@@ -166,10 +178,19 @@
                         <placeName ref="pmb92457">Pötzleinsdorferstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb37">Theater an der Wien</placeName>
+                        <placeName ref="pmb431">Mariazell</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb92548">Starkfriedgassse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb37">Theater an der Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

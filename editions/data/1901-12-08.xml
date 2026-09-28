@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -89,7 +89,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1901-12-08.html</idno>
             </event>
             <event when-iso="1901-12-08">
-               <head>Ida d’Albert, Hans Olden, Paul Goldmann, Alfred Friedmann, Emma Friedmann, Christine an Arthur Schnitzler, [8. 12. 1901]</head>
+               <head>Ida d’Albert, Hans Olden, Paul Goldmann, Alfred Friedmann, Emma Friedmann, Christine an Arthur Schnitzler, [7. oder 8]. 12. 1901</head>
                <desc>
                   <listPerson>
                      <person>
@@ -119,13 +119,16 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -128,8 +128,14 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1925-04-08</idno>
             </event>
             <event when-iso="1925-04-08">
-               <head>Vortrag »Das heutige Europa« von Georg Brandes, 8.4.1925</head>
+               <head>Vortrag von Das heutige Europa, 8.4.1925</head>
                <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb37723">Das heutige Europa</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
                   <listPerson>
                      <person role="hat mitwirkend">
                         <persName key="pmb10992">Brandes, Georg</persName>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,10 +109,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
                         <persName ref="pmb3561">Karl Lueger</persName>
@@ -125,7 +125,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
+                        <placeName ref="pmb990">Schleb</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb767">Čáslav</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36519">Nový Bydžov</placeName>
@@ -134,16 +140,10 @@
                         <placeName ref="pmb39547">Benatek</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb628">Böhmen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb767">Čáslav</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb990">Schleb</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -160,12 +160,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11691">Paul Heyse</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11904">Leon Kellner</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
@@ -174,16 +168,22 @@
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11904">Leon Kellner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11691">Paul Heyse</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10795">Ferdinand Avenarius</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb53068">Hermann Rinn</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb298714">Weihe der Kunst</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb30067">Spiegelbild der Freundschaft</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33051">Theodor Herzls Lehrjahre (1860–1895). Nach den handschriftlichen Quellen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb53069">Der Kunstwart. Rundschau über alle Gebiete des Schönen</title>
@@ -191,30 +191,36 @@
                      <bibl>
                         <title ref="pmb33053">Der Judenstaat. Versuch einer modernen Lösung der Judenfrage</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33051">Theodor Herzls Lehrjahre (1860–1895). Nach den handschriftlichen Quellen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30067">Spiegelbild der Freundschaft</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb59021">Marburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59021">Marburg</placeName>
+                        <placeName ref="pmb652">Prag</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb652">Prag</placeName>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb298719">Comptoir d’Escompte</orgName>
+                        <orgName ref="pmb298922">Landesmuseum Burgenland</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb298922">Landesmuseum Burgenland</orgName>
+                        <orgName ref="pmb298719">Comptoir d’Escompte</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -233,10 +239,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                   </listPlace>
                </desc>

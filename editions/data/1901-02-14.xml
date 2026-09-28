@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,8 +95,11 @@
                      </person>
                      <person>
                         <persName ref="pmb144029">
-      Meyer
-  </persName>
+                  Meyer
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
                         <persName ref="pmb144032">Rudolf Renvers</persName>
@@ -104,19 +107,16 @@
                      <person>
                         <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb14953">Marie Glümer</persName>
-                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                   </listPlace>
                </desc>

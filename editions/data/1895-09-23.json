@@ -91,9 +91,14 @@
   [
  {
  "placeName":
- "Paris",
+ "9/3 Post- und Telegraphenamt 72",
  "ref":
- "pmb182"}
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Gardone Riviera",
@@ -116,14 +121,9 @@
  "pmb465"}
  ,  {
  "placeName":
- "Wien",
+ "Paris",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
+ "pmb182"}
  ],
  "listOrg":
   [
@@ -182,14 +182,9 @@
   [
  {
  "placeName":
- "Frankgasse 1",
+ "9/3 Post- und Telegraphenamt 72",
  "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Gardone Riviera",
- "ref":
- "pmb374"}
+ "pmb365208"}
  ,  {
  "placeName":
  "Grand Hotel Gardone",
@@ -197,9 +192,14 @@
  "pmb40858"}
  ,  {
  "placeName":
- "Österreich",
+ "IX., Alsergrund",
  "ref":
- "pmb41240"}
+ "pmb59"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ,  {
  "placeName":
  "Wien",
@@ -207,9 +207,9 @@
  "pmb50"}
  ,  {
  "placeName":
- "IX., Alsergrund",
+ "Österreich",
  "ref":
- "pmb59"}
+ "pmb41240"}
  ]
 }
 }, {
@@ -240,19 +240,9 @@
  "pmb2121"},
  {
  "persName":
- "Max Eugen Burckhard",
+ "Leopold Sonnemann",
  "ref":
- "pmb11036"},
- {
- "persName":
- "Johann Wolfgang von Goethe",
- "ref":
- "pmb11461"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
+ "pmb87771"},
  {
  "persName":
  "Ludwig Speidel",
@@ -260,14 +250,19 @@
  "pmb12816"},
  {
  "persName":
+ "Max Eugen Burckhard",
+ "ref":
+ "pmb11036"},
+ {
+ "persName":
  "Friedrich Uhl",
  "ref":
  "pmb12987"},
  {
  "persName":
- "Richard Wagner",
+ "Theodor Herzl",
  "ref":
- "pmb13024"},
+ "pmb11673"},
  {
  "persName":
  "Regina Candiani",
@@ -275,14 +270,9 @@
  "pmb14842"},
  {
  "persName":
- "Anton Rubinstein",
+ "[MMe. Georges] Aubry",
  "ref":
- "pmb23705"},
- {
- "persName":
- "Paul Schulz",
- "ref":
- "pmb24566"},
+ "pmb93009"},
  {
  "persName":
  "Ida Van-Jung",
@@ -290,14 +280,24 @@
  "pmb26391"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Anton Rubinstein",
  "ref":
- "pmb87771"},
+ "pmb23705"},
  {
  "persName":
- "[MMe. Georges] Aubry",
+ "Richard Wagner",
  "ref":
- "pmb93009"},
+ "pmb13024"},
+ {
+ "persName":
+ "Paul Schulz",
+ "ref":
+ "pmb24566"},
+ {
+ "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"},
  {
  "persName":
  "Hermann Bahr",
@@ -310,11 +310,6 @@
  "pmb12618"},
  {
  "persName":
- "Berthold Frischauer",
- "ref":
- "pmb16710"},
- {
- "persName":
  "Peter Nansen",
  "ref":
  "pmb2357"},
@@ -325,6 +320,11 @@
  "pmb87229"},
  {
  "persName":
+ "Berthold Frischauer",
+ "ref":
+ "pmb16710"},
+ {
+ "persName":
  "Georges Aubry",
  "ref":
  "pmb13561"},
@@ -332,19 +332,34 @@
  "persName":
  "Fedor Mamroth",
  "ref":
- "pmb4986"}],
+ "pmb4986"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"}],
  "listBibl":
   [
  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
  "Anatol",
  "ref":
  "pmb29935"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "Sterben. Novelle",
@@ -357,19 +372,19 @@
  "pmb31975"}
  ,  {
  "title":
- "Julies Tagebuch. Roman",
- "ref":
- "pmb76784"}
- ,  {
- "title":
  "Die Musik und ihre Meister. Eine Unterredung",
  "ref":
  "pmb93024"}
  ,  {
  "title":
- "Neue Deutsche Rundschau",
+ "Julies Tagebuch. Roman",
  "ref":
- "pmb36152"}
+ "pmb76784"}
+ ,  {
+ "title":
+ "La petite comédie. Mœurs viennois",
+ "ref":
+ "pmb93019"}
  ,  {
  "title":
  "La Liberté",
@@ -377,9 +392,9 @@
  "pmb93004"}
  ,  {
  "title":
- "La petite comédie. Mœurs viennois",
+ "Neue Deutsche Rundschau",
  "ref":
- "pmb93019"}
+ "pmb36152"}
  ,  {
  "title":
  "Julies Dagbog. Roman",
@@ -400,14 +415,14 @@
  "pmb182"}
  ,  {
  "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
  ,  {
  "placeName":
  "Deutschland",
@@ -423,11 +438,6 @@
   [
  {
  "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
- ,  {
- "orgName":
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
@@ -436,6 +446,11 @@
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
  ,  {
  "orgName":
  "La Liberté",

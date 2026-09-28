@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,16 +116,19 @@
                      <person>
                         <persName ref="pmb2167">Salten, Felix</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb147788">Schnitzlers Wiener Roman</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29923">Der Weg ins Freie. Roman</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb147788">Schnitzlers Wiener Roman</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb35935">Die Zeit</title>
@@ -133,13 +136,16 @@
                      <bibl>
                         <title ref="pmb36156">Die neue Rundschau</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                   </listPlace>
                </desc>

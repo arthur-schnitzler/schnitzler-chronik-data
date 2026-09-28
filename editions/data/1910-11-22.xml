@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -125,24 +125,24 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb52544">Das Echo des Lebens</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
@@ -153,6 +153,42 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01984.html</idno>
+            </event>
+            <event when-iso="1910-11-22">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [22. oder 23]. 11. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb14">Burgtheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04167.html</idno>
             </event>
             <event when-iso="1910-11-22">
                <head>Arthur Schnitzler an Gustav Schwarzkopf, 22. 11. 1910</head>
@@ -195,10 +231,7 @@
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb147">Beethovenmuseum</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb989">Wuppertal</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -207,7 +240,10 @@
                         <placeName ref="pmb63">XIII., Hietzing</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb989">Wuppertal</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147">Beethovenmuseum</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -237,13 +273,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1242">Franz-Joseph-Straße</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1242">Franz-Joseph-Straße</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

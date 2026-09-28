@@ -53,14 +53,19 @@
  "pmb10815"},
  {
  "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
  "Isidor Singer",
  "ref":
  "pmb12790"},
  {
  "persName":
- "Felix Salten",
+ "Alfred Deutsch-German",
  "ref":
- "pmb2167"},
+ "pmb2288"},
  {
  "persName":
  "Markus Hajek",
@@ -68,12 +73,17 @@
  "pmb2284"},
  {
  "persName":
- "Alfred Deutsch-German",
+ "Heinrich Kanner",
  "ref":
- "pmb2288"}],
+ "pmb11867"}],
  "listBibl":
   [
  {
+ "title":
+ "Neues Wiener Journal",
+ "ref":
+ "pmb36376"}
+ ,  {
  "title":
  "Reigen. Zehn Dialoge",
  "ref":
@@ -85,11 +95,6 @@
  "pmb35935"}
  ,  {
  "title":
- "Neues Wiener Journal",
- "ref":
- "pmb36376"}
- ,  {
- "title":
  "Rezensionen. Wiener Theater 1901 bis 1903",
  "ref":
  "pmb29891"}
@@ -98,14 +103,19 @@
   [
  {
  "placeName":
- "Reichenau an der Rax",
+ "Edmund-Weiß-Gasse 7",
  "ref":
- "pmb483"}
+ "pmb168940"}
  ,  {
  "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Reichenau an der Rax",
+ "ref":
+ "pmb483"}
  ,  {
  "placeName":
  "Kuranstalt Dr. Konried",
@@ -129,6 +139,59 @@
  "Die Zeit",
  "ref":
  "pmb29626"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04198",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04198.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [6. 4. 1903?]",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
  ]
 }
 }, {

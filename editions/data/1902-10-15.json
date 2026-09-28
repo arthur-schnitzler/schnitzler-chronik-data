@@ -126,6 +126,11 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Hotel Bristol Berlin",
+ "ref":
+ "pmb127"}
+ ,  {
+ "placeName":
  "Hotel de Rome",
  "ref":
  "pmb215"}
@@ -169,9 +174,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Sudermann",
+ "Adolph Mühling",
  "ref":
- "pmb12899"},
+ "pmb28303"},
  {
  "persName":
  "Alfred Halm",
@@ -179,9 +184,9 @@
  "pmb2385"},
  {
  "persName":
- "Adolph Mühling",
+ "Hermann Sudermann",
  "ref":
- "pmb28303"},
+ "pmb12899"},
  {
  "persName":
  "Karl Strecker",
@@ -252,9 +257,9 @@
  "pmb2121"},
  {
  "persName":
- "Theodor Herzl",
+ "Isidor Singer",
  "ref":
- "pmb11673"},
+ "pmb12790"},
  {
  "persName":
  "Heinrich Kanner",
@@ -267,21 +272,6 @@
  "pmb12140"},
  {
  "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Siegfried Trebitsch",
- "ref":
- "pmb12968"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
  "Paul Paschen",
  "ref":
  "pmb145962"},
@@ -292,14 +282,29 @@
  "pmb146114"},
  {
  "persName":
- "Ernst Gettke",
- "ref":
- "pmb2164"},
- {
- "persName":
  "Hugo Ganz",
  "ref":
- "pmb2618"}],
+ "pmb2618"},
+ {
+ "persName":
+ "Theodor Herzl",
+ "ref":
+ "pmb11673"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
+ {
+ "persName":
+ "Siegfried Trebitsch",
+ "ref":
+ "pmb12968"},
+ {
+ "persName":
+ "Ernst Gettke",
+ "ref":
+ "pmb2164"}],
  "listBibl":
   [
  {
@@ -309,24 +314,14 @@
  "pmb145957"}
  ,  {
  "title":
- "Altneuland. Roman",
- "ref":
- "pmb76498"}
- ,  {
- "title":
  "Der Moloch",
  "ref":
  "pmb76940"}
  ,  {
  "title":
- "»Altneuland«",
+ "Altneuland. Roman",
  "ref":
- "pmb145975"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
+ "pmb76498"}
  ,  {
  "title":
  "Die Zeit",
@@ -337,6 +332,16 @@
  "Die kleine Veronika",
  "ref":
  "pmb76513"}
+ ,  {
+ "title":
+ "»Altneuland«",
+ "ref":
+ "pmb145975"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "[Aufsatz über volkstümliche Klassikervorstellungen]",
@@ -352,9 +357,9 @@
   [
  {
  "placeName":
- "Wipplingerstraße",
+ "Wien",
  "ref":
- "pmb120"}
+ "pmb50"}
  ,  {
  "placeName":
  "Berlin",
@@ -362,9 +367,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
+ "Wipplingerstraße",
  "ref":
- "pmb50"}
+ "pmb120"}
  ,  {
  "placeName":
  "Raimund-Theater",
@@ -380,14 +385,14 @@
  "pmb29626"}
  ,  {
  "orgName":
- "S. Fischer Verlag",
- "ref":
- "pmb29639"}
- ,  {
- "orgName":
  "Schiller-Theater",
  "ref":
  "pmb57124"}
+ ,  {
+ "orgName":
+ "S. Fischer Verlag",
+ "ref":
+ "pmb29639"}
  ,  {
  "orgName":
  "Burgtheater",

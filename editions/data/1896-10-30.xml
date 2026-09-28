@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,13 +123,13 @@
                      </person>
                      <person>
                         <persName ref="pmb29145">
-      Maria Dorothea von Österreich
-  </persName>
+                  Maria Dorothea von Österreich
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb5617">
-      Louis Philippe Robert d’Orléans, duc d’Orléans
-  </persName>
+                  Louis Philippe Robert d’Orléans, duc d’Orléans
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -139,13 +139,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -167,27 +167,36 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                        <persName ref="pmb2157">Leo Ebermann</persName>
                      </person>
                      <person>
                         <persName ref="pmb12740">Gustav Schwarzkopf</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2157">Leo Ebermann</persName>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb29138">
-      Nah-Badû
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11057">George Gordon Noël Lord Byron</persName>
+                  Nah-Badû
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb11701">Georg Hirschfeld</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11057">George Gordon Noël Lord Byron</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb5591">Friedrich Halm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -198,13 +207,13 @@
                         <title ref="pmb33420">Wiener Erinnerungen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33422">Sämmtliche Werke</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33424">Der Giaur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb33422">Sämmtliche Werke</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -212,10 +221,10 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -244,13 +253,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34034">Uppsala</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -270,19 +279,19 @@
                         <persName ref="pmb11324">Samuel Fischer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12265">Friedrich Mitterwurzer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12268">Wilhelmine Mitterwurzer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12365">Max Nordau</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
                      <person>
                         <persName ref="pmb13698">Jenny Bally</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2378">Marie Reinhard</persName>
+                        <persName ref="pmb12268">Wilhelmine Mitterwurzer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12265">Friedrich Mitterwurzer</persName>
                      </person>
                      <person>
                         <persName ref="pmb13696">Isidore S. Bally</persName>
@@ -292,13 +301,37 @@
                      </person>
                      <person>
                         <persName ref="pmb168868">
-      ?? [Kadett]
-  </persName>
+                  ?? [Kadett]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12654">Friedrich von Schiller</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb76518">Heldentod</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29839">Der Hinterbliebene</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb93681">Flucht</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb144994">Cocotte und Kellner</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb34361">Begräbnis</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144996">Der Hund</title>
@@ -307,31 +340,19 @@
                         <title ref="pmb144998">Die Hochzeit auf dem Lande</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29839">Der Hinterbliebene</title>
+                        <title ref="pmb76513">Die kleine Veronika</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33023">Dom Karlos, Infant von Spanien</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb34361">Begräbnis</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76513">Die kleine Veronika</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb76518">Heldentod</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb76689">Judith. Eine Tragödie in fünf Aufzügen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb93681">Flucht</title>
+                        <title ref="pmb33301">Der Hinterbliebene. Kurze Novellen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144915">Einiges über Schiller’s »Don Carlos«</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33301">Der Hinterbliebene. Kurze Novellen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
@@ -342,13 +363,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb14">Burgtheater</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb14">Burgtheater</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

@@ -106,11 +106,6 @@
  "pmb10815"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
- "ref":
- "pmb11461"},
- {
- "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -119,11 +114,6 @@
  "Friedrich Nietzsche",
  "ref":
  "pmb12358"},
- {
- "persName":
- "Christine Kepert",
- "ref":
- "pmb24686"},
  {
  "persName":
  "Jean Paul",
@@ -141,9 +131,29 @@
  "pmb4337"},
  {
  "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"},
+ {
+ "persName":
+ "Christine Kepert",
+ "ref":
+ "pmb24686"},
+ {
+ "persName":
  "Anna von Hofmannsthal",
  "ref":
- "pmb18404"}],
+ "pmb18404"},
+ {
+ "persName":
+ "Fedor Mamroth",
+ "ref":
+ "pmb4986"},
+ {
+ "persName":
+ "Zacharias Konrad Lecher",
+ "ref":
+ "pmb8514"}],
  "listBibl":
   [
  {
@@ -161,14 +171,14 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Tłumacz",
  "ref":
  "pmb636"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Galizien",
@@ -212,44 +222,9 @@
  "pmb2121"},
  {
  "persName":
- "Lou Andreas-Salomé",
+ "Leopold Sonnemann",
  "ref":
- "pmb10762"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Samuel Fischer",
- "ref":
- "pmb11324"},
- {
- "persName":
- "Maximilian Harden",
- "ref":
- "pmb11581"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Friedrich Nietzsche",
- "ref":
- "pmb12358"},
- {
- "persName":
- "Henri Albert",
- "ref":
- "pmb2801"},
- {
- "persName":
- "Albert Langen",
- "ref":
- "pmb3379"},
+ "pmb87771"},
  {
  "persName":
  "Jean Thorel",
@@ -257,19 +232,54 @@
  "pmb3966"},
  {
  "persName":
+ "Albert Langen",
+ "ref":
+ "pmb3379"},
+ {
+ "persName":
+ "Maximilian Harden",
+ "ref":
+ "pmb11581"},
+ {
+ "persName":
+ "Samuel Fischer",
+ "ref":
+ "pmb11324"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Henri Albert",
+ "ref":
+ "pmb2801"},
+ {
+ "persName":
+ "Lou Andreas-Salomé",
+ "ref":
+ "pmb10762"},
+ {
+ "persName":
  "Pierre Lalo",
  "ref":
  "pmb8429"},
  {
  "persName":
+ "Friedrich Nietzsche",
+ "ref":
+ "pmb12358"},
+ {
+ "persName":
  "Pierre Louÿs",
  "ref":
  "pmb8719"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
  {
  "persName":
  "Alfred Kerr",
@@ -284,10 +294,40 @@
  "persName":
  "Theodor Zasche",
  "ref":
- "pmb4785"}],
+ "pmb4785"},
+ {
+ "persName":
+ "Gaspard Vallette",
+ "ref":
+ "pmb40665"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
+ "title":
+ "Mourir. Roman",
+ "ref":
+ "pmb40662"}
+ ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
@@ -297,11 +337,6 @@
  "Neue Deutsche Rundschau",
  "ref":
  "pmb36152"}
- ,  {
- "title":
- "Mourir. Roman",
- "ref":
- "pmb40662"}
  ,  {
  "title":
  "Aphrodite. Mœurs antiques",
@@ -314,21 +349,6 @@
  "pmb93791"}
  ,  {
  "title":
- "Wie ich es sehe",
- "ref":
- "pmb30965"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
- ,  {
- "title":
  "Arthur Schnitzler",
  "ref":
  "pmb93777"}
@@ -337,6 +357,21 @@
  "Ein neuer Dichter",
  "ref":
  "pmb93781"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
+ ,  {
+ "title":
+ "Wie ich es sehe",
+ "ref":
+ "pmb30965"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ,  {
  "title":
  "L’Aube",
@@ -349,16 +384,6 @@
  "pmb93793"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
- "Die überspannte Person",
- "ref":
- "pmb30391"}
- ,  {
- "title":
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
@@ -369,32 +394,37 @@
  "pmb50245"}
  ,  {
  "title":
- "Friedrich Nietzsche in seinen Werken",
+ "Die überspannte Person",
  "ref":
- "pmb78577"}
+ "pmb30391"}
  ,  {
  "title":
  "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
  "ref":
  "pmb92876"}
+ ,  {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ "pmb29899"}
+ ,  {
+ "title":
+ "Friedrich Nietzsche in seinen Werken",
+ "ref":
+ "pmb78577"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Köln",
- "ref":
- "pmb145"}
- ,  {
  "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Florenz",
+ "Wien",
  "ref":
- "pmb263"}
+ "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -402,9 +432,9 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Schweiz",
+ "Hamburg",
  "ref":
- "pmb43435"}
+ "pmb506"}
  ,  {
  "placeName":
  "Dänemark",
@@ -417,29 +447,34 @@
  "pmb44335"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
- ,  {
- "placeName":
  "Norwegen",
  "ref":
  "pmb64465"}
  ,  {
  "placeName":
- "Café Griensteidl",
+ "Schweiz",
  "ref":
- "pmb34"}
+ "pmb43435"}
+ ,  {
+ "placeName":
+ "Florenz",
+ "ref":
+ "pmb263"}
+ ,  {
+ "placeName":
+ "Köln",
+ "ref":
+ "pmb145"}
  ,  {
  "placeName":
  "Sankt Petersburg",
  "ref":
  "pmb433"}
+ ,  {
+ "placeName":
+ "Café Griensteidl",
+ "ref":
+ "pmb34"}
  ],
  "listOrg":
   [
@@ -465,14 +500,14 @@
  "pmb29212"}
  ,  {
  "orgName":
- "Albert Langen",
- "ref":
- "pmb29654"}
- ,  {
- "orgName":
  "Simplicissimus",
  "ref":
  "pmb29714"}
+ ,  {
+ "orgName":
+ "Albert Langen",
+ "ref":
+ "pmb29654"}
  ]
 }
 }, {

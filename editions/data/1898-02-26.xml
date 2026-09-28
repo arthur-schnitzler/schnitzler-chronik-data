@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,6 +99,9 @@
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12654">Friedrich von Schiller</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -107,7 +110,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1106">Residenzhotel</placeName>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
@@ -116,10 +125,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb1106">Residenzhotel</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb819">Café Pucher</placeName>
@@ -153,6 +159,12 @@
                         <listPlace>
                            <place corresp="#pmb14">
                               <placeName>Burgtheater</placeName>
+                           </place>
+                           <place corresp="#pmb1106">
+                              <placeName>Residenzhotel</placeName>
+                           </place>
+                           <place corresp="#pmb819">
+                              <placeName>Café Pucher</placeName>
                            </place>
                         </listPlace>
                      </place>

@@ -58,7 +58,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L03492.html",
  "head":
- "Felix Salten an Arthur Schnitzler, 8. 2. 1908",
+ "Felix Salten an Arthur Schnitzler, [7. oder 8]. 2. 1908",
  "desc":
 {"listPerson":
   [
@@ -94,31 +94,21 @@
  "pmb12698"},
  {
  "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
- "pmb2173"}],
+ "pmb2173"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"}],
  "listPlace":
   [
  {
  "placeName":
- "Heiligenstadt",
+ "1/1 Post- und Telegraphenamt 1",
  "ref":
- "pmb159"}
- ,  {
- "placeName":
- "Semmering",
- "ref":
- "pmb189"}
- ,  {
- "placeName":
- "Südbahnhotel [Semmering]",
- "ref":
- "pmb413"}
+ "pmb365214"}
  ,  {
  "placeName":
  "Wien",
@@ -126,9 +116,19 @@
  "pmb50"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "Südbahnhotel [Semmering]",
  "ref":
- "pmb51"}
+ "pmb413"}
+ ,  {
+ "placeName":
+ "Semmering",
+ "ref":
+ "pmb189"}
+ ,  {
+ "placeName":
+ "Heiligenstadt",
+ "ref":
+ "pmb159"}
  ,  {
  "placeName":
  "Biberstraße",
@@ -144,6 +144,11 @@
  "Ordination Julius Schnitzler",
  "ref":
  "pmb169307"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
  ]
 }
 }, {

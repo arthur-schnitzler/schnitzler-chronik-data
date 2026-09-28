@@ -51,6 +51,71 @@
  "color":
  "#A63437",
  "filename":
+ "L00419",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L00419.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, 6. 2. 1895",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "Wollzeile 15 (»Berthahof«)",
+ "ref":
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ "pmb14"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L02728",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -73,24 +138,14 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
  "Leopold Sonnemann",
  "ref":
  "pmb87771"},
  {
  "persName":
- "Max Eugen Burckhard",
+ "Hermann Bahr",
  "ref":
- "pmb11036"},
- {
- "persName":
- "Alfred Gold",
- "ref":
- "pmb11469"},
+ "pmb10815"},
  {
  "persName":
  "Adele Sandrock",
@@ -103,9 +158,29 @@
  "pmb2167"},
  {
  "persName":
+ "Max Eugen Burckhard",
+ "ref":
+ "pmb11036"},
+ {
+ "persName":
+ "Alfred Gold",
+ "ref":
+ "pmb11469"},
+ {
+ "persName":
  "Josef Rosengart",
  "ref":
- "pmb23593"}],
+ "pmb23593"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
@@ -120,14 +195,14 @@
  "pmb36340"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "Arthur Schnitzler: Sterben",
@@ -143,9 +218,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Bad Tölz",
+ "Wien",
  "ref":
- "pmb424"}
+ "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -153,9 +228,9 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Wien",
+ "Bad Tölz",
  "ref":
- "pmb50"}
+ "pmb424"}
  ,  {
  "placeName":
  "Burgtheater",

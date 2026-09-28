@@ -71,14 +71,14 @@
   [
  {
  "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ]
 }
 }, {
@@ -109,9 +109,34 @@
  "pmb2121"},
  {
  "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Henri Albert",
+ "ref":
+ "pmb2801"},
+ {
+ "persName":
+ "Henri Léon Lavedan",
+ "ref":
+ "pmb2488"},
+ {
+ "persName":
  "Lou Andreas-Salomé",
  "ref":
  "pmb10762"},
+ {
+ "persName":
+ "Friedrich Nietzsche",
+ "ref":
+ "pmb12358"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
  {
  "persName":
  "Hermann Bahr",
@@ -124,29 +149,14 @@
  "pmb10863"},
  {
  "persName":
+ "Hjalmar Christensen",
+ "ref":
+ "pmb87962"},
+ {
+ "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
- "Friedrich Nietzsche",
- "ref":
- "pmb12358"},
- {
- "persName":
- "Henri Léon Lavedan",
- "ref":
- "pmb2488"},
- {
- "persName":
- "Henri Albert",
- "ref":
- "pmb2801"},
  {
  "persName":
  "Bernard Lazare",
@@ -154,19 +164,14 @@
  "pmb65496"},
  {
  "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Hjalmar Christensen",
- "ref":
- "pmb87962"},
- {
- "persName":
  "Léon Chailley",
  "ref":
  "pmb87969"},
+ {
+ "persName":
+ "Jean Casimir-Perier",
+ "ref":
+ "pmb88076"},
  {
  "persName":
  "Leonie Meyerhof",
@@ -174,19 +179,14 @@
  "pmb12244"},
  {
  "persName":
- "Ottokar Stauf von der March",
- "ref":
- "pmb12823"},
- {
- "persName":
  "Fedor Mamroth",
  "ref":
  "pmb4986"},
  {
  "persName":
- "Jean Casimir-Perier",
+ "Ottokar Stauf von der March",
  "ref":
- "pmb88076"},
+ "pmb12823"},
  {
  "persName":
  "Clementine Goldmann",
@@ -196,10 +196,55 @@
  "persName":
  "Josef Rosengart",
  "ref":
- "pmb23593"}],
+ "pmb23593"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"},
+ {
+ "persName":
+ "Michael Georg Conrad",
+ "ref":
+ "pmb11098"},
+ {
+ "persName":
+ "Heinrich Osten",
+ "ref":
+ "pmb2509"},
+ {
+ "persName":
+ "Karl Kraus",
+ "ref":
+ "pmb11988"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Johann Schnitzler",
+ "ref":
+ "pmb12695"},
+ {
+ "persName":
+ "Béla Weiss",
+ "ref":
+ "pmb26860"}],
  "listBibl":
   [
  {
+ "title":
+ "Mercure de France",
+ "ref":
+ "pmb36349"}
+ ,  {
  "title":
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
@@ -214,11 +259,6 @@
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
- ,  {
- "title":
- "Mercure de France",
- "ref":
- "pmb36349"}
  ,  {
  "title":
  "L’antisémitisme. Son histoire et ses causes",
@@ -236,44 +276,24 @@
  "pmb30145"}
  ,  {
  "title":
- "Halb Zwei",
- "ref":
- "pmb30389"}
- ,  {
- "title":
  "Die überspannte Person",
  "ref":
  "pmb30391"}
  ,  {
  "title":
- "Blumen",
+ "Halb Zwei",
  "ref":
- "pmb30453"}
- ,  {
- "title":
- "Die Gesellschaft. Monatsschrift für Litteratur, Kunst und Sozialpolitik",
- "ref":
- "pmb35919"}
- ,  {
- "title":
- "Neue Deutsche Rundschau",
- "ref":
- "pmb36152"}
- ,  {
- "title":
- "Der Dekadent",
- "ref":
- "pmb87965"}
- ,  {
- "title":
- "La Revue blanche",
- "ref":
- "pmb88057"}
+ "pmb30389"}
  ,  {
  "title":
  "Les Lettres allemandes. Drames Nouveaux",
  "ref":
  "pmb88064"}
+ ,  {
+ "title":
+ "La Revue blanche",
+ "ref":
+ "pmb88057"}
  ,  {
  "title":
  "Lebensrückblick. Grundriß einiger Lebenserinnerungen. Aus dem Nachlass herausgegeben",
@@ -286,14 +306,44 @@
  "pmb88709"}
  ,  {
  "title":
- "Décadence. Randglossen",
+ "Blumen",
  "ref":
- "pmb93770"}
+ "pmb30453"}
+ ,  {
+ "title":
+ "Der Dekadent",
+ "ref":
+ "pmb87965"}
  ,  {
  "title":
  "Décadence",
  "ref":
  "pmb93773"}
+ ,  {
+ "title":
+ "Neue Deutsche Rundschau",
+ "ref":
+ "pmb36152"}
+ ,  {
+ "title":
+ "Décadence. Randglossen",
+ "ref":
+ "pmb93770"}
+ ,  {
+ "title":
+ "Die Gesellschaft. Monatsschrift für Litteratur, Kunst und Sozialpolitik",
+ "ref":
+ "pmb35919"}
+ ,  {
+ "title":
+ "Friedrich Nietzsche in seinen Werken",
+ "ref":
+ "pmb78577"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
  ,  {
  "title":
  "Novellen",
@@ -304,20 +354,25 @@
  "Internationale klinische Rundschau",
  "ref":
  "pmb36063"}
- ,  {
- "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
- ,  {
- "title":
- "Friedrich Nietzsche in seinen Werken",
- "ref":
- "pmb78577"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
  "placeName":
  "Frankfurt am Main",
  "ref":
@@ -327,21 +382,6 @@
  "Frankreich",
  "ref":
  "pmb166"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Rue Saint-Joseph",

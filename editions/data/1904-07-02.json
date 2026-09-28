@@ -86,14 +86,14 @@
  "pmb2121"},
  {
  "persName":
- "George Willard Bonte",
- "ref":
- "pmb148144"},
- {
- "persName":
  "Louise Quarles Bonte",
  "ref":
  "pmb148147"},
+ {
+ "persName":
+ "George Willard Bonte",
+ "ref":
+ "pmb148144"},
  {
  "persName":
  "Ernest Nister",
@@ -111,6 +111,11 @@
   [
  {
  "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
+ ,  {
+ "placeName":
  "Edmund-Weiß-Gasse 7",
  "ref":
  "pmb168940"}
@@ -121,19 +126,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
- ,  {
- "placeName":
- "Ober-Klingen",
- "ref":
- "pmb148156"}
- ,  {
- "placeName":
  "London",
  "ref":
  "pmb224"}
+ ,  {
+ "placeName":
+ "New York City",
+ "ref":
+ "pmb44053"}
  ,  {
  "placeName":
  "Bayern",
@@ -141,9 +141,9 @@
  "pmb314"}
  ,  {
  "placeName":
- "New York City",
+ "Ober-Klingen",
  "ref":
- "pmb44053"}
+ "pmb148156"}
  ]
 }
 }, {
@@ -174,14 +174,14 @@
  "pmb2121"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Isidor Singer",
  "ref":
  "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
  {
  "persName":
  "Karl Gustav Vollmoeller",
@@ -196,28 +196,18 @@
   [
  {
  "title":
- "Die Zeit",
- "ref":
- "pmb35935"}
- ,  {
- "title":
  "Giulia. Drama in einem Akt",
  "ref":
  "pmb77117"}
+ ,  {
+ "title":
+ "Die Zeit",
+ "ref":
+ "pmb35935"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Wipplingerstraße",
- "ref":
- "pmb120"}
- ,  {
- "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
  "placeName":
  "Wien",
  "ref":
@@ -227,6 +217,16 @@
  "I., Innere Stadt",
  "ref":
  "pmb51"}
+ ,  {
+ "placeName":
+ "Wipplingerstraße",
+ "ref":
+ "pmb120"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
  ],
  "listOrg":
   [

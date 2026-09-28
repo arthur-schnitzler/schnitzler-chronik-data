@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -113,8 +113,8 @@
                      </person>
                      <person>
                         <persName ref="pmb36675">
-      Schnitzler
-  </persName>
+                  Schnitzler
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb36677">A. Schnitzler</persName>
@@ -128,13 +128,13 @@
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40700">Göteborg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40705">Grand Hotel Stockholm</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb958">Skodsborg</placeName>
@@ -159,13 +159,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1119">Stockholm</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb1119">Stockholm</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40705">Grand Hotel Stockholm</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -183,6 +186,12 @@
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40705">Grand Hotel Stockholm</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb1119">Stockholm</placeName>
                      </place>
@@ -202,6 +211,9 @@
                      </place>
                      <place corresp="#pmb186914">
                         <placeName>Operakällaren</placeName>
+                     </place>
+                     <place corresp="#pmb265496">
+                        <placeName>Stockholms centralstation</placeName>
                      </place>
                   </listPlace>
                </desc>

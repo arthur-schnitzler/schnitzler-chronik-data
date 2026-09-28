@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,7 +79,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-05-02.html</idno>
             </event>
             <event when-iso="1902-05-02">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 2. [5.?] 1902</head>
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [1. oder 2.] [5.?] 1902</head>
                <desc>
                   <listPerson>
                      <person>
@@ -89,10 +89,10 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10986">Otto Brahm</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -102,16 +102,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb118">Carl-Theater</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40101">Liesingerstraße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb118">Carl-Theater</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -133,16 +139,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb17461">Ernest von Gréger-Jurco</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb4794">Karl Strecker</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4794">Karl Strecker</persName>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb12749">Karl Schönherr</persName>
@@ -150,33 +156,33 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb41550">Tägliche Rundschau</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb88182">Ein litterarisch-dramatisches Hochstapler-Stücklein</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb58031">Das angebliche Telegramm Arthur Schnitzlers</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb75">Hinterbrühl</placeName>

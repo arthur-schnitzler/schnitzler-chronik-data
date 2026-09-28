@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,7 +116,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1911-11-06.html</idno>
             </event>
             <event when-iso="1911-11-06">
-               <head>Stefan Zweig an Arthur Schnitzler, 6. [11.?] 1911</head>
+               <head>Stefan Zweig an Arthur Schnitzler, [5. oder 6. 11.?] 1911</head>
                <desc>
                   <listPerson>
                      <person>
@@ -157,13 +157,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43520">Meran</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb506">Hamburg</placeName>
@@ -172,10 +169,28 @@
                         <placeName ref="pmb533">Währinger Cottage</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb57356">Justizpalast Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
+                        <placeName ref="pmb43520">Meran</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb866">Dresden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb667">Garmisch-Partenkirchen</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -32,7 +32,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L01215.html",
  "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 1. 4. 1902",
+ "Arthur Schnitzler an Richard Beer-Hofmann, [31. 3. oder 1. 4.]. 1902",
  "desc":
 {"listPerson":
   [
@@ -55,14 +55,14 @@
   [
  {
  "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
  "Rodaun",
  "ref":
  "pmb173"}
- ,  {
- "placeName":
- "Liesingerstraße",
- "ref":
- "pmb40101"}
  ,  {
  "placeName":
  "Wien",
@@ -73,6 +73,11 @@
  "I., Innere Stadt",
  "ref":
  "pmb51"}
+ ,  {
+ "placeName":
+ "Liesingerstraße",
+ "ref":
+ "pmb40101"}
  ]
 }
 }, {
@@ -143,9 +148,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb10863"},
+ "pmb11740"},
+ {
+ "persName":
+ "Ella Naschauer",
+ "ref":
+ "pmb21801"},
  {
  "persName":
  "Maximilian Harden",
@@ -153,14 +163,9 @@
  "pmb11581"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Carl Seltmann",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Alice Ziegler",
- "ref":
- "pmb118324"},
+ "pmb145407"},
  {
  "persName":
  "Hugo Salus",
@@ -168,24 +173,24 @@
  "pmb12611"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Heinrich Teweles",
  "ref":
  "pmb12932"},
  {
  "persName":
- "Carl Seltmann",
+ "Alice Ziegler",
  "ref":
- "pmb145407"},
+ "pmb118324"},
  {
  "persName":
  "Olga Schnitzler",
  "ref":
  "pmb2173"},
- {
- "persName":
- "Ella Naschauer",
- "ref":
- "pmb21801"},
  {
  "persName":
  "Charlotte Bondy",
@@ -195,32 +200,52 @@
  "persName":
  "Arnost Ziegler",
  "ref":
- "pmb27472"}],
+ "pmb27472"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"}],
  "listBibl":
   [
  {
  "title":
- "Die Zeit",
- "ref":
- "pmb35935"}
- ,  {
- "title":
  "Neue Freie Presse",
  "ref":
  "pmb36374"}
+ ,  {
+ "title":
+ "Die Zeit",
+ "ref":
+ "pmb35935"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Böhmerwald",
+ "Prag",
  "ref":
- "pmb145422"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
+ "pmb652"}
  ,  {
  "placeName":
  "Wien",
@@ -228,14 +253,19 @@
  "pmb50"}
  ,  {
  "placeName":
- "Prag",
- "ref":
- "pmb652"}
- ,  {
- "placeName":
  "Hotel Blauer Stern",
  "ref":
  "pmb93"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Böhmerwald",
+ "ref":
+ "pmb145422"}
  ,  {
  "placeName":
  "Brühl",

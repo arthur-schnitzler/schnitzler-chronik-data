@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,6 +93,51 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-04-27.html</idno>
             </event>
             <event when-iso="1894-04-27">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [27. oder 28]. 4. 1894</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb177">Gasthaus Stelzer</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb41229">Westbahnstrecke</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00316.html</idno>
+            </event>
+            <event when-iso="1894-04-27">
                <head>Felix Salten an Arthur Schnitzler, [27. 4. 1894?]</head>
                <desc>
                   <listPerson>
@@ -101,6 +146,9 @@
                      </person>
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb20320">Ruggero Leoncavallo</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -116,18 +164,18 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50178">Café Reichsrath (Inh. Karl Auböck)</placeName>
+                        <placeName ref="pmb968">Mödling</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb968">Mödling</placeName>
+                        <placeName ref="pmb50178">Café Reichsrath (Inh. Karl Auböck)</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb36689">K.K. Hof-Oper</orgName>
+                        <orgName ref="pmb45127">Internationale Ausstellung für Musik und Theaterwesen</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb45127">Internationale Ausstellung für Musik und Theaterwesen</orgName>
+                        <orgName ref="pmb36689">K.K. Hof-Oper</orgName>
                      </org>
                   </listOrg>
                </desc>

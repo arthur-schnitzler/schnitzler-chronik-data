@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -68,7 +68,7 @@
       <body>
          <listEvent>
             <event when-iso="1900-07-18">
-               <head>Hugo von Hofmannsthal, Richard Beer-Hofmann an Arthur Schnitzler, 18. 7. 1900</head>
+               <head>Hugo von Hofmannsthal, Richard Beer-Hofmann an Arthur Schnitzler, [17. oder 18]. 7. 1900</head>
                <desc>
                   <listPerson>
                      <person>
@@ -83,19 +83,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1003">Niederösterreich</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43997">Inneres Linzertor</placeName>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44982">Kurhaus Rudolfsbad</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
+                        <placeName ref="pmb1003">Niederösterreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43997">Inneres Linzertor</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -112,10 +112,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11701">Georg Hirschfeld</persName>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11910">Alfred Kerr</persName>
+                        <persName ref="pmb11701">Georg Hirschfeld</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -128,19 +128,19 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39975">Lago di Garda</placeName>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb867">Innsbruck</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb465">Riva del Garda</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb867">Innsbruck</placeName>
+                        <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb1108">China</placeName>
@@ -148,10 +148,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29380">Berliner Theater</orgName>
+                        <orgName ref="pmb55522">Schauspielhaus Berlin</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb55522">Schauspielhaus Berlin</orgName>
+                        <orgName ref="pmb29380">Berliner Theater</orgName>
                      </org>
                   </listOrg>
                </desc>

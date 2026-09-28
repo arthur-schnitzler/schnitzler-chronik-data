@@ -86,14 +86,14 @@
  "pmb2121"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Isidor Singer",
  "ref":
- "pmb12790"}],
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
@@ -111,14 +111,14 @@
   [
  {
  "placeName":
- "Günthergasse",
- "ref":
- "pmb296"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Günthergasse",
+ "ref":
+ "pmb296"}
  ,  {
  "placeName":
  "Berlin",
@@ -129,24 +129,24 @@
   [
  {
  "orgName":
- "Cosmopolis",
- "ref":
- "pmb29206"}
- ,  {
- "orgName":
  "Die Zeit. Wiener Wochenschrift [Redaktion]",
  "ref":
  "pmb29209"}
  ,  {
  "orgName":
- "Neue Freie Presse",
+ "Cosmopolis",
  "ref":
- "pmb29351"}
+ "pmb29206"}
  ,  {
  "orgName":
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
  ]
 }
 }, {
@@ -174,7 +174,17 @@
  "persName":
  "Hermann Bahr",
  "ref":
- "pmb10815"}],
+ "pmb10815"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"}],
  "listBibl":
   [
  {
@@ -184,24 +194,24 @@
  "pmb29843"}
  ,  {
  "title":
- "Die Gefährtin. Schauspiel in einem Akt",
- "ref":
- "pmb29845"}
- ,  {
- "title":
  "Neue Deutsche Rundschau",
  "ref":
  "pmb36152"}
  ,  {
  "title":
- "Der Star. Ein Wiener Stück in vier Akten",
+ "Die Gefährtin. Schauspiel in einem Akt",
  "ref":
- "pmb30127"}
+ "pmb29845"}
  ,  {
  "title":
  "Paracelsus. Versspiel in einem Akt",
  "ref":
  "pmb30403"}
+ ,  {
+ "title":
+ "Der Star. Ein Wiener Stück in vier Akten",
+ "ref":
+ "pmb30127"}
  ,  {
  "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
@@ -217,6 +227,11 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -225,34 +240,29 @@
  "Volkstheater",
  "ref":
  "pmb20"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "Cosmopolis",
- "ref":
- "pmb29206"}
- ,  {
  "orgName":
  "Freie Bühne",
  "ref":
  "pmb29561"}
  ,  {
  "orgName":
- "Berliner Tageblatt",
+ "Cosmopolis",
  "ref":
- "pmb29329"}
+ "pmb29206"}
  ,  {
  "orgName":
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "Berliner Tageblatt",
+ "ref":
+ "pmb29329"}
  ]
 }
 }, {

@@ -81,9 +81,9 @@
   [
  {
  "placeName":
- "Ober Sankt Veit",
+ "Riva del Garda",
  "ref":
- "pmb165"}
+ "pmb465"}
  ,  {
  "placeName":
  "Veitlissengasse",
@@ -91,19 +91,14 @@
  "pmb220"}
  ,  {
  "placeName":
+ "Ober Sankt Veit",
+ "ref":
+ "pmb165"}
+ ,  {
+ "placeName":
  "Lago di Garda",
  "ref":
  "pmb39975"}
- ,  {
- "placeName":
- "Riva del Garda",
- "ref":
- "pmb465"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Monte Baldo",
@@ -146,24 +141,19 @@
   [
  {
  "placeName":
- "Hasenauerstraße 59",
- "ref":
- "pmb235251"}
- ,  {
- "placeName":
- "Lago di Garda",
- "ref":
- "pmb39975"}
- ,  {
- "placeName":
  "Riva del Garda",
  "ref":
  "pmb465"}
  ,  {
  "placeName":
- "Wien",
+ "Hasenauerstraße 59",
  "ref":
- "pmb50"}
+ "pmb235251"}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
  ,  {
  "placeName":
  "Strada del Ponale",
@@ -171,9 +161,74 @@
  "pmb51882"}
  ,  {
  "placeName":
- "XVIII., Währing",
+ "Lago di Garda",
  "ref":
- "pmb68"}
+ "pmb39975"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04376",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04376.html",
+ "head":
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 29. 4. 1908",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Hotel du Lac",
+ "ref":
+ "pmb40812"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Riva del Garda",
+ "ref":
+ "pmb465"}
+ ,  {
+ "placeName":
+ "Grand Hotel Sole d’Oro",
+ "ref":
+ "pmb364318"}
+ ,  {
+ "placeName":
+ "Porto Vecchio [Riva del Garda]",
+ "ref":
+ "pmb364320"}
  ]
 }
 }, {

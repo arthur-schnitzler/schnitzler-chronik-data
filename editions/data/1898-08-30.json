@@ -66,16 +66,6 @@
   [
  {
  "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Hôtel du Parc",
- "ref":
- "pmb513"}
- ,  {
- "placeName":
  "Lugano",
  "ref":
  "pmb885"}
@@ -84,6 +74,16 @@
  "Bologna",
  "ref":
  "pmb896"}
+ ,  {
+ "placeName":
+ "Hôtel du Parc",
+ "ref":
+ "pmb513"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
  ]
 }
 }, {
@@ -138,7 +138,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-08-30",
  "head":
- "Bologna"
+ "Bologna",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Bahnhof Bologna Centrale",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "URL",

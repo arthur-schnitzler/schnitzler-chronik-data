@@ -76,9 +76,24 @@
   [
  {
  "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Pörtschach am Wörthersee",
+ "ref":
+ "pmb44278"}
+ ,  {
+ "placeName":
  "Villa Arnstein",
  "ref":
  "pmb1110"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
  ,  {
  "placeName":
  "Bozen",
@@ -91,24 +106,9 @@
  "pmb428"}
  ,  {
  "placeName":
- "Wörthersee",
+ "Trient",
  "ref":
- "pmb430"}
- ,  {
- "placeName":
- "Pörtschach am Wörthersee",
- "ref":
- "pmb44278"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Wildbad Waldbrunn",
- "ref":
- "pmb723"}
+ "pmb954"}
  ,  {
  "placeName":
  "Pustertal",
@@ -116,14 +116,14 @@
  "pmb724"}
  ,  {
  "placeName":
- "Vahrn",
+ "Wildbad Waldbrunn",
  "ref":
- "pmb946"}
+ "pmb723"}
  ,  {
  "placeName":
- "Trient",
+ "Wien",
  "ref":
- "pmb954"}
+ "pmb50"}
  ]
 }
 }, {
@@ -154,11 +154,6 @@
  "pmb11740"},
  {
  "persName":
- "Leopold von Andrian-Werburg",
- "ref":
- "pmb10765"},
- {
- "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
@@ -169,19 +164,24 @@
  "pmb11485"},
  {
  "persName":
+ "Leopold von Andrian-Werburg",
+ "ref":
+ "pmb10765"},
+ {
+ "persName":
  "Robert Michel",
  "ref":
  "pmb12254"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Gertrude von Hofmannsthal",
  "ref":
- "pmb2292"}],
+ "pmb2292"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listBibl":
   [
  {
@@ -191,14 +191,14 @@
  "pmb29869"}
  ,  {
  "title":
- "Die Frau mit dem Dolche",
- "ref":
- "pmb29865"}
- ,  {
- "title":
  "Lebendige Stunden",
  "ref":
  "pmb29957"}
+ ,  {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ "pmb29865"}
  ,  {
  "title":
  "Der einsame Weg. Schauspiel in fünf Akten",
@@ -209,9 +209,19 @@
   [
  {
  "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
  "Bozen",
  "ref":
  "pmb40260"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
  ,  {
  "placeName":
  "Welsberg-Taisten",
@@ -219,24 +229,14 @@
  "pmb428"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Genfer See",
- "ref":
- "pmb512"}
- ,  {
- "placeName":
- "Schloss Weiherburg",
- "ref":
- "pmb657"}
- ,  {
- "placeName":
  "Wildbad Waldbrunn",
  "ref":
  "pmb723"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Innsbruck",
@@ -244,14 +244,14 @@
  "pmb867"}
  ,  {
  "placeName":
- "Vahrn",
+ "Schloss Weiherburg",
  "ref":
- "pmb946"}
+ "pmb657"}
  ,  {
  "placeName":
- "Trient",
+ "Genfer See",
  "ref":
- "pmb954"}
+ "pmb512"}
  ]
 }
 }, {
@@ -282,31 +282,46 @@
  "pmb2167"},
  {
  "persName":
- "Anton Bettelheim",
- "ref":
- "pmb10912"},
- {
- "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
  {
  "persName":
+ "Anton Bettelheim",
+ "ref":
+ "pmb10912"},
+ {
+ "persName":
  "Eduard Devrient",
  "ref":
- "pmb5150"}],
+ "pmb5150"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Alfred Walter von Heymel",
+ "ref":
+ "pmb7855"},
+ {
+ "persName":
+ "Rudolf Alexander Schröder",
+ "ref":
+ "pmb12722"}],
  "listBibl":
   [
  {
  "title":
- "Literatur",
- "ref":
- "pmb29869"}
- ,  {
- "title":
  "Allgemeine Zeitung",
  "ref":
  "pmb39562"}
+ ,  {
+ "title":
+ "Literatur",
+ "ref":
+ "pmb29869"}
  ,  {
  "title":
  "Zum Säkulartag Eduard Devrients",
@@ -314,9 +329,9 @@
  "pmb143223"}
  ,  {
  "title":
- "Die Frau mit dem Dolche",
+ "Der einsame Weg. Schauspiel in fünf Akten",
  "ref":
- "pmb29865"}
+ "pmb29985"}
  ,  {
  "title":
  "Lebendige Stunden",
@@ -324,27 +339,32 @@
  "pmb29957"}
  ,  {
  "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
+ "Die Frau mit dem Dolche",
  "ref":
- "pmb29985"}
- ,  {
- "title":
- "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
- "ref":
- "pmb40598"}
+ "pmb29865"}
  ,  {
  "title":
  "Die Gedenktafel der Prinzessin Anna",
  "ref":
  "pmb76511"}
+ ,  {
+ "title":
+ "Die Insel. Monatsschrift mit Buchschmuck und Illustrationen",
+ "ref":
+ "pmb40598"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Lago di Garda",
+ "Vahrn",
  "ref":
- "pmb39975"}
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Bozen",
@@ -352,9 +372,29 @@
  "pmb40260"}
  ,  {
  "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
+ ,  {
+ "placeName":
+ "Lago di Garda",
+ "ref":
+ "pmb39975"}
+ ,  {
+ "placeName":
+ "Pustertal",
+ "ref":
+ "pmb724"}
+ ,  {
+ "placeName":
  "Welsberg-Taisten",
  "ref":
  "pmb428"}
+ ,  {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ "pmb723"}
  ,  {
  "placeName":
  "Verona",
@@ -367,39 +407,14 @@
  "pmb462"}
  ,  {
  "placeName":
- "Wien",
+ "Pörtschach am Wörthersee",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Wildbad Waldbrunn",
- "ref":
- "pmb723"}
- ,  {
- "placeName":
- "Pustertal",
- "ref":
- "pmb724"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Trient",
- "ref":
- "pmb954"}
+ "pmb44278"}
  ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Pörtschach am Wörthersee",
- "ref":
- "pmb44278"}
  ],
  "listOrg":
   [
@@ -443,9 +458,9 @@
  "pmb12740"},
  {
  "persName":
- "Paul Goldmann",
+ "Adele Schreiber",
  "ref":
- "pmb11485"},
+ "pmb88525"},
  {
  "persName":
  "Geza Silberer",
@@ -453,9 +468,9 @@
  "pmb24919"},
  {
  "persName":
- "Adele Schreiber",
+ "Paul Goldmann",
  "ref":
- "pmb88525"}],
+ "pmb11485"}],
  "listBibl":
   [
  {
@@ -468,9 +483,14 @@
   [
  {
  "placeName":
- "Bozen",
+ "Vahrn",
  "ref":
- "pmb40260"}
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Welsberg-Taisten",
@@ -478,9 +498,14 @@
  "pmb428"}
  ,  {
  "placeName":
- "Wien",
+ "Bozen",
  "ref":
- "pmb50"}
+ "pmb40260"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
  ,  {
  "placeName":
  "Wildbad Waldbrunn",
@@ -491,16 +516,6 @@
  "Pustertal",
  "ref":
  "pmb724"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Trient",
- "ref":
- "pmb954"}
  ,  {
  "placeName":
  "Toblach",

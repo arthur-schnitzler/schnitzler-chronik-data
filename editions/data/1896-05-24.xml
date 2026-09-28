@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,18 +109,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11867">Heinrich Kanner</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
@@ -130,14 +118,35 @@
                         <persName ref="pmb93611">Christian Schefer</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb93797">
-      Antinoos
-  </persName>
+                  Antinoos
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
                         <persName ref="pmb93809">
-      ?? [Vetter von Heinrich Kanner]
-  </persName>
+                  ?? [Vetter von Heinrich Kanner]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -148,13 +157,13 @@
                         <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb93777">Arthur Schnitzler</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb36152">Neue Deutsche Rundschau</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39977">Poesie und Leben. Aus einem Vortrage</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb93777">Arthur Schnitzler</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36344">Frankfurter Zeitung</title>
@@ -165,10 +174,10 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

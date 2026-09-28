@@ -58,16 +58,6 @@
  "pmb10992"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Gabriele D’Annunzio",
  "ref":
  "pmb2142"},
@@ -83,6 +73,16 @@
  "pmb5428"},
  {
  "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Louise Schnitzler",
  "ref":
  "pmb12701"}],
@@ -90,24 +90,24 @@
   [
  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
  "Hauptströmungen der Literatur des neunzehnten Jahrhunderts",
  "ref":
  "pmb31977"}
  ,  {
  "title":
- "Sixtinische Madonna",
+ "Freiwild. Schauspiel in 3 Akten",
  "ref":
- "pmb33281"}
+ "pmb29899"}
  ,  {
  "title":
  "Lust",
  "ref":
  "pmb33283"}
+ ,  {
+ "title":
+ "Sixtinische Madonna",
+ "ref":
+ "pmb33281"}
  ,  {
  "title":
  "Triumph des Todes",
@@ -120,6 +120,11 @@
  "pmb33287"}
  ,  {
  "title":
+ "Nationalgefühl",
+ "ref":
+ "pmb33289"}
+ ,  {
+ "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
  "ref":
  "pmb30219"}
@@ -128,49 +133,14 @@
  "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
  "ref":
  "pmb32562"}
- ,  {
- "title":
- "Nationalgefühl",
- "ref":
- "pmb33289"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "China",
+ "Wien",
  "ref":
- "pmb1108"}
- ,  {
- "placeName":
- "Burgtheater",
- "ref":
- "pmb14"}
- ,  {
- "placeName":
- "Japan",
- "ref":
- "pmb318"}
- ,  {
- "placeName":
- "Valle d’Ampezzo",
- "ref":
- "pmb34207"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
+ "pmb50"}
  ,  {
  "placeName":
  "Sizilien",
@@ -178,19 +148,19 @@
  "pmb451"}
  ,  {
  "placeName":
- "Venedig",
+ "Rom",
  "ref":
- "pmb462"}
+ "pmb445"}
  ,  {
  "placeName":
- "Wien",
+ "Kopenhagen",
  "ref":
- "pmb50"}
+ "pmb36300"}
  ,  {
  "placeName":
- "Brenner",
+ "Burgtheater",
  "ref":
- "pmb608"}
+ "pmb14"}
  ,  {
  "placeName":
  "Dresden",
@@ -198,9 +168,39 @@
  "pmb866"}
  ,  {
  "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "China",
+ "ref":
+ "pmb1108"}
+ ,  {
+ "placeName":
+ "Japan",
+ "ref":
+ "pmb318"}
+ ,  {
+ "placeName":
  "Genua",
  "ref":
  "pmb994"}
+ ,  {
+ "placeName":
+ "Brenner",
+ "ref":
+ "pmb608"}
+ ,  {
+ "placeName":
+ "Valle d’Ampezzo",
+ "ref":
+ "pmb34207"}
+ ,  {
+ "placeName":
+ "Venedig",
+ "ref":
+ "pmb462"}
  ,  {
  "placeName":
  "Carl-Theater",

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,7 +94,7 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11201">Eleonora Duse</persName>
+                        <persName ref="pmb2142">Gabriele D’Annunzio</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -106,12 +106,43 @@
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
-                     <place>
-                        <placeName ref="pmb77">Raimund-Theater</placeName>
-                     </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01214.html</idno>
+            </event>
+            <event when-iso="1902-03-31">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [31. 3. oder 1. 4.]. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24260">Felix Schlichter</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40101">Liesingerstraße</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01215.html</idno>
             </event>
             <event when-iso="1902-03-31">
                <head corresp="#pmb50">Wien</head>
@@ -142,7 +173,7 @@
                <desc>
                   <listPlace>
                      <place corresp="#pmb145165">
-                        <placeName>Hauptstraße 56</placeName>
+                        <placeName>Hauptstraße 56 [Hinterbrühl]</placeName>
                      </place>
                   </listPlace>
                </desc>

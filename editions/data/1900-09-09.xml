@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,7 +102,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-09-09.html</idno>
             </event>
             <event when-iso="1900-09-09">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 9. 9. 1900</head>
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [8. oder 9]. 9. 1900</head>
                <desc>
                   <listPerson>
                      <person>
@@ -116,6 +116,9 @@
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb34401">Altaussee</placeName>
                      </place>

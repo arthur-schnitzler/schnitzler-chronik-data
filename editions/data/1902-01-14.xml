@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -78,16 +78,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10986">Otto Brahm</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
@@ -95,19 +92,31 @@
                      <person>
                         <persName ref="pmb24686">Christine Kepert</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
+                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb145159">Kleine Chronik. [Das Wiener Gastspiel des Berliner Deutschen Theaters.]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -115,16 +124,13 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb118">Carl-Theater</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb145165">Hauptstraße 56</placeName>
+                        <placeName ref="pmb968">Mödling</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb145170">Hotel Kursalon Mödling</placeName>
@@ -133,10 +139,13 @@
                         <placeName ref="pmb625">Zum goldenen Stern</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb145165">Hauptstraße 56</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb75">Hinterbrühl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb968">Mödling</placeName>
+                        <placeName ref="pmb118">Carl-Theater</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -174,19 +183,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb258929">Westerwede</placeName>
+                        <placeName ref="pmb364288">Westerweder Straße 12</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb258929">Westerwede</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb364288">?? [Bauernhaus von Clara und Rainer Maria Rilke in Westerwede]</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -91,6 +91,46 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1907-08-26.html</idno>
+            </event>
+            <event when-iso="1907-08-26">
+               <head>Paul Goldmann, Markus Hajek, Gisela Hajek, Margot Vallo an Arthur Schnitzler, [27. oder 28]. 8. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2284">Hajek, Markus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2461">Hajek, Gisela</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb28004">Vallo, Margot</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb167610">Hühnerspielalm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40474">Gossensaß</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147506">Hühnerspiel</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03459.html</idno>
             </event>
             <event when-iso="1907-08-26">
                <head corresp="#pmb428">Welsberg-Taisten</head>

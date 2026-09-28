@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -84,14 +84,14 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1896-06-27.html</idno>
             </event>
             <event when-iso="1896-06-27">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 27. 6. 1896</head>
+               <head>Arthur Schnitzler an , 27. 6. 1896</head>
                <desc>
                   <listPerson>
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb10860">Paula Beer-Hofmann</persName>
@@ -102,25 +102,31 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb119747">Bergen [Norwegen]</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36296">Oslo</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40290">Trondheim</placeName>
+                        <placeName ref="pmb42349">Hotel Schiff [Salzburg]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40276">Fürberg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb506">Hamburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb119747">Bergen [Norwegen]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40290">Trondheim</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36296">Oslo</placeName>
                      </place>
                   </listPlace>
                </desc>

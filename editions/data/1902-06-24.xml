@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,6 +95,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1902-06-24.html</idno>
             </event>
             <event when-iso="1902-06-24">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [24. oder 25]. 6. 1902</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb41007">Gainfarn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01224.html</idno>
+            </event>
+            <event when-iso="1902-06-24">
                <head>Paul Goldmann an Arthur Schnitzler, 24. 6. 1902</head>
                <desc>
                   <listPerson>
@@ -107,10 +141,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb145606">Neustädter Markt</placeName>
+                        <placeName ref="pmb866">Dresden</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb146873">Blockhaus</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
@@ -119,10 +153,10 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb145606">Neustädter Markt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb866">Dresden</placeName>
+                        <placeName ref="pmb146873">Blockhaus</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -152,7 +186,7 @@
                         <placeName>Hinterbrühl</placeName>
                         <listPlace>
                            <place corresp="#pmb145165">
-                              <placeName>Hauptstraße 56</placeName>
+                              <placeName>Hauptstraße 56 [Hinterbrühl]</placeName>
                            </place>
                         </listPlace>
                      </place>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -166,10 +166,10 @@
                         <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                        <persName ref="pmb12837">Albert Steinrück</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12837">Albert Steinrück</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -182,19 +182,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb39607">Tiergarten Schönbrunn</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb968">Mödling</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb8">Prater</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb968">Mödling</placeName>
+                        <placeName ref="pmb21799">Schloss Schönbrunn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39607">Tiergarten Schönbrunn</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb685">Wurstelprater</placeName>
@@ -252,12 +252,15 @@
                      <person role="hat mitwirkend">
                         <persName key="pmb26797">Weil, Theodor</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb968">Mödling</placeName>
+                        <placeName role="veranstaltet in" key="pmb364056">Sommertheater in Mödling</placeName>
                         <location>
-                           <geo>48,08605 16,28921</geo>
+                           <geo>48,083892 16,27948</geo>
                         </location>
                      </place>
                   </listPlace>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,43 +123,97 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1220">Grazer Straße [Bad Ischl]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb34401">Altaussee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1220">Grazer Straße [Bad Ischl]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34402">Fischerndorf</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40450">Restaurant Sonnenschein</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40452">Aschau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb45943">Dachstein</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb655">Hotel Kaiserkrone</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40452">Aschau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40450">Restaurant Sonnenschein</placeName>
                      </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02235.html</idno>
+            </event>
+            <event when-iso="1916-07-30">
+               <head>Felix Salten an Arthur Schnitzler, [30. oder 31]. 7. 1916</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb22728">Frieda Pollak</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12837">Albert Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14642">Marie Brüll</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Ottilie Salten</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb32380">Kinder der Freude. Drei Einakter</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb877">Unterach am Attersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34402">Fischerndorf</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34401">Altaussee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb411">Berghof</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03573.html</idno>
             </event>
             <event when-iso="1916-07-30">
                <head corresp="#pmb34401">Altaussee</head>

@@ -84,29 +84,9 @@
  "pmb10815"},
  {
  "persName":
- "Paula Beer-Hofmann",
+ "Josef Böhm",
  "ref":
- "pmb10860"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Hans von Bülow",
- "ref":
- "pmb11065"},
- {
- "persName":
- "Heinrich Mann",
- "ref":
- "pmb12170"},
- {
- "persName":
- "Eduard Pötzl",
- "ref":
- "pmb12460"},
+ "pmb47572"},
  {
  "persName":
  "Heinrich Schnitzler",
@@ -114,19 +94,24 @@
  "pmb12692"},
  {
  "persName":
- "Marie Epstein",
- "ref":
- "pmb15958"},
- {
- "persName":
- "Albert Frankfurter",
- "ref":
- "pmb16477"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
  "pmb2173"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Paula Beer-Hofmann",
+ "ref":
+ "pmb10860"},
+ {
+ "persName":
+ "Marie Epstein",
+ "ref":
+ "pmb15958"},
  {
  "persName":
  "Anna Epstein",
@@ -139,24 +124,29 @@
  "pmb3223"},
  {
  "persName":
- "Josef Böhm",
+ "Albert Frankfurter",
  "ref":
- "pmb47572"},
+ "pmb16477"},
+ {
+ "persName":
+ "Eduard Pötzl",
+ "ref":
+ "pmb12460"},
+ {
+ "persName":
+ "Hans von Bülow",
+ "ref":
+ "pmb11065"},
+ {
+ "persName":
+ "Heinrich Mann",
+ "ref":
+ "pmb12170"},
  {
  "persName":
  "Louise Schnitzler",
  "ref":
  "pmb12701"},
- {
- "persName":
- "Ella Frankfurter",
- "ref":
- "pmb16479"},
- {
- "persName":
- "Leonie Guttmann",
- "ref":
- "pmb17605"},
  {
  "persName":
  "Ottilie Salten",
@@ -166,10 +156,50 @@
  "persName":
  "Paul Salten",
  "ref":
- "pmb2922"}],
+ "pmb2922"},
+ {
+ "persName":
+ "Leonie Guttmann",
+ "ref":
+ "pmb17605"},
+ {
+ "persName":
+ "Ella Frankfurter",
+ "ref":
+ "pmb16479"},
+ {
+ "persName":
+ "Werner Sombart",
+ "ref":
+ "pmb9931"},
+ {
+ "persName":
+ "Richard Strauss",
+ "ref":
+ "pmb12870"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Georg Brandes",
+ "ref":
+ "pmb10992"},
+ {
+ "persName":
+ "Richard Muther",
+ "ref":
+ "pmb12319"}],
  "listBibl":
   [
  {
+ "title":
+ "Morgen. Wochenschrift für deutsche Kultur",
+ "ref":
+ "pmb41630"}
+ ,  {
  "title":
  "Der Ruf des Lebens. Schauspiel in drei Akten",
  "ref":
@@ -181,24 +211,9 @@
  "pmb30719"}
  ,  {
  "title":
- "Morgen. Wochenschrift für deutsche Kultur",
- "ref":
- "pmb41630"}
- ,  {
- "title":
  "B.Z. am Mittag",
  "ref":
  "pmb58435"}
- ,  {
- "title":
- "Der Weg ins Freie. Roman",
- "ref":
- "pmb29923"}
- ,  {
- "title":
- "Zwischen den Rassen",
- "ref":
- "pmb31289"}
  ,  {
  "title":
  "Der Wiener Korrespondent",
@@ -209,49 +224,29 @@
  "Das gelobte Wien",
  "ref":
  "pmb31713"}
+ ,  {
+ "title":
+ "Der Weg ins Freie. Roman",
+ "ref":
+ "pmb29923"}
+ ,  {
+ "title":
+ "Zwischen den Rassen",
+ "ref":
+ "pmb31289"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Lago di Garda",
- "ref":
- "pmb39975"}
- ,  {
- "placeName":
- "Große Dolomitenstraße",
- "ref":
- "pmb40120"}
- ,  {
- "placeName":
- "Bozen",
- "ref":
- "pmb40260"}
- ,  {
- "placeName":
- "Tirol",
- "ref":
- "pmb423"}
- ,  {
  "placeName":
  "Welsberg-Taisten",
  "ref":
  "pmb428"}
  ,  {
  "placeName":
- "Meran",
+ "Marienbad",
  "ref":
- "pmb43520"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb772"}
  ,  {
  "placeName":
  "Wildbad Waldbrunn",
@@ -264,9 +259,39 @@
  "pmb724"}
  ,  {
  "placeName":
- "Marienbad",
+ "Tirol",
  "ref":
- "pmb772"}
+ "pmb423"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Große Dolomitenstraße",
+ "ref":
+ "pmb40120"}
+ ,  {
+ "placeName":
+ "Bozen",
+ "ref":
+ "pmb40260"}
+ ,  {
+ "placeName":
+ "Meran",
+ "ref":
+ "pmb43520"}
+ ,  {
+ "placeName":
+ "Lago di Garda",
+ "ref":
+ "pmb39975"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ,  {
  "placeName":
  "Lienz",

@@ -103,10 +103,35 @@
  "persName":
  "Louise Schnitzler",
  "ref":
- "pmb12701"}],
+ "pmb12701"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
+ "title":
+ "Anatol",
+ "ref":
+ "pmb29935"}
+ ,  {
  "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
@@ -123,14 +148,14 @@
  "pmb29869"}
  ,  {
  "title":
- "Anatol",
- "ref":
- "pmb29935"}
- ,  {
- "title":
  "Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)",
  "ref":
  "pmb144087"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
  ,  {
  "title":
  "Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)",
@@ -158,6 +183,16 @@
  "pmb147672"}
  ,  {
  "title":
+ "Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler",
+ "ref":
+ "pmb31281"}
+ ,  {
+ "title":
+ "Der einsame Weg. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29985"}
+ ,  {
+ "title":
  "Berliner Theater. »Der Ruf des Lebens« von Arthur Schnitzler",
  "ref":
  "pmb147807"}
@@ -166,21 +201,6 @@
  "Der Ruf des Lebens. Schauspiel in drei Akten",
  "ref":
  "pmb29905"}
- ,  {
- "title":
- "Der einsame Weg. Schauspiel in fünf Akten",
- "ref":
- "pmb29985"}
- ,  {
- "title":
- "Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler",
- "ref":
- "pmb31281"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
  ],
  "listPlace":
   [
@@ -189,11 +209,6 @@
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Welsberg-Taisten",
- "ref":
- "pmb428"}
  ,  {
  "placeName":
  "Wien",
@@ -206,14 +221,19 @@
  "pmb57358"}
  ,  {
  "placeName":
- "Frankgasse 1",
+ "Welsberg-Taisten",
  "ref":
- "pmb168934"}
+ "pmb428"}
  ,  {
  "placeName":
  "Deutsches Theater Berlin",
  "ref":
  "pmb3"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ]
 }
 }, {

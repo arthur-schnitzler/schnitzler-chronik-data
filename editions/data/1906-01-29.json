@@ -106,6 +106,11 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Ober Sankt Veit",
  "ref":
  "pmb165"}
@@ -114,11 +119,6 @@
  "München",
  "ref":
  "pmb45258"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {
@@ -164,9 +164,9 @@
   [
  {
  "placeName":
- "Alexandrinski-Theater",
+ "Wien",
  "ref":
- "pmb10"}
+ "pmb50"}
  ,  {
  "placeName":
  "Edmund-Weiß-Gasse 7",
@@ -174,9 +174,9 @@
  "pmb168940"}
  ,  {
  "placeName":
- "Wien",
+ "Alexandrinski-Theater",
  "ref":
- "pmb50"}
+ "pmb10"}
  ],
  "listOrg":
   [
@@ -232,14 +232,14 @@
   [
  {
  "placeName":
- "Edmund-Weiß-Gasse 7",
- "ref":
- "pmb168940"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
  ]
 }
 }, {
@@ -270,14 +270,14 @@
  "pmb2121"},
  {
  "persName":
+ "Ottilie Salten",
+ "ref":
+ "pmb23918"},
+ {
+ "persName":
  "Otto Brahm",
  "ref":
  "pmb10986"},
- {
- "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
  {
  "persName":
  "Olga Schnitzler",
@@ -285,9 +285,9 @@
  "pmb2173"},
  {
  "persName":
- "Ottilie Salten",
+ "Heinrich Schnitzler",
  "ref":
- "pmb23918"},
+ "pmb12692"},
  {
  "persName":
  "Anna Katharina Rehmann",
@@ -302,14 +302,19 @@
   [
  {
  "placeName":
- "Potsdamer Platz",
- "ref":
- "pmb141471"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "18/1 Post- und Telegraphenamt 110",
+ "ref":
+ "pmb365223"}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
  ,  {
  "placeName":
  "Edmund-Weiß-Gasse 7",
@@ -322,9 +327,14 @@
  "pmb40853"}
  ,  {
  "placeName":
- "Wien",
+ "Potsdamer Platz",
  "ref":
- "pmb50"}
+ "pmb141471"}
+ ,  {
+ "placeName":
+ "Charlottenburg",
+ "ref":
+ "pmb9925"}
  ,  {
  "placeName":
  "Kantstraße",
@@ -332,14 +342,9 @@
  "pmb62140"}
  ,  {
  "placeName":
- "XVIII., Währing",
+ "Wien",
  "ref":
- "pmb68"}
- ,  {
- "placeName":
- "Charlottenburg",
- "ref":
- "pmb9925"}
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -350,11 +355,6 @@
  "pmb147380"}
  ,  {
  "orgName":
- "Ullstein Verlag",
- "ref":
- "pmb29681"}
- ,  {
- "orgName":
  "B.Z. am Mittag",
  "ref":
  "pmb29702"}
@@ -363,6 +363,11 @@
  "Berliner Morgenpost",
  "ref":
  "pmb46218"}
+ ,  {
+ "orgName":
+ "Ullstein Verlag",
+ "ref":
+ "pmb29681"}
  ]
 }
 }, {

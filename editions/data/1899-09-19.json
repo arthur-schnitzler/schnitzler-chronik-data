@@ -71,11 +71,6 @@
  "pmb10860"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Naëmah Beer-Hofmann",
  "ref":
  "pmb2534"},
@@ -83,25 +78,15 @@
  "persName":
  "Mirjam Beer-Hofmann",
  "ref":
- "pmb2668"}],
+ "pmb2668"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"}],
  "listPlace":
   [
  {
- "placeName":
- "Tirol",
- "ref":
- "pmb423"}
- ,  {
- "placeName":
- "Brixen",
- "ref":
- "pmb43040"}
- ,  {
- "placeName":
- "Albrecht-Dürer-Haus",
- "ref":
- "pmb43184"}
- ,  {
  "placeName":
  "Nürnberg",
  "ref":
@@ -111,6 +96,81 @@
  "Vahrn",
  "ref":
  "pmb946"}
+ ,  {
+ "placeName":
+ "Brixen",
+ "ref":
+ "pmb43040"}
+ ,  {
+ "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
+ ,  {
+ "placeName":
+ "Albrecht-Dürer-Haus",
+ "ref":
+ "pmb43184"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04418",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04418.html",
+ "head":
+ "Arthur Schnitzler, Paul Goldmann an Gustav Schwarzkopf, 19. 9. 1899",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Deutschordenskirche",
+ "ref":
+ "pmb364304"}
  ]
 }
 }, {
@@ -146,14 +206,14 @@
  "pmb2121"},
  {
  "persName":
- "Adolf Pichler",
- "ref":
- "pmb34875"},
- {
- "persName":
  "Eduard Klingebeil",
  "ref":
- "pmb44674"}],
+ "pmb44674"},
+ {
+ "persName":
+ "Adolf Pichler",
+ "ref":
+ "pmb34875"}],
  "listBibl":
   [
  {
@@ -193,6 +253,11 @@
  {
  "placeName":
  "Hotel Deutscher Kaiser",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Nürnberg Hauptbahnhof",
  "ref":
  ""}
  ]

@@ -104,14 +104,9 @@
  "pmb2121"},
  {
  "persName":
- "Paula Beer-Hofmann",
+ "Maximilian Harden",
  "ref":
- "pmb10860"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
+ "pmb11581"},
  {
  "persName":
  "Julius von Gans-Ludassy",
@@ -119,14 +114,9 @@
  "pmb11406"},
  {
  "persName":
- "Maximilian Harden",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb11581"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
+ "pmb10863"},
  {
  "persName":
  "Wolfgang Amadeus Mozart",
@@ -134,14 +124,24 @@
  "pmb12303"},
  {
  "persName":
- "Anna Katharina Rehmann",
- "ref":
- "pmb23915"},
- {
- "persName":
  "Ottilie Salten",
  "ref":
  "pmb23918"},
+ {
+ "persName":
+ "Paula Beer-Hofmann",
+ "ref":
+ "pmb10860"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Anna Katharina Rehmann",
+ "ref":
+ "pmb23915"},
  {
  "persName":
  "Paul Salten",
@@ -149,14 +149,9 @@
  "pmb2922"},
  {
  "persName":
- "Max Eugen Burckhard",
+ "Jakob Julius David",
  "ref":
- "pmb11036"},
- {
- "persName":
- "Stefan Großmann",
- "ref":
- "pmb11527"},
+ "pmb2416"},
  {
  "persName":
  "Heinrich Kanner",
@@ -164,14 +159,14 @@
  "pmb11867"},
  {
  "persName":
- "Josef Redlich",
- "ref":
- "pmb12481"},
- {
- "persName":
  "Leopold Ferdinand Salvator Wölfling",
  "ref":
  "pmb20328"},
+ {
+ "persName":
+ "Stefan Großmann",
+ "ref":
+ "pmb11527"},
  {
  "persName":
  "Wilhelm Singer",
@@ -179,9 +174,14 @@
  "pmb2202"},
  {
  "persName":
- "Jakob Julius David",
+ "Josef Redlich",
  "ref":
- "pmb2416"},
+ "pmb12481"},
+ {
+ "persName":
+ "Max Eugen Burckhard",
+ "ref":
+ "pmb11036"},
  {
  "persName":
  "Louise Metzl",
@@ -191,19 +191,29 @@
  "persName":
  "Olga Schnitzler",
  "ref":
- "pmb2173"}],
+ "pmb2173"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"}],
  "listBibl":
   [
  {
  "title":
- "Der Ruf des Lebens. Schauspiel in drei Akten",
- "ref":
- "pmb29905"}
- ,  {
- "title":
  "B.Z. am Mittag",
  "ref":
  "pmb58435"}
+ ,  {
+ "title":
+ "Der Ruf des Lebens. Schauspiel in drei Akten",
+ "ref":
+ "pmb29905"}
  ,  {
  "title":
  "Gedenkrede auf Wolfgang Amade Mozart",
@@ -216,29 +226,9 @@
  "pmb147399"}
  ,  {
  "title":
- "?? [Ludassy will von Salten erpresst worden sein]",
+ "Russisches Theater. II",
  "ref":
- "pmb147542"}
- ,  {
- "title":
- "Erinnerungen",
- "ref":
- "pmb168879"}
- ,  {
- "title":
- "Deutsches Volkstheater. (»Der letzte Knopf.« Volksstück in drei Aufzügen von J. v. Gans-Ludassy)",
- "ref":
- "pmb169007"}
- ,  {
- "title":
- "Deutsches Volkstheater. (»Der goldene Boden«, Volksstück in vier Aufzügen von Julius v. Gans-Ludassy. 26. März)",
- "ref":
- "pmb169024"}
- ,  {
- "title":
- "Kritik der Kritik. (Erbauliches aus der »Concordia«.)",
- "ref":
- "pmb169165"}
+ "pmb32428"}
  ,  {
  "title":
  "Oedipus und die Sphinx. Tragödie in drei Aufzügen",
@@ -246,34 +236,9 @@
  "pmb31189"}
  ,  {
  "title":
- "Der letzte Knopf. Volksstück in drei Aufzügen",
- "ref":
- "pmb31867"}
- ,  {
- "title":
- "Russisches Theater. II",
- "ref":
- "pmb32428"}
- ,  {
- "title":
  "Theater",
  "ref":
  "pmb32518"}
- ,  {
- "title":
- "Die Zeit",
- "ref":
- "pmb35935"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb39950"}
  ,  {
  "title":
  "Die Zukunft",
@@ -281,23 +246,63 @@
  "pmb40042"}
  ,  {
  "title":
+ "Erinnerungen",
+ "ref":
+ "pmb168879"}
+ ,  {
+ "title":
+ "Der letzte Knopf. Volksstück in drei Aufzügen",
+ "ref":
+ "pmb31867"}
+ ,  {
+ "title":
+ "Kritik der Kritik. (Erbauliches aus der »Concordia«.)",
+ "ref":
+ "pmb169165"}
+ ,  {
+ "title":
  "Extrapost. Unparteiische Montags-Zeitung",
  "ref":
  "pmb50081"}
  ,  {
  "title":
+ "Deutsches Volkstheater. (»Der letzte Knopf.« Volksstück in drei Aufzügen von J. v. Gans-Ludassy)",
+ "ref":
+ "pmb169007"}
+ ,  {
+ "title":
+ "Wiener Allgemeine Zeitung",
+ "ref":
+ "pmb39950"}
+ ,  {
+ "title":
  "Der goldene Boden. Volksstück in vier Aufzügen",
  "ref":
  "pmb77523"}
+ ,  {
+ "title":
+ "Deutsches Volkstheater. (»Der goldene Boden«, Volksstück in vier Aufzügen von Julius v. Gans-Ludassy. 26. März)",
+ "ref":
+ "pmb169024"}
+ ,  {
+ "title":
+ "Die Zeit",
+ "ref":
+ "pmb35935"}
+ ,  {
+ "title":
+ "?? [Ludassy will von Salten erpresst worden sein]",
+ "ref":
+ "pmb147542"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Zoologischer Garten Berlin",
- "ref":
- "pmb147403"}
- ,  {
  "placeName":
  "Berlin",
  "ref":
@@ -314,6 +319,11 @@
  "pmb855"}
  ,  {
  "placeName":
+ "Zoologischer Garten Berlin",
+ "ref":
+ "pmb147403"}
+ ,  {
+ "placeName":
  "Volkstheater",
  "ref":
  "pmb20"}
@@ -324,14 +334,14 @@
  "pmb34438"}
  ,  {
  "placeName":
- "Hotel Saxonia",
- "ref":
- "pmb40853"}
- ,  {
- "placeName":
  "Kantstraße",
  "ref":
  "pmb62140"}
+ ,  {
+ "placeName":
+ "Hotel Saxonia",
+ "ref":
+ "pmb40853"}
  ],
  "listOrg":
   [
@@ -340,6 +350,31 @@
  "B.Z. am Mittag",
  "ref":
  "pmb29702"}
+ ,  {
+ "orgName":
+ "Concordia. Journalisten- und Schriftstellerverein",
+ "ref":
+ "pmb29752"}
+ ,  {
+ "orgName":
+ "Die Zeit",
+ "ref":
+ "pmb29626"}
+ ,  {
+ "orgName":
+ "Volkstheater",
+ "ref":
+ "pmb36430"}
+ ,  {
+ "orgName":
+ "Wiener Allgemeine Zeitung",
+ "ref":
+ "pmb29670"}
+ ,  {
+ "orgName":
+ "Arbeiter-Zeitung",
+ "ref":
+ "pmb29644"}
  ,  {
  "orgName":
  "Wiener Beamtenverein",
@@ -352,34 +387,9 @@
  "pmb29414"}
  ,  {
  "orgName":
- "Die Zeit",
- "ref":
- "pmb29626"}
- ,  {
- "orgName":
- "Arbeiter-Zeitung",
- "ref":
- "pmb29644"}
- ,  {
- "orgName":
- "Wiener Allgemeine Zeitung",
- "ref":
- "pmb29670"}
- ,  {
- "orgName":
- "Concordia. Journalisten- und Schriftstellerverein",
- "ref":
- "pmb29752"}
- ,  {
- "orgName":
  "Burgtheater",
  "ref":
  "pmb36247"}
- ,  {
- "orgName":
- "Volkstheater",
- "ref":
- "pmb36430"}
  ]
 }
 }, {

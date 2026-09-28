@@ -58,6 +58,11 @@
   [
  {
  "placeName":
+ "Bad Aussee",
+ "ref":
+ "pmb415"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -66,11 +71,6 @@
  "Villa Fuchs",
  "ref":
  "pmb298721"}
- ,  {
- "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
  ,  {
  "placeName":
  "Paris",
@@ -111,14 +111,14 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Charlotte Pohl-Glas",
  "ref":
  "pmb3784"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "Maria Charlotte Lamberg",
@@ -128,7 +128,12 @@
  "persName":
  "?? [Kostfrau von Charlotte Lamberg]",
  "ref":
- "pmb144685"}],
+ "pmb144685"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"}],
  "listBibl":
   [
  {
@@ -153,14 +158,14 @@
  "pmb39950"}
  ,  {
  "title":
- "Die Münchener Kunstausstellungen. II. Im königl. Glaspalast",
- "ref":
- "pmb144701"}
- ,  {
- "title":
  "Die Münchener Kunstausstellungen. I. Im königl. Glaspalast",
  "ref":
  "pmb144705"}
+ ,  {
+ "title":
+ "Die Münchener Kunstausstellungen. II. Im königl. Glaspalast",
+ "ref":
+ "pmb144701"}
  ,  {
  "title":
  "Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)",
@@ -171,14 +176,9 @@
   [
  {
  "placeName":
- "Gerasdorf bei Wien",
+ "Wien",
  "ref":
- "pmb143360"}
- ,  {
- "placeName":
- "Friedhof Gerasdorf",
- "ref":
- "pmb144719"}
+ "pmb50"}
  ,  {
  "placeName":
  "Bad Ischl",
@@ -191,9 +191,14 @@
  "pmb45258"}
  ,  {
  "placeName":
- "Wien",
+ "Gerasdorf bei Wien",
  "ref":
- "pmb50"}
+ "pmb143360"}
+ ,  {
+ "placeName":
+ "Friedhof Gerasdorf",
+ "ref":
+ "pmb144719"}
  ],
  "listOrg":
   [

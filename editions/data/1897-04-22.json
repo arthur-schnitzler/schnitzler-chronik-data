@@ -81,6 +81,11 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
@@ -89,11 +94,6 @@
  "Florianigasse 44",
  "ref":
  "pmb295159"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [
@@ -190,6 +190,16 @@
  "pmb2121"},
  {
  "persName":
+ "Wilhelm Gömöri",
+ "ref":
+ "pmb118462"},
+ {
+ "persName":
+ "Henrik Ibsen",
+ "ref":
+ "pmb11798"},
+ {
+ "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
@@ -198,16 +208,6 @@
  "Pierre Augustin Caron de Beaumarchais",
  "ref":
  "pmb10857"},
- {
- "persName":
- "Henrik Ibsen",
- "ref":
- "pmb11798"},
- {
- "persName":
- "Wilhelm Gömöri",
- "ref":
- "pmb118462"},
  {
  "persName":
  "André Hallays",
@@ -225,13 +225,6 @@
  "pmb20825"},
  {
  "persName":
- "1897]
-   
-      ?? [Partnerin? von Paul Goldmann",
- "ref":
- "pmb118457"},
- {
- "persName":
  "Marie Reinhard",
  "ref":
  "pmb2378"},
@@ -239,7 +232,14 @@
  "persName":
  "Fedor Mamroth",
  "ref":
- "pmb4986"}],
+ "pmb4986"},
+ {
+ "persName":
+ "1897]
+                
+                  ?? [Partnerin? von Paul Goldmann",
+ "ref":
+ "pmb118457"}],
  "listBibl":
   [
  {
@@ -254,22 +254,27 @@
  "pmb31999"}
  ,  {
  "title":
- "Beaumarchais",
- "ref":
- "pmb118459"}
- ,  {
- "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
+ ,  {
+ "title":
+ "Beaumarchais",
+ "ref":
+ "pmb118459"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "La Scala",
+ "Frankfurt am Main",
  "ref":
- "pmb118451"}
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
  ,  {
  "placeName":
  "Hotel Deutscher Kaiser",
@@ -287,19 +292,14 @@
  "pmb145"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "La Scala",
  "ref":
- "pmb146"}
+ "pmb118451"}
  ,  {
  "placeName":
- "Paris",
+ "Türkei",
  "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Kreta",
- "ref":
- "pmb118407"}
+ "pmb773"}
  ,  {
  "placeName":
  "Griechenland",
@@ -307,9 +307,9 @@
  "pmb44293"}
  ,  {
  "placeName":
- "Türkei",
+ "Kreta",
  "ref":
- "pmb773"}
+ "pmb118407"}
  ],
  "listOrg":
   [

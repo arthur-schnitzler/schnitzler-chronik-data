@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,13 +108,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb298721">Villa Fuchs</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
@@ -142,31 +142,31 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb169709">Traunstein [Berg]</placeName>
+                        <placeName ref="pmb874">Gmunden</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb911">Ostende</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44313">Scheveningen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb842">Karlsbad</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb772">Marienbad</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb842">Karlsbad</placeName>
+                        <placeName ref="pmb169709">Traunstein [Berg]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb874">Gmunden</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb911">Ostende</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -183,13 +183,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb89571">Elisabeth Kotter</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25793">Julius Szeps</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -200,33 +203,33 @@
                         <title ref="pmb31535">Der Tod Georgs</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144701">Die Münchener Kunstausstellungen. II. Im königl. Glaspalast</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb144705">Die Münchener Kunstausstellungen. I. Im königl. Glaspalast</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb144711">Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb144705">Die Münchener Kunstausstellungen. I. Im königl. Glaspalast</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144701">Die Münchener Kunstausstellungen. II. Im königl. Glaspalast</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb142884">Rügen</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb724">Pustertal</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb142884">Rügen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb64659">Heringsdorf</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb724">Pustertal</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
@@ -253,7 +256,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-07-30</idno>
             </event>
             <event when-iso="1895-07-30">
-               <head>Aufführung von Tata-Toto. Vaudeville in drei Akten, 30.7.1895</head>
+               <head>Aufführung von Tata-Toto, 30.7.1895</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">

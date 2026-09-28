@@ -59,6 +59,11 @@
  "pmb10863"},
  {
  "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -69,9 +74,9 @@
  "pmb12698"},
  {
  "persName":
- "Gustav Schwarzkopf",
+ "Rosa Beer",
  "ref":
- "pmb12740"},
+ "pmb34918"},
  {
  "persName":
  "Hermann Beer",
@@ -81,12 +86,7 @@
  "persName":
  "Helene Schnitzler",
  "ref":
- "pmb24423"},
- {
- "persName":
- "Rosa Beer",
- "ref":
- "pmb34918"}],
+ "pmb24423"}],
  "listBibl":
   [
  {
@@ -109,9 +109,24 @@
   [
  {
  "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Pörtschach am Wörthersee",
+ "ref":
+ "pmb44278"}
+ ,  {
+ "placeName":
  "Villa Arnstein",
  "ref":
  "pmb1110"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
  ,  {
  "placeName":
  "Seiser Alm",
@@ -134,29 +149,14 @@
  "pmb40294"}
  ,  {
  "placeName":
- "Karersee",
- "ref":
- "pmb40371"}
- ,  {
- "placeName":
- "Wörthersee",
- "ref":
- "pmb430"}
- ,  {
- "placeName":
- "Pörtschach am Wörthersee",
- "ref":
- "pmb44278"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Vahrn",
+ "Karersee",
  "ref":
- "pmb946"}
+ "pmb40371"}
  ]
 }
 }, {
@@ -194,14 +194,14 @@
   [
  {
  "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
  "Vahrn",
  "ref":
  "pmb946"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
  ]
 }
 }, {
@@ -242,14 +242,19 @@
  "pmb2173"},
  {
  "persName":
+ "Elisabeth Steinrück",
+ "ref":
+ "pmb2315"},
+ {
+ "persName":
  "Rudolf Gussmann",
  "ref":
  "pmb17554"},
  {
  "persName":
- "Elisabeth Steinrück",
+ "Max Schwarzkopf",
  "ref":
- "pmb2315"},
+ "pmb24648"},
  {
  "persName":
  "Julius Schnitzler",
@@ -259,12 +264,7 @@
  "persName":
  "Helene Schnitzler",
  "ref":
- "pmb24423"},
- {
- "persName":
- "Max Schwarzkopf",
- "ref":
- "pmb24648"}],
+ "pmb24423"}],
  "listBibl":
   [
  {
@@ -277,9 +277,24 @@
   [
  {
  "placeName":
- "Tierser Tal",
+ "Vahrn",
  "ref":
- "pmb333625"}
+ "pmb946"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
  ,  {
  "placeName":
  "Bozen",
@@ -292,24 +307,9 @@
  "pmb40371"}
  ,  {
  "placeName":
- "Wörthersee",
+ "Tierser Tal",
  "ref":
- "pmb430"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Südtirol",
- "ref":
- "pmb969"}
+ "pmb333625"}
  ,  {
  "placeName":
  "Pension Powolny",

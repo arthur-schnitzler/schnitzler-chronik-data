@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,7 +95,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-05-07.html</idno>
             </event>
             <event when-iso="1906-05-07">
-               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11. 5. 1906?]</head>
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11.? 5. 1906]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -121,13 +121,10 @@
                         <placeName ref="pmb75">Hinterbrühl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb364311">Wagnerstraße [Hinterbrühl]</placeName>
@@ -150,30 +147,33 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12977">Irene Triesch</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb12977">Irene Triesch</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43882">Türkenschanzstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44413">Brühl</placeName>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43882">Türkenschanzstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44413">Brühl</placeName>
                      </place>
                   </listPlace>
                </desc>

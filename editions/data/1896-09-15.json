@@ -79,14 +79,14 @@
  "pmb2121"},
  {
  "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
  "Georg Brandes",
  "ref":
- "pmb10992"}],
+ "pmb10992"},
+ {
+ "persName":
+ "Paula Beer-Hofmann",
+ "ref":
+ "pmb10860"}],
  "listBibl":
   [
  {
@@ -99,14 +99,24 @@
   [
  {
  "placeName":
- "Wien",
+ "Kaiser-Franz-Ring 54",
  "ref":
- "pmb50"}
+ "pmb365095"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ,  {
  "placeName":
  "Baden bei Wien",
  "ref":
  "pmb662"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -137,22 +147,32 @@
  "pmb2121"},
  {
  "persName":
- "Albert Langen",
- "ref":
- "pmb3379"},
- {
- "persName":
  "Maria Janitschek",
  "ref":
  "pmb64831"},
  {
  "persName":
+ "Albert Langen",
+ "ref":
+ "pmb3379"},
+ {
+ "persName":
  "Louis Plessner",
  "ref":
- "pmb295657"}],
+ "pmb295657"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"}],
  "listBibl":
   [
  {
+ "title":
+ "Simplicissimus",
+ "ref":
+ "pmb50245"}
+ ,  {
  "title":
  "Im Widerschein",
  "ref":
@@ -164,29 +184,14 @@
  "pmb36376"}
  ,  {
  "title":
- "Simplicissimus",
+ "Anatol",
  "ref":
- "pmb50245"}
+ "pmb29935"}
  ,  {
  "title":
- "Baby",
+ "Vom Weibe. Charakterzeichnungen",
  "ref":
- "pmb295179"}
- ,  {
- "title":
- "Der Begräbnißtag",
- "ref":
- "pmb295182"}
- ,  {
- "title":
- "Die Leiter der Seele",
- "ref":
- "pmb295184"}
- ,  {
- "title":
- "Im Feuer geprüft",
- "ref":
- "pmb295186"}
+ "pmb78869"}
  ,  {
  "title":
  "Vom Weibe",
@@ -194,9 +199,9 @@
  "pmb296201"}
  ,  {
  "title":
- "Anatol",
+ "Die Presse",
  "ref":
- "pmb29935"}
+ "pmb41189"}
  ,  {
  "title":
  "Der gläserne Käfig. Skizzen und Novellen",
@@ -209,27 +214,37 @@
  "pmb32316"}
  ,  {
  "title":
- "Die Presse",
+ "Die Leiter der Seele",
  "ref":
- "pmb41189"}
+ "pmb295184"}
  ,  {
  "title":
- "Vom Weibe. Charakterzeichnungen",
+ "Baby",
  "ref":
- "pmb78869"}
+ "pmb295179"}
+ ,  {
+ "title":
+ "Der Begräbnißtag",
+ "ref":
+ "pmb295182"}
+ ,  {
+ "title":
+ "Im Feuer geprüft",
+ "ref":
+ "pmb295186"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Bäckerstraße 1",
- "ref":
- "pmb295211"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Bäckerstraße 1",
+ "ref":
+ "pmb295211"}
  ]
 }
 }, {

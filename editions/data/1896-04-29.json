@@ -56,34 +56,9 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Alfred von Berger",
- "ref":
- "pmb10883"},
- {
- "persName":
- "Maximilian Harden",
- "ref":
- "pmb11581"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Alfred Kerr",
  "ref":
  "pmb11910"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
  {
  "persName":
  "Peter Altenberg",
@@ -91,44 +66,19 @@
  "pmb2147"},
  {
  "persName":
- "Théodore de Wyzewa",
- "ref":
- "pmb27373"},
- {
- "persName":
- "Albert Langen",
- "ref":
- "pmb3379"},
- {
- "persName":
- "Heinz Monnard",
- "ref":
- "pmb3960"},
- {
- "persName":
- "Pierre Lalo",
- "ref":
- "pmb8429"},
- {
- "persName":
  "Leopold Sonnemann",
  "ref":
  "pmb87771"},
  {
  "persName":
- "Christian Schefer",
- "ref":
- "pmb93611"},
- {
- "persName":
- "Henri de Riaz",
- "ref":
- "pmb93707"},
- {
- "persName":
  "Adele Doré",
  "ref":
  "pmb93713"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
  {
  "persName":
  "Rudolf Leyrer",
@@ -141,14 +91,64 @@
  "pmb93723"},
  {
  "persName":
- "Paula Beer-Hofmann",
+ "Heinz Monnard",
  "ref":
- "pmb10860"},
+ "pmb3960"},
+ {
+ "persName":
+ "Christian Schefer",
+ "ref":
+ "pmb93611"},
+ {
+ "persName":
+ "Pierre Lalo",
+ "ref":
+ "pmb8429"},
+ {
+ "persName":
+ "Théodore de Wyzewa",
+ "ref":
+ "pmb27373"},
+ {
+ "persName":
+ "Henri de Riaz",
+ "ref":
+ "pmb93707"},
+ {
+ "persName":
+ "Alfred von Berger",
+ "ref":
+ "pmb10883"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"},
+ {
+ "persName":
+ "Albert Langen",
+ "ref":
+ "pmb3379"},
+ {
+ "persName":
+ "Maximilian Harden",
+ "ref":
+ "pmb11581"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "Léon Bourgeois",
  "ref":
  "pmb88000"},
+ {
+ "persName":
+ "Paula Beer-Hofmann",
+ "ref":
+ "pmb10860"},
  {
  "persName":
  "Clementine Goldmann",
@@ -158,24 +158,49 @@
  "persName":
  "Hermann Mamroth",
  "ref":
- "pmb93541"}],
+ "pmb93541"},
+ {
+ "persName":
+ "Gaspard Vallette",
+ "ref":
+ "pmb40665"},
+ {
+ "persName":
+ "H. von Friedlaender-Abel",
+ "ref":
+ "pmb300082"},
+ {
+ "persName":
+ "Alexander von Weilen",
+ "ref":
+ "pmb13071"},
+ {
+ "persName":
+ "Friedrich Schik",
+ "ref":
+ "pmb2420"},
+ {
+ "persName":
+ "Bernhard Buchbinder",
+ "ref":
+ "pmb6487"},
+ {
+ "persName":
+ "Theodor Frimmel",
+ "ref":
+ "pmb95985"}],
  "listBibl":
   [
  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
  "title":
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
  ,  {
  "title":
- "Die Zukunft",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
- "pmb40042"}
+ "pmb29917"}
  ,  {
  "title":
  "Mourir. Roman",
@@ -188,14 +213,19 @@
  "pmb50245"}
  ,  {
  "title":
+ "Die Zukunft",
+ "ref":
+ "pmb40042"}
+ ,  {
+ "title":
  "Theaternotizen [Liebelei]",
  "ref":
  "pmb93709"}
  ,  {
  "title":
- "Die überspannte Person",
+ "[Man schreibt uns aus Köln]",
  "ref":
- "pmb30391"}
+ "pmb93703"}
  ,  {
  "title":
  "Burgtheater [Rechte der Seele, Liebelei]",
@@ -208,9 +238,9 @@
  "pmb93272"}
  ,  {
  "title":
- "[Man schreibt uns aus Köln]",
+ "Die überspannte Person",
  "ref":
- "pmb93703"}
+ "pmb30391"}
  ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
@@ -221,39 +251,9 @@
   [
  {
  "placeName":
- "Köln",
- "ref":
- "pmb145"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Dänemark",
- "ref":
- "pmb43570"}
  ,  {
  "placeName":
  "Wien",
@@ -261,9 +261,39 @@
  "pmb50"}
  ,  {
  "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Köln",
+ "ref":
+ "pmb145"}
+ ,  {
+ "placeName":
  "Rue Coëtlogon",
  "ref":
  "pmb93700"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
+ ,  {
+ "placeName":
+ "Dänemark",
+ "ref":
+ "pmb43570"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ,  {
  "placeName":
  "Skodsborg",
@@ -274,14 +304,14 @@
   [
  {
  "orgName":
- "Die Zeit. Wiener Wochenschrift [Redaktion]",
- "ref":
- "pmb29209"}
- ,  {
- "orgName":
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
+ ,  {
+ "orgName":
+ "Die Zeit. Wiener Wochenschrift [Redaktion]",
+ "ref":
+ "pmb29209"}
  ,  {
  "orgName":
  "Simplicissimus",

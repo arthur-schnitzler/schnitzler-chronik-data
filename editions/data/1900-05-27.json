@@ -79,26 +79,6 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Julius von Gans-Ludassy",
- "ref":
- "pmb11406"},
- {
- "persName":
- "Carl Karlweis",
- "ref":
- "pmb13082"},
- {
- "persName":
  "Rudolf Lothar",
  "ref":
  "pmb2570"},
@@ -114,14 +94,24 @@
  "pmb3386"},
  {
  "persName":
- "Ludwig Fulda",
+ "Carl Karlweis",
  "ref":
- "pmb11391"},
+ "pmb13082"},
  {
  "persName":
- "?? [in Berlin lebender Wiener Journalist]",
+ "Hermann Bahr",
  "ref":
- "pmb141711"},
+ "pmb10815"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Julius von Gans-Ludassy",
+ "ref":
+ "pmb11406"},
  {
  "persName":
  "Felix Salten",
@@ -134,26 +124,51 @@
  "pmb23918"},
  {
  "persName":
+ "?? [in Berlin lebender Wiener Journalist]",
+ "ref":
+ "pmb141711"},
+ {
+ "persName":
+ "Ludwig Fulda",
+ "ref":
+ "pmb11391"},
+ {
+ "persName":
+ "Helene Keßler",
+ "ref":
+ "pmb19296"},
+ {
+ "persName":
  "Erich von Monbart",
  "ref":
  "pmb141743"},
  {
  "persName":
- "Helene Keßler",
+ "Eduard Bacher",
  "ref":
- "pmb19296"}],
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
  "title":
- "Der Star. Ein Wiener Stück in vier Akten",
- "ref":
- "pmb30127"}
- ,  {
- "title":
  "Onkel Toni. Eine Komödie aus der Gesellschaft in vier Aufzügen",
  "ref":
  "pmb76985"}
+ ,  {
+ "title":
+ "Der Star. Ein Wiener Stück in vier Akten",
+ "ref":
+ "pmb30127"}
  ,  {
  "title":
  "Die Familie von Barchwitz. Roman",
@@ -161,9 +176,9 @@
  "pmb78877"}
  ,  {
  "title":
- "Theater- und Kunstnachrichten [König Harlekin]",
+ "Neues Wiener Tagblatt",
  "ref":
- "pmb141716"}
+ "pmb41321"}
  ,  {
  "title":
  "Theater, Kunst und Literatur [König Harlekin]",
@@ -171,9 +186,24 @@
  "pmb141723"}
  ,  {
  "title":
+ "Theater- und Kunstnachrichten [König Harlekin]",
+ "ref":
+ "pmb141716"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
+ ,  {
+ "title":
  "Wiener Deutsches Volkstheater. (Gastspiel im Deutschen Theater.) »König Harlekin«, ein Maskenspiel in vier Aufzügen von Rudolf Lothar",
  "ref":
  "pmb141728"}
+ ,  {
+ "title":
+ "Berliner Tageblatt",
+ "ref":
+ "pmb41531"}
  ,  {
  "title":
  "Kleine Chronik. [Theater.] [Onkel Toni]",
@@ -184,21 +214,6 @@
  "Der letzte Knopf. Volksstück in drei Aufzügen",
  "ref":
  "pmb31867"}
- ,  {
- "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
- ,  {
- "title":
- "Neues Wiener Tagblatt",
- "ref":
- "pmb41321"}
- ,  {
- "title":
- "Berliner Tageblatt",
- "ref":
- "pmb41531"}
  ,  {
  "title":
  "König Harlekin. Maskenspiel in vier Aufzügen",
@@ -214,14 +229,14 @@
  "pmb168"}
  ,  {
  "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Dessauer Straße",
+ "ref":
+ "pmb40583"}
  ,  {
  "placeName":
  "Puchberg am Schneeberg",
@@ -242,9 +257,9 @@
  "pmb29406"}
  ,  {
  "orgName":
- "Freie Bühne",
+ "Volkstheater",
  "ref":
- "pmb29561"}
+ "pmb36430"}
  ,  {
  "orgName":
  "Lessing-Theater",
@@ -252,14 +267,69 @@
  "pmb35053"}
  ,  {
  "orgName":
+ "Freie Bühne",
+ "ref":
+ "pmb29561"}
+ ,  {
+ "orgName":
  "Deutsches Theater Berlin",
  "ref":
  "pmb35597"}
- ,  {
- "orgName":
- "Volkstheater",
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L01043",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01043.html",
+ "head":
+ "Hugo von Hofmannsthal an Arthur Schnitzler, [27. oder 28]. 5. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb36430"}
+ "pmb11740"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Hugo August von Hofmannsthal",
+ "ref":
+ "pmb11737"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "3/3 Post- und Telegraphenamt 49",
+ "ref":
+ "pmb365229"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ]
 }
 }, {

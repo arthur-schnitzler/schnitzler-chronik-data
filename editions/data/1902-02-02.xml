@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -83,40 +83,43 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10992">Georg Brandes</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11168">Maurice Donnay</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11673">Theodor Herzl</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11867">Heinrich Kanner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12414">Felix Philippi</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12671">Paul Schlenther</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
                         <persName ref="pmb12899">Hermann Sudermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23674">Theodore Rottenberg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2412">William Shakespeare</persName>
+                        <persName ref="pmb12414">Felix Philippi</persName>
                      </person>
                      <person>
                         <persName ref="pmb2739">Hugo Wittmann</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10992">Georg Brandes</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb3386">Fritz Mauthner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11673">Theodor Herzl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23674">Theodore Rottenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11168">Maurice Donnay</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4986">Fedor Mamroth</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -125,7 +128,13 @@
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -136,16 +145,16 @@
                         <title ref="pmb32159">William Shakespeare</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
+                        <title ref="pmb145254">Theater- und Kunstnachrichten. [Burgtheater.] [Es lebe das Leben]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb145250">Burgtheater. (Zum erstenmale: »Es lebe das Leben«, Drama in fünf Acten von Hermann Sudermann.)</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb145254">Theater- und Kunstnachrichten. [Burgtheater.] [Es lebe das Leben]</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb144122">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144497">Es lebe das Leben</title>
@@ -153,22 +162,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb145170">Hotel Kursalon Mödling</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -89,12 +89,12 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb40099">
+                  Schaller
+               </persName>
                      </person>
                      <person>
-                        <persName ref="pmb40099">
-      Schaller
-  </persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb10815">Hermann Bahr</persName>
@@ -102,22 +102,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb230">Österreichischer Hof</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40101">Liesingerstraße</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb73">XXIII., Liesing</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb73">XXIII., Liesing</placeName>
+                        <placeName ref="pmb230">Österreichischer Hof</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -146,9 +146,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>

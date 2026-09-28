@@ -56,14 +56,14 @@
  "pmb11740"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Jakob Wassermann",
  "ref":
  "pmb13055"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "Hermine von Schaffgotsch",
@@ -91,11 +91,6 @@
   [
  {
  "placeName":
- "Pension Pundschu",
- "ref":
- "pmb36282"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
@@ -109,6 +104,11 @@
  "Velden am Wörthersee",
  "ref":
  "pmb909"}
+ ,  {
+ "placeName":
+ "Pension Pundschu",
+ "ref":
+ "pmb36282"}
  ]
 }
 }, {
@@ -154,29 +154,9 @@
   [
  {
  "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
  "Seeboden am Millstättersee",
  "ref":
  "pmb34824"}
- ,  {
- "placeName":
- "Bozen",
- "ref":
- "pmb40260"}
- ,  {
- "placeName":
- "Franzensfeste",
- "ref":
- "pmb40264"}
  ,  {
  "placeName":
  "Hohe Tauern",
@@ -184,9 +164,14 @@
  "pmb40943"}
  ,  {
  "placeName":
- "Millstatt",
+ "Salzburg",
  "ref":
- "pmb41069"}
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ,  {
  "placeName":
  "Bad Aussee",
@@ -194,19 +179,34 @@
  "pmb415"}
  ,  {
  "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
  "Bayreuth",
  "ref":
  "pmb734"}
  ,  {
  "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
  "Innsbruck",
  "ref":
  "pmb867"}
+ ,  {
+ "placeName":
+ "Franzensfeste",
+ "ref":
+ "pmb40264"}
+ ,  {
+ "placeName":
+ "Bozen",
+ "ref":
+ "pmb40260"}
+ ,  {
+ "placeName":
+ "Millstatt",
+ "ref":
+ "pmb41069"}
  ,  {
  "placeName":
  "Velden am Wörthersee",

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -87,6 +87,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-05-28.html</idno>
             </event>
             <event when-iso="1900-05-28">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [27. oder 28]. 5. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365229">3/3 Post- und Telegraphenamt 49</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01043.html</idno>
+            </event>
+            <event when-iso="1900-05-28">
                <head>Arthur Schnitzler an Richard Beer-Hofmann, 28. 5. 1900</head>
                <desc>
                   <listPerson>
@@ -102,13 +133,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -120,37 +151,6 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01042.html</idno>
             </event>
             <event when-iso="1900-05-28">
-               <head>Hugo von Hofmannsthal an Arthur Schnitzler, 28. 5. 1900</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53">III., Landstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01043.html</idno>
-            </event>
-            <event when-iso="1900-05-28">
                <head>Joseph Victor Widmann an Arthur Schnitzler, 28. 5. 1900</head>
                <desc>
                   <listPerson>
@@ -159,6 +159,9 @@
                      </person>
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -177,10 +180,10 @@
                         <placeName ref="pmb1223">Bern</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1283">Pompeji</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb1283">Pompeji</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -195,6 +198,14 @@
                         <listPlace>
                            <place corresp="#pmb169287">
                               <placeName>?? [Karlsgasse, Absteigequartier Leopoldine Müller und Arthur Schnitzler]</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#51">
+                        <placeName>I., Innere Stadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb207235">
+                              <placeName>Wiener Schachclub [Wallnerstraße 2]</placeName>
                            </place>
                         </listPlace>
                      </place>

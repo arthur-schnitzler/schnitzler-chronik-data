@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -104,10 +104,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -129,7 +129,7 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10992">Georg Brandes</persName>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
                         <persName ref="pmb13194">Émile Zola</persName>
@@ -138,10 +138,16 @@
                         <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                        <persName ref="pmb10992">Georg Brandes</persName>
                      </person>
                      <person>
                         <persName ref="pmb4216">Alfred Dreyfus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13791">Ludwig Basch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2150">Julius Bauer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -149,13 +155,13 @@
                         <title ref="pmb41484">Illustrirtes Wiener Extrablatt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb118771">Theaterzeitung. Carltheater [Freiwild]</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb141857">J’accuse…!</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb118771">Theaterzeitung. Carltheater [Freiwild]</title>
                      </bibl>
                   </listBibl>
                   <listPlace>

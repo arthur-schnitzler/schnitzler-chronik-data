@@ -111,32 +111,17 @@
  "pmb10863"},
  {
  "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
  "Christine Kepert",
  "ref":
- "pmb24686"}],
+ "pmb24686"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
  "listPlace":
   [
  {
- "placeName":
- "Pottenstein",
- "ref":
- "pmb40112"}
- ,  {
- "placeName":
- "Antonsgasse",
- "ref":
- "pmb40115"}
- ,  {
- "placeName":
- "Neuhaus",
- "ref":
- "pmb47414"}
- ,  {
  "placeName":
  "Wien",
  "ref":
@@ -148,9 +133,9 @@
  "pmb662"}
  ,  {
  "placeName":
- "Kaiser-Franz-Ring",
+ "Mödling",
  "ref":
- "pmb680"}
+ "pmb968"}
  ,  {
  "placeName":
  "Alland",
@@ -158,9 +143,24 @@
  "pmb90217"}
  ,  {
  "placeName":
- "Mödling",
+ "Neuhaus",
  "ref":
- "pmb968"}
+ "pmb47414"}
+ ,  {
+ "placeName":
+ "Pottenstein",
+ "ref":
+ "pmb40112"}
+ ,  {
+ "placeName":
+ "Antonsgasse",
+ "ref":
+ "pmb40115"}
+ ,  {
+ "placeName":
+ "Kaiser-Franz-Ring 54",
+ "ref":
+ "pmb365095"}
  ]
 }
 }, {
@@ -216,5 +216,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1896-09-13",
  "head":
- "Baden bei Wien"
+ "Baden bei Wien",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Kaiser-Franz-Ring 54",
+ "ref":
+ ""}
+ ]
+}
 }] 

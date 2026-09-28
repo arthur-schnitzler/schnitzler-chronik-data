@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,13 +109,21 @@
                         <persName ref="pmb12543">Romain Rolland</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11324">Samuel Fischer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb3256">Paul Block</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb259326">Paul Seippel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27739">
+                  ?? [Journalist, der fiktives russisches Interview verantwortet]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -126,13 +134,25 @@
                         <title ref="pmb294010">Kultur –?</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296393">Ein Brief Artur Schnitzlers</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb298631">Schnitzler erhebt Einspruch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
+                        <title ref="pmb41572">Deutsche Tageszeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58490">Une protestation d’Arthur Schnitzler</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36156">Die neue Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb58493">Journal de Genève</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42406">Neue Zürcher Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb296393">Ein Brief Artur Schnitzlers</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32959">?? [Fiktives Interview aus St. Petersburg, 1914]</title>
@@ -141,22 +161,16 @@
                         <title ref="pmb33265">Komödie der Worte</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36156">Die neue Rundschau</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb41572">Deutsche Tageszeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb42406">Neue Zürcher Zeitung</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58490">Une protestation d’Arthur Schnitzler</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58493">Journal de Genève</title>
+                        <title ref="pmb30717">Komödie der Worte. Drei Einakter</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb151">Deutschland</placeName>
                      </place>
@@ -164,16 +178,10 @@
                         <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb249577">Kochgasse 8</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -190,19 +198,22 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11646">Hugo Heller</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12729">Franz Peter Schubert</persName>
                      </person>
                      <person>
                         <persName ref="pmb13152">Hugo Wolf</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11646">Hugo Heller</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13024">Richard Wagner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -212,10 +223,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb157">Krankenhaus der Barmherzigen Brüder</placeName>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -107,7 +107,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-12-25.html</idno>
             </event>
             <event when-iso="1899-12-25">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 25. 12. 1899</head>
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [24. oder 25]. 12. 1899</head>
                <desc>
                   <listPerson>
                      <person>
@@ -115,6 +115,12 @@
                      </person>
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12877">August Strindberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb47716">Erich Holm</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -124,13 +130,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                   </listPlace>
                </desc>

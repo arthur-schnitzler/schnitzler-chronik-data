@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,7 +79,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-09-11.html</idno>
             </event>
             <event when-iso="1900-09-11">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 11. 9. 1900</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [10. oder 11]. 9. 1900</head>
                <desc>
                   <listPerson>
                      <person>
@@ -88,18 +88,24 @@
                      <person>
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb13024">Richard Wagner</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb15">Oper</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
@@ -108,7 +114,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb15">Oper</placeName>
                      </place>
                   </listPlace>
                </desc>

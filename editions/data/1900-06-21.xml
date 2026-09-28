@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,24 +94,30 @@
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb47662">Antonio Canova</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                        <title ref="pmb47668">Theseus besiegt den Kentaur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb47668">Theseus besiegt den Kentaur</title>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb55">V., Margareten</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb34401">Altaussee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb47660">Kunsthistorisches Museum</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb47660">Kunsthistorisches Museum</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb224">London</placeName>
@@ -141,13 +147,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -169,10 +175,7 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10844">Albert Bassermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10883">Alfred von Berger</persName>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
                         <persName ref="pmb11701">Georg Hirschfeld</persName>
@@ -181,19 +184,22 @@
                         <persName ref="pmb12078">Paul Lindau</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12671">Paul Schlenther</persName>
+                        <persName ref="pmb10844">Albert Bassermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12977">Irene Triesch</persName>
+                        <persName ref="pmb10883">Alfred von Berger</persName>
                      </person>
                      <person>
                         <persName ref="pmb2850">Stella Hohenfels</persName>
                      </person>
                      <person>
-                        <persName ref="pmb14948">Auguste Glümer</persName>
+                        <persName ref="pmb12977">Irene Triesch</persName>
                      </person>
                      <person>
                         <persName ref="pmb14953">Marie Glümer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -203,28 +209,28 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb117">Alpen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb141756">Vorarlberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb506">Hamburg</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb117">Alpen</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb58636">Dolomiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb141756">Vorarlberg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb1122">Schlesien</placeName>
@@ -232,13 +238,13 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29380">Berliner Theater</orgName>
-                     </org>
-                     <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36430">Volkstheater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29380">Berliner Theater</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb45530">Deutsches Schauspielhaus in Hamburg</orgName>

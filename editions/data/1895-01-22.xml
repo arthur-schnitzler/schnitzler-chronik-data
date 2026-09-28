@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -124,12 +124,15 @@
                         <persName ref="pmb157949">Charles Dupuy</persName>
                      </person>
                      <person>
-                        <persName ref="pmb27711">
-      ?? [Schreibkraft für Arthur Schnitzler]
-  </persName>
+                        <persName ref="pmb88076">Jean Casimir-Perier</persName>
                      </person>
                      <person>
-                        <persName ref="pmb88076">Jean Casimir-Perier</persName>
+                        <persName ref="pmb27711">
+                  ?? [Schreibkraft für Arthur Schnitzler]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14328">Oskar Blumenthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb10986">Otto Brahm</persName>
@@ -138,21 +141,27 @@
                         <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
-                        <persName ref="pmb14328">Oskar Blumenthal</persName>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb298635">Der Sturz des französischen Ministeriums</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title ref="pmb76499">Das neue Ghetto. Schauspiel in vier Acten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb76499">Das neue Ghetto. Schauspiel in vier Acten</title>
+                        <title ref="pmb298635">Der Sturz des französischen Ministeriums</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -160,16 +169,16 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb296731">8, rue de Monceau</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb296731">8, rue de Monceau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

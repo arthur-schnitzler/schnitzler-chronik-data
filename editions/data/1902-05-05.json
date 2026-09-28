@@ -44,6 +44,97 @@
  "color":
  "#A63437",
  "filename":
+ "L01218",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01218.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, [4. oder 5]. 5. 1902",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Paul Eger",
+ "ref":
+ "pmb11227"},
+ {
+ "persName":
+ "Henrik Ibsen",
+ "ref":
+ "pmb11798"},
+ {
+ "persName":
+ "Edvard Hagerup Grieg",
+ "ref":
+ "pmb7535"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Peer Gynt",
+ "ref":
+ "pmb31557"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Rodaun",
+ "ref":
+ "pmb173"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "Liesingerstraße",
+ "ref":
+ "pmb40101"}
+ ,  {
+ "placeName":
+ "Volkstheater",
+ "ref":
+ "pmb20"}
+ ],
+ "listOrg":
+  [
+ {
+ "orgName":
+ "Akademischer Verein für Kunst und Literatur",
+ "ref":
+ "pmb29767"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L03207",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -71,14 +162,14 @@
  "pmb2618"},
  {
  "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
  "pmb2173"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"},
  {
  "persName":
  "Eduard Bacher",
@@ -88,7 +179,12 @@
  "persName":
  "Moriz Benedikt",
  "ref":
- "pmb10875"}],
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
@@ -106,6 +202,11 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Dessauer Straße",
  "ref":
  "pmb40583"}
@@ -114,11 +215,6 @@
  "Brühl",
  "ref":
  "pmb44413"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Hauptstraße 56",
@@ -181,7 +277,7 @@
   [
  {
  "placeName":
- "Hauptstraße 56",
+ "Hauptstraße 56 [Hinterbrühl]",
  "ref":
  ""}
  ]

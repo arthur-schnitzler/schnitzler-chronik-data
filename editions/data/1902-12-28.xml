@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,12 +105,21 @@
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb145973">
-      ?? [Partner von Theodore Rottenberg, Ende 1902/Anfang 1903]
-  </persName>
+                        <persName ref="pmb23674">Theodore Rottenberg</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23674">Theodore Rottenberg</persName>
+                        <persName ref="pmb145973">
+                  ?? [Partner von Theodore Rottenberg, Ende 1902/Anfang 1903]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -120,6 +129,12 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb145714">Fürstenhof [Frankfurt am Main]</placeName>
                      </place>
                      <place>
@@ -127,12 +142,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb145723">Münchener Straße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -154,24 +163,24 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11324">Samuel Fischer</persName>
+                        <persName ref="pmb20328">Leopold Ferdinand Salvator Wölfling</persName>
                      </person>
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb20328">Leopold Ferdinand Salvator Wölfling</persName>
+                        <persName ref="pmb11324">Samuel Fischer</persName>
                      </person>
                      <person>
                         <persName ref="pmb168208">Wilhelmine Adamović</persName>
                      </person>
                      <person>
-                        <persName ref="pmb17058">André Giron</persName>
+                        <persName ref="pmb23855">
+                  Luise von Sachsen
+               </persName>
                      </person>
                      <person>
-                        <persName ref="pmb23855">
-      Luise von Sachsen
-  </persName>
+                        <persName ref="pmb17058">André Giron</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -187,25 +196,25 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb145990">Hotel du Cygne Montreux</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb40482">Montreux</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb562">Genf</placeName>
+                        <placeName ref="pmb145990">Hotel du Cygne Montreux</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1223">Bern</placeName>
+                        <placeName ref="pmb562">Genf</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb468">Europa</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1223">Bern</placeName>
                      </place>
                   </listPlace>
                </desc>

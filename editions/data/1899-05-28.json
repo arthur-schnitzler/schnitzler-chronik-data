@@ -88,14 +88,14 @@
  "pmb91618"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Tiefer Graben 23",
  "ref":
  "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Sigmundsherberg",
@@ -136,19 +136,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Jean Thorel",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
+ "pmb3966"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -156,9 +146,9 @@
  "pmb11740"},
  {
  "persName":
- "Gustav Schwarzkopf",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb12740"},
+ "pmb10863"},
  {
  "persName":
  "Julius Bauer",
@@ -166,14 +156,29 @@
  "pmb2150"},
  {
  "persName":
- "Jean Thorel",
+ "Theodor Herzl",
  "ref":
- "pmb3966"},
+ "pmb11673"},
  {
  "persName":
- "Karl Kraus",
+ "Hermann Bahr",
  "ref":
- "pmb11988"},
+ "pmb10815"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"},
+ {
+ "persName":
+ "Émile Soutif",
+ "ref":
+ "pmb29105"},
  {
  "persName":
  "Stephan Epstein",
@@ -191,26 +196,46 @@
  "pmb23674"},
  {
  "persName":
- "Marie Reinhard",
+ "Karl Kraus",
  "ref":
- "pmb2378"},
+ "pmb11988"},
  {
  "persName":
- "Émile Soutif",
+ "Robert Adam",
  "ref":
- "pmb29105"}],
+ "pmb12438"},
+ {
+ "persName":
+ "Berthold Viertel",
+ "ref":
+ "pmb10364"},
+ {
+ "persName":
+ "Albert Ehrenstein",
+ "ref":
+ "pmb11230"},
+ {
+ "persName":
+ "Fritz Wittels",
+ "ref":
+ "pmb10574"}],
  "listBibl":
   [
  {
  "title":
- "Der grüne Kakadu. Groteske in einem Akt",
- "ref":
- "pmb29843"}
- ,  {
- "title":
  "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
  "ref":
  "pmb32562"}
+ ,  {
+ "title":
+ "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
+ "ref":
+ "pmb92876"}
+ ,  {
+ "title":
+ "Der grüne Kakadu. Groteske in einem Akt",
+ "ref":
+ "pmb29843"}
  ,  {
  "title":
  "Die Fackel",
@@ -218,9 +243,9 @@
  "pmb41244"}
  ,  {
  "title":
- "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
+ "Paracelsus. Versspiel in einem Akt",
  "ref":
- "pmb92876"}
+ "pmb30403"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
@@ -233,16 +258,6 @@
  "pmb29917"}
  ,  {
  "title":
- "Paracelsus. Versspiel in einem Akt",
- "ref":
- "pmb30403"}
- ,  {
- "title":
- "Ein Sommer in China. Reisebilder",
- "ref":
- "pmb33346"}
- ,  {
- "title":
  "Le Perroquet Vert",
  "ref":
  "pmb58363"}
@@ -251,6 +266,11 @@
  "Au Perroquet Vert",
  "ref":
  "pmb58367"}
+ ,  {
+ "title":
+ "Ein Sommer in China. Reisebilder",
+ "ref":
+ "pmb33346"}
  ],
  "listPlace":
   [
@@ -259,11 +279,6 @@
  "Frankfurt am Main",
  "ref":
  "pmb146"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
  ,  {
  "placeName":
  "Wien",
@@ -276,14 +291,19 @@
  "pmb734"}
  ,  {
  "placeName":
- "Dunkirk",
+ "Paris",
  "ref":
- "pmb135081"}
+ "pmb182"}
  ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Dunkirk",
+ "ref":
+ "pmb135081"}
  ,  {
  "placeName":
  "Théâtre Antoine-Simone Berriau",
@@ -299,14 +319,14 @@
  "pmb29351"}
  ,  {
  "orgName":
- "Rütten &amp; Loening",
- "ref":
- "pmb29309"}
- ,  {
- "orgName":
  "S. Fischer Verlag",
  "ref":
  "pmb29639"}
+ ,  {
+ "orgName":
+ "Rütten &amp; Loening",
+ "ref":
+ "pmb29309"}
  ,  {
  "orgName":
  "Frankfurter Zeitung",

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -88,19 +88,25 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1220">Grazer Straße [Bad Ischl]</placeName>
+                        <placeName ref="pmb54">IV., Wieden</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40306">Italien</placeName>
+                        <placeName ref="pmb167805">Kärntnerring 12/Bösendorferstraße 11</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1220">Grazer Straße [Bad Ischl]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40845">Kreuzplatz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -127,10 +133,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb877">Unterach am Attersee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb877">Unterach am Attersee</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -140,6 +146,14 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#55">
+                        <placeName>V., Margareten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb364775">
+                              <placeName>Hundsturm</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
@@ -147,6 +161,9 @@
                               <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
+                     </place>
+                     <place corresp="#pmb54">
+                        <placeName>IV., Wieden</placeName>
                      </place>
                   </listPlace>
                </desc>

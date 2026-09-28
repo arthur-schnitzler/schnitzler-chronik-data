@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -131,13 +131,19 @@
                      <person>
                         <persName ref="pmb28839">Eduard Rutger Verkade</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb2412">William Shakespeare</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29845">Die Gefährtin. Schauspiel in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                        <title ref="pmb58517">Het Vaderland</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30009">Hamlet</title>
@@ -145,43 +151,37 @@
                      <bibl>
                         <title ref="pmb363484">Kunst en letteren. Arthur Schnitzler</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb58517">Het Vaderland</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb159037">Gouda</placeName>
+                        <placeName ref="pmb974">Den Haag</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb159037">Gouda</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207301">Tiefer Graben 17</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb363482">Bleijenburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40709">Amsterdam</placeName>
+                        <placeName ref="pmb58810">Den Haag</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44303">Rotterdam</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40709">Amsterdam</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb58810">Den Haag</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb974">Den Haag</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44016">Niederlande</placeName>

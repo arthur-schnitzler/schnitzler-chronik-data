@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,10 +118,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb20">Volkstheater</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb20">Volkstheater</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -146,6 +146,15 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -155,16 +164,16 @@
                         <title ref="pmb144537">Kleine Chronik. [Berliner Theater.]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144544">Arthur Schnitzler [Lebendige Stunden am Deutschen Theater Berlin]</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29873">Der Puppenspieler. Studie in einem Aufzuge</title>
+                        <title ref="pmb144544">Arthur Schnitzler [Lebendige Stunden am Deutschen Theater Berlin]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb29873">Der Puppenspieler. Studie in einem Aufzuge</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -172,10 +181,10 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>

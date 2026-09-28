@@ -133,6 +133,16 @@
   [
  {
  "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Wollzeile 15 (»Berthahof«)",
  "ref":
  "pmb190427"}
@@ -141,16 +151,6 @@
  "Brühl",
  "ref":
  "pmb44413"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
  ]
 }
 }, {
@@ -181,14 +181,14 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Leopold Sonnemann",
  "ref":
- "pmb10815"},
+ "pmb87771"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Ludwig Speidel",
  "ref":
- "pmb10863"},
+ "pmb12816"},
  {
  "persName":
  "Max Eugen Burckhard",
@@ -201,14 +201,9 @@
  "pmb12618"},
  {
  "persName":
- "Ludwig Speidel",
+ "Stella Hohenfels",
  "ref":
- "pmb12816"},
- {
- "persName":
- "Clemens Sokal",
- "ref":
- "pmb25076"},
+ "pmb2850"},
  {
  "persName":
  "Henri Albert",
@@ -216,14 +211,9 @@
  "pmb2801"},
  {
  "persName":
- "Stella Hohenfels",
+ "Hermann Bahr",
  "ref":
- "pmb2850"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
+ "pmb10815"},
  {
  "persName":
  "André Hallays",
@@ -246,24 +236,29 @@
  "pmb88138"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Édouard Drumont",
  "ref":
  "pmb88149"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Clemens Sokal",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Leopold Krenn",
- "ref":
- "pmb11999"},
+ "pmb25076"},
  {
  "persName":
  "Karl Lindau",
  "ref":
  "pmb20456"},
+ {
+ "persName":
+ "Leopold Krenn",
+ "ref":
+ "pmb11999"},
  {
  "persName":
  "Georg Ruttkay",
@@ -276,9 +271,24 @@
  "pmb4464"},
  {
  "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
  "Louise Schnitzler",
  "ref":
- "pmb12701"}],
+ "pmb12701"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
@@ -298,24 +308,19 @@
  "pmb88148"}
  ,  {
  "title":
- "Les Jeunes Viennois",
- "ref":
- "pmb30441"}
- ,  {
- "title":
  "Das arme Mädel",
  "ref":
  "pmb32630"}
  ,  {
  "title":
- "Die Zeit. Wiener Wochenschrift",
- "ref":
- "pmb36340"}
- ,  {
- "title":
  "Az Est",
  "ref":
  "pmb56283"}
+ ,  {
+ "title":
+ "Les Jeunes Viennois",
+ "ref":
+ "pmb30441"}
  ,  {
  "title":
  "Revue des Revues",
@@ -326,6 +331,11 @@
  "Camille Mauclair",
  "ref":
  "pmb88119"}
+ ,  {
+ "title":
+ "Die Zeit. Wiener Wochenschrift",
+ "ref":
+ "pmb36340"}
  ],
  "listPlace":
   [
@@ -336,9 +346,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Bad Ischl",
+ "Wien",
  "ref":
- "pmb213"}
+ "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -346,13 +356,28 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Wien",
+ "Bad Ischl",
  "ref":
- "pmb50"}
+ "pmb213"}
  ],
  "listOrg":
   [
  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
+ ,  {
+ "orgName":
+ "Volkstheater",
+ "ref":
+ "pmb36430"}
+ ,  {
+ "orgName":
+ "Mercure de France",
+ "ref":
+ "pmb34301"}
+ ,  {
  "orgName":
  "Die Zeit. Wiener Wochenschrift [Redaktion]",
  "ref":
@@ -362,21 +387,6 @@
  "Journal des débats",
  "ref":
  "pmb29221"}
- ,  {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
- "Mercure de France",
- "ref":
- "pmb34301"}
- ,  {
- "orgName":
- "Volkstheater",
- "ref":
- "pmb36430"}
  ,  {
  "orgName":
  "Burgtheater",
@@ -432,14 +442,14 @@
  "pmb182"}
  ,  {
  "placeName":
- "8, rue de Monceau",
- "ref":
- "pmb296731"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "8, rue de Monceau",
+ "ref":
+ "pmb296731"}
  ],
  "listOrg":
   [

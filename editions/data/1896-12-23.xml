@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,10 +99,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                        <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -112,10 +112,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb296">Günthergasse</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb296">Günthergasse</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -137,24 +137,29 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb18882">E. Marlitt</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb154283">Gisela Jurberg</persName>
                      </person>
                      <person>
-                        <persName ref="pmb18882">E. Marlitt</persName>
+                        <persName ref="pmb2495">
+                  Homer
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb296028">Heimkehr [dreiaktige Tragikomödie]</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb296030">Orchideen [Schauspiel in drei Akten]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <title ref="pmb296028">Heimkehr [dreiaktige Tragikomödie]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31011">Odyssee</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
@@ -162,13 +167,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb677">Breslau</placeName>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,19 +108,28 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb142613">»Michael Kramer.«</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb145492">Berliner Brief. [»Schluck und Jau« von Gerhart Hauptmann am Deutschen Theater]</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb29861">Berliner Theater. »Einsame Menschen« im Deutschen Theater</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb145492">Berliner Brief. [»Schluck und Jau« von Gerhart Hauptmann am Deutschen Theater]</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb142613">»Michael Kramer.«</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29879">Einsame Menschen. Drama</title>
@@ -131,10 +140,10 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb714">Hotel Edlacherhof</placeName>

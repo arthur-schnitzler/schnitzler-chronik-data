@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -91,6 +91,107 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-06-06.html</idno>
+            </event>
+            <event when-iso="1895-06-06">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 6. 6. 1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2450">Friedrich Michael Fels</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11324">Samuel Fischer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4785">Theodor Zasche</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9089">Gabor Nobl</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25076">Clemens Sokal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2509">Heinrich Osten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13088">Edmund Wengraf</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb42341">
+                  ?? [Sexualpartnerin von Richard Beer-Hofmann]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31975">Die kleine Komödie</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42334">Collection Fischer</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33962">Das Märchen der 672. Nacht</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb30117">Sterben. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42078">Neue Revue. Wiener Literatur-Zeitung</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb42345">Sterben</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb767">Čáslav</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb628">Böhmen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00450.html</idno>
             </event>
             <event when-iso="1895-06-06">
                <head corresp="#pmb50">Wien</head>

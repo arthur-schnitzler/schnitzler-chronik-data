@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,7 +79,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1898-08-24.html</idno>
             </event>
             <event when-iso="1898-08-24">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 24. 8. 1898</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [23. oder 24]. 8. 1898</head>
                <desc>
                   <listPerson>
                      <person>
@@ -91,31 +91,34 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                        <placeName ref="pmb967">Luzern</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263">Florenz</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40306">Italien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb462">Venedig</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb200956">Hotel St. Gotthard Luzern</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb916">Interlaken</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb88187">Mürren</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb886">Mailand</placeName>
+                        <placeName ref="pmb91221">Meiringen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb90075">Grimselpass</placeName>
@@ -124,13 +127,16 @@
                         <placeName ref="pmb90677">Furka Pass</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb91221">Meiringen</placeName>
+                        <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb916">Interlaken</placeName>
+                        <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb967">Luzern</placeName>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb886">Mailand</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -158,10 +164,13 @@
                         <placeName ref="pmb118678">Yantai</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb141923">Baby Tower Hill</placeName>
+                        <placeName ref="pmb44086">Hong Kong</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb141925">Beach Hotel</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
@@ -170,13 +179,13 @@
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44086">Hong Kong</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb141925">Beach Hotel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb141923">Baby Tower Hill</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb865">Klosterneuburg</placeName>
@@ -204,10 +213,10 @@
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb26392">Leo Van-Jung</persName>
@@ -221,19 +230,19 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30383">Renaissance. Neue Studien zur Kritik der Moderne</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb65540">Über moderne englische Malerei. Rückblick auf die internationale Ausstellung Wien 1894</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb31639">Der Tod des Tizian. Ein Bruchstück</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb65540">Über moderne englische Malerei. Rückblick auf die internationale Ausstellung Wien 1894</title>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
@@ -241,28 +250,28 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb118678">Yantai</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb1108">China</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb118369">Peking</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb118678">Yantai</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb318">Japan</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb37885">Shanghai</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb468">Europa</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb37885">Shanghai</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb88595">Rossertstraße</placeName>
@@ -273,10 +282,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
                      </org>
                   </listOrg>
                </desc>

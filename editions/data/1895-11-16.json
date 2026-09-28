@@ -52,7 +52,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L00513.html",
  "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, 1[6.?] 11. 1895",
+ "Arthur Schnitzler an Richard Beer-Hofmann, [15. oder 16.] 11. 1895",
  "desc":
 {"listPerson":
   [
@@ -65,7 +65,22 @@
  "persName":
  "Richard Beer-Hofmann",
  "ref":
- "pmb10863"}],
+ "pmb10863"},
+ {
+ "persName":
+ "Johann Strauss",
+ "ref":
+ "pmb12867"},
+ {
+ "persName":
+ "Max Kalbeck",
+ "ref":
+ "pmb11857"},
+ {
+ "persName":
+ "Gustav Davis",
+ "ref":
+ "pmb2207"}],
  "listBibl":
   [
  {
@@ -73,15 +88,20 @@
  "Jabuka",
  "ref":
  "pmb42459"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
  "placeName":
  "Wollzeile 15 (»Berthahof«)",
  "ref":
@@ -91,11 +111,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
  ,  {
  "placeName":
  "Theater an der Wien",
@@ -143,32 +158,37 @@
  "persName":
  "Siegmund Karplus",
  "ref":
- "pmb19153"}],
+ "pmb19153"},
+ {
+ "persName":
+ "Otto Eisenschitz",
+ "ref":
+ "pmb4076"}],
  "listBibl":
   [
  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
  "Rechte der Seele. Schauspiel in einem Act",
  "ref":
  "pmb31711"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Ronacher",
- "ref":
- "pmb19"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Ronacher",
+ "ref":
+ "pmb19"}
  ,  {
  "placeName":
  "Burgtheater",

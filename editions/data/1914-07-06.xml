@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,7 +93,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1914-07-06.html</idno>
             </event>
             <event when-iso="1914-07-06">
-               <head>Arthur Schnitzler an Gustav Schwarzkopf, 6. 7. 1914</head>
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [5. oder 6]. 7. 1914</head>
                <desc>
                   <listPerson>
                      <person>
@@ -103,10 +103,10 @@
                         <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
@@ -118,10 +118,10 @@
                         <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb2238">Lili Cappellini</persName>
@@ -129,28 +129,31 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb237">Schloss Leopoldskron</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34344">Weißenbach am Attersee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34946">Pontresina</placeName>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb34344">Weißenbach am Attersee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb237">Schloss Leopoldskron</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb941">Lunz am See</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb12589">Celerina</placeName>
+                        <placeName ref="pmb34946">Pontresina</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb20650">Thusis</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb12589">Celerina</placeName>
                      </place>
                   </listPlace>
                </desc>

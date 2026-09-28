@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -110,13 +110,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb412">Grillparzerstraße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -138,16 +138,9 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb16312">Bertha Flegmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb18523">Paul Horn</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2150">Julius Bauer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb39828">
+                  Waldner
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb24033">Hermine von Schaffgotsch</persName>
@@ -159,17 +152,27 @@
                         <persName ref="pmb27355">Grethe Wreden</persName>
                      </person>
                      <person>
+                        <persName ref="pmb18523">Paul Horn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2150">Julius Bauer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb16312">Bertha Flegmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb39775">Carl Freund</persName>
                      </person>
                      <person>
-                        <persName ref="pmb39828">
-      Waldner
-  </persName>
+                        <persName ref="pmb39829">
+                  Waldner
+               </persName>
                      </person>
                      <person>
-                        <persName ref="pmb39829">
-      Waldner
-  </persName>
+                        <persName ref="pmb20723">Emil Löbl</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -182,22 +185,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41187">Café Tomaselli</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb42502">Dauphiné</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

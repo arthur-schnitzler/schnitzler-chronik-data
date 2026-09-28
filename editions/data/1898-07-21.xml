@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,19 +94,22 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40384">Hotel Bristol Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb521">Bad Gastein</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -134,6 +137,12 @@
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb4986">Fedor Mamroth</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8514">Zacharias Konrad Lecher</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -142,34 +151,34 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1108">China</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb118369">Peking</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb118812">Kiautschou</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb17">Steiermark</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb263">Florenz</placeName>
+                        <placeName ref="pmb37885">Shanghai</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb37885">Shanghai</placeName>
+                        <placeName ref="pmb17">Steiermark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1108">China</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb118812">Kiautschou</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb118369">Peking</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb468">Europa</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34860">Steindorf am Ossiacher See</placeName>
+                        <placeName ref="pmb651">Kärnten</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb651">Kärnten</placeName>
+                        <placeName ref="pmb34860">Steindorf am Ossiacher See</placeName>
                      </place>
                   </listPlace>
                </desc>

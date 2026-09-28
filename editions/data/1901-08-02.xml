@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,21 +92,30 @@
                      <person>
                         <persName ref="pmb2315">Elisabeth Steinrück</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb300314">Irene van Bien</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb300314">Irene van Bien</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb946">Vahrn</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -131,12 +140,6 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb43040">Brixen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43414">Inselhotel Wilhelm Schwelle</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb45268">Föderlach</placeName>
                      </place>
                      <place>
@@ -144,6 +147,12 @@
                      </place>
                      <place>
                         <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43040">Brixen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43414">Inselhotel Wilhelm Schwelle</placeName>
                      </place>
                   </listPlace>
                </desc>

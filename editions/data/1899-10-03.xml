@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,8 +90,8 @@
                      </person>
                      <person>
                         <persName ref="pmb43191">
-      ?? [Schreibkraft der Menükarte 3.10.1899]
-  </persName>
+                  ?? [Schreibkraft der Menükarte 3.10.1899]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -104,7 +104,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb883">Wiesbaden</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40832">Sankt Michael</placeName>
@@ -113,10 +113,10 @@
                         <placeName ref="pmb43055">Hôtel du Parc &amp; Bristol</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb883">Wiesbaden</placeName>
+                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -143,22 +143,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb40260">Bozen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb40832">Sankt Michael</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41083">Mendelpass</placeName>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42210">Caldaro sulla strada del vino</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43052">Eppaner Hof</placeName>
+                        <placeName ref="pmb41083">Mendelpass</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
+                        <placeName ref="pmb43052">Eppaner Hof</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -185,13 +185,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb883">Wiesbaden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -208,28 +208,40 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb13055">Jakob Wassermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb14948">Auguste Glümer</persName>
+                        <persName ref="pmb4216">Alfred Dreyfus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
                      </person>
                      <person>
                         <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4216">Alfred Dreyfus</persName>
+                        <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
                      <person>
                         <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
                         <persName ref="pmb2938">Marie Elsinger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10364">Berthold Viertel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10574">Fritz Wittels</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -242,34 +254,37 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb100693">Polná</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39599">Graben</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb44413">Brühl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb662">Baden bei Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb883">Wiesbaden</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb992">Bad Vöslau</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb883">Wiesbaden</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb993">Bukarest</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb39599">Graben</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb100693">Polná</placeName>
                      </place>
                   </listPlace>
                </desc>

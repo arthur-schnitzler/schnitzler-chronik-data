@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,7 +90,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-08-16.html</idno>
             </event>
             <event when-iso="1894-08-16">
-               <head>Paul Goldmann an Arthur Schnitzler, [Mitte? August 1894]</head>
+               <head>Paul Goldmann an Arthur Schnitzler, [16?. 8. 1894]</head>
                <desc>
                   <listPerson>
                      <person>
@@ -104,6 +104,9 @@
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb230">Österreichischer Hof</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>

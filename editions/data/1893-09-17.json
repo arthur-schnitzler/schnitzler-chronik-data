@@ -78,18 +78,23 @@
   [
  {
  "title":
- "Spaziergang",
- "ref":
- "pmb29819"}
- ,  {
- "title":
  "Wiener Spaziergänge",
  "ref":
  "pmb333704"}
+ ,  {
+ "title":
+ "Spaziergang",
+ "ref":
+ "pmb29819"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
  "placeName":
  "Salesianergasse 12",
  "ref":
@@ -99,11 +104,6 @@
  "Café Griensteidl",
  "ref":
  "pmb34"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {
@@ -116,17 +116,18 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1893-09-17",
  "head":
- "Salzburg",
- "desc":
-{"listPlace":
-  [
- {
- "placeName":
- "Hellbrunn",
- "ref":
- ""}
- ]
-}
+ "Hellbrunn"
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1893-09-17",
+ "head":
+ "Hauptbahnhof Salzburg"
 }, {
  "type":
  "schnitzler-bahr",

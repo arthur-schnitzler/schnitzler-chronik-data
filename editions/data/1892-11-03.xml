@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,6 +94,15 @@
                      <person>
                         <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12201">Guy de Maupassant</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4323">Jacques Normand</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb154426">Leo Gerhard</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -102,16 +111,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -63,34 +63,9 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Georg Brandes",
- "ref":
- "pmb10992"},
- {
- "persName":
- "Stefan Großmann",
- "ref":
- "pmb11527"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
- {
- "persName":
  "Recha Wolff",
  "ref":
  "pmb118064"},
- {
- "persName":
- "Marta Wolff",
- "ref":
- "pmb118066"},
  {
  "persName":
  "Theodor Wolff",
@@ -98,9 +73,34 @@
  "pmb13163"},
  {
  "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Georg Brandes",
+ "ref":
+ "pmb10992"},
+ {
+ "persName":
+ "Theodor Herzl",
+ "ref":
+ "pmb11673"},
+ {
+ "persName":
+ "Stefan Großmann",
+ "ref":
+ "pmb11527"},
+ {
+ "persName":
  "Felix Salten",
  "ref":
  "pmb2167"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
  {
  "persName":
  "Leo Van-Jung",
@@ -108,9 +108,9 @@
  "pmb26392"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Marta Wolff",
  "ref":
- "pmb87771"},
+ "pmb118066"},
  {
  "persName":
  "Maurice Leudet",
@@ -118,24 +118,9 @@
  "pmb112502"},
  {
  "persName":
- "August Krawani",
- "ref":
- "pmb112764"},
- {
- "persName":
  "Samuel Fischer",
  "ref":
  "pmb11324"},
- {
- "persName":
- "Julius von Gans-Ludassy",
- "ref":
- "pmb11406"},
- {
- "persName":
- "Josef Münz",
- "ref":
- "pmb118062"},
  {
  "persName":
  "Olga von Gans-Ludassy",
@@ -143,26 +128,51 @@
  "pmb16902"},
  {
  "persName":
+ "Julius von Gans-Ludassy",
+ "ref":
+ "pmb11406"},
+ {
+ "persName":
+ "August Krawani",
+ "ref":
+ "pmb112764"},
+ {
+ "persName":
  "Julian Sternberg",
  "ref":
  "pmb3021"},
  {
  "persName":
+ "Josef Münz",
+ "ref":
+ "pmb118062"},
+ {
+ "persName":
  "Alfred Dreyfus",
  "ref":
- "pmb4216"}],
+ "pmb4216"},
+ {
+ "persName":
+ "Henri de Rochefort",
+ "ref":
+ "pmb23481"},
+ {
+ "persName":
+ "Václav Kovanda",
+ "ref":
+ "pmb59249"}],
  "listBibl":
   [
  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
  "Le Figaro",
  "ref":
  "pmb88803"}
+ ,  {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ "pmb29899"}
  ,  {
  "title":
  "L’Affaire Millevoye-Goldmann",
@@ -175,9 +185,9 @@
  "pmb118052"}
  ,  {
  "title":
- "Verhaftung eines Wiener Anarchisten in Berlin",
+ "Berliner Börsen-Zeitung",
  "ref":
- "pmb118058"}
+ "pmb54745"}
  ,  {
  "title":
  "Reigen. Zehn Dialoge",
@@ -185,24 +195,24 @@
  "pmb29855"}
  ,  {
  "title":
- "Die Frau des Weisen. Novelletten",
- "ref":
- "pmb32460"}
- ,  {
- "title":
  "Tagebuch",
  "ref":
  "pmb33243"}
  ,  {
  "title":
+ "Die Frau des Weisen. Novelletten",
+ "ref":
+ "pmb32460"}
+ ,  {
+ "title":
+ "Verhaftung eines Wiener Anarchisten in Berlin",
+ "ref":
+ "pmb118058"}
+ ,  {
+ "title":
  "Arbeiter-Zeitung",
  "ref":
  "pmb41202"}
- ,  {
- "title":
- "Berliner Börsen-Zeitung",
- "ref":
- "pmb54745"}
  ,  {
  "title":
  "Frankfurter Zeitung",
@@ -213,24 +223,14 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Deutsches Theater Berlin",
+ "Wien",
  "ref":
- "pmb3"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
+ "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -238,9 +238,19 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Wien",
+ "Kopenhagen",
  "ref":
- "pmb50"}
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Deutsches Theater Berlin",
+ "ref":
+ "pmb3"}
  ,  {
  "placeName":
  "Dänemark",

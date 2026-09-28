@@ -66,31 +66,6 @@
   [
  {
  "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Le due Torri: Garisenda e degli Asinelli",
- "ref":
- "pmb43375"}
- ,  {
- "placeName":
- "Schweiz",
- "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Hôtel du Parc",
- "ref":
- "pmb513"}
- ,  {
- "placeName":
  "Lugano",
  "ref":
  "pmb885"}
@@ -99,6 +74,31 @@
  "Bologna",
  "ref":
  "pmb896"}
+ ,  {
+ "placeName":
+ "Hôtel du Parc",
+ "ref":
+ "pmb513"}
+ ,  {
+ "placeName":
+ "Schweiz",
+ "ref":
+ "pmb43435"}
+ ,  {
+ "placeName":
+ "Le due Torri: Garisenda e degli Asinelli",
+ "ref":
+ "pmb43375"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -128,6 +128,11 @@
  ,  {
  "placeName":
  "Pinacoteca Nazionale di Bologna",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bahnhof Bologna Centrale",
  "ref":
  ""}
  ]
@@ -163,7 +168,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1898-08-31",
  "head":
- "Padua"
+ "Padua",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Stazione di Padova",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "URL",

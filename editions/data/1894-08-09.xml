@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,19 +101,13 @@
                         <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
@@ -121,34 +115,40 @@
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34455">Orange</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40306">Italien</placeName>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb423">Tirol</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                        <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44267">Pisa</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb994">Genua</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb969">Südtirol</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb994">Genua</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -169,8 +169,8 @@
                      <place corresp="#pmb414">
                         <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
                      </place>
-                     <place corresp="#pmb766">
-                        <placeName>Eglmoosgasse</placeName>
+                     <place corresp="#pmb364910">
+                        <placeName>Eglmoosgasse 22</placeName>
                      </place>
                   </listPlace>
                </desc>

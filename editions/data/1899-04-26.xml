@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,13 +106,25 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2150">Julius Bauer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb4216">Alfred Dreyfus</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2150">Julius Bauer</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11988">Karl Kraus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10364">Berthold Viertel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10574">Fritz Wittels</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -120,10 +132,10 @@
                         <title ref="pmb41244">Die Fackel</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb135057">Die Vertreibung aus dem Paradiese</title>
+                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                        <title ref="pmb135057">Die Vertreibung aus dem Paradiese</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -155,6 +167,21 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12438">Robert Adam</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10364">Berthold Viertel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11230">Albert Ehrenstein</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10574">Fritz Wittels</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -163,19 +190,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb39599">Graben</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
+                        <placeName ref="pmb39599">Graben</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

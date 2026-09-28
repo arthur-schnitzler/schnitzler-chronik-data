@@ -49,6 +49,16 @@
  "pmb2121"},
  {
  "persName":
+ "Ottilie Salten",
+ "ref":
+ "pmb23918"},
+ {
+ "persName":
+ "?? [Kinderbetreuerin bei Salten]",
+ "ref":
+ "pmb169265"},
+ {
+ "persName":
  "Julius Elias",
  "ref":
  "pmb11246"},
@@ -59,29 +69,9 @@
  "pmb11813"},
  {
  "persName":
- "Eduard Pötzl",
- "ref":
- "pmb12460"},
- {
- "persName":
- "Paul Schlenther",
- "ref":
- "pmb12671"},
- {
- "persName":
- "?? [Kinderbetreuerin bei Salten]",
- "ref":
- "pmb169265"},
- {
- "persName":
  "Anna Katharina Rehmann",
  "ref":
  "pmb23915"},
- {
- "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
  {
  "persName":
  "Paul Salten",
@@ -89,11 +79,46 @@
  "pmb2922"},
  {
  "persName":
- "das Tennis spielt]
-   
-      ?? [Mädchen",
+ "Paul Schlenther",
  "ref":
- "pmb147714"}],
+ "pmb12671"},
+ {
+ "persName":
+ "Eduard Pötzl",
+ "ref":
+ "pmb12460"},
+ {
+ "persName":
+ "das Tennis spielt]
+                
+                  ?? [Mädchen",
+ "ref":
+ "pmb147714"},
+ {
+ "persName":
+ "Werner Sombart",
+ "ref":
+ "pmb9931"},
+ {
+ "persName":
+ "Richard Strauss",
+ "ref":
+ "pmb12870"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Georg Brandes",
+ "ref":
+ "pmb10992"},
+ {
+ "persName":
+ "Richard Muther",
+ "ref":
+ "pmb12319"}],
  "listBibl":
   [
  {
@@ -103,9 +128,9 @@
  "pmb147719"}
  ,  {
  "title":
- "?? [Englische Reise]",
+ "Der Hund von Florenz",
  "ref":
- "pmb147720"}
+ "pmb76509"}
  ,  {
  "title":
  "Morgen. Wochenschrift für deutsche Kultur",
@@ -113,9 +138,14 @@
  "pmb41630"}
  ,  {
  "title":
- "Der Hund von Florenz",
+ "?? [Englische Reise]",
  "ref":
- "pmb76509"}
+ "pmb147720"}
+ ,  {
+ "title":
+ "Auferstehung. Komödie in einem Akt",
+ "ref":
+ "pmb76503"}
  ,  {
  "title":
  "Der Graf. Komödie in einem Akt",
@@ -128,19 +158,14 @@
  "pmb145239"}
  ,  {
  "title":
- "Der Wiener Korrespondent",
- "ref":
- "pmb31293"}
- ,  {
- "title":
- "Auferstehung. Komödie in einem Akt",
- "ref":
- "pmb76503"}
- ,  {
- "title":
  "Vom andern Ufer. Einakter",
  "ref":
  "pmb76527"}
+ ,  {
+ "title":
+ "Der Wiener Korrespondent",
+ "ref":
+ "pmb31293"}
  ,  {
  "title":
  "Das gelobte Wien",
@@ -151,79 +176,14 @@
   [
  {
  "placeName":
- "Ferdinandquelle",
+ "Marienbad",
  "ref":
- "pmb147704"}
- ,  {
- "placeName":
- "Café Nimrod",
- "ref":
- "pmb147706"}
- ,  {
- "placeName":
- "Hotel Rübezahl",
- "ref":
- "pmb147708"}
- ,  {
- "placeName":
- "Café Egerländer",
- "ref":
- "pmb147710"}
- ,  {
- "placeName":
- "Café Forstwarte",
- "ref":
- "pmb147712"}
- ,  {
- "placeName":
- "Ambrosiusquelle",
- "ref":
- "pmb147717"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "?? [Delikatessenhandlung in Marienbad]",
- "ref":
- "pmb169267"}
- ,  {
- "placeName":
- "Semmering",
- "ref":
- "pmb189"}
- ,  {
- "placeName":
- "Schneeberg",
- "ref":
- "pmb27068"}
- ,  {
- "placeName":
- "Lago di Garda",
- "ref":
- "pmb39975"}
+ "pmb772"}
  ,  {
  "placeName":
  "Welsberg-Taisten",
  "ref":
  "pmb428"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Lviv",
- "ref":
- "pmb46224"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Hotel Quisisana",
@@ -236,14 +196,79 @@
  "pmb708"}
  ,  {
  "placeName":
- "Marienbad",
+ "Ferdinandquelle",
  "ref":
- "pmb772"}
+ "pmb147704"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hotel Rübezahl",
+ "ref":
+ "pmb147708"}
+ ,  {
+ "placeName":
+ "Café Forstwarte",
+ "ref":
+ "pmb147712"}
+ ,  {
+ "placeName":
+ "Café Nimrod",
+ "ref":
+ "pmb147706"}
+ ,  {
+ "placeName":
+ "Café Egerländer",
+ "ref":
+ "pmb147710"}
+ ,  {
+ "placeName":
+ "?? [Delikatessenhandlung in Marienbad]",
+ "ref":
+ "pmb169267"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Lviv",
+ "ref":
+ "pmb46224"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ,  {
  "placeName":
  "Mannheim",
  "ref":
  "pmb881"}
+ ,  {
+ "placeName":
+ "Ambrosiusquelle",
+ "ref":
+ "pmb147717"}
+ ,  {
+ "placeName":
+ "Lago di Garda",
+ "ref":
+ "pmb39975"}
+ ,  {
+ "placeName":
+ "Semmering",
+ "ref":
+ "pmb189"}
+ ,  {
+ "placeName":
+ "Schneeberg",
+ "ref":
+ "pmb27068"}
  ],
  "listOrg":
   [

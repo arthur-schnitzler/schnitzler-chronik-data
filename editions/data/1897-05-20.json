@@ -86,6 +86,11 @@
  "pmb10815"},
  {
  "persName":
+ "Felix Markbreiter",
+ "ref":
+ "pmb21028"},
+ {
+ "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -94,11 +99,6 @@
  "Max Graf",
  "ref":
  "pmb11512"},
- {
- "persName":
- "Felix Markbreiter",
- "ref":
- "pmb21028"},
  {
  "persName":
  "Peter Altenberg",
@@ -126,9 +126,19 @@
   [
  {
  "placeName":
- "Paris",
+ "rue Milton",
  "ref":
- "pmb182"}
+ "pmb43403"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "5, rue de Maubeuge",
+ "ref":
+ "pmb592"}
  ,  {
  "placeName":
  "Wollzeile 15 (»Berthahof«)",
@@ -136,19 +146,9 @@
  "pmb190427"}
  ,  {
  "placeName":
- "Bad Ischl",
+ "Wien",
  "ref":
- "pmb213"}
- ,  {
- "placeName":
- "London",
- "ref":
- "pmb224"}
- ,  {
- "placeName":
- "Honor Oak",
- "ref":
- "pmb402"}
+ "pmb50"}
  ,  {
  "placeName":
  "Österreich",
@@ -156,19 +156,24 @@
  "pmb41240"}
  ,  {
  "placeName":
- "rue Milton",
+ "Paris",
  "ref":
- "pmb43403"}
+ "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "London",
  "ref":
- "pmb50"}
+ "pmb224"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "Bad Ischl",
  "ref":
- "pmb51"}
+ "pmb213"}
+ ,  {
+ "placeName":
+ "Honor Oak",
+ "ref":
+ "pmb402"}
  ]
 }
 }, {
@@ -199,9 +204,9 @@
  "pmb11740"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Felix Markbreiter",
  "ref":
- "pmb10863"},
+ "pmb21028"},
  {
  "persName":
  "Paul Goldmann",
@@ -209,9 +214,9 @@
  "pmb11485"},
  {
  "persName":
- "Felix Markbreiter",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb21028"},
+ "pmb10863"},
  {
  "persName":
  "Hugo August von Hofmannsthal",
@@ -226,19 +231,14 @@
   [
  {
  "placeName":
- "Riesengebirge",
- "ref":
- "pmb169714"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Bad Ischl",
+ "Wien",
  "ref":
- "pmb213"}
+ "pmb50"}
  ,  {
  "placeName":
  "London",
@@ -251,89 +251,19 @@
  "pmb402"}
  ,  {
  "placeName":
- "Wien",
+ "Riesengebirge",
  "ref":
- "pmb50"}
+ "pmb169714"}
  ,  {
  "placeName":
  "Bayreuth",
  "ref":
  "pmb734"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00680",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00680.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 20. 5. 1897",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Peter Altenberg",
- "ref":
- "pmb2147"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"}],
- "listPlace":
-  [
- {
- "placeName":
- "Tiergarten am Schüttel",
- "ref":
- "pmb199854"}
  ,  {
  "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
- ,  {
- "placeName":
- "London",
- "ref":
- "pmb224"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ]
 }
 }, {

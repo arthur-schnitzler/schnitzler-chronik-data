@@ -56,9 +56,9 @@
  "pmb2121"},
  {
  "persName":
- "Georg Hirschfeld",
+ "Jakob Wassermann",
  "ref":
- "pmb11701"},
+ "pmb13055"},
  {
  "persName":
  "Gustav Schwarzkopf",
@@ -66,9 +66,9 @@
  "pmb12740"},
  {
  "persName":
- "Jakob Wassermann",
+ "Georg Hirschfeld",
  "ref":
- "pmb13055"},
+ "pmb11701"},
  {
  "persName":
  "Otto Brahm",
@@ -86,44 +86,19 @@
  "pmb140950"},
  {
  "persName":
- "Josef Rosengart",
- "ref":
- "pmb23593"},
- {
- "persName":
  "Vally Rosengart",
  "ref":
  "pmb34971"},
  {
  "persName":
- "Julius Schnitzler",
+ "Josef Rosengart",
  "ref":
- "pmb12698"},
+ "pmb23593"},
  {
  "persName":
- "Louise Schnitzler",
+ "Clemens von Franckenstein",
  "ref":
- "pmb12701"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
- {
- "persName":
- "Markus Hajek",
- "ref":
- "pmb2284"},
- {
- "persName":
- "Gisela Hajek",
- "ref":
- "pmb2461"},
+ "pmb3130"},
  {
  "persName":
  "Eugen d’Albert",
@@ -131,21 +106,46 @@
  "pmb27633"},
  {
  "persName":
- "Clemens von Franckenstein",
+ "Clementine Goldmann",
  "ref":
- "pmb3130"}],
+ "pmb17163"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
+ {
+ "persName":
+ "Gisela Hajek",
+ "ref":
+ "pmb2461"},
+ {
+ "persName":
+ "Julius Schnitzler",
+ "ref":
+ "pmb12698"},
+ {
+ "persName":
+ "Markus Hajek",
+ "ref":
+ "pmb2284"}],
  "listBibl":
   [
  {
  "title":
- "Reigen. Zehn Dialoge",
- "ref":
- "pmb29855"}
- ,  {
- "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
  "pmb29857"}
+ ,  {
+ "title":
+ "Reigen. Zehn Dialoge",
+ "ref":
+ "pmb29855"}
  ],
  "listPlace":
   [
@@ -156,14 +156,14 @@
  "pmb146"}
  ,  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ,  {
  "placeName":
  "Deutsches Theater Berlin",
@@ -174,14 +174,9 @@
   [
  {
  "orgName":
- "Neue Freie Presse",
+ "Burgtheater",
  "ref":
- "pmb29351"}
- ,  {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
+ "pmb36247"}
  ,  {
  "orgName":
  "Deutsches Theater Berlin",
@@ -189,14 +184,19 @@
  "pmb35597"}
  ,  {
  "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
- ,  {
- "orgName":
  "Schauspielhaus Berlin",
  "ref":
  "pmb55522"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
+ ,  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
  ,  {
  "orgName":
  "A. Entsch",
@@ -207,6 +207,66 @@
  "S. Fischer Verlag",
  "ref":
  "pmb29639"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L03303",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L03303.html",
+ "head":
+ "Felix Salten, Ottilie Metzl an Arthur Schnitzler, [24. oder 25]. 12. 1899",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Ottilie Metzl",
+ "ref":
+ "pmb23918"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Staatsbrücke",
+ "ref":
+ "pmb145772"}
  ]
 }
 }, {

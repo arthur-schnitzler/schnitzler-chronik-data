@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -119,16 +119,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1006">Badgasse</placeName>
+                        <placeName ref="pmb901">Palermo</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43262">Castellaccio di Monreale</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb45264">Monreale</placeName>
@@ -137,7 +131,13 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb901">Palermo</placeName>
+                        <placeName ref="pmb1006">Badgasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43262">Castellaccio di Monreale</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -159,26 +159,77 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1006">Badgasse</placeName>
+                        <placeName ref="pmb901">Palermo</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb45264">Monreale</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb1006">Badgasse</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb43262">Castellaccio di Monreale</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01401.html</idno>
+            </event>
+            <event when-iso="1904-05-16">
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 16. 5. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24648">Max Schwarzkopf</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb300273">Der reine Tor. Gesellschaftsstück in vier Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb901">Palermo</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb45264">Monreale</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb901">Palermo</placeName>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb364211">Chiostro di Monreale</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb906">Taormina</placeName>
                      </place>
                   </listPlace>
                </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01401.html</idno>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04415.html</idno>
             </event>
             <event when-iso="1904-05-16">
                <head corresp="#pmb901">Palermo</head>

@@ -39,6 +39,61 @@
  "color":
  "#A63437",
  "filename":
+ "L01043",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01043.html",
+ "head":
+ "Hugo von Hofmannsthal an Arthur Schnitzler, [27. oder 28]. 5. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Hugo August von Hofmannsthal",
+ "ref":
+ "pmb11737"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "3/3 Post- und Telegraphenamt 49",
+ "ref":
+ "pmb365229"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L01042",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -68,9 +123,9 @@
   [
  {
  "placeName":
- "Wollzeile 15 (»Berthahof«)",
+ "I., Innere Stadt",
  "ref":
- "pmb190427"}
+ "pmb51"}
  ,  {
  "placeName":
  "Wien",
@@ -78,9 +133,9 @@
  "pmb50"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "Wollzeile 15 (»Berthahof«)",
  "ref":
- "pmb51"}
+ "pmb190427"}
  ],
  "listOrg":
   [
@@ -89,61 +144,6 @@
  "Wiener Schachclub",
  "ref":
  "pmb43143"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L01043",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01043.html",
- "head":
- "Hugo von Hofmannsthal an Arthur Schnitzler, 28. 5. 1900",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Hugo August von Hofmannsthal",
- "ref":
- "pmb11737"}],
- "listPlace":
-  [
- {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "III., Landstraße",
- "ref":
- "pmb53"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
  ]
 }
 }, {
@@ -171,7 +171,12 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "pmb2121"}],
+ "pmb2121"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"}],
  "listBibl":
   [
  {
@@ -199,14 +204,14 @@
  "pmb1223"}
  ,  {
  "placeName":
- "Pompeji",
- "ref":
- "pmb1283"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Pompeji",
+ "ref":
+ "pmb1283"}
  ]
 }
 }, {
@@ -226,6 +231,11 @@
  {
  "placeName":
  "IV., Wieden",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
  "ref":
  ""}
  ,  {

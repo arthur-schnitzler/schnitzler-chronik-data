@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,27 +111,36 @@
                      <person>
                         <persName ref="pmb2167">Salten, Felix</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11127">Berta Czegka</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29951">Zum großen Wurstel. Burleske in einem Akt</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb35933">Schiller-Feier</title>
+                        <title ref="pmb35935">Die Zeit</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb35935">Die Zeit</title>
+                        <title ref="pmb35933">Schiller-Feier</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb189">Semmering</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

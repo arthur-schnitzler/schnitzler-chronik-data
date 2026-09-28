@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,13 +103,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb28645">Moritz Coschell</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
                      <person>
                         <persName ref="pmb14953">Marie Glümer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb28645">Moritz Coschell</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -119,12 +119,6 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb129">Grunewald</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb145685">Café Grunewald</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
@@ -132,6 +126,12 @@
                      </place>
                      <place>
                         <placeName ref="pmb53824">Iwano-Frankiwsk</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb129">Grunewald</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb145685">Café Grunewald</placeName>
                      </place>
                   </listPlace>
                </desc>

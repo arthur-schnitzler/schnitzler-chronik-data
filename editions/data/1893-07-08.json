@@ -88,19 +88,19 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
  ,  {
  "placeName":
- "Grillparzerstraße",
+ "Berlin",
  "ref":
- "pmb412"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
+ "ref":
+ "pmb167782"}
  ],
  "listOrg":
   [
@@ -144,6 +144,11 @@
  "pmb10863"},
  {
  "persName":
+ "William Shakespeare",
+ "ref":
+ "pmb2412"},
+ {
+ "persName":
  "Johann Wolfgang von Goethe",
  "ref":
  "pmb11461"},
@@ -156,12 +161,7 @@
  "persName":
  "Friedrich Maximilian von Klinger",
  "ref":
- "pmb19441"},
- {
- "persName":
- "William Shakespeare",
- "ref":
- "pmb2412"}],
+ "pmb19441"}],
  "listBibl":
   [
  {
@@ -184,14 +184,14 @@
   [
  {
  "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
  "Bad Fusch",
  "ref":
  "pmb305739"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ,  {
  "placeName":
  "Kohlmarkt",
@@ -240,11 +240,6 @@
  "pmb2121"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
@@ -255,14 +250,26 @@
  "pmb24651"},
  {
  "persName":
+ "Felix Viktor Wachtel",
+ "ref":
+ "pmb26537"},
+ {
+ "persName":
  "Christine Kepert",
  "ref":
  "pmb24686"},
  {
  "persName":
- "Felix Viktor Wachtel",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb26537"},
+ "pmb10863"},
+ {
+ "persName":
+ "1893]
+                
+                  ?? [Köchin von Gustav Schwarzkopf",
+ "ref":
+ "pmb335138"},
  {
  "persName":
  "Hugo August von Hofmannsthal",
@@ -275,21 +282,14 @@
  "pmb18404"},
  {
  "persName":
- "Emil Schwarzkopf",
- "ref":
- "pmb24645"},
- {
- "persName":
  "Max Schwarzkopf",
  "ref":
  "pmb24648"},
  {
  "persName":
- "1893]
-   
-      ?? [Köchin von Gustav Schwarzkopf",
+ "Emil Schwarzkopf",
  "ref":
- "pmb335138"}],
+ "pmb24645"}],
  "listBibl":
   [
  {
@@ -301,6 +301,11 @@
  "listPlace":
   [
  {
+ "placeName":
+ "Mödling",
+ "ref":
+ "pmb968"}
+ ,  {
  "placeName":
  "Bad Ischl",
  "ref":
@@ -320,11 +325,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Mödling",
- "ref":
- "pmb968"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -88,6 +88,92 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1898-07-14.html</idno>
+            </event>
+            <event when-iso="1898-07-14">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [14. oder 15]. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35493">Steinach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb35496">Schladming</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41003">Bischofshofen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40336">Zell am See</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34191">Bruck an der Großglocknerstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40632">Ferleiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04125.html</idno>
+            </event>
+            <event when-iso="1898-07-14">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [14. oder 15]. 7. 1898</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34014">Villa Dr. Wassing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04128.html</idno>
             </event>
             <event when-iso="1898-07-14">
                <head corresp="#pmb860">Graz</head>

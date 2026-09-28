@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,6 +94,43 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-02-06.html</idno>
             </event>
             <event when-iso="1895-02-06">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 6. 2. 1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb14">Burgtheater</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00419.html</idno>
+            </event>
+            <event when-iso="1895-02-06">
                <head>Paul Goldmann an Arthur Schnitzler, 6. 2. [1895]</head>
                <desc>
                   <listPerson>
@@ -104,16 +141,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11469">Alfred Gold</persName>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
                         <persName ref="pmb12618">Adele Sandrock</persName>
@@ -122,7 +153,19 @@
                         <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11036">Max Eugen Burckhard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11469">Alfred Gold</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb23593">Josef Rosengart</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -133,10 +176,10 @@
                         <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb92681">Arthur Schnitzler: Sterben</title>
@@ -147,13 +190,13 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb424">Bad Tölz</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb424">Bad Tölz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb14">Burgtheater</placeName>

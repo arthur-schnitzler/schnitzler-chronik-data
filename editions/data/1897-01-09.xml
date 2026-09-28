@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -112,13 +112,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb43520">Meran</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296017">Hotel Meranerhof</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -157,7 +157,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1897-01-09</idno>
             </event>
             <event when-iso="1897-01-09">
-               <head>Premiere von Meerleuchten, 9.1.1897</head>
+               <head>Uraufführung von Meerleuchten, 9.1.1897</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -167,12 +167,18 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb77510">Meerleuchten</title>
-                        <note type="relation-type">ist Premiere von</note>
+                        <note type="relation-type">ist Uraufführung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11857">Kalbeck, Max</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10989">Brahms, Johannes</persName>
                      </person>
                   </listPerson>
                   <listPlace>

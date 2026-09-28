@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,42 +108,42 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb26046">Christiane von Thun-Hohenstein-Salm-Reifferscheidt</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb41027">Perugia</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44290">Ravenna</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44514">Gubbio</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44518">Hotel Brufani</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44521">Ancona</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44523">Rimini</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb75">Hinterbrühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44518">Hotel Brufani</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44290">Ravenna</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44523">Rimini</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44521">Ancona</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44514">Gubbio</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41027">Perugia</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -165,7 +165,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb147676">Kleiner Krausel-Tunnel</placeName>
+                        <placeName ref="pmb8281">Klamm</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb968">Mödling</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44510">Hotel Radetzky</placeName>
@@ -174,10 +177,7 @@
                         <placeName ref="pmb75">Hinterbrühl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb8281">Klamm</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb968">Mödling</placeName>
+                        <placeName ref="pmb147676">Kleiner Krausel-Tunnel</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -196,7 +196,7 @@
                         <placeName>Hotel Radetzky</placeName>
                      </place>
                      <place corresp="#pmb145165">
-                        <placeName>Hauptstraße 56</placeName>
+                        <placeName>Hauptstraße 56 [Hinterbrühl]</placeName>
                      </place>
                   </listPlace>
                </desc>

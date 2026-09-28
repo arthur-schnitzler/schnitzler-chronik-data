@@ -89,6 +89,11 @@
  "pmb11740"},
  {
  "persName":
+ "Herschmann",
+ "ref":
+ "pmb34161"},
+ {
+ "persName":
  "Leopold von Andrian-Werburg",
  "ref":
  "pmb10765"},
@@ -102,11 +107,6 @@
  "Ernst von Wolzogen",
  "ref":
  "pmb13169"},
- {
- "persName":
- "Herschmann",
- "ref":
- "pmb34161"},
  {
  "persName":
  "Carl Reinhard",
@@ -144,11 +144,6 @@
  "pmb213"}
  ,  {
  "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
@@ -157,6 +152,11 @@
  "Gmunden",
  "ref":
  "pmb874"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
  ,  {
  "placeName":
  "Stadttheater [Gmunden]",
@@ -199,19 +199,24 @@
  "persName":
  "Georg Hirschfeld",
  "ref":
- "pmb11701"}],
+ "pmb11701"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"}],
  "listBibl":
   [
  {
  "title":
- "Agnes Jordan. Schauspiel in fünf Akten",
- "ref":
- "pmb30474"}
- ,  {
- "title":
  "Wiener Allgemeine Zeitung",
  "ref":
  "pmb39950"}
+ ,  {
+ "title":
+ "Agnes Jordan. Schauspiel in fünf Akten",
+ "ref":
+ "pmb30474"}
  ,  {
  "title":
  "Theater, Kunst und Literatur [Agnes Jordan nicht am Burgtheater]",
@@ -222,19 +227,14 @@
   [
  {
  "placeName":
+ "VIII., Josefstadt",
+ "ref":
+ "pmb58"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Hotel und Pension Rudolfshöhe (Leopold Petter)",
- "ref":
- "pmb414"}
  ,  {
  "placeName":
  "Wien",
@@ -242,9 +242,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "VIII., Josefstadt",
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
  "ref":
- "pmb58"}
+ "pmb414"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
  ],
  "listOrg":
   [

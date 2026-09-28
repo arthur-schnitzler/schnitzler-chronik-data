@@ -98,24 +98,14 @@
   [
  {
  "placeName":
+ "Istanbul",
+ "ref":
+ "pmb966"}
+ ,  {
+ "placeName":
  "Hasenauerstraße 59",
  "ref":
  "pmb235251"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Goldenes Horn",
- "ref":
- "pmb52752"}
  ,  {
  "placeName":
  "XVIII., Währing",
@@ -123,9 +113,79 @@
  "pmb68"}
  ,  {
  "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Goldenes Horn",
+ "ref":
+ "pmb52752"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04460",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04460.html",
+ "head":
+ "Arthur Schnitzler, Lili Cappellini, Arnoldo Cappellini an Gustav Schwarzkopf, 23. 4. 1928",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Lili Cappellini",
+ "ref":
+ "pmb2238"},
+ {
+ "persName":
+ "Arnoldo Cappellini",
+ "ref":
+ "pmb14850"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"}],
+ "listPlace":
+  [
+ {
+ "placeName":
  "Istanbul",
  "ref":
  "pmb966"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Sultan-Ahmed-Moschee",
+ "ref":
+ "pmb246248"}
  ]
 }
 }, {
@@ -156,14 +216,14 @@
  "pmb2312"},
  {
  "persName":
- "Arnoldo Cappellini",
- "ref":
- "pmb14850"},
- {
- "persName":
  "Lili Cappellini",
  "ref":
- "pmb2238"}],
+ "pmb2238"},
+ {
+ "persName":
+ "Arnoldo Cappellini",
+ "ref":
+ "pmb14850"}],
  "listBibl":
   [
  {
@@ -176,6 +236,11 @@
   [
  {
  "placeName":
+ "Istanbul",
+ "ref":
+ "pmb966"}
+ ,  {
+ "placeName":
  "Oppolzergasse 6",
  "ref":
  "pmb235784"}
@@ -184,11 +249,6 @@
  "Österreich",
  "ref":
  "pmb41240"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "I., Innere Stadt",
@@ -201,14 +261,19 @@
  "pmb90386"}
  ,  {
  "placeName":
- "Istanbul",
+ "Triest",
  "ref":
- "pmb966"}
+ "pmb873"}
  ,  {
  "placeName":
  "Korfu",
  "ref":
  "pmb41212"}
+ ,  {
+ "placeName":
+ "Athen",
+ "ref":
+ "pmb505"}
  ,  {
  "placeName":
  "Rhodos",
@@ -221,14 +286,9 @@
  "pmb462"}
  ,  {
  "placeName":
- "Athen",
+ "Wien",
  "ref":
- "pmb505"}
- ,  {
- "placeName":
- "Triest",
- "ref":
- "pmb873"}
+ "pmb50"}
  ],
  "listOrg":
   [

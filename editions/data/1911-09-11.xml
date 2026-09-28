@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -129,9 +129,6 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
                      </person>
                      <person>
@@ -143,6 +140,9 @@
                      <person>
                         <persName ref="pmb3244">Franz von Hofmannsthal</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -151,19 +151,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb506">Hamburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                   </listPlace>
                </desc>

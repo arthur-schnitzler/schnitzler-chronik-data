@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -130,13 +130,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb1239">Meidlinger Hauptstraße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb62">XII., Meidling</placeName>
@@ -144,13 +144,13 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29348">Die Schaubühne [Die Weltbühne]</orgName>
+                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29560">Der Merker</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29639">S. Fischer Verlag</orgName>
+                        <orgName ref="pmb29348">Die Schaubühne [Die Weltbühne]</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -167,10 +167,13 @@
                         <persName ref="pmb13212">Zweig, Stefan</persName>
                      </person>
                      <person>
+                        <persName ref="pmb296098">Stanisław Rzewuski</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb27373">Théodore de Wyzewa</persName>
                      </person>
                      <person>
-                        <persName ref="pmb296098">Stanisław Rzewuski</persName>
+                        <persName ref="pmb23481">Henri de Rochefort</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -183,16 +186,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb249577">Kochgasse 8</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb58">VIII., Josefstadt</placeName>

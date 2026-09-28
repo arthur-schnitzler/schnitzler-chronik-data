@@ -94,14 +94,14 @@
   [
  {
  "placeName":
- "Meidlinger Hauptstraße",
- "ref":
- "pmb1239"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Meidlinger Hauptstraße",
+ "ref":
+ "pmb1239"}
  ]
 }
 }, {
@@ -134,14 +134,19 @@
  "persName":
  "Ludwig van Beethoven",
  "ref":
- "pmb10866"}],
+ "pmb10866"},
+ {
+ "persName":
+ "Richard Strauss",
+ "ref":
+ "pmb12870"}],
  "listBibl":
   [
  {
  "title":
- "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
+ "Symphonie Nr. 3 es-Dur op. 55 »Eroica«",
  "ref":
- "pmb29937"}
+ "pmb30809"}
  ,  {
  "title":
  "Der Rosenkavalier. Komödie für Musik",
@@ -149,9 +154,9 @@
  "pmb30341"}
  ,  {
  "title":
- "Symphonie Nr. 3 es-Dur op. 55 »Eroica«",
+ "Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen",
  "ref":
- "pmb30809"}
+ "pmb29937"}
  ,  {
  "title":
  "Der Weg ins Freie. Roman",
@@ -162,19 +167,14 @@
   [
  {
  "placeName":
- "Rodaun",
- "ref":
- "pmb173"}
- ,  {
- "placeName":
  "Hradec nad Moravicí",
  "ref":
  "pmb36534"}
  ,  {
  "placeName":
- "Opava",
+ "Wien",
  "ref":
- "pmb36539"}
+ "pmb50"}
  ,  {
  "placeName":
  "Schloss Grätz",
@@ -182,9 +182,14 @@
  "pmb36542"}
  ,  {
  "placeName":
- "Wien",
+ "Opava",
  "ref":
- "pmb50"}
+ "pmb36539"}
+ ,  {
+ "placeName":
+ "Rodaun",
+ "ref":
+ "pmb173"}
  ]
 }
 }, {

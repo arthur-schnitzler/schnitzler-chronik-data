@@ -59,14 +59,9 @@
  "pmb2121"},
  {
  "persName":
- "Franz Blei",
+ "Camillo Müller",
  "ref":
- "pmb10955"},
- {
- "persName":
- "Paul Schlenther",
- "ref":
- "pmb12671"},
+ "pmb36407"},
  {
  "persName":
  "Alfred von Winterstein",
@@ -74,19 +69,9 @@
  "pmb13136"},
  {
  "persName":
- "Josefine Glöckner",
+ "Franz Blei",
  "ref":
- "pmb17109"},
- {
- "persName":
- "Adolf Weisse",
- "ref":
- "pmb26880"},
- {
- "persName":
- "Camillo Müller",
- "ref":
- "pmb36407"},
+ "pmb10955"},
  {
  "persName":
  "Thekla Maria Braun",
@@ -94,9 +79,24 @@
  "pmb36427"},
  {
  "persName":
+ "Adolf Weisse",
+ "ref":
+ "pmb26880"},
+ {
+ "persName":
+ "Paul Schlenther",
+ "ref":
+ "pmb12671"},
+ {
+ "persName":
  "Josef Hassreiter",
  "ref":
  "pmb7726"},
+ {
+ "persName":
+ "Josefine Glöckner",
+ "ref":
+ "pmb17109"},
  {
  "persName":
  "Charlotte Waldow",
@@ -106,7 +106,12 @@
  "persName":
  "Christiane Zimmer",
  "ref":
- "pmb3220"}],
+ "pmb3220"},
+ {
+ "persName":
+ "Richard Strauss",
+ "ref":
+ "pmb12870"}],
  "listBibl":
   [
  {
@@ -116,32 +121,22 @@
  "pmb29917"}
  ,  {
  "title":
- "Der Rosenkavalier. Komödie für Musik",
- "ref":
- "pmb30341"}
- ,  {
- "title":
  "[Gedichte]",
  "ref":
  "pmb41642"}
+ ,  {
+ "title":
+ "Der Rosenkavalier. Komödie für Musik",
+ "ref":
+ "pmb30341"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Wipplingerstraße",
- "ref":
- "pmb120"}
- ,  {
- "placeName":
  "Rodaun",
  "ref":
  "pmb173"}
- ,  {
- "placeName":
- "St. Gilgen",
- "ref":
- "pmb33"}
  ,  {
  "placeName":
  "Wien",
@@ -149,9 +144,19 @@
  "pmb50"}
  ,  {
  "placeName":
+ "St. Gilgen",
+ "ref":
+ "pmb33"}
+ ,  {
+ "placeName":
  "Graz",
  "ref":
  "pmb860"}
+ ,  {
+ "placeName":
+ "Wipplingerstraße",
+ "ref":
+ "pmb120"}
  ],
  "listOrg":
   [
@@ -162,11 +167,6 @@
  "pmb34262"}
  ,  {
  "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
- ,  {
- "orgName":
  "Volkstheater",
  "ref":
  "pmb36430"}
@@ -175,6 +175,11 @@
  "Opernballett",
  "ref":
  "pmb44690"}
+ ,  {
+ "orgName":
+ "Burgtheater",
+ "ref":
+ "pmb36247"}
  ,  {
  "orgName":
  "Hyperion",

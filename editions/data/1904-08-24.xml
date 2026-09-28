@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -85,6 +85,42 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-08-24.html</idno>
             </event>
             <event when-iso="1904-08-24">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [24. oder 25]. 8. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9131">Jacques Offenbach</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb77023">Hoffmanns Erzählungen</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04053.html</idno>
+            </event>
+            <event when-iso="1904-08-24">
                <head>Arthur Schnitzler an Hugo von Hofmannsthal, [24. 8. 1904]</head>
                <desc>
                   <listPerson>
@@ -95,13 +131,13 @@
                         <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb24233">Franziska Schlesinger</persName>
@@ -114,31 +150,31 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40260">Bozen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40343">Ponte Gardena</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41156">Burg Salegg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb415">Bad Aussee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb429">Salzkammergut</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43520">Meran</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41156">Burg Salegg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40343">Ponte Gardena</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43520">Meran</placeName>
                      </place>
                   </listPlace>
                </desc>

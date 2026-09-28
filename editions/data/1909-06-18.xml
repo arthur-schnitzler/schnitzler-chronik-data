@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,13 +108,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb33">St. Gilgen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
@@ -122,6 +119,34 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01845.html</idno>
+            </event>
+            <event when-iso="1909-06-18">
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, 18. 6. 1909</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb33">St. Gilgen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04402.html</idno>
             </event>
             <event when-iso="1909-06-18">
                <head>Hermann Bahr an Arthur Schnitzler, 18. 6. 1909</head>
@@ -147,22 +172,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
+                        <placeName ref="pmb843">Santa Maria Elisabetta</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb734">Bayreuth</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb843">Santa Maria Elisabetta</placeName>
+                        <placeName ref="pmb734">Bayreuth</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

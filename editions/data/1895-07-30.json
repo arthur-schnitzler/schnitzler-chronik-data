@@ -78,6 +78,11 @@
   [
  {
  "placeName":
+ "Bad Aussee",
+ "ref":
+ "pmb415"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -86,11 +91,6 @@
  "Villa Fuchs",
  "ref":
  "pmb298721"}
- ,  {
- "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
  ,  {
  "placeName":
  "Paris",
@@ -138,9 +138,9 @@
   [
  {
  "placeName":
- "Traunstein [Berg]",
+ "Gmunden",
  "ref":
- "pmb169709"}
+ "pmb874"}
  ,  {
  "placeName":
  "Bad Ischl",
@@ -148,9 +148,14 @@
  "pmb213"}
  ,  {
  "placeName":
- "Schweiz",
+ "Wien",
  "ref":
- "pmb43435"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Ostende",
+ "ref":
+ "pmb911"}
  ,  {
  "placeName":
  "Scheveningen",
@@ -158,9 +163,9 @@
  "pmb44313"}
  ,  {
  "placeName":
- "Wien",
+ "Karlsbad",
  "ref":
- "pmb50"}
+ "pmb842"}
  ,  {
  "placeName":
  "Marienbad",
@@ -168,19 +173,14 @@
  "pmb772"}
  ,  {
  "placeName":
- "Karlsbad",
+ "Traunstein [Berg]",
  "ref":
- "pmb842"}
+ "pmb169709"}
  ,  {
  "placeName":
- "Gmunden",
+ "Schweiz",
  "ref":
- "pmb874"}
- ,  {
- "placeName":
- "Ostende",
- "ref":
- "pmb911"}
+ "pmb43435"}
  ]
 }
 }, {
@@ -211,19 +211,24 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Elisabeth Kotter",
  "ref":
  "pmb89571"},
  {
  "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
  "Richard Beer-Hofmann",
  "ref":
- "pmb10863"}],
+ "pmb10863"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"}],
  "listBibl":
   [
  {
@@ -238,16 +243,6 @@
  "pmb31535"}
  ,  {
  "title":
- "Die Münchener Kunstausstellungen. II. Im königl. Glaspalast",
- "ref":
- "pmb144701"}
- ,  {
- "title":
- "Die Münchener Kunstausstellungen. I. Im königl. Glaspalast",
- "ref":
- "pmb144705"}
- ,  {
- "title":
  "Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)",
  "ref":
  "pmb144711"}
@@ -256,14 +251,24 @@
  "Wiener Allgemeine Zeitung",
  "ref":
  "pmb39950"}
+ ,  {
+ "title":
+ "Die Münchener Kunstausstellungen. I. Im königl. Glaspalast",
+ "ref":
+ "pmb144705"}
+ ,  {
+ "title":
+ "Die Münchener Kunstausstellungen. II. Im königl. Glaspalast",
+ "ref":
+ "pmb144701"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Rügen",
+ "Wien",
  "ref":
- "pmb142884"}
+ "pmb50"}
  ,  {
  "placeName":
  "Bad Ischl",
@@ -271,19 +276,19 @@
  "pmb213"}
  ,  {
  "placeName":
- "Wien",
+ "Pustertal",
  "ref":
- "pmb50"}
+ "pmb724"}
+ ,  {
+ "placeName":
+ "Rügen",
+ "ref":
+ "pmb142884"}
  ,  {
  "placeName":
  "Heringsdorf",
  "ref":
  "pmb64659"}
- ,  {
- "placeName":
- "Pustertal",
- "ref":
- "pmb724"}
  ,  {
  "placeName":
  "Salzburg",
@@ -332,7 +337,7 @@
  "idno":
  "https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208758.html",
  "head":
- "Aufführung von Tata-Toto. Vaudeville in drei Akten, 30.7.1895",
+ "Aufführung von Tata-Toto, 30.7.1895",
  "desc":
 {"listOrg":
   [

@@ -179,14 +179,14 @@
  "pmb11740"},
  {
  "persName":
- "Heinrich Schnitzler",
- "ref":
- "pmb12692"},
- {
- "persName":
  "Albert Steinrück",
  "ref":
- "pmb12837"}],
+ "pmb12837"},
+ {
+ "persName":
+ "Heinrich Schnitzler",
+ "ref":
+ "pmb12692"}],
  "listBibl":
   [
  {
@@ -204,6 +204,21 @@
   [
  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Mödling",
+ "ref":
+ "pmb968"}
+ ,  {
+ "placeName":
+ "Prater",
+ "ref":
+ "pmb8"}
+ ,  {
+ "placeName":
  "Schloss Schönbrunn",
  "ref":
  "pmb21799"}
@@ -212,21 +227,6 @@
  "Tiergarten Schönbrunn",
  "ref":
  "pmb39607"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Prater",
- "ref":
- "pmb8"}
- ,  {
- "placeName":
- "Mödling",
- "ref":
- "pmb968"}
  ,  {
  "placeName":
  "Wurstelprater",
@@ -317,12 +317,17 @@
  "persName":
  "Theodor Weil",
  "ref":
+ ""},
+ {
+ "persName":
+ "Elisabeth Steinrück",
+ "ref":
  ""}],
  "listPlace":
   [
  {
  "placeName":
- "Mödling",
+ "Sommertheater in Mödling",
  "ref":
  ""}
  ]

@@ -159,11 +159,6 @@
  "pmb2121"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Olga Schnitzler",
  "ref":
  "pmb2173"},
@@ -172,6 +167,11 @@
  "Louise Wolff",
  "ref":
  "pmb27312"},
+ {
+ "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
  {
  "persName":
  "Gerhart Hauptmann",
@@ -186,47 +186,52 @@
  "persName":
  "Lili Cappellini",
  "ref":
- "pmb2238"}],
+ "pmb2238"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
- "title":
- "Eine Gerhart Hauptmann-Première in Lauchstedt. (»Gabriel Schillings Flucht.«)",
- "ref":
- "pmb148387"}
- ,  {
  "title":
  "Gabriel Schillings Flucht. Drama",
  "ref":
  "pmb30357"}
  ,  {
  "title":
- "Tagebuch",
+ "Eine Gerhart Hauptmann-Première in Lauchstedt. (»Gabriel Schillings Flucht.«)",
  "ref":
- "pmb33243"}
+ "pmb148387"}
  ,  {
  "title":
  "Neue Freie Presse",
  "ref":
  "pmb36374"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berlin",
+ "Unterach am Attersee",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Sternwartestraße 71",
- "ref":
- "pmb168815"}
- ,  {
- "placeName":
- "Weimar",
- "ref":
- "pmb197"}
+ "pmb877"}
  ,  {
  "placeName":
  "Berghof",
@@ -234,19 +239,9 @@
  "pmb411"}
  ,  {
  "placeName":
- "Salzkammergut",
+ "Sternwartestraße 71",
  "ref":
- "pmb429"}
- ,  {
- "placeName":
- "Brijuni",
- "ref":
- "pmb45260"}
- ,  {
- "placeName":
- "Landshut",
- "ref":
- "pmb46449"}
+ "pmb168815"}
  ,  {
  "placeName":
  "Wien",
@@ -254,9 +249,19 @@
  "pmb50"}
  ,  {
  "placeName":
+ "Salzkammergut",
+ "ref":
+ "pmb429"}
+ ,  {
+ "placeName":
  "Prag",
  "ref":
  "pmb652"}
+ ,  {
+ "placeName":
+ "Landshut",
+ "ref":
+ "pmb46449"}
  ,  {
  "placeName":
  "Leipzig",
@@ -264,14 +269,24 @@
  "pmb864"}
  ,  {
  "placeName":
+ "Weimar",
+ "ref":
+ "pmb197"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Dresden",
  "ref":
  "pmb866"}
  ,  {
  "placeName":
- "Unterach am Attersee",
+ "Brijuni",
  "ref":
- "pmb877"}
+ "pmb45260"}
  ]
 }
 }, {

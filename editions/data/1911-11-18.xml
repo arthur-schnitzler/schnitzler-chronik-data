@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -142,26 +142,84 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb113">Türkenschanzpark</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb220">Veitlissengasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb63">XIII., Hietzing</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb802">Töpfelgasse</placeName>
                      </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb220">Veitlissengasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb113">Türkenschanzpark</placeName>
+                     </place>
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02047.html</idno>
+            </event>
+            <event when-iso="1911-11-18">
+               <head>Stefan Zweig an Arthur Schnitzler, [18. oder 19]. 11. 1911</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb156849">Paul Morisse</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb295148">Henriette Charasson</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb95201">Mals</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb533">Währinger Cottage</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43520">Meran</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92017">Val Venosta</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293945">Zielspitze</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293947">Gfallwand</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293951">Blasiuszeiger</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293953">Roteck</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb293955">Tschigat</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03629.html</idno>
             </event>
             <event when-iso="1911-11-18">
                <head corresp="#pmb50">Wien</head>

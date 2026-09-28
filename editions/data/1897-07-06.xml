@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,13 +97,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
                      </person>
                      <person>
                         <persName ref="pmb12303">Wolfgang Amadeus Mozart</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb4203">Otto Jahn</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -114,24 +117,24 @@
                         <title ref="pmb34308">Italienische Reise</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb34255">W. A. Mozart</title>
+                        <title ref="pmb34306">Über den Sprachgebrauch bei den Dichtern der Pléjade</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb34306">Über den Sprachgebrauch bei den Dichtern der Pléjade</title>
+                        <title ref="pmb34255">W. A. Mozart</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
+                        <placeName ref="pmb305739">Bad Fusch</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb305739">Bad Fusch</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                   </listPlace>
                </desc>

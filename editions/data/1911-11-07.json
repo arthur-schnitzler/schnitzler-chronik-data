@@ -124,51 +124,46 @@
  "pmb10863"},
  {
  "persName":
- "Paula Beer-Hofmann",
- "ref":
- "pmb10860"},
- {
- "persName":
  "Gabriel Beer-Hofmann",
  "ref":
  "pmb13923"},
  {
  "persName":
- "Naëmah Beer-Hofmann",
+ "Paula Beer-Hofmann",
  "ref":
- "pmb2534"},
+ "pmb10860"},
  {
  "persName":
  "Mirjam Beer-Hofmann",
  "ref":
- "pmb2668"}],
+ "pmb2668"},
+ {
+ "persName":
+ "Naëmah Beer-Hofmann",
+ "ref":
+ "pmb2534"}],
  "listPlace":
   [
  {
- "placeName":
- "Hasenauerstraße 59",
- "ref":
- "pmb235251"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
  "placeName":
  "Hamburg",
  "ref":
  "pmb506"}
  ,  {
  "placeName":
- "Alster",
+ "Hasenauerstraße 59",
  "ref":
- "pmb52304"}
+ "pmb235251"}
  ,  {
  "placeName":
  "XVIII., Währing",
  "ref":
  "pmb68"}
+ ,  {
+ "placeName":
+ "Alster",
+ "ref":
+ "pmb52304"}
  ,  {
  "placeName":
  "Hotel Atlantic",
@@ -211,19 +206,14 @@
   [
  {
  "placeName":
- "Tiefer Graben 17",
- "ref":
- "pmb207301"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Hamburg",
  "ref":
  "pmb506"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 17",
+ "ref":
+ "pmb207301"}
  ,  {
  "placeName":
  "I., Innere Stadt",
@@ -231,14 +221,14 @@
  "pmb51"}
  ,  {
  "placeName":
- "Hotel Atlantic",
- "ref":
- "pmb774"}
- ,  {
- "placeName":
  "Alster",
  "ref":
  "pmb90227"}
+ ,  {
+ "placeName":
+ "Hotel Atlantic",
+ "ref":
+ "pmb774"}
  ]
 }
 }, {
@@ -269,9 +259,9 @@
  "pmb2121"},
  {
  "persName":
- "Josef Kainz",
+ "Maurice Rémon",
  "ref":
- "pmb11851"},
+ "pmb23787"},
  {
  "persName":
  "Lucien Guitry",
@@ -279,14 +269,14 @@
  "pmb17533"},
  {
  "persName":
- "Maurice Rémon",
- "ref":
- "pmb23787"},
- {
- "persName":
  "William Shakespeare",
  "ref":
  "pmb2412"},
+ {
+ "persName":
+ "Josef Kainz",
+ "ref":
+ "pmb11851"},
  {
  "persName":
  "Wilhelm Bauer",
@@ -296,10 +286,30 @@
  "persName":
  "Ivan Sergeevič Turgenev",
  "ref":
- "pmb26238"}],
+ "pmb26238"},
+ {
+ "persName":
+ "Henri de Rochefort",
+ "ref":
+ "pmb23481"},
+ {
+ "persName":
+ "Maurice Vaucaire",
+ "ref":
+ "pmb26414"}],
  "listBibl":
   [
  {
+ "title":
+ "Le Figaro",
+ "ref":
+ "pmb88803"}
+ ,  {
+ "title":
+ "Courrier des Théatres. Au jour le jour. [Shakespeare disait…]",
+ "ref":
+ "pmb300097"}
+ ,  {
  "title":
  "Souper d’Adieu",
  "ref":
@@ -311,37 +321,27 @@
  "pmb30005"}
  ,  {
  "title":
- "Courrier des Théatres. Au jour le jour. [Shakespeare disait…]",
- "ref":
- "pmb300097"}
- ,  {
- "title":
  "Das weite Land. Tragikomödie in fünf Akten",
  "ref":
  "pmb30207"}
  ,  {
  "title":
- "Le Figaro",
+ "Dvorjanskoe gnezdo",
  "ref":
- "pmb88803"}
+ "pmb80013"}
  ,  {
  "title":
  "Das adelige Nest",
  "ref":
  "pmb80007"}
- ,  {
- "title":
- "Dvorjanskoe gnezdo",
- "ref":
- "pmb80013"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Frankreich",
+ "Wien",
  "ref":
- "pmb166"}
+ "pmb50"}
  ,  {
  "placeName":
  "Europa",
@@ -349,34 +349,14 @@
  "pmb468"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Österreich-Ungarn",
  "ref":
  "pmb687"}
  ,  {
  "placeName":
- "Berlin",
+ "Frankreich",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Hamburg",
- "ref":
- "pmb506"}
+ "pmb166"}
  ,  {
  "placeName":
  "Prag",
@@ -384,14 +364,34 @@
  "pmb652"}
  ,  {
  "placeName":
+ "Dresden",
+ "ref":
+ "pmb866"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Hamburg",
+ "ref":
+ "pmb506"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
  "Garmisch-Partenkirchen",
  "ref":
  "pmb667"}
  ,  {
  "placeName":
- "Dresden",
+ "Österreich",
  "ref":
- "pmb866"}
+ "pmb41240"}
  ],
  "listOrg":
   [

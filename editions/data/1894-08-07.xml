@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,39 +109,51 @@
                         <persName ref="pmb65913">Hilda von Mitis</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb143356">Maria Charlotte Lamberg</persName>
+                        <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
                      </person>
                      <person>
                         <persName ref="pmb2477">Ferdinand von Holzinger</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3784">Charlotte Pohl-Glas</persName>
+                        <persName ref="pmb143356">Maria Charlotte Lamberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb65917">Maximilian von Mitis</persName>
                      </person>
                      <person>
                         <persName ref="pmb144670">Maria Pia Mitis</persName>
                      </person>
                      <person>
-                        <persName ref="pmb65917">Maximilian von Mitis</persName>
+                        <persName ref="pmb25793">Julius Szeps</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10928">Otto Julius Bierbaum</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2914">Oskar Bie</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb76513">Die kleine Veronika</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb76518">Heldentod</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
+                        <title ref="pmb76513">Die kleine Veronika</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb36152">Neue Deutsche Rundschau</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
@@ -149,16 +161,13 @@
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb353690">Veronikagasse 25</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb353693">Alser Strasse 42</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb67">XVII., Hernals</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb67">XVII., Hernals</placeName>
+                        <placeName ref="pmb353690">Veronikagasse 25</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb16143">Steyr</placeName>
@@ -174,8 +183,8 @@
                      <place corresp="#pmb414">
                         <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
                      </place>
-                     <place corresp="#pmb766">
-                        <placeName>Eglmoosgasse</placeName>
+                     <place corresp="#pmb364910">
+                        <placeName>Eglmoosgasse 22</placeName>
                      </place>
                   </listPlace>
                </desc>

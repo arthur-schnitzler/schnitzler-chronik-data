@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,6 +99,9 @@
                      <person>
                         <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb2827">Richard Skowronnek</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -128,6 +131,9 @@
                                  </place>
                               </listPlace>
                            </place>
+                           <place corresp="#pmb34">
+                              <placeName>Café Griensteidl</placeName>
+                           </place>
                         </listPlace>
                      </place>
                      <place corresp="#57">
@@ -143,7 +149,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-10-14</idno>
             </event>
             <event when-iso="1893-10-14">
-               <head>Wiener Premiere von Eine Palastrevolution</head>
+               <head>Premiere von Eine Palastrevolution, 14.10.1893</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">

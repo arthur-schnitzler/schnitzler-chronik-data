@@ -63,9 +63,44 @@
  "pmb2121"},
  {
  "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
+ "Alfred Dreyfus",
+ "ref":
+ "pmb4216"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
  "Jean-Louis Forain",
  "ref":
  "pmb112447"},
+ {
+ "persName":
+ "Leo Ebermann",
+ "ref":
+ "pmb2157"},
+ {
+ "persName":
+ "Karl Hillebrand",
+ "ref":
+ "pmb96940"},
+ {
+ "persName":
+ "Friedrich von Schiller",
+ "ref":
+ "pmb12654"},
+ {
+ "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"},
  {
  "persName":
  "Francis Vielé-Griffin",
@@ -78,49 +113,14 @@
  "pmb112477"},
  {
  "persName":
- "Johann Wolfgang von Goethe",
+ "Lucien Millevoye",
  "ref":
- "pmb11461"},
- {
- "persName":
- "Friedrich von Schiller",
- "ref":
- "pmb12654"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"},
- {
- "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Karl Hillebrand",
- "ref":
- "pmb96940"},
+ "pmb21481"},
  {
  "persName":
  "Josephine Clayton",
  "ref":
- "pmb112485"},
- {
- "persName":
- "Lucien Millevoye",
- "ref":
- "pmb21481"}],
+ "pmb112485"}],
  "listBibl":
   [
  {
@@ -135,6 +135,16 @@
  "pmb29917"}
  ,  {
  "title":
+ "Die Enthüllungen über die Affaire Dreyfus",
+ "ref":
+ "pmb88967"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
+ ,  {
+ "title":
  "Freiwild. Schauspiel in 3 Akten",
  "ref":
  "pmb29899"}
@@ -143,16 +153,6 @@
  "Die Athenerin. Drama in drei Aufzügen",
  "ref":
  "pmb30417"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
- "Die Enthüllungen über die Affaire Dreyfus",
- "ref":
- "pmb88967"}
  ,  {
  "title":
  "Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler",
@@ -167,6 +167,36 @@
  "listPlace":
   [
  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
+ ,  {
+ "placeName":
+ "Château de Nazelles",
+ "ref":
+ "pmb182027"}
+ ,  {
  "placeName":
  "Indre-et-Loire",
  "ref":
@@ -183,44 +213,14 @@
  "pmb112491"}
  ,  {
  "placeName":
- "Frankreich",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb166"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Château de Nazelles",
- "ref":
- "pmb182027"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb3"}
  ,  {
  "placeName":
  "Burgtheater",
  "ref":
  "pmb14"}
- ,  {
- "placeName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb3"}
  ],
  "listOrg":
   [
@@ -247,11 +247,27 @@
   [
  {
  "placeName":
+ "III., Landstraße",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
  "IX., Alsergrund",
  "ref":
  ""}
  ]
 }
+}, {
+ "type":
+ "wienerschnitzler",
+ "color":
+ "#6F5106",
+ "caption":
+ "Wiener Schnitzler",
+ "idno":
+ "https://wienerschnitzler.org/tag.html#1896-09-22",
+ "head":
+ "Kaiser-Franz-Ring 54"
 }, {
  "type":
  "kalliope-verbund",

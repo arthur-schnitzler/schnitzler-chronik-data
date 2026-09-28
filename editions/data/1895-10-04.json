@@ -56,14 +56,14 @@
  "pmb2121"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Isidor Singer",
  "ref":
- "pmb12790"}],
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
@@ -76,9 +76,9 @@
   [
  {
  "placeName":
- "Frankgasse 1",
+ "Wien",
  "ref":
- "pmb168934"}
+ "pmb50"}
  ,  {
  "placeName":
  "Günthergasse",
@@ -86,9 +86,9 @@
  "pmb296"}
  ,  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
  ],
  "listOrg":
   [
@@ -127,14 +127,14 @@
  "pmb2121"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
  "Isidor Singer",
  "ref":
- "pmb12790"}],
+ "pmb12790"},
+ {
+ "persName":
+ "Heinrich Kanner",
+ "ref":
+ "pmb11867"}],
  "listBibl":
   [
  {
@@ -147,14 +147,14 @@
   [
  {
  "placeName":
- "Günthergasse",
- "ref":
- "pmb296"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Günthergasse",
+ "ref":
+ "pmb296"}
  ],
  "listOrg":
   [
@@ -198,19 +198,9 @@
  "pmb10863"},
  {
  "persName":
- "Robert Hirschfeld",
+ "Carl Anton Dreher",
  "ref":
- "pmb11707"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "John Henry Mackay",
- "ref":
- "pmb12152"},
+ "pmb42521"},
  {
  "persName":
  "Edmund Wengraf",
@@ -218,19 +208,19 @@
  "pmb13088"},
  {
  "persName":
- "Jakob Julius David",
- "ref":
- "pmb2416"},
- {
- "persName":
  "Heinrich Osten",
  "ref":
  "pmb2509"},
  {
  "persName":
- "Carl Anton Dreher",
+ "Robert Hirschfeld",
  "ref":
- "pmb42521"},
+ "pmb11707"},
+ {
+ "persName":
+ "John Henry Mackay",
+ "ref":
+ "pmb12152"},
  {
  "persName":
  "Karl Friedrich Henckell",
@@ -238,9 +228,14 @@
  "pmb7784"},
  {
  "persName":
- "Meichl",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb42528"},
+ "pmb11740"},
+ {
+ "persName":
+ "Jakob Julius David",
+ "ref":
+ "pmb2416"},
  {
  "persName":
  "Julius Ott",
@@ -250,7 +245,12 @@
  "persName":
  "Anna Elisabetha Ott",
  "ref":
- "pmb43169"}],
+ "pmb43169"},
+ {
+ "persName":
+ "Meichl",
+ "ref":
+ "pmb42528"}],
  "listBibl":
   [
  {
@@ -258,16 +258,6 @@
  "Die Presse",
  "ref":
  "pmb41189"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
- "Ein Regentag. Charakterbild",
- "ref":
- "pmb31905"}
  ,  {
  "title":
  "Die Volkslieder der Bulgaren",
@@ -278,19 +268,29 @@
  "Albert Schnell’s Untergang. Eine Geschichte ohne Handlung",
  "ref":
  "pmb43133"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
+ "Ein Regentag. Charakterbild",
+ "ref":
+ "pmb31905"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Deutschland",
+ "Zürich",
  "ref":
- "pmb151"}
+ "pmb484"}
  ,  {
  "placeName":
- "Amerika",
+ "Wien",
  "ref":
- "pmb175"}
+ "pmb50"}
  ,  {
  "placeName":
  "Schifflände",
@@ -303,19 +303,19 @@
  "pmb42535"}
  ,  {
  "placeName":
+ "Amerika",
+ "ref":
+ "pmb175"}
+ ,  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
+ ,  {
+ "placeName":
  "Schweiz",
  "ref":
  "pmb43435"}
- ,  {
- "placeName":
- "Zürich",
- "ref":
- "pmb484"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [

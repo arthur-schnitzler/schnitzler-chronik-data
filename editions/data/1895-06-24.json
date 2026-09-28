@@ -49,6 +49,11 @@
  "pmb10863"},
  {
  "persName":
+ "Gabor Nobl",
+ "ref":
+ "pmb9089"},
+ {
+ "persName":
  "Lou Andreas-Salomé",
  "ref":
  "pmb10762"},
@@ -59,19 +64,9 @@
  "pmb11485"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Gotthold Ephraim Lessing",
  "ref":
  "pmb12053"},
- {
- "persName":
- "Felix Dörmann",
- "ref":
- "pmb2425"},
  {
  "persName":
  "Eva König",
@@ -79,14 +74,19 @@
  "pmb39761"},
  {
  "persName":
+ "Felix Dörmann",
+ "ref":
+ "pmb2425"},
+ {
+ "persName":
  "Albrecht",
  "ref":
  "pmb43116"},
  {
  "persName":
- "Gabor Nobl",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb9089"},
+ "pmb11740"},
  {
  "persName":
  "Louise Schnitzler",
@@ -96,34 +96,24 @@
  "persName":
  "?? [Schreibkraft für Arthur Schnitzler]",
  "ref":
- "pmb27711"}],
+ "pmb27711"},
+ {
+ "persName":
+ "Voltaire",
+ "ref":
+ "pmb3124"},
+ {
+ "persName":
+ "Friedrich Fuchs",
+ "ref":
+ "pmb36621"}],
  "listBibl":
   [
  {
  "title":
- "Später Ruhm",
- "ref":
- "pmb30073"}
- ,  {
- "title":
  "Das Kind",
  "ref":
  "pmb30437"}
- ,  {
- "title":
- "Der Tod Georgs",
- "ref":
- "pmb31535"}
- ,  {
- "title":
- "Der Eisbrecher",
- "ref":
- "pmb36619"}
- ,  {
- "title":
- "Gelächter",
- "ref":
- "pmb36623"}
  ,  {
  "title":
  "Candide oder der Optimismus",
@@ -131,33 +121,43 @@
  "pmb39768"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "Gelächter",
  "ref":
- "pmb29917"}
+ "pmb36623"}
+ ,  {
+ "title":
+ "Später Ruhm",
+ "ref":
+ "pmb30073"}
+ ,  {
+ "title":
+ "Der Eisbrecher",
+ "ref":
+ "pmb36619"}
+ ,  {
+ "title":
+ "Der Tod Georgs",
+ "ref":
+ "pmb31535"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ,  {
  "title":
  "Lessings Briefwechsel mit seiner Frau",
  "ref":
  "pmb39764"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
  "placeName":
  "I., Innere Stadt",
  "ref":
@@ -167,6 +167,26 @@
  "Čáslav",
  "ref":
  "pmb767"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ,  {
  "placeName":
  "Klosterneuburg",
@@ -202,44 +222,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Leopold Sonnemann",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Max Eugen Burckhard",
- "ref":
- "pmb11036"},
- {
- "persName":
- "Adalbert von Goldschmidt",
- "ref":
- "pmb11491"},
- {
- "persName":
- "Theodor Herzl",
- "ref":
- "pmb11673"},
- {
- "persName":
- "Max Nordau",
- "ref":
- "pmb12365"},
- {
- "persName":
- "Oscar Wilde",
- "ref":
- "pmb13115"},
- {
- "persName":
- "Isidor Fuchs",
- "ref":
- "pmb16781"},
+ "pmb87771"},
  {
  "persName":
  "Henri de Rochefort",
@@ -247,9 +232,84 @@
  "pmb23481"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Oscar Wilde",
  "ref":
- "pmb87771"},
+ "pmb13115"},
+ {
+ "persName":
+ "Max Nordau",
+ "ref":
+ "pmb12365"},
+ {
+ "persName":
+ "Max Eugen Burckhard",
+ "ref":
+ "pmb11036"},
+ {
+ "persName":
+ "Isidor Fuchs",
+ "ref":
+ "pmb16781"},
+ {
+ "persName":
+ "Theodor Herzl",
+ "ref":
+ "pmb11673"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
+ {
+ "persName":
+ "Adalbert von Goldschmidt",
+ "ref":
+ "pmb11491"},
+ {
+ "persName":
+ "Alfred Dreyfus",
+ "ref":
+ "pmb4216"},
+ {
+ "persName":
+ "Paul Adam",
+ "ref":
+ "pmb92677"},
+ {
+ "persName":
+ "Paul Roche",
+ "ref":
+ "pmb92856"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
+ "Suzanne Clauser",
+ "ref":
+ "pmb15015"},
+ {
+ "persName":
+ "Catulle Mendès",
+ "ref":
+ "pmb21317"},
+ {
+ "persName":
+ "Julius Bauer",
+ "ref":
+ "pmb2150"},
+ {
+ "persName":
+ "Reinhold Begas",
+ "ref":
+ "pmb93419"},
  {
  "persName":
  "Alfred von Berger",
@@ -267,9 +327,49 @@
  "pmb11134"},
  {
  "persName":
+ "Georg Davidsohn",
+ "ref":
+ "pmb93425"},
+ {
+ "persName":
  "Max Halbe",
  "ref":
  "pmb11565"},
+ {
+ "persName":
+ "Wilhelm Kienzl",
+ "ref":
+ "pmb8194"},
+ {
+ "persName":
+ "Wilhelm von Knigge",
+ "ref":
+ "pmb43771"},
+ {
+ "persName":
+ "Maurice Kufferath",
+ "ref":
+ "pmb43799"},
+ {
+ "persName":
+ "Charles Lamoureux",
+ "ref":
+ "pmb43822"},
+ {
+ "persName":
+ "Eduard Lassen",
+ "ref":
+ "pmb93432"},
+ {
+ "persName":
+ "Ruggero Leoncavallo",
+ "ref":
+ "pmb20320"},
+ {
+ "persName":
+ "Arthur Levysohn",
+ "ref":
+ "pmb3382"},
  {
  "persName":
  "Josef Lewinsky",
@@ -287,9 +387,24 @@
  "pmb12078"},
  {
  "persName":
+ "Rudolf Lothar",
+ "ref":
+ "pmb2570"},
+ {
+ "persName":
  "Maurice Maeterlinck",
  "ref":
  "pmb12156"},
+ {
+ "persName":
+ "Jules Massenet",
+ "ref":
+ "pmb2467"},
+ {
+ "persName":
+ "Moritz Moszkowski",
+ "ref":
+ "pmb93450"},
  {
  "persName":
  "Felix Mottl",
@@ -297,9 +412,19 @@
  "pmb12300"},
  {
  "persName":
+ "Vittorio Pica",
+ "ref":
+ "pmb93413"},
+ {
+ "persName":
  "Emanuel Reicher",
  "ref":
  "pmb12491"},
+ {
+ "persName":
+ "Marcel Schwob",
+ "ref":
+ "pmb43765"},
  {
  "persName":
  "Johann Strauss",
@@ -312,56 +437,6 @@
  "pmb12899"},
  {
  "persName":
- "Émile Zola",
- "ref":
- "pmb13194"},
- {
- "persName":
- "Suzanne Clauser",
- "ref":
- "pmb15015"},
- {
- "persName":
- "Ruggero Leoncavallo",
- "ref":
- "pmb20320"},
- {
- "persName":
- "Catulle Mendès",
- "ref":
- "pmb21317"},
- {
- "persName":
- "Julius Bauer",
- "ref":
- "pmb2150"},
- {
- "persName":
- "Jules Massenet",
- "ref":
- "pmb2467"},
- {
- "persName":
- "Rudolf Lothar",
- "ref":
- "pmb2570"},
- {
- "persName":
- "Arthur Levysohn",
- "ref":
- "pmb3382"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Alfred Dreyfus",
- "ref":
- "pmb4216"},
- {
- "persName":
  "Viktor Oskar Tilgner",
  "ref":
  "pmb43745"},
@@ -372,29 +447,9 @@
  "pmb43762"},
  {
  "persName":
- "Marcel Schwob",
- "ref":
- "pmb43765"},
- {
- "persName":
- "Wilhelm von Knigge",
- "ref":
- "pmb43771"},
- {
- "persName":
- "Maurice Kufferath",
- "ref":
- "pmb43799"},
- {
- "persName":
  "Sidney Whitman",
  "ref":
  "pmb43820"},
- {
- "persName":
- "Charles Lamoureux",
- "ref":
- "pmb43822"},
  {
  "persName":
  "Hermann Wolff",
@@ -402,44 +457,19 @@
  "pmb62578"},
  {
  "persName":
- "Wilhelm Kienzl",
+ "Émile Zola",
  "ref":
- "pmb8194"},
+ "pmb13194"},
  {
  "persName":
- "Paul Adam",
+ "Oskar Bie",
  "ref":
- "pmb92677"},
+ "pmb2914"},
  {
  "persName":
- "Paul Roche",
+ "Gaspard Vallette",
  "ref":
- "pmb92856"},
- {
- "persName":
- "Vittorio Pica",
- "ref":
- "pmb93413"},
- {
- "persName":
- "Reinhold Begas",
- "ref":
- "pmb93419"},
- {
- "persName":
- "Georg Davidsohn",
- "ref":
- "pmb93425"},
- {
- "persName":
- "Eduard Lassen",
- "ref":
- "pmb93432"},
- {
- "persName":
- "Moritz Moszkowski",
- "ref":
- "pmb93450"}],
+ "pmb40665"}],
  "listBibl":
   [
  {
@@ -449,39 +479,14 @@
  "pmb30117"}
  ,  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
+ "»L’Assaut malicieux«",
  "ref":
- "pmb29917"}
- ,  {
- "title":
- "Gaea. Musikdrama",
- "ref":
- "pmb31763"}
- ,  {
- "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
- "Neue Deutsche Rundschau",
- "ref":
- "pmb36152"}
- ,  {
- "title":
- "Deutsche Zeitung",
- "ref":
- "pmb41471"}
+ "pmb92793"}
  ,  {
  "title":
  "La Revue blanche",
  "ref":
  "pmb88057"}
- ,  {
- "title":
- "»L’Assaut malicieux«",
- "ref":
- "pmb92793"}
  ,  {
  "title":
  "Entartung (2 Bde.)",
@@ -499,14 +504,24 @@
  "pmb92851"}
  ,  {
  "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
  "Liebelei (amourette): pièce en trois actes",
  "ref":
  "pmb92862"}
  ,  {
  "title":
- "Ghea. Poeme dramatique",
+ "Tagebuch",
  "ref":
- "pmb93385"}
+ "pmb33243"}
+ ,  {
+ "title":
+ "Gaea. Musikdrama",
+ "ref":
+ "pmb31763"}
  ,  {
  "title":
  "Adalbert von Goldschmidt",
@@ -514,9 +529,24 @@
  "pmb93394"}
  ,  {
  "title":
+ "Deutsche Zeitung",
+ "ref":
+ "pmb41471"}
+ ,  {
+ "title":
+ "Ghea. Poeme dramatique",
+ "ref":
+ "pmb93385"}
+ ,  {
+ "title":
  "»Gäa«",
  "ref":
  "pmb93400"}
+ ,  {
+ "title":
+ "Neue Deutsche Rundschau",
+ "ref":
+ "pmb36152"}
  ,  {
  "title":
  "Mourir. Roman",
@@ -527,34 +557,9 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "England",
- "ref":
- "pmb254"}
- ,  {
- "placeName":
- "Bad Tölz",
- "ref":
- "pmb424"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
  ,  {
  "placeName":
  "Wien",
@@ -562,14 +567,39 @@
  "pmb50"}
  ,  {
  "placeName":
- "Frankreich",
+ "rue Feydeau",
  "ref":
- "pmb166"}
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "England",
+ "ref":
+ "pmb254"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Bad Tölz",
+ "ref":
+ "pmb424"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
  ,  {
  "placeName":
  "London",
  "ref":
  "pmb224"}
+ ,  {
+ "placeName":
+ "Frankreich",
+ "ref":
+ "pmb166"}
  ,  {
  "placeName":
  "Deutschland",
@@ -580,11 +610,6 @@
   [
  {
  "orgName":
- "Die Zeit. Wiener Wochenschrift [Redaktion]",
- "ref":
- "pmb29209"}
- ,  {
- "orgName":
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
@@ -593,6 +618,11 @@
  "Concordia. Journalisten- und Schriftstellerverein",
  "ref":
  "pmb29752"}
+ ,  {
+ "orgName":
+ "Die Zeit. Wiener Wochenschrift [Redaktion]",
+ "ref":
+ "pmb29209"}
  ,  {
  "orgName":
  "Burgtheater",

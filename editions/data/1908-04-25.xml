@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -127,8 +127,14 @@
                      </person>
                      <person>
                         <persName ref="pmb3527">
-      Raffaello Sanzio da Urbino
-  </persName>
+                  Raffaello Sanzio da Urbino
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -136,10 +142,10 @@
                         <title ref="pmb147773">Die Verzückung der Heiligen Cäcilia</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb169784">Unsichere Reise</title>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                        <title ref="pmb169784">Unsichere Reise</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb35935">Die Zeit</title>
@@ -147,19 +153,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb147771">Pinacoteca Nazionale di Bologna</placeName>
+                        <placeName ref="pmb896">Bologna</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb896">Bologna</placeName>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb147771">Pinacoteca Nazionale di Bologna</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb263">Florenz</placeName>

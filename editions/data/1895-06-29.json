@@ -76,24 +76,14 @@
  "pmb2121"},
  {
  "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
+ {
+ "persName":
  "Lou Andreas-Salomé",
  "ref":
  "pmb10762"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Friedrich Mitterwurzer",
- "ref":
- "pmb12265"},
  {
  "persName":
  "Adolf von Sonnenthal",
@@ -101,9 +91,14 @@
  "pmb12809"},
  {
  "persName":
- "Henry Becque",
+ "Friedrich Mitterwurzer",
  "ref":
- "pmb13897"},
+ "pmb12265"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
  {
  "persName":
  "Albert Langen",
@@ -111,14 +106,14 @@
  "pmb3379"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Henry Becque",
  "ref":
- "pmb87771"},
+ "pmb13897"},
  {
  "persName":
- "Adele Sandrock",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb12618"},
+ "pmb10863"},
  {
  "persName":
  "Felix Salten",
@@ -126,14 +121,24 @@
  "pmb2167"},
  {
  "persName":
+ "Adele Sandrock",
+ "ref":
+ "pmb12618"},
+ {
+ "persName":
+ "Louis Debarge",
+ "ref":
+ "pmb93458"},
+ {
+ "persName":
  "Henri Albert",
  "ref":
  "pmb2801"},
  {
  "persName":
- "Louis Debarge",
+ "Gaspard Vallette",
  "ref":
- "pmb93458"}],
+ "pmb40665"}],
  "listBibl":
   [
  {
@@ -143,14 +148,14 @@
  "pmb36349"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
  "pmb29917"}
+ ,  {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ "pmb29899"}
  ,  {
  "title":
  "Die Frau des Weisen. Erzählung",
@@ -158,14 +163,14 @@
  "pmb30075"}
  ,  {
  "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
- ,  {
- "title":
  "Der Empfindsame. Eine Burleske",
  "ref":
  "pmb33748"}
+ ,  {
+ "title":
+ "Journaux et Revues. [Le dernier numéro]",
+ "ref":
+ "pmb92907"}
  ,  {
  "title":
  "Mourir. Roman",
@@ -173,42 +178,17 @@
  "pmb40662"}
  ,  {
  "title":
- "Journaux et Revues. [Le dernier numéro]",
+ "Sterben. Novelle",
  "ref":
- "pmb92907"}
+ "pmb30117"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Kopenhagen",
- "ref":
- "pmb36300"}
- ,  {
- "placeName":
- "Bad Tölz",
- "ref":
- "pmb424"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
  ,  {
  "placeName":
  "Wien",
@@ -216,14 +196,39 @@
  "pmb50"}
  ,  {
  "placeName":
- "Burgtheater",
+ "rue Feydeau",
  "ref":
- "pmb14"}
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Bad Tölz",
+ "ref":
+ "pmb424"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ,  {
  "placeName":
  "Salzburg",
  "ref":
  "pmb30"}
+ ,  {
+ "placeName":
+ "Burgtheater",
+ "ref":
+ "pmb14"}
  ,  {
  "placeName":
  "Frankreich",
@@ -239,14 +244,14 @@
  "pmb29442"}
  ,  {
  "orgName":
- "Albert Langen",
- "ref":
- "pmb29654"}
- ,  {
- "orgName":
  "La Semaine Littéraire",
  "ref":
  "pmb40684"}
+ ,  {
+ "orgName":
+ "Albert Langen",
+ "ref":
+ "pmb29654"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -126,13 +126,10 @@
                         <persName ref="pmb10860">Beer-Hofmann, Paula</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb27687">Franz August Carl Maria Reisch</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb18492">Michael Honeck</persName>
@@ -143,6 +140,9 @@
                      <person>
                         <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -151,22 +151,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb988">Seis am Schlern</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43520">Meran</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb467">Villa Heufler</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51945">Hotel Salegg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51953">Seiserhof</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
@@ -175,7 +163,25 @@
                         <placeName ref="pmb969">Südtirol</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb988">Seis am Schlern</placeName>
+                        <placeName ref="pmb467">Villa Heufler</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43520">Meran</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296521">Punta Santner</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296523">Burgstall</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb296525">Piccolo Sciliar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51945">Hotel Salegg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51953">Seiserhof</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -203,13 +209,13 @@
                         <placeName ref="pmb988">Seis am Schlern</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb467">Villa Heufler</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb969">Südtirol</placeName>
@@ -225,9 +231,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb296525">Piccolo Sciliar</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb467">Villa Heufler</placeName>
                      </place>
                   </listPlace>
                </desc>

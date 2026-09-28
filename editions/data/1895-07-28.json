@@ -56,19 +56,19 @@
  "pmb11740"},
  {
  "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
  "Arthur Schopenhauer",
  "ref":
  "pmb5787"},
  {
  "persName":
- "Ernst Otto Lindner",
+ "Paul Goldmann",
  "ref":
- "pmb33941"},
+ "pmb11485"},
+ {
+ "persName":
+ "Ludwig Schemann",
+ "ref":
+ "pmb33958"},
  {
  "persName":
  "Julius Frauenstädt",
@@ -76,9 +76,19 @@
  "pmb33945"},
  {
  "persName":
- "Ludwig Schemann",
+ "Ernst Otto Lindner",
  "ref":
- "pmb33958"}],
+ "pmb33941"},
+ {
+ "persName":
+ "Stendhal",
+ "ref":
+ "pmb28820"},
+ {
+ "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"}],
  "listBibl":
   [
  {
@@ -103,14 +113,14 @@
  "pmb33939"}
  ,  {
  "title":
- "Freiwild. Schauspiel in 3 Akten",
- "ref":
- "pmb29899"}
- ,  {
- "title":
  "Die Frau des Weisen. Erzählung",
  "ref":
  "pmb30075"}
+ ,  {
+ "title":
+ "Freiwild. Schauspiel in 3 Akten",
+ "ref":
+ "pmb29899"}
  ],
  "listPlace":
   [
@@ -121,9 +131,9 @@
  "pmb213"}
  ,  {
  "placeName":
- "Kopenhagen",
+ "Wien",
  "ref":
- "pmb36300"}
+ "pmb50"}
  ,  {
  "placeName":
  "Hodonín",
@@ -131,14 +141,14 @@
  "pmb49823"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Strobl",
  "ref":
  "pmb895"}
+ ,  {
+ "placeName":
+ "Kopenhagen",
+ "ref":
+ "pmb36300"}
  ]
 }
 }, {
@@ -174,9 +184,9 @@
  "pmb10863"},
  {
  "persName":
- "Samuel Fischer",
+ "Helene Keßler",
  "ref":
- "pmb11324"},
+ "pmb19296"},
  {
  "persName":
  "Rudolf Goldscheid",
@@ -184,14 +194,14 @@
  "pmb11488"},
  {
  "persName":
+ "Samuel Fischer",
+ "ref":
+ "pmb11324"},
+ {
+ "persName":
  "Oskar Blumenthal",
  "ref":
  "pmb14328"},
- {
- "persName":
- "Helene Keßler",
- "ref":
- "pmb19296"},
  {
  "persName":
  "Alfred Mandl",
@@ -214,14 +224,14 @@
   [
  {
  "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Bad Ischl",
+ "ref":
+ "pmb213"}
  ]
 }
 }, {
@@ -254,6 +264,11 @@
   [
  {
  "placeName":
+ "Bad Aussee",
+ "ref":
+ "pmb415"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -262,11 +277,6 @@
  "Villa Fuchs",
  "ref":
  "pmb298721"}
- ,  {
- "placeName":
- "Bad Aussee",
- "ref":
- "pmb415"}
  ,  {
  "placeName":
  "Paris",

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,16 +103,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb2357">Peter Nansen</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5459">Jeanne Marni</persName>
                      </person>
                      <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2357">Peter Nansen</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb5459">Jeanne Marni</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb5464">Adolf Paul</persName>
@@ -129,27 +129,18 @@
                         <title ref="pmb41547">Svenska Dagbladet</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb33295">Samlede Skrifter [Gesammelte Werke]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33333">Das Dänentum in Südjütland</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1114">Südschleswig</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1119">Stockholm</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb206">Preußen</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
@@ -158,36 +149,45 @@
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44244">Finnland</placeName>
+                        <placeName ref="pmb206">Preußen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44335">Schweden</placeName>
+                        <placeName ref="pmb745">Skandinavien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1114">Südschleswig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44244">Finnland</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb468">Europa</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb166">Frankreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb745">Skandinavien</placeName>
+                        <placeName ref="pmb44335">Schweden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1119">Stockholm</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
+                        <orgName ref="pmb29631">Die Zukunft</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29514">L’Aurore</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29515">Le Siècle</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29631">Die Zukunft</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29517">Svensk Dagbladet</orgName>

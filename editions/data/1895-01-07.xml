@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,8 +118,17 @@
                      </person>
                      <person>
                         <persName ref="pmb299053">
-      ?? [Schreibkraft, die Das neue Ghetto abschreibt]
-  </persName>
+                  ?? [Schreibkraft, die Das neue Ghetto abschreibt]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -135,21 +144,21 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29380">Berliner Theater</orgName>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb35053">Lessing-Theater</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                        <orgName ref="pmb29380">Berliner Theater</orgName>
                      </org>
                   </listOrg>
                </desc>

@@ -53,7 +53,7 @@
  "idno":
  "https://schnitzler-briefe.acdh.oeaw.ac.at/L04398.html",
  "head":
- "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11. 5. 1906?]",
+ "Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [zwischen 7. und 11.? 5. 1906]",
  "desc":
 {"listPerson":
   [
@@ -94,19 +94,14 @@
  "pmb75"}
  ,  {
  "placeName":
- "Wien",
+ "Tiefer Graben 23",
  "ref":
- "pmb50"}
+ "pmb207296"}
  ,  {
  "placeName":
  "I., Innere Stadt",
  "ref":
  "pmb51"}
- ,  {
- "placeName":
- "Tiefer Graben 23",
- "ref":
- "pmb207296"}
  ,  {
  "placeName":
  "Wagnerstraße [Hinterbrühl]",
@@ -154,27 +149,87 @@
  "pmb296343"}
  ,  {
  "title":
- "Monatsschrift für Psychiatrie und Neurologie",
- "ref":
- "pmb296347"}
- ,  {
- "title":
  "Paracelsus. Versspiel in einem Akt",
  "ref":
  "pmb30403"}
+ ,  {
+ "title":
+ "Monatsschrift für Psychiatrie und Neurologie",
+ "ref":
+ "pmb296347"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Berggasse 19",
- "ref":
- "pmb253790"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Berggasse 19",
+ "ref":
+ "pmb253790"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L03423",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L03423.html",
+ "head":
+ "Felix Salten, Paul Lindau, Marie Barthel an Arthur Schnitzler, [8. oder 9]. 5. 1906",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Paul Lindau",
+ "ref":
+ "pmb12078"},
+ {
+ "persName":
+ "Marie Barthel",
+ "ref":
+ "pmb147533"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Wartburg",
+ "ref":
+ "pmb143185"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
+ ,  {
+ "placeName":
+ "XVIII., Währing",
+ "ref":
+ "pmb68"}
  ]
 }
 }, {

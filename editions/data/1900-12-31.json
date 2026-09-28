@@ -31,6 +31,74 @@
  "color":
  "#A63437",
  "filename":
+ "L04086",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04086.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [30. oder 31]. 12. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"}],
+ "listBibl":
+  [
+ {
+ "title":
+ "Hilperich",
+ "ref":
+ "pmb76951"}
+ ],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L03916",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -74,69 +142,6 @@
  "color":
  "#A63437",
  "filename":
- "L04086",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L04086.html",
- "head":
- "Arthur Schnitzler an Gustav Schwarzkopf, 31. 12. 1900",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"}],
- "listBibl":
-  [
- {
- "title":
- "Hilperich",
- "ref":
- "pmb76951"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Tiefer Graben 23",
- "ref":
- "pmb207296"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
  "L02947",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -166,29 +171,34 @@
  "persName":
  "Alfred Kerr",
  "ref":
- "pmb11910"}],
+ "pmb11910"},
+ {
+ "persName":
+ "Max Marschalk",
+ "ref":
+ "pmb21082"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Ernst Benedikt",
+ "ref":
+ "pmb10872"}],
  "listBibl":
   [
  {
  "title":
- "Die Weber. Schauspiel aus den vierziger Jahren",
- "ref":
- "pmb29827"}
- ,  {
- "title":
- "Hanneles Himmelfahrt. Traumdichtung in zwei Teilen",
- "ref":
- "pmb31511"}
- ,  {
- "title":
  "Die versunkene Glocke. Ein deutsches Märchendrama in fünf Aufzügen",
  "ref":
  "pmb31735"}
- ,  {
- "title":
- "Michael Kramer. Drama",
- "ref":
- "pmb32668"}
  ,  {
  "title":
  "Fuhrmann Henschel. Schauspiel in 5 Akten",
@@ -201,42 +211,57 @@
  "pmb76929"}
  ,  {
  "title":
+ "Michael Kramer. Drama",
+ "ref":
+ "pmb32668"}
+ ,  {
+ "title":
+ "Die Weber. Schauspiel aus den vierziger Jahren",
+ "ref":
+ "pmb29827"}
+ ,  {
+ "title":
+ "Hanneles Himmelfahrt. Traumdichtung in zwei Teilen",
+ "ref":
+ "pmb31511"}
+ ,  {
+ "title":
  "»Michael Kramer.«",
  "ref":
  "pmb142613"}
  ,  {
  "title":
- "Der Biberpelz. Eine Diebskomödie",
- "ref":
- "pmb31943"}
- ,  {
- "title":
  "Neue Freie Presse",
  "ref":
  "pmb36374"}
+ ,  {
+ "title":
+ "Der Biberpelz. Eine Diebskomödie",
+ "ref":
+ "pmb31943"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Reuterweg",
- "ref":
- "pmb142610"}
- ,  {
  "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
  ,  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Reuterweg",
+ "ref":
+ "pmb142610"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
  ]
 }
 }, {

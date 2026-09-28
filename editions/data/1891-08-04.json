@@ -56,29 +56,9 @@
  "pmb2121"},
  {
  "persName":
- "Max Eugen Burckhard",
+ "Fedor Mamroth",
  "ref":
- "pmb11036"},
- {
- "persName":
- "Victorien Sardou",
- "ref":
- "pmb12624"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Edmund Wengraf",
- "ref":
- "pmb13088"},
- {
- "persName":
- "Friedrich Kapper",
- "ref":
- "pmb19106"},
+ "pmb4986"},
  {
  "persName":
  "Wilhelm Singer",
@@ -86,79 +66,39 @@
  "pmb2202"},
  {
  "persName":
- "Sophokles",
- "ref":
- "pmb2693"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
  "Karl Schönfeld",
  "ref":
  "pmb88758"},
  {
  "persName":
- "Eduard Bacher",
+ "Max Eugen Burckhard",
  "ref":
- "pmb10809"},
+ "pmb11036"},
  {
  "persName":
- "Hermann Bahr",
+ "Edmund Wengraf",
  "ref":
- "pmb10815"},
+ "pmb13088"},
  {
  "persName":
- "Moriz Benedikt",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb10875"},
+ "pmb12740"},
  {
  "persName":
- "Theodor Herzl",
+ "Sophokles",
  "ref":
- "pmb11673"},
+ "pmb2693"},
  {
  "persName":
- "Paul Heyse",
+ "Victorien Sardou",
  "ref":
- "pmb11691"},
+ "pmb12624"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Friedrich Kapper",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Else Berger",
- "ref":
- "pmb14056"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Gabriele von Haugwitz",
- "ref":
- "pmb17939"},
- {
- "persName":
- "Friedrich Michael Fels",
- "ref":
- "pmb2450"},
- {
- "persName":
- "Olga Waissnix",
- "ref":
- "pmb2453"},
- {
- "persName":
- "Hermann Fürst",
- "ref":
- "pmb28894"},
+ "pmb19106"},
  {
  "persName":
  "Marie Henriette von Österreich",
@@ -171,14 +111,74 @@
  "pmb89266"},
  {
  "persName":
- "Julius Schnitzler",
+ "Hermann Bahr",
  "ref":
- "pmb12698"},
+ "pmb10815"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Eduard Bacher",
+ "ref":
+ "pmb10809"},
+ {
+ "persName":
+ "Moriz Benedikt",
+ "ref":
+ "pmb10875"},
+ {
+ "persName":
+ "Theodor Herzl",
+ "ref":
+ "pmb11673"},
+ {
+ "persName":
+ "Else Berger",
+ "ref":
+ "pmb14056"},
+ {
+ "persName":
+ "Friedrich Michael Fels",
+ "ref":
+ "pmb2450"},
+ {
+ "persName":
+ "Hermann Fürst",
+ "ref":
+ "pmb28894"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
+ {
+ "persName":
+ "Olga Waissnix",
+ "ref":
+ "pmb2453"},
+ {
+ "persName":
+ "Paul Heyse",
+ "ref":
+ "pmb11691"},
+ {
+ "persName":
+ "Gabriele von Haugwitz",
+ "ref":
+ "pmb17939"},
  {
  "persName":
  "Leopold Sonnemann",
  "ref":
- "pmb87771"}],
+ "pmb87771"},
+ {
+ "persName":
+ "Julius Schnitzler",
+ "ref":
+ "pmb12698"}],
  "listBibl":
   [
  {
@@ -193,14 +193,14 @@
  "pmb117914"}
  ,  {
  "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
+ ,  {
+ "title":
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
  "pmb29823"}
- ,  {
- "title":
- "Weihnachts-Einkäufe",
- "ref":
- "pmb30163"}
  ,  {
  "title":
  "Tagebuch",
@@ -208,9 +208,9 @@
  "pmb33243"}
  ,  {
  "title":
- "Frankfurter Zeitung",
+ "Weihnachts-Einkäufe",
  "ref":
- "pmb36344"}
+ "pmb30163"}
  ,  {
  "title":
  "Gute Kameraden",
@@ -226,24 +226,9 @@
   [
  {
  "placeName":
- "Frankfurt am Main",
+ "Brüssel",
  "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
- ,  {
- "placeName":
- "Niederlande",
- "ref":
- "pmb44016"}
+ "pmb862"}
  ,  {
  "placeName":
  "Wien",
@@ -251,9 +236,24 @@
  "pmb50"}
  ,  {
  "placeName":
- "Brüssel",
+ "Frankfurt am Main",
  "ref":
- "pmb862"}
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Niederlande",
+ "ref":
+ "pmb44016"}
  ],
  "listOrg":
   [
@@ -264,14 +264,19 @@
  "pmb29351"}
  ,  {
  "orgName":
+ "Frankfurter Stadttheater",
+ "ref":
+ "pmb88756"}
+ ,  {
+ "orgName":
  "»Freie Bühne« Verein für moderne Literatur",
  "ref":
  "pmb29781"}
  ,  {
  "orgName":
- "Frankfurter Stadttheater",
+ "Internationale Elektrotechnische Ausstellung",
  "ref":
- "pmb88756"}
+ "pmb89260"}
  ,  {
  "orgName":
  "Neues Wiener Tagblatt",
@@ -282,11 +287,6 @@
  "Burgtheater",
  "ref":
  "pmb36247"}
- ,  {
- "orgName":
- "Internationale Elektrotechnische Ausstellung",
- "ref":
- "pmb89260"}
  ,  {
  "orgName":
  "Frankfurter Zeitung",

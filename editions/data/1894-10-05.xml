@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -88,6 +88,34 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1894-10-05.html</idno>
             </event>
             <event when-iso="1894-10-05">
+               <head>Arthur Schnitzler an Gustav Schwarzkopf, [zwischen 4. und
+                  10. 10. 1894?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31975">Die kleine Komödie</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04211.html</idno>
+            </event>
+            <event when-iso="1894-10-05">
                <head>Arthur Schnitzler an Richard Beer-Hofmann, 5. 10. 1894</head>
                <desc>
                   <listPerson>
@@ -98,47 +126,47 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11157">Denis Diderot</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11406">Julius von Gans-Ludassy</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14796">Gaius Iulius Caesar</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2157">Leo Ebermann</persName>
+                        <persName ref="pmb4613">
+                  Guercino
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb39896">Wilhelm Lübke</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4613">
-      Guercino
-  </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8168">Otto Keller</persName>
+                        <persName ref="pmb14796">Gaius Iulius Caesar</persName>
                      </person>
                      <person>
                         <persName ref="pmb9298">Karl Ploetz</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11406">Julius von Gans-Ludassy</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb9577">Karl Rosenkranz</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11157">Denis Diderot</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb8168">Otto Keller</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2157">Leo Ebermann</persName>
                      </person>
                      <person>
                         <persName ref="pmb12201">Guy de Maupassant</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12899">Hermann Sudermann</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb30397">Die Schmetterlingsschlacht. Komödie in 4 Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30417">Die Athenerin. Drama in drei Aufzügen</title>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39886">Diderots Leben und Werke</title>
@@ -147,19 +175,31 @@
                         <title ref="pmb39887">Geschichte der Musik</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb30417">Die Athenerin. Drama in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb32368">Die Verstoßung der Hagar</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb39882">Die Schwestern Rondoli</title>
+                        <title ref="pmb39899">Grundriß der Kunstgeschichte</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb39893">Auszug aus der alten, mittleren und neueren Geschichte</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb39899">Grundriß der Kunstgeschichte</title>
+                        <title ref="pmb39882">Die Schwestern Rondoli</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb769">Hotel Quirinale</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
@@ -167,16 +207,7 @@
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb445">Rom</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb769">Hotel Quirinale</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb886">Mailand</placeName>
@@ -203,25 +234,28 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb445">Rom</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263">Florenz</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41957">Santa Croce [Florenz]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb445">Rom</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41957">Santa Croce [Florenz]</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,28 +118,37 @@
                      </person>
                      <person>
                         <persName ref="pmb28820">
-      Stendhal
-  </persName>
+                  Stendhal
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb122197">Das Inselschiff. Eine Zweimonatsschrift</title>
+                        <title ref="pmb296427">Die Heldenzeit der Abenteurer. (Aus einem größeren Essay über Casanova)</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296367">Bildnis Stendhals</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296422">Casanova [Inselschiff]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296427">Die Heldenzeit der Abenteurer. (Aus einem größeren Essay über Casanova)</title>
+                        <title ref="pmb122197">Das Inselschiff. Eine Zweimonatsschrift</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb296436">Lebensbildnis Stendhals</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb296367">Bildnis Stendhals</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb41531">Berliner Tageblatt</title>
@@ -153,19 +162,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb253003">Paschinger Schlössl</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb44292">Rhodos</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -174,10 +183,13 @@
                         <placeName ref="pmb505">Athen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                        <placeName ref="pmb966">Istanbul</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb966">Istanbul</placeName>
+                        <placeName ref="pmb44292">Rhodos</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb462">Venedig</placeName>
                      </place>
                   </listPlace>
                </desc>

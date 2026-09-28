@@ -98,24 +98,29 @@
  "pmb11324"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Wilhelm Karczag",
  "ref":
- "pmb11740"},
- {
- "persName":
- "Alma Maria Mahler-Werfel",
- "ref":
- "pmb12160"},
- {
- "persName":
- "Carl Moll",
- "ref":
- "pmb12277"},
+ "pmb3105"},
  {
  "persName":
  "Lucien Besnard",
  "ref":
  "pmb14156"},
+ {
+ "persName":
+ "Paul Géraldy",
+ "ref":
+ "pmb3138"},
+ {
+ "persName":
+ "Leopold Spachner",
+ "ref":
+ "pmb25150"},
+ {
+ "persName":
+ "Bertha Kalich",
+ "ref":
+ "pmb19023"},
  {
  "persName":
  "Emma Cabire",
@@ -128,19 +133,19 @@
  "pmb18065"},
  {
  "persName":
- "Bertha Kalich",
+ "Max Pallenberg",
  "ref":
- "pmb19023"},
+ "pmb9190"},
  {
  "persName":
- "Fritzi Massary",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb21142"},
+ "pmb11740"},
  {
  "persName":
- "Anna Sofie Moll",
+ "Alma Maria Mahler-Werfel",
  "ref":
- "pmb21540"},
+ "pmb12160"},
  {
  "persName":
  "Felix Salten",
@@ -148,44 +153,29 @@
  "pmb2167"},
  {
  "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
  "Ottilie Salten",
  "ref":
  "pmb23918"},
  {
  "persName":
- "Leopold Spachner",
+ "Carl Moll",
  "ref":
- "pmb25150"},
+ "pmb12277"},
  {
  "persName":
- "Wilhelm Karczag",
+ "Anna Sofie Moll",
  "ref":
- "pmb3105"},
+ "pmb21540"},
  {
  "persName":
- "Paul Géraldy",
+ "Fritzi Massary",
  "ref":
- "pmb3138"},
+ "pmb21142"},
  {
  "persName":
- "Max Pallenberg",
+ "Olga Schnitzler",
  "ref":
- "pmb9190"},
- {
- "persName":
- "Leo Greiner",
- "ref":
- "pmb11515"},
- {
- "persName":
- "Charles Edwin Wheeler",
- "ref":
- "pmb27050"},
+ "pmb2173"},
  {
  "persName":
  "Cyril Maude",
@@ -198,9 +188,14 @@
  "pmb5369"},
  {
  "persName":
- "Sophie Clemenceau",
+ "Charles Edwin Wheeler",
  "ref":
- "pmb15024"},
+ "pmb27050"},
+ {
+ "persName":
+ "Leo Greiner",
+ "ref":
+ "pmb11515"},
  {
  "persName":
  "Hofmann",
@@ -210,14 +205,24 @@
  "persName":
  "George Sylvester Viereck",
  "ref":
- "pmb5248"}],
+ "pmb5248"},
+ {
+ "persName":
+ "Sophie Clemenceau",
+ "ref":
+ "pmb15024"},
+ {
+ "persName":
+ "George Valentine Williams",
+ "ref":
+ "pmb89711"}],
  "listBibl":
   [
  {
  "title":
- "Das Märchen. Schauspiel in drei Aufzügen",
+ "Liebelei. Schauspiel in drei Akten",
  "ref":
- "pmb29823"}
+ "pmb29917"}
  ,  {
  "title":
  "Der grüne Kakadu. Groteske in einem Akt",
@@ -225,19 +230,14 @@
  "pmb29843"}
  ,  {
  "title":
- "Lebendige Stunden. Vier Einakter",
+ "Das Märchen. English version",
  "ref":
- "pmb29863"}
+ "pmb299386"}
  ,  {
  "title":
- "Zwischenspiel. Komödie in drei Akten",
+ "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
- "pmb29903"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
+ "pmb29823"}
  ,  {
  "title":
  "Anatol",
@@ -245,14 +245,19 @@
  "pmb29935"}
  ,  {
  "title":
- "Das Märchen. English version",
+ "Anatol. A Sequence of Dialogues by Arthur Schnitzler. Paraphrased for the English Stage",
  "ref":
- "pmb299386"}
+ "pmb62365"}
  ,  {
  "title":
  "Professor Bernhardi. Komödie in fünf Akten",
  "ref":
  "pmb30203"}
+ ,  {
+ "title":
+ "Zwischenspiel. Komödie in drei Akten",
+ "ref":
+ "pmb29903"}
  ,  {
  "title":
  "Das weite Land. Tragikomödie in fünf Akten",
@@ -265,9 +270,9 @@
  "pmb30717"}
  ,  {
  "title":
- "Anatol. A Sequence of Dialogues by Arthur Schnitzler. Paraphrased for the English Stage",
+ "Lebendige Stunden. Vier Einakter",
  "ref":
- "pmb62365"}
+ "pmb29863"}
  ,  {
  "title":
  "Der Unbestechliche. Lustspiel in fünf Akten",
@@ -275,18 +280,23 @@
  "pmb76479"}
  ,  {
  "title":
- "Daily express",
- "ref":
- "pmb299384"}
- ,  {
- "title":
  "Light o’ Love",
  "ref":
  "pmb89721"}
+ ,  {
+ "title":
+ "Daily express",
+ "ref":
+ "pmb299384"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
  "placeName":
  "Paris",
  "ref":
@@ -303,29 +313,14 @@
  "pmb43406"}
  ,  {
  "placeName":
- "Dänemark",
- "ref":
- "pmb43570"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Skandinavien",
  "ref":
  "pmb745"}
  ,  {
  "placeName":
- "Stockholm",
+ "Dänemark",
  "ref":
- "pmb1119"}
- ,  {
- "placeName":
- "London",
- "ref":
- "pmb224"}
+ "pmb43570"}
  ,  {
  "placeName":
  "Little Theatre in the Adelphi",
@@ -333,9 +328,19 @@
  "pmb333571"}
  ,  {
  "placeName":
+ "London",
+ "ref":
+ "pmb224"}
+ ,  {
+ "placeName":
  "Kopenhagen",
  "ref":
  "pmb36300"}
+ ,  {
+ "placeName":
+ "Stockholm",
+ "ref":
+ "pmb1119"}
  ],
  "listOrg":
   [
@@ -346,14 +351,9 @@
  "pmb299415"}
  ,  {
  "orgName":
- "S. Fischer Verlag",
+ "Royal Court Theatre",
  "ref":
- "pmb29639"}
- ,  {
- "orgName":
- "Adelphi Play Society",
- "ref":
- "pmb299393"}
+ "pmb89673"}
  ,  {
  "orgName":
  "Theatre Royal Haymarket",
@@ -361,9 +361,14 @@
  "pmb60688"}
  ,  {
  "orgName":
- "Royal Court Theatre",
+ "Adelphi Play Society",
  "ref":
- "pmb89673"}
+ "pmb299393"}
+ ,  {
+ "orgName":
+ "S. Fischer Verlag",
+ "ref":
+ "pmb29639"}
  ]
 }
 }, {

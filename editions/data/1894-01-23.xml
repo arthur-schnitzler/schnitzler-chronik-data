@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,6 +103,15 @@
                      <person>
                         <persName ref="pmb12695">Johann Schnitzler</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11098">Michael Georg Conrad</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2509">Heinrich Osten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11988">Karl Kraus</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -148,21 +157,24 @@
                         <title ref="pmb79030">Der Junggesell. Humoreske</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb52212">Pester Lloyd</title>
+                        <title ref="pmb88273">Heirathen oder nicht?</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb88273">Heirathen oder nicht?</title>
+                        <title ref="pmb52212">Pester Lloyd</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb87780">place de la Bourse</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
@@ -171,10 +183,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb87780">place de la Bourse</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

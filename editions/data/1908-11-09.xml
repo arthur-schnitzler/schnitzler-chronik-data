@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,10 +111,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -166,19 +166,22 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29833">Die Toten schweigen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
+                        <title ref="pmb29935">Anatol</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29935">Anatol</title>
+                        <title ref="pmb29843">Der grüne Kakadu. Groteske in einem Akt</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29855">Reigen. Zehn Dialoge</title>
@@ -186,25 +189,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb1133">Rotes Schloss</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1134">Kongresshaus Zürich</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb1142">Neumünster</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb484">Zürich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1133">Rotes Schloss</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1134">Kongresshaus Zürich</placeName>
                      </place>
                   </listPlace>
                </desc>

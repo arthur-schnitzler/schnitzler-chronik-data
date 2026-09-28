@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -144,6 +144,9 @@
                      <person>
                         <persName ref="pmb16658">Louis Philipp Friedmann</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb12870">Richard Strauss</persName>
+                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -158,19 +161,19 @@
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb44493">Tutzing</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44495">Villa Friedmann</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb992">Bad Vöslau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb75">Hinterbrühl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb992">Bad Vöslau</placeName>
+                        <placeName ref="pmb44495">Villa Friedmann</placeName>
                      </place>
                   </listPlace>
                </desc>

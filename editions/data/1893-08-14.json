@@ -66,9 +66,9 @@
  "pmb2167"},
  {
  "persName":
- "Paul Goldmann",
+ "Marie Glümer",
  "ref":
- "pmb11485"},
+ "pmb14953"},
  {
  "persName":
  "Oskar Blumenthal",
@@ -76,24 +76,24 @@
  "pmb14328"},
  {
  "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
  "Antonie Cuny-Pierron",
  "ref":
  "pmb15393"},
  {
  "persName":
- "Rudolf Eduard von Cuny-Pierron",
+ "Paul Goldmann",
  "ref":
- "pmb22574"},
+ "pmb11485"},
  {
  "persName":
  "Josefine Lydia von Weisswasser",
  "ref":
  "pmb26888"},
+ {
+ "persName":
+ "Rudolf Eduard von Cuny-Pierron",
+ "ref":
+ "pmb22574"},
  {
  "persName":
  "Heinrich Schnitzler",
@@ -108,7 +108,17 @@
  "persName":
  "Gisela Fischer",
  "ref":
- "pmb16272"}],
+ "pmb16272"},
+ {
+ "persName":
+ "Adolf Bergmann",
+ "ref":
+ "pmb14080"},
+ {
+ "persName":
+ "Johann Wolfgang von Goethe",
+ "ref":
+ "pmb11461"}],
  "listBibl":
   [
  {
@@ -118,52 +128,32 @@
  "pmb31269"}
  ,  {
  "title":
- "Abschiedssouper",
- "ref":
- "pmb30005"}
- ,  {
- "title":
  "Faust. Eine Tragödie",
  "ref":
  "pmb30247"}
+ ,  {
+ "title":
+ "Abschiedssouper",
+ "ref":
+ "pmb30005"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Diglas’ Restaurant »Zur schönen Aussicht«",
- "ref":
- "pmb142836"}
- ,  {
- "placeName":
- "Heiligenstadt",
- "ref":
- "pmb159"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Linz",
- "ref":
- "pmb332"}
- ,  {
- "placeName":
- "Brühl",
- "ref":
- "pmb44413"}
- ,  {
  "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Baden bei Wien",
+ "Dölsach",
  "ref":
- "pmb662"}
+ "pmb945"}
+ ,  {
+ "placeName":
+ "Diglas’ Restaurant »Zur schönen Aussicht«",
+ "ref":
+ "pmb142836"}
  ,  {
  "placeName":
  "XIX., Döbling",
@@ -171,14 +161,34 @@
  "pmb69"}
  ,  {
  "placeName":
+ "Heiligenstadt",
+ "ref":
+ "pmb159"}
+ ,  {
+ "placeName":
  "Klosterneuburg",
  "ref":
  "pmb865"}
  ,  {
  "placeName":
- "Dölsach",
+ "Salzburg",
  "ref":
- "pmb945"}
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Brühl",
+ "ref":
+ "pmb44413"}
+ ,  {
+ "placeName":
+ "Baden bei Wien",
+ "ref":
+ "pmb662"}
+ ,  {
+ "placeName":
+ "Linz",
+ "ref":
+ "pmb332"}
  ,  {
  "placeName":
  "Lienz",
@@ -216,24 +226,9 @@
   [
  {
  "placeName":
- "Pieve di Cadore",
- "ref":
- "pmb34112"}
- ,  {
- "placeName":
  "Cortina d’Ampezzo",
  "ref":
  "pmb34199"}
- ,  {
- "placeName":
- "Grillparzerstraße",
- "ref":
- "pmb412"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "I., Innere Stadt",
@@ -241,19 +236,24 @@
  "pmb51"}
  ,  {
  "placeName":
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
+ "ref":
+ "pmb167782"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Pieve di Cadore",
+ "ref":
+ "pmb34112"}
+ ,  {
+ "placeName":
  "Höhlenstein",
  "ref":
  "pmb758"}
- ,  {
- "placeName":
- "Steiermark",
- "ref":
- "pmb17"}
- ,  {
- "placeName":
- "Kärnten",
- "ref":
- "pmb651"}
  ,  {
  "placeName":
  "Dölsach",
@@ -264,6 +264,16 @@
  "Toblach",
  "ref":
  "pmb987"}
+ ,  {
+ "placeName":
+ "Kärnten",
+ "ref":
+ "pmb651"}
+ ,  {
+ "placeName":
+ "Steiermark",
+ "ref":
+ "pmb17"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,16 +97,16 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb334897">Bücher und Zeitschriftenschau [Frau Bertha Garlan]</title>
@@ -142,11 +142,6 @@
                         <persName ref="pmb12740">Gustav Schwarzkopf</persName>
                      </person>
                      <person>
-                        <persName ref="pmb335051">
-      ?? [Herausgeber einer reichsdeutschen Zeitschrift]
-  </persName>
-                     </person>
-                     <person>
                         <persName ref="pmb335055">?? [Vater] Sosnosky</persName>
                      </person>
                      <person>
@@ -154,13 +149,21 @@
                      </person>
                      <person>
                         <persName ref="pmb335060">
-      ?? [Großvater mütterlicherseits von Theodor von Sosnosky]
-  </persName>
+                  ?? [Großvater mütterlicherseits von Theodor von Sosnosky]
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb335062">
-      ?? [Urgroßvater von Theodor von Sosnosky]
-  </persName>
+                  ?? [Urgroßvater von Theodor von Sosnosky]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb335051">
+                  ?? [Herausgeber einer reichsdeutschen Zeitschrift]
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -168,25 +171,25 @@
                         <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29855">Reigen. Zehn Dialoge</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <title ref="pmb58341">Das literarische Echo</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30219">Das Vermächtnis. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30486">Frau Bertha Garlan. Roman</title>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb41321">Neues Wiener Tagblatt</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb58341">Das literarische Echo</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb334897">Bücher und Zeitschriftenschau [Frau Bertha Garlan]</title>
@@ -197,13 +200,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb48393">Kremsmünster</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb687">Österreich-Ungarn</placeName>

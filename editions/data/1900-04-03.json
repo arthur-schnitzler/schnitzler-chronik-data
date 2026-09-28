@@ -39,6 +39,56 @@
  "color":
  "#A63437",
  "filename":
+ "L01030",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01030.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, [3.] 4. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Solin",
+ "ref":
+ "pmb453"}
+ ,  {
+ "placeName":
+ "I., Innere Stadt",
+ "ref":
+ "pmb51"}
+ ,  {
+ "placeName":
+ "Wollzeile 15 (»Berthahof«)",
+ "ref":
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
  "L01026",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -63,24 +113,24 @@
   [
  {
  "placeName":
- "Wollzeile 15 (»Berthahof«)",
- "ref":
- "pmb190427"}
- ,  {
- "placeName":
  "Split",
  "ref":
  "pmb4231"}
  ,  {
  "placeName":
- "Peristil ulica",
- "ref":
- "pmb49246"}
- ,  {
- "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Wollzeile 15 (»Berthahof«)",
+ "ref":
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Peristil ulica",
+ "ref":
+ "pmb49246"}
  ,  {
  "placeName":
  "Katedrala Svetog Duje",
@@ -118,14 +168,14 @@
   [
  {
  "placeName":
+ "Split",
+ "ref":
+ "pmb4231"}
+ ,  {
+ "placeName":
  "Paris",
  "ref":
  "pmb182"}
- ,  {
- "placeName":
- "Goldenes Tor",
- "ref":
- "pmb34020"}
  ,  {
  "placeName":
  "Boulevard Haussmann",
@@ -133,14 +183,14 @@
  "pmb34022"}
  ,  {
  "placeName":
- "Opatija",
+ "Goldenes Tor",
  "ref":
- "pmb38096"}
+ "pmb34020"}
  ,  {
  "placeName":
- "Split",
+ "Triest",
  "ref":
- "pmb4231"}
+ "pmb873"}
  ,  {
  "placeName":
  "Dubrovnik",
@@ -148,9 +198,9 @@
  "pmb682"}
  ,  {
  "placeName":
- "Triest",
+ "Opatija",
  "ref":
- "pmb873"}
+ "pmb38096"}
  ]
 }
 }, {
@@ -183,16 +233,6 @@
   [
  {
  "placeName":
- "Tiefer Graben 23",
- "ref":
- "pmb207296"}
- ,  {
- "placeName":
- "Basilika urbana",
- "ref":
- "pmb364276"}
- ,  {
- "placeName":
  "Split",
  "ref":
  "pmb4231"}
@@ -203,9 +243,19 @@
  "pmb453"}
  ,  {
  "placeName":
+ "Tiefer Graben 23",
+ "ref":
+ "pmb207296"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
+ ,  {
+ "placeName":
+ "Basilika urbana",
+ "ref":
+ "pmb364276"}
  ]
 }
 }, {
@@ -238,14 +288,14 @@
   [
  {
  "placeName":
- "Opatija",
- "ref":
- "pmb38096"}
- ,  {
- "placeName":
  "Budapest",
  "ref":
  "pmb43471"}
+ ,  {
+ "placeName":
+ "Opatija",
+ "ref":
+ "pmb38096"}
  ]
 }
 }, {
@@ -276,17 +326,22 @@
  "pmb2121"},
  {
  "persName":
- "Ignác Darányi",
- "ref":
- "pmb5468"},
- {
- "persName":
  "Sandór Hegedüs",
  "ref":
- "pmb5471"}],
+ "pmb5471"},
+ {
+ "persName":
+ "Ignác Darányi",
+ "ref":
+ "pmb5468"}],
  "listPlace":
   [
  {
+ "placeName":
+ "Budapest",
+ "ref":
+ "pmb43471"}
+ ,  {
  "placeName":
  "Hotel Royal",
  "ref":
@@ -296,11 +351,6 @@
  "Ungarn",
  "ref":
  "pmb35512"}
- ,  {
- "placeName":
- "Budapest",
- "ref":
- "pmb43471"}
  ,  {
  "placeName":
  "Wien",

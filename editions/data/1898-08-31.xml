@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,25 +100,25 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb40306">Italien</placeName>
+                        <placeName ref="pmb885">Lugano</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43375">Le due Torri: Garisenda e degli Asinelli</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb896">Bologna</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb513">Hôtel du Parc</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb885">Lugano</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb896">Bologna</placeName>
+                        <placeName ref="pmb43375">Le due Torri: Garisenda e degli Asinelli</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -137,6 +137,9 @@
                      <place corresp="#pmb147771">
                         <placeName>Pinacoteca Nazionale di Bologna</placeName>
                      </place>
+                     <place corresp="#pmb364532">
+                        <placeName>Bahnhof Bologna Centrale</placeName>
+                     </place>
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-08-31</idno>
@@ -154,7 +157,13 @@
             </event>
             <event when-iso="1898-08-31">
                <head corresp="#pmb44156">Padua</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb364537">
+                        <placeName>Stazione di Padova</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1898-08-31</idno>
             </event>
             <event when-iso="1898-08-31">

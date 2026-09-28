@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -147,13 +147,13 @@
                         <persName ref="pmb2357">Peter Nansen</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb2238">Lili Cappellini</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb29131">Gerda Philipp</persName>
@@ -167,25 +167,28 @@
                         <title ref="pmb182831">Erkendelsens Time</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb182834">Den store Scene</title>
+                        <title ref="pmb31447">Stunde des Erkennens</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29869">Literatur</title>
+                        <title ref="pmb182834">Den store Scene</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31429">Große Szene</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31447">Stunde des Erkennens</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32095">Die Brüder Menthe</title>
+                        <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33376">Gaius Julius Cæsar</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb32095">Die Brüder Menthe</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
                      </place>
@@ -194,9 +197,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb43570">Dänemark</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb745">Skandinavien</placeName>

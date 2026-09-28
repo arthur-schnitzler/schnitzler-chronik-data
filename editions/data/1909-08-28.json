@@ -113,9 +113,19 @@
   [
  {
  "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
  "Zell am Ziller",
  "ref":
  "pmb134"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Edmund-Weiß-Gasse 7",
@@ -128,19 +138,59 @@
  "pmb423"}
  ,  {
  "placeName":
+ "Alte Mariensäule",
+ "ref":
+ "pmb471"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L04445",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L04445.html",
+ "head":
+ "Arthur Schnitzler an Gustav Schwarzkopf, [28. oder 29]. 8. 1909",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Heinrich Kley",
+ "ref":
+ "pmb2306"}],
+ "listPlace":
+  [
+ {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
  ,  {
  "placeName":
- "Alte Mariensäule",
+ "Tiefer Graben 23",
  "ref":
- "pmb471"}
+ "pmb207296"}
  ,  {
  "placeName":
- "Wien",
+ "I., Innere Stadt",
  "ref":
- "pmb50"}
+ "pmb51"}
  ]
 }
 }, {
@@ -168,7 +218,12 @@
  "persName":
  "Richard Beer-Hofmann",
  "ref":
- "pmb10863"}],
+ "pmb10863"},
+ {
+ "persName":
+ "Heinrich Kley",
+ "ref":
+ "pmb2306"}],
  "listBibl":
   [
  {
@@ -181,9 +236,14 @@
   [
  {
  "placeName":
- "Lido",
+ "München",
  "ref":
- "pmb259"}
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Santa Maria Elisabetta",
+ "ref":
+ "pmb843"}
  ,  {
  "placeName":
  "Grand Hotel des Bains",
@@ -191,19 +251,14 @@
  "pmb40983"}
  ,  {
  "placeName":
- "München",
+ "Lido",
  "ref":
- "pmb45258"}
+ "pmb259"}
  ,  {
  "placeName":
  "Theatinerkirche",
  "ref":
  "pmb52007"}
- ,  {
- "placeName":
- "Santa Maria Elisabetta",
- "ref":
- "pmb843"}
  ]
 }
 }, {

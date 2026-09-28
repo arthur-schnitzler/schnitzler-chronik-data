@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,36 +95,56 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10969">Wilhelm Bode</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12977">Irene Triesch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb142640">Henri de Catt</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb14953">Marie Glümer</persName>
                      </person>
                      <person>
                         <persName ref="pmb21119">Paul Martin Marton</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2739">Hugo Wittmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2941">Theodor Loewe</persName>
+                        <persName ref="pmb12977">Irene Triesch</persName>
                      </person>
                      <person>
                         <persName ref="pmb3554">Erich Freund</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2739">Hugo Wittmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb4823">
-      Friedrich II. von Preußen
-  </persName>
+                  Friedrich II. von Preußen
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb142640">Henri de Catt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10969">Wilhelm Bode</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2941">Theodor Loewe</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3648">
+                  Aischylos
+               </persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10809">Eduard Bacher</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10872">Ernst Benedikt</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31187">Orestie</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb142644">Gespräche Friedrichs des Großen mit Henri de Catt</title>
                      </bibl>
@@ -132,10 +152,7 @@
                         <title ref="pmb142651">Grenzboten-Sammlung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31187">Orestie</title>
+                        <title ref="pmb78117">Goethes Lebenskunst</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
@@ -144,13 +161,10 @@
                         <title ref="pmb41289">Berliner Börsen-Courier</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb78117">Goethes Lebenskunst</title>
+                        <title ref="pmb142636">Burgtheater. (Zum erstenmale: Die Orestie. Tragödie in drei Stücken. Aus dem Griechischen des Aischylos. Nach der Übersetzung des Freiherrn Ulrich v. Wilamowitz-Moellendorff für die moderne Bühne bearbeitet.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb142599">[Man telegraphirt uns aus Breslau…]</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb142636">Burgtheater. (Zum erstenmale: Die Orestie. Tragödie in drei Stücken. Aus dem Griechischen des Aischylos. Nach der Übersetzung des Freiherrn Ulrich v. Wilamowitz-Moellendorff für die moderne Bühne bearbeitet.)</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb142663">Vor den Coulissen [Schleier der Beatrice]</title>
@@ -158,19 +172,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb142660">Tadeusz-Kościuszko-Platz</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb677">Breslau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb142660">Tadeusz-Kościuszko-Platz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb864">Leipzig</placeName>
@@ -178,13 +192,13 @@
                   </listPlace>
                   <listOrg>
                      <org>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
+                     </org>
+                     <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb36430">Volkstheater</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb142554">Secessionsbühne</orgName>

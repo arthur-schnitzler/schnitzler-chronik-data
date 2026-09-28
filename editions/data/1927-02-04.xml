@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,10 +109,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb17128">Joseph Arthur de Gobineau</persName>
+                        <persName ref="pmb25217">Baruch de Spinoza</persName>
                      </person>
                      <person>
-                        <persName ref="pmb25217">Baruch de Spinoza</persName>
+                        <persName ref="pmb17128">Joseph Arthur de Gobineau</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -123,24 +123,24 @@
                         <title ref="pmb293680">Drei Dichter ihres Lebens. Casanova – Stendhal – Tolstoi</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb293674">Die Baumeister der Welt. Versuch einer Typologie des Geistes</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb293668">Drei Meister. Balzac – Dickens – Dostojewski</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb293671">Der Kampf mit dem Dämon. Hölderlin – Kleist – Nietzsche</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb293674">Die Baumeister der Welt. Versuch einer Typologie des Geistes</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb253003">Paschinger Schlössl</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb253003">Paschinger Schlössl</placeName>
                      </place>
                   </listPlace>
                </desc>

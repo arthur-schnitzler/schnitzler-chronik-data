@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,10 +103,10 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb52">II., Leopoldstadt</placeName>
+                        <placeName ref="pmb92180">Budapest-Orpheum</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb92180">Budapest-Orpheum</placeName>
+                        <placeName ref="pmb52">II., Leopoldstadt</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -129,6 +129,9 @@
                         <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
+                        <persName ref="pmb24233">Franziska Schlesinger</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11737">Hugo August von Hofmannsthal</persName>
                      </person>
                      <person>
@@ -138,17 +141,14 @@
                         <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb24233">Franziska Schlesinger</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb45166">
-      ?? [Gesprächspartner von Hofmannsthal 1]
-  </persName>
+                  ?? [Gesprächspartner von Hofmannsthal 1]
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb45169">
-      ?? [Gesprächspartner von Hofmannsthal 2]
-  </persName>
+                  ?? [Gesprächspartner von Hofmannsthal 2]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -161,28 +161,28 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb197">Weimar</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb2351">Ilmenau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34067">Julienhof</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34101">Hörselberge</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34102">Hotel Erbprinz</placeName>
+                        <placeName ref="pmb662">Baden bei Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb662">Baden bei Wien</placeName>
+                        <placeName ref="pmb34067">Julienhof</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34101">Hörselberge</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb2351">Ilmenau</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb197">Weimar</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34102">Hotel Erbprinz</placeName>
                      </place>
                   </listPlace>
                </desc>

@@ -63,14 +63,9 @@
  "pmb2121"},
  {
  "persName":
- "Hermann Bahr",
+ "Leopold Sonnemann",
  "ref":
- "pmb10815"},
- {
- "persName":
- "Herman Bang",
- "ref":
- "pmb10828"},
+ "pmb87771"},
  {
  "persName":
  "Max Eugen Burckhard",
@@ -78,29 +73,19 @@
  "pmb11036"},
  {
  "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
- "Adam Müller-Guttenbrunn",
- "ref":
- "pmb12331"},
- {
- "persName":
- "Adele Sandrock",
- "ref":
- "pmb12618"},
- {
- "persName":
  "Henry Becque",
  "ref":
  "pmb13897"},
  {
  "persName":
- "Stefan George",
+ "Heinrich Kanner",
  "ref":
- "pmb2437"},
+ "pmb11867"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
  {
  "persName":
  "Katharina Schratt",
@@ -108,9 +93,29 @@
  "pmb2680"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Adam Müller-Guttenbrunn",
  "ref":
- "pmb87771"},
+ "pmb12331"},
+ {
+ "persName":
+ "Stefan George",
+ "ref":
+ "pmb2437"},
+ {
+ "persName":
+ "Herman Bang",
+ "ref":
+ "pmb10828"},
+ {
+ "persName":
+ "Adele Sandrock",
+ "ref":
+ "pmb12618"},
+ {
+ "persName":
+ "Franz Joseph I. von Österreich-Ungarn",
+ "ref":
+ "pmb2513"},
  {
  "persName":
  "Helene Hartmann",
@@ -123,19 +128,14 @@
  "pmb2167"},
  {
  "persName":
- "Franz Joseph I. von Österreich-Ungarn",
- "ref":
- "pmb2513"},
- {
- "persName":
  "Wessely",
  "ref":
  "pmb88046"},
  {
  "persName":
- "Karl Langkammer",
+ "Léon Bourgeois",
  "ref":
- "pmb12037"},
+ "pmb88000"},
  {
  "persName":
  "Fedor Mamroth",
@@ -143,26 +143,51 @@
  "pmb4986"},
  {
  "persName":
- "Léon Bourgeois",
+ "Karl Langkammer",
  "ref":
- "pmb88000"}],
+ "pmb12037"},
+ {
+ "persName":
+ "Otto Julius Bierbaum",
+ "ref":
+ "pmb10928"},
+ {
+ "persName":
+ "Oskar Bie",
+ "ref":
+ "pmb2914"},
+ {
+ "persName":
+ "Gotthold Ephraim Lessing",
+ "ref":
+ "pmb12053"},
+ {
+ "persName":
+ "Isidor Singer",
+ "ref":
+ "pmb12790"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"},
+ {
+ "persName":
+ "Minna Kautsky",
+ "ref":
+ "pmb19238"}],
  "listBibl":
   [
  {
- "title":
- "Sterben. Novelle",
- "ref":
- "pmb30117"}
- ,  {
  "title":
  "La Parisienne",
  "ref":
  "pmb32500"}
  ,  {
  "title":
- "Minna von Barnhelm oder das Soldatenglück",
+ "Sterben. Novelle",
  "ref":
- "pmb31929"}
+ "pmb30117"}
  ,  {
  "title":
  "Neue Deutsche Rundschau",
@@ -170,9 +195,24 @@
  "pmb36152"}
  ,  {
  "title":
+ "Kunst und Leben. [Burgtheater.] [Minna von Barnhelm]",
+ "ref":
+ "pmb88007"}
+ ,  {
+ "title":
+ "Minna von Barnhelm oder das Soldatenglück",
+ "ref":
+ "pmb31929"}
+ ,  {
+ "title":
  "Die Zeit. Wiener Wochenschrift",
  "ref":
  "pmb36340"}
+ ,  {
+ "title":
+ "Kunst und Leben. [Claque am Raimundtheater]",
+ "ref":
+ "pmb88041"}
  ,  {
  "title":
  "Wiener Allgemeine Zeitung",
@@ -180,29 +220,19 @@
  "pmb39950"}
  ,  {
  "title":
- "Die Eder-Mitzi. Wiener Volksstück in vier Akten",
- "ref":
- "pmb80780"}
- ,  {
- "title":
- "Kunst und Leben. [Burgtheater.] [Minna von Barnhelm]",
- "ref":
- "pmb88007"}
- ,  {
- "title":
- "Décadence",
- "ref":
- "pmb88023"}
- ,  {
- "title":
  "Kunst und Leben. [Raimundtheater.] [Die Eder-Mitzi]",
  "ref":
  "pmb88030"}
  ,  {
  "title":
- "Kunst und Leben. [Claque am Raimundtheater]",
+ "Die Eder-Mitzi. Wiener Volksstück in vier Akten",
  "ref":
- "pmb88041"}
+ "pmb80780"}
+ ,  {
+ "title":
+ "Décadence",
+ "ref":
+ "pmb88023"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -213,24 +243,14 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
  "Paris",
  "ref":
  "pmb182"}
  ,  {
  "placeName":
- "Salzburg",
+ "Wien",
  "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Österreich",
- "ref":
- "pmb41240"}
+ "pmb50"}
  ,  {
  "placeName":
  "rue Feydeau",
@@ -238,9 +258,19 @@
  "pmb42671"}
  ,  {
  "placeName":
- "Wien",
+ "Österreich",
  "ref":
- "pmb50"}
+ "pmb41240"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
  ,  {
  "placeName":
  "Frankgasse 1",
@@ -251,11 +281,6 @@
   [
  {
  "orgName":
- "Die Zeit. Wiener Wochenschrift [Redaktion]",
- "ref":
- "pmb29209"}
- ,  {
- "orgName":
  "Frankfurter Zeitung",
  "ref":
  "pmb29442"}
@@ -264,6 +289,11 @@
  "Comédie-Française",
  "ref":
  "pmb87992"}
+ ,  {
+ "orgName":
+ "Die Zeit. Wiener Wochenschrift [Redaktion]",
+ "ref":
+ "pmb29209"}
  ,  {
  "orgName":
  "Académie Française",

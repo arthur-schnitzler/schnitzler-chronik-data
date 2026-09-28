@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,13 +109,16 @@
                         <persName ref="pmb13212">Zweig, Stefan</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12543">Romain Rolland</persName>
+                        <persName ref="pmb2135">Josef Popper-Lynkeus</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2135">Josef Popper-Lynkeus</persName>
+                        <persName ref="pmb12543">Romain Rolland</persName>
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
@@ -123,16 +126,10 @@
                         <placeName ref="pmb249577">Kochgasse 8</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263537">Woltergasse 2a</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb58">VIII., Josefstadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263537">Woltergasse 2a</placeName>
                      </place>
                   </listPlace>
                </desc>

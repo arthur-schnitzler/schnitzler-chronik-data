@@ -146,6 +146,11 @@
  "pmb10815"},
  {
  "persName":
+ "Hans Baluschek",
+ "ref":
+ "pmb5708"},
+ {
+ "persName":
  "Peter Behrens",
  "ref":
  "pmb10869"},
@@ -156,6 +161,11 @@
  "pmb10992"},
  {
  "persName":
+ "Josef Collin",
+ "ref":
+ "pmb5711"},
+ {
+ "persName":
  "Richard Dehmel",
  "ref":
  "pmb11148"},
@@ -164,6 +174,11 @@
  "Ludwig Fulda",
  "ref":
  "pmb11391"},
+ {
+ "persName":
+ "Cornelius Gurlitt",
+ "ref":
+ "pmb5713"},
  {
  "persName":
  "Maximilian Harden",
@@ -179,6 +194,16 @@
  "Georg von Hülsen-Haeseler",
  "ref":
  "pmb11795"},
+ {
+ "persName":
+ "Otto Eduard Lessing",
+ "ref":
+ "pmb5717"},
+ {
+ "persName":
+ "Alfred Lichtwark",
+ "ref":
+ "pmb3403"},
  {
  "persName":
  "Max Liebermann",
@@ -206,61 +231,6 @@
  "pmb12176"},
  {
  "persName":
- "Franz Servaes",
- "ref":
- "pmb12772"},
- {
- "persName":
- "Hermann Sudermann",
- "ref":
- "pmb12899"},
- {
- "persName":
- "Siegfried Wagner",
- "ref":
- "pmb13027"},
- {
- "persName":
- "Joachim von Gans-Putlitz",
- "ref":
- "pmb16911"},
- {
- "persName":
- "Alfred Lichtwark",
- "ref":
- "pmb3403"},
- {
- "persName":
- "Wilhelm Ostwald",
- "ref":
- "pmb3923"},
- {
- "persName":
- "Hans Thoma",
- "ref":
- "pmb4557"},
- {
- "persName":
- "Hans Baluschek",
- "ref":
- "pmb5708"},
- {
- "persName":
- "Josef Collin",
- "ref":
- "pmb5711"},
- {
- "persName":
- "Cornelius Gurlitt",
- "ref":
- "pmb5713"},
- {
- "persName":
- "Otto Eduard Lessing",
- "ref":
- "pmb5717"},
- {
- "persName":
  "Kurt von Mutzenbecher",
  "ref":
  "pmb5720"},
@@ -276,9 +246,29 @@
  "pmb5726"},
  {
  "persName":
+ "Wilhelm Ostwald",
+ "ref":
+ "pmb3923"},
+ {
+ "persName":
+ "Joachim von Gans-Putlitz",
+ "ref":
+ "pmb16911"},
+ {
+ "persName":
  "Georg Reicke",
  "ref":
  "pmb5730"},
+ {
+ "persName":
+ "Franz Servaes",
+ "ref":
+ "pmb12772"},
+ {
+ "persName":
+ "Hermann Sudermann",
+ "ref":
+ "pmb12899"},
  {
  "persName":
  "Henry Thode",
@@ -286,9 +276,19 @@
  "pmb5733"},
  {
  "persName":
+ "Hans Thoma",
+ "ref":
+ "pmb4557"},
+ {
+ "persName":
  "Ferdinand Vetter",
  "ref":
  "pmb5736"},
+ {
+ "persName":
+ "Siegfried Wagner",
+ "ref":
+ "pmb13027"},
  {
  "persName":
  "Eugen Wolff",
@@ -306,29 +306,9 @@
   [
  {
  "placeName":
- "Blasewitz",
- "ref":
- "pmb1222"}
- ,  {
- "placeName":
- "Bern",
- "ref":
- "pmb1223"}
- ,  {
- "placeName":
- "University of Illinois",
- "ref":
- "pmb1225"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
  ,  {
  "placeName":
  "Wien",
@@ -336,14 +316,34 @@
  "pmb50"}
  ,  {
  "placeName":
- "Kiel",
+ "Blasewitz",
  "ref":
- "pmb907"}
+ "pmb1222"}
  ,  {
  "placeName":
  "Gießen",
  "ref":
  "pmb910"}
+ ,  {
+ "placeName":
+ "University of Illinois",
+ "ref":
+ "pmb1225"}
+ ,  {
+ "placeName":
+ "München",
+ "ref":
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Bern",
+ "ref":
+ "pmb1223"}
+ ,  {
+ "placeName":
+ "Kiel",
+ "ref":
+ "pmb907"}
  ],
  "listOrg":
   [

@@ -61,9 +61,9 @@
  "pmb11740"},
  {
  "persName":
- "Karl Kraus",
+ "Felix Salten",
  "ref":
- "pmb11988"},
+ "pmb2167"},
  {
  "persName":
  "Hermann Sudermann",
@@ -71,19 +71,19 @@
  "pmb12899"},
  {
  "persName":
- "Heinrich von Korff",
+ "Karl Kraus",
  "ref":
- "pmb19610"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
+ "pmb11988"},
  {
  "persName":
  "Friedrich Michael Fels",
  "ref":
  "pmb2450"},
+ {
+ "persName":
+ "Heinrich von Korff",
+ "ref":
+ "pmb19610"},
  {
  "persName":
  "Richard Specht",
@@ -98,7 +98,12 @@
  "persName":
  "Irma von Korff",
  "ref":
- "pmb34828"}],
+ "pmb34828"},
+ {
+ "persName":
+ "Julius Szeps",
+ "ref":
+ "pmb25793"}],
  "listBibl":
   [
  {
@@ -113,42 +118,22 @@
  "pmb39950"}
  ,  {
  "title":
- "Die Frau mit dem Dolche",
- "ref":
- "pmb29865"}
- ,  {
- "title":
  "Liebelei. Schauspiel in drei Akten",
  "ref":
  "pmb29917"}
+ ,  {
+ "title":
+ "Die Frau mit dem Dolche",
+ "ref":
+ "pmb29865"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Frankgasse 1",
+ "Hôtel Hassler",
  "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Italien",
- "ref":
- "pmb40306"}
- ,  {
- "placeName":
- "Liverpool",
- "ref":
- "pmb44116"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb623"}
  ,  {
  "placeName":
  "I., Innere Stadt",
@@ -161,18 +146,33 @@
  "pmb595"}
  ,  {
  "placeName":
- "Hôtel Hassler",
+ "Frankgasse 1",
  "ref":
- "pmb623"}
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Hotel Hassler [Neapel]",
+ "ref":
+ "pmb364923"}
+ ,  {
+ "placeName":
+ "Italien",
+ "ref":
+ "pmb40306"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Liverpool",
+ "ref":
+ "pmb44116"}
  ],
  "listOrg":
   [
  {
- "orgName":
- "Die Zeit. Wiener Wochenschrift [Redaktion]",
- "ref":
- "pmb29209"}
- ,  {
  "orgName":
  "Wiener Allgemeine Zeitung",
  "ref":
@@ -182,64 +182,11 @@
  "Die Saubermänner. Tischgesellschaft",
  "ref":
  "pmb29794"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
- "L00383",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L00383.html",
- "head":
- "Richard Beer-Hofmann an Arthur Schnitzler, 15. 10. 1894",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"}],
- "listBibl":
-  [
- {
- "title":
- "Die Kraniche des Ibykus",
- "ref":
- "pmb43097"}
- ],
- "listPlace":
-  [
- {
- "placeName":
- "Frascati",
- "ref":
- "pmb40272"}
  ,  {
- "placeName":
- "Rom",
+ "orgName":
+ "Die Zeit. Wiener Wochenschrift [Redaktion]",
  "ref":
- "pmb445"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Neapel",
- "ref":
- "pmb595"}
+ "pmb29209"}
  ]
 }
 }, {

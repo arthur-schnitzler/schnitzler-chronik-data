@@ -66,18 +66,43 @@
   [
  {
  "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
  "Der Graf von Charolais. Ein Trauerspiel",
  "ref":
  "pmb30233"}
+ ,  {
+ "title":
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29857"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Wiesbaden",
+ "ref":
+ "pmb883"}
+ ,  {
+ "placeName":
+ "Sankt Michael",
+ "ref":
+ "pmb40832"}
+ ,  {
+ "placeName":
+ "IX., Alsergrund",
+ "ref":
+ "pmb59"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
+ ,  {
  "placeName":
  "Frankfurt am Main",
  "ref":
@@ -89,34 +114,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Sankt Michael",
- "ref":
- "pmb40832"}
- ,  {
- "placeName":
  "Hotel Savoy [Berlin]",
  "ref":
  "pmb545"}
- ,  {
- "placeName":
- "IX., Alsergrund",
- "ref":
- "pmb59"}
- ,  {
- "placeName":
- "Wiesbaden",
- "ref":
- "pmb883"}
- ,  {
- "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
  ]
 }
 }, {
@@ -167,24 +167,9 @@
   [
  {
  "placeName":
- "Frankfurt am Main",
+ "Wiesbaden",
  "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Nürnberg",
- "ref":
- "pmb44172"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
+ "pmb883"}
  ,  {
  "placeName":
  "Venedig",
@@ -192,14 +177,29 @@
  "pmb462"}
  ,  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Hotel Savoy [Berlin]",
  "ref":
  "pmb545"}
  ,  {
  "placeName":
- "Wiesbaden",
+ "München",
  "ref":
- "pmb883"}
+ "pmb45258"}
+ ,  {
+ "placeName":
+ "Nürnberg",
+ "ref":
+ "pmb44172"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
  ,  {
  "placeName":
  "Hôtel du Parc &amp; Bristol",
@@ -235,14 +235,19 @@
  "pmb12740"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Marie Elsinger",
  "ref":
- "pmb10863"},
+ "pmb2938"},
  {
  "persName":
- "Otto Brahm",
+ "Oskar Blumenthal",
  "ref":
- "pmb10986"},
+ "pmb14328"},
+ {
+ "persName":
+ "Gustav Kadelburg",
+ "ref":
+ "pmb11845"},
  {
  "persName":
  "Paul Goldmann",
@@ -250,14 +255,14 @@
  "pmb11485"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Otto Brahm",
  "ref":
- "pmb11740"},
+ "pmb10986"},
  {
  "persName":
- "Gustav Kadelburg",
+ "Anatole France",
  "ref":
- "pmb11845"},
+ "pmb4279"},
  {
  "persName":
  "Karl Kraus",
@@ -275,24 +280,19 @@
  "pmb13055"},
  {
  "persName":
- "Oskar Blumenthal",
- "ref":
- "pmb14328"},
- {
- "persName":
  "Felix Salten",
  "ref":
  "pmb2167"},
  {
  "persName":
- "Marie Elsinger",
+ "Hugo von Hofmannsthal",
  "ref":
- "pmb2938"},
+ "pmb11740"},
  {
  "persName":
- "Anatole France",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb4279"},
+ "pmb10863"},
  {
  "persName":
  "Josef Gregorig",
@@ -300,14 +300,39 @@
  "pmb4295"},
  {
  "persName":
+ "Anežka Hrůza",
+ "ref":
+ "pmb169972"},
+ {
+ "persName":
+ "Leopold Hilsner",
+ "ref":
+ "pmb146510"},
+ {
+ "persName":
  "Hermann Bielohlawek",
  "ref":
  "pmb10922"},
  {
  "persName":
+ "Richard Weiskirchner",
+ "ref":
+ "pmb13079"},
+ {
+ "persName":
  "Ernst Vergani",
  "ref":
  "pmb113736"},
+ {
+ "persName":
+ "Gisela von Österreich",
+ "ref":
+ "pmb4420"},
+ {
+ "persName":
+ "Else Speidel-Haeberle",
+ "ref":
+ "pmb2642"},
  {
  "persName":
  "Wilhelmine Mitterwurzer",
@@ -320,39 +345,9 @@
  "pmb12556"},
  {
  "persName":
- "Richard Weiskirchner",
+ "Milli Elsinger",
  "ref":
- "pmb13079"},
- {
- "persName":
- "Leopold Hilsner",
- "ref":
- "pmb146510"},
- {
- "persName":
- "Anežka Hrůza",
- "ref":
- "pmb169972"},
- {
- "persName":
- "Else Speidel-Haeberle",
- "ref":
- "pmb2642"},
- {
- "persName":
- "Gisela von Österreich",
- "ref":
- "pmb4420"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Theodore Rottenberg",
- "ref":
- "pmb23674"},
+ "pmb300348"},
  {
  "persName":
  "Jenny Elsinger",
@@ -360,31 +355,81 @@
  "pmb300346"},
  {
  "persName":
- "Milli Elsinger",
+ "Theodore Rottenberg",
  "ref":
- "pmb300348"},
+ "pmb23674"},
  {
  "persName":
  "Ludwig Rottenberg",
  "ref":
- "pmb9598"}],
+ "pmb9598"},
+ {
+ "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
+ {
+ "persName":
+ "Gustave Flaubert",
+ "ref":
+ "pmb11330"},
+ {
+ "persName":
+ "Georges Bizet",
+ "ref":
+ "pmb10951"},
+ {
+ "persName":
+ "Henri Meilhac",
+ "ref":
+ "pmb12222"},
+ {
+ "persName":
+ "Ludovic Halévy",
+ "ref":
+ "pmb4197"},
+ {
+ "persName":
+ "Albert Lortzing",
+ "ref":
+ "pmb3001"},
+ {
+ "persName":
+ "Adolf Bergmann",
+ "ref":
+ "pmb14080"},
+ {
+ "persName":
+ "Robert Adam",
+ "ref":
+ "pmb12438"},
+ {
+ "persName":
+ "Berthold Viertel",
+ "ref":
+ "pmb10364"},
+ {
+ "persName":
+ "Albert Ehrenstein",
+ "ref":
+ "pmb11230"},
+ {
+ "persName":
+ "Fritz Wittels",
+ "ref":
+ "pmb10574"}],
  "listBibl":
   [
  {
- "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
  "title":
  "Das Vermächtnis. Schauspiel in drei Akten",
  "ref":
  "pmb30219"}
  ,  {
  "title":
- "Carmen. Opéra-Comique en quatre actes",
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
- "pmb30627"}
+ "pmb29857"}
  ,  {
  "title":
  "Madame Bovary. Mœurs de province",
@@ -397,6 +442,11 @@
  "pmb78233"}
  ,  {
  "title":
+ "Carmen. Opéra-Comique en quatre actes",
+ "ref":
+ "pmb30627"}
+ ,  {
+ "title":
  "Undine. Romantische Zauberoper in vier Akten",
  "ref":
  "pmb80917"}
@@ -405,6 +455,11 @@
  "Der grüne Kakadu. Groteske in einem Akt",
  "ref":
  "pmb29843"}
+ ,  {
+ "title":
+ "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
+ "ref":
+ "pmb32562"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
@@ -422,11 +477,6 @@
  "pmb31269"}
  ,  {
  "title":
- "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
- "ref":
- "pmb32562"}
- ,  {
- "title":
  "Die Fackel",
  "ref":
  "pmb41244"}
@@ -435,29 +485,24 @@
   [
  {
  "placeName":
- "Polná",
+ "Wiesbaden",
  "ref":
- "pmb100693"}
+ "pmb883"}
  ,  {
  "placeName":
- "Münchner Schauspielhaus",
+ "Wien",
  "ref":
- "pmb11"}
+ "pmb50"}
  ,  {
  "placeName":
- "Frankfurt am Main",
+ "Wiener Café",
  "ref":
- "pmb146"}
+ "pmb333660"}
  ,  {
  "placeName":
- "Deutschland",
+ "München",
  "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
+ "pmb45258"}
  ,  {
  "placeName":
  "Bad Ischl",
@@ -470,6 +515,41 @@
  "pmb2318"}
  ,  {
  "placeName":
+ "Residenztheater München",
+ "ref":
+ "pmb635"}
+ ,  {
+ "placeName":
+ "Münchner Schauspielhaus",
+ "ref":
+ "pmb11"}
+ ,  {
+ "placeName":
+ "Nürnberg",
+ "ref":
+ "pmb44172"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
+ ,  {
+ "placeName":
+ "Luzern",
+ "ref":
+ "pmb967"}
+ ,  {
+ "placeName":
+ "Hôtel du Parc &amp; Bristol",
+ "ref":
+ "pmb43055"}
+ ,  {
+ "placeName":
  "Hessisches Staatstheater Wiesbaden",
  "ref":
  "pmb300338"}
@@ -480,39 +560,14 @@
  "pmb300344"}
  ,  {
  "placeName":
- "Wiener Café",
+ "Polná",
  "ref":
- "pmb333660"}
+ "pmb100693"}
  ,  {
  "placeName":
- "Sankt Michael",
+ "Deutschland",
  "ref":
- "pmb40832"}
- ,  {
- "placeName":
- "Hôtel du Parc &amp; Bristol",
- "ref":
- "pmb43055"}
- ,  {
- "placeName":
- "Nürnberg",
- "ref":
- "pmb44172"}
- ,  {
- "placeName":
- "München",
- "ref":
- "pmb45258"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
+ "pmb151"}
  ,  {
  "placeName":
  "Musikverein",
@@ -520,24 +575,19 @@
  "pmb516"}
  ,  {
  "placeName":
+ "Venedig",
+ "ref":
+ "pmb462"}
+ ,  {
+ "placeName":
+ "Sankt Michael",
+ "ref":
+ "pmb40832"}
+ ,  {
+ "placeName":
  "Hotel Savoy [Berlin]",
  "ref":
  "pmb545"}
- ,  {
- "placeName":
- "Residenztheater München",
- "ref":
- "pmb635"}
- ,  {
- "placeName":
- "Wiesbaden",
- "ref":
- "pmb883"}
- ,  {
- "placeName":
- "Luzern",
- "ref":
- "pmb967"}
  ,  {
  "placeName":
  "Max-Joseph-Brücke [III]",
@@ -553,11 +603,6 @@
   [
  {
  "orgName":
- "K. u. k. Zensurstelle",
- "ref":
- "pmb29545"}
- ,  {
- "orgName":
  "Volkswirtschaftlicher Verein",
  "ref":
  "pmb333676"}
@@ -566,6 +611,11 @@
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "K. u. k. Zensurstelle",
+ "ref":
+ "pmb29545"}
  ]
 }
 }, {
@@ -613,9 +663,14 @@
   [
  {
  "placeName":
- "Lungarno Guicciardini",
+ "Florenz",
  "ref":
- "pmb134996"}
+ "pmb263"}
+ ,  {
+ "placeName":
+ "Wiesbaden",
+ "ref":
+ "pmb883"}
  ,  {
  "placeName":
  "Hôtel Pension Barbensi",
@@ -623,39 +678,14 @@
  "pmb134998"}
  ,  {
  "placeName":
+ "Lungarno Guicciardini",
+ "ref":
+ "pmb134996"}
+ ,  {
+ "placeName":
  "Cattedrale di Santa Maria del Fiore",
  "ref":
  "pmb140806"}
- ,  {
- "placeName":
- "Frankfurt am Main",
- "ref":
- "pmb146"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Florenz",
- "ref":
- "pmb263"}
- ,  {
- "placeName":
- "Venedig",
- "ref":
- "pmb462"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Wiesbaden",
- "ref":
- "pmb883"}
  ,  {
  "placeName":
  "Mailand",
@@ -666,6 +696,26 @@
  "Bologna",
  "ref":
  "pmb896"}
+ ,  {
+ "placeName":
+ "Venedig",
+ "ref":
+ "pmb462"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Frankfurt am Main",
+ "ref":
+ "pmb146"}
  ,  {
  "placeName":
  "Italien",

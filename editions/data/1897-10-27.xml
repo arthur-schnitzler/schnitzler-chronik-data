@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-08.">08.09.2026</date>
+            <date when-iso="2026-09-28.">28.09.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,16 +102,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb59">IX., Alsergrund</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -130,13 +133,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -153,29 +159,29 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2211">André Antoine</persName>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
                         <persName ref="pmb23481">Henri de Rochefort</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3272">
-      Molière
-  </persName>
-                     </person>
-                     <person>
                         <persName ref="pmb3966">Jean Thorel</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                        <persName ref="pmb2211">André Antoine</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3272">
+                  Molière
+               </persName>
                      </person>
                      <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
                      </person>
                      <person>
                         <persName ref="pmb5539">
-      Jesus
-  </persName>
+                  Jesus
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -183,10 +189,10 @@
                         <title ref="pmb118619">Dom Juan ou le Festin de pierre</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title ref="pmb92876">Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb92876">Amourette. Pièce en trois actes. Adaptée de Arthur Schnitzler</title>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb118616">?? [Artikel von Rochefort über Jesus]</title>
@@ -197,10 +203,10 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43397">rue de la Bourse</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb43397">rue de la Bourse</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

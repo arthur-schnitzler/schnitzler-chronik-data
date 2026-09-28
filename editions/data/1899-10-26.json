@@ -74,14 +74,19 @@
  "pmb2121"},
  {
  "persName":
- "Friedrich von Schiller",
+ "Berthold Frischauer",
  "ref":
- "pmb12654"},
+ "pmb16710"},
  {
  "persName":
  "Jakob Wassermann",
  "ref":
  "pmb13055"},
+ {
+ "persName":
+ "Peter Cornelius",
+ "ref":
+ "pmb6704"},
  {
  "persName":
  "Anna Zinkeisen",
@@ -104,24 +109,19 @@
  "pmb140888"},
  {
  "persName":
- "Gustav Conradi",
- "ref":
- "pmb140898"},
- {
- "persName":
- "Berthold Frischauer",
- "ref":
- "pmb16710"},
- {
- "persName":
  "Willy Loehr",
  "ref":
  "pmb20559"},
  {
  "persName":
- "Peter Cornelius",
+ "Gustav Conradi",
  "ref":
- "pmb6704"},
+ "pmb140898"},
+ {
+ "persName":
+ "Friedrich von Schiller",
+ "ref":
+ "pmb12654"},
  {
  "persName":
  "Theodor Herzl",
@@ -151,9 +151,9 @@
   [
  {
  "title":
- "Der grüne Kakadu. Groteske in einem Akt",
+ "Paracelsus. Versspiel in einem Akt",
  "ref":
- "pmb29843"}
+ "pmb30403"}
  ,  {
  "title":
  "Die Gefährtin. Schauspiel in einem Akt",
@@ -161,14 +161,9 @@
  "pmb29845"}
  ,  {
  "title":
- "Paracelsus. Versspiel in einem Akt",
+ "Der grüne Kakadu. Groteske in einem Akt",
  "ref":
- "pmb30403"}
- ,  {
- "title":
- "Die Jungfrau von Orleans",
- "ref":
- "pmb30755"}
+ "pmb29843"}
  ,  {
  "title":
  "Wallenstein",
@@ -176,9 +171,19 @@
  "pmb77041"}
  ,  {
  "title":
+ "Die Jungfrau von Orleans",
+ "ref":
+ "pmb30755"}
+ ,  {
+ "title":
  "Wiener Burgtheater. (»Agnes Jordan« von Georg Hirschfeld.)",
  "ref":
  "pmb140839"}
+ ,  {
+ "title":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb36344"}
  ,  {
  "title":
  "Kleines Feuilleton. [Kleine Mittheilungen.]",
@@ -189,24 +194,19 @@
  "Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter",
  "ref":
  "pmb32562"}
- ,  {
- "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
  ],
  "listPlace":
   [
  {
  "placeName":
- "Staatstheater Darmstadt",
- "ref":
- "pmb1008"}
- ,  {
- "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Berlin",
@@ -219,9 +219,9 @@
  "pmb182"}
  ,  {
  "placeName":
- "Wien",
+ "Staatstheater Darmstadt",
  "ref":
- "pmb50"}
+ "pmb1008"}
  ,  {
  "placeName":
  "Darmstadt",
@@ -237,6 +237,16 @@
   [
  {
  "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
+ ,  {
+ "orgName":
+ "Neue Freie Presse",
+ "ref":
+ "pmb29351"}
+ ,  {
+ "orgName":
  "Richard-Wagner-Verein",
  "ref":
  "pmb140860"}
@@ -245,16 +255,6 @@
  "Mozartverein Darmstadt",
  "ref":
  "pmb140862"}
- ,  {
- "orgName":
- "Neue Freie Presse",
- "ref":
- "pmb29351"}
- ,  {
- "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
  ,  {
  "orgName":
  "Französische Streitkräfte",
