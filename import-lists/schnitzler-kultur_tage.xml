@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna, Austria</pubPlace>
-            <date>2026-09-08Z</date>
+            <date>2026-09-28Z</date>
             <idno type="URI">https://github.com/arthur-schnitzler/schnitzler-kultur/blob/main/data/editions/listevent.xml</idno>
             <idno type="handle">XXXX</idno>
          </publicationStmt>
@@ -3041,7 +3041,7 @@
                <desc>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -22911,7 +22911,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -23354,7 +23354,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -23578,7 +23578,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -25213,7 +25213,7 @@
                <desc>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -26069,7 +26069,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208339.html</idno>
             </event>
             <event when-iso="1889-09-12">
-               <head>Generalprobe von Der Fleck auf der Ehr', 12.9.1889</head>
+               <head>Generalprobe von Der Fleck auf der Ehr’, 12.9.1889</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -27089,7 +27089,7 @@
                   </listOrg>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -32613,6 +32613,54 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208518.html</idno>
             </event>
+            <event when-iso="1892-01-02">
+               <head>Private Lesung von Sensationen, 2.1.1892</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb30171">Sensationen</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2425">Dörmann, Felix</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb16288">Fischer, Robert</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2450">Fels, Friedrich Michael</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2456">Specht, Richard</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb24937">Sillmoser</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb563">Saal des Niederösterreichischen Gewerbevereins</placeName>
+                        <location>
+                           <geo>48,20185 16,36327</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
             <event when-iso="1892-01-03">
                <head>Aufführung von Lilly, 3.1.1892</head>
                <desc>
@@ -32707,11 +32755,11 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208521.html</idno>
             </event>
             <event when-iso="1892-01-13">
-               <head>Orchesterkonzert von Josef Joachim, 13.1.1892</head>
+               <head>Orchesterkonzert von Joseph Joachim, 13.1.1892</head>
                <desc>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -32804,7 +32852,7 @@
                   </listOrg>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -36194,6 +36242,30 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208601.html</idno>
             </event>
             <event when-iso="1893-02-01">
+               <head>Opernredoute, 1.2.1893</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
+                        <location>
+                           <geo>48,203 16,3691</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
+            <event when-iso="1893-02-01">
                <head>Premiere von Madame Mongodin, 1.2.1893</head>
                <desc>
                   <listOrg>
@@ -36385,7 +36457,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb33528">Kriemhilde</title>
+                        <title key="pmb33528">Kriemhilde. Schauspiel in fünf Aufzügen</title>
                         <note type="relation-type">ist Premiere von</note>
                      </bibl>
                   </listBibl>
@@ -37493,7 +37565,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208620.html</idno>
             </event>
             <event when-iso="1893-10-14">
-               <head>Wiener Premiere von Eine Palastrevolution</head>
+               <head>Premiere von Eine Palastrevolution, 14.10.1893</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -37841,7 +37913,7 @@
                         <persName key="pmb7463">Goldbaum, Wilhelm</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb28523">Necker, Moriz</persName>
+                        <persName key="pmb28523">Necker, Moritz</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -38648,7 +38720,7 @@
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb28523">Necker, Moriz</persName>
+                        <persName key="pmb28523">Necker, Moritz</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -40661,6 +40733,12 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb11441">Girardi, Alexander</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12618">Sandrock, Adele</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -41561,36 +41639,6 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208692.html</idno>
             </event>
             <event when-iso="1894-09-28">
-               <head>Aufführung von Toto-Tata, 28.9.1894</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb39689">Theater in der Josefstadt</orgName>
-                     </org>
-                  </listOrg>
-                  <listBibl>
-                     <bibl>
-                        <title key="pmb38879">Tata-Toto. Vaudeville in drei Akten</title>
-                        <note type="relation-type">ist Aufführung von</note>
-                     </bibl>
-                  </listBibl>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb40">Theater in der Josefstadt</placeName>
-                        <location>
-                           <geo>48,209583 16,351111</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195169.html</idno>
-            </event>
-            <event when-iso="1894-09-28">
                <head>Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894</head>
                <desc>
                   <listOrg>
@@ -41621,7 +41669,7 @@
                      </place>
                   </listPlace>
                </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb38885.html</idno>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195169.html</idno>
             </event>
             <event when-iso="1894-09-29">
                <head>Premiere von Man sagt, 29.9.1894</head>
@@ -43880,7 +43928,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42285.html</idno>
             </event>
             <event when-iso="1895-03-10">
-               <head>Aufführung von Die Chansonette. Operette in 3 Acten, 10.3.1895</head>
+               <head>Aufführung von Die Chansonette, 10.3.1895</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -43938,7 +43986,7 @@
                         <persName key="pmb21952">Niese, Hansi</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb28523">Necker, Moriz</persName>
+                        <persName key="pmb28523">Necker, Moritz</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -44131,6 +44179,9 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -44917,7 +44968,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208755.html</idno>
             </event>
             <event when-iso="1895-07-24">
-               <head>Aufführung von Tata-Toto. Vaudeville in drei Akten, 24.7.1895</head>
+               <head>Aufführung von Tata-Toto, 24.7.1895</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -44977,7 +45028,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208757.html</idno>
             </event>
             <event when-iso="1895-07-30">
-               <head>Aufführung von Tata-Toto. Vaudeville in drei Akten, 30.7.1895</head>
+               <head>Aufführung von Tata-Toto, 30.7.1895</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -45278,7 +45329,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208766.html</idno>
             </event>
             <event when-iso="1895-08-16">
-               <head>Aufführung von Die Chansonette. Operette in 3 Acten, 16.8.1895</head>
+               <head>Aufführung von Die Chansonette, 16.8.1895</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -46286,6 +46337,9 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb12740">Schwarzkopf, Gustav</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10765">Andrian-Werburg, Leopold von</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -46508,6 +46562,9 @@
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12618">Sandrock, Adele</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -48052,6 +48109,12 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb2299">Sorma, Agnes</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb11851">Kainz, Josef</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -48383,7 +48446,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -48930,7 +48993,7 @@
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person role="hat mitwirkend">
-                        <persName key="pmb7535">Grieg, Edvard Hagerup</persName>
+                        <persName key="pmb7535">Grieg, Edvard</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -50746,7 +50809,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -51505,7 +51568,7 @@
                   </listOrg>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb18873">Joachim, Josef</persName>
+                        <persName key="pmb18873">Joachim, Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -51808,7 +51871,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208893.html</idno>
             </event>
             <event when-iso="1897-01-09">
-               <head>Premiere von Meerleuchten, 9.1.1897</head>
+               <head>Uraufführung von Meerleuchten, 9.1.1897</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -51818,12 +51881,18 @@
                   <listBibl>
                      <bibl>
                         <title key="pmb77510">Meerleuchten</title>
-                        <note type="relation-type">ist Premiere von</note>
+                        <note type="relation-type">ist Uraufführung von</note>
                      </bibl>
                   </listBibl>
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11857">Kalbeck, Max</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10989">Brahms, Johannes</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -53116,7 +53185,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb297084.html</idno>
             </event>
             <event when-iso="1897-04-09">
-               <head>Aufführung von Liebelei, 9.4.1897</head>
+               <head>Aufführung von Freiwild, 9.4.1897</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -53125,7 +53194,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title key="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -54895,6 +54964,15 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10986">Brahm, Otto</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -55185,6 +55263,32 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208973.html</idno>
+            </event>
+            <event when-iso="1897-11-07">
+               <head>1. Abonnement-Concert des k.k. Hofopernorchesters unter der Leitung von Hans Richter, 7.11.1897</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb52098">Wiener Staatsoper. Orchester</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12521">Richter, Hans</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
             </event>
             <event when-iso="1897-11-09">
                <head>Erstes Rosé-Quartett, 9.11.1897</head>
@@ -56155,7 +56259,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200515.html</idno>
             </event>
             <event when-iso="1898-01-12">
-               <head>2. Aufführung von Bartel Turaser. Drama in drei Akten, 12.1.1898</head>
+               <head>Aufführung von Bartel Turaser, 12.1.1898</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -59481,6 +59585,36 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209039.html</idno>
             </event>
             <event when-iso="1898-11-06">
+               <head>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</head>
+               <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb32512">Der Abenteurer und die Sängerin oder Die Geschenke des Lebens</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb168934">Frankgasse 1</placeName>
+                        <location>
+                           <geo>48,21533 16,35736</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
+            <event when-iso="1898-11-06">
                <head>Erstes Abonnementkonzert der Wiener Philharmoniker, 6.11.1898</head>
                <desc>
                   <listOrg>
@@ -61906,6 +62040,9 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb9531">Rilke, Rainer Maria</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -62596,6 +62733,9 @@
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb9531">Rilke, Rainer Maria</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -63624,7 +63764,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -64864,7 +65004,7 @@
                   </listOrg>
                   <listPerson>
                      <person role="hat mitwirkend">
-                        <persName key="pmb12867">Strauss, Johann</persName>
+                        <persName key="pmb12867">Strauss (Sohn), Johann</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -65527,7 +65667,7 @@
                         <persName key="pmb25196">Spiegl-Thurnsee, Edgar von</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb18093">Hellmesberger, Josef</persName>
+                        <persName key="pmb18093">Hellmesberger (Sohn), Joseph</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb10809">Bacher, Eduard</persName>
@@ -65647,7 +65787,7 @@
                         <persName key="pmb2425">Dörmann, Felix</persName>
                      </person>
                      <person role="hat teilnehmend">
-                        <persName key="pmb28523">Necker, Moriz</persName>
+                        <persName key="pmb28523">Necker, Moritz</persName>
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb18283">Hink, Adolf</persName>
@@ -66699,7 +66839,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -67139,6 +67279,21 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb7777">Hellmer, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb302011">Appelt, Wilhelm</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb27955">Strial, Anna Henriette</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb4127">Meixner, Julius</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb12595">Römpler, Alexander</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -68331,6 +68486,10 @@
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
+                        <title key="pmb79011">Quintus Horatius Flaccus. Lustspiel in 1 Act</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                     <bibl>
                         <title key="pmb147964">Theater, Kunst und Literatur [Vorstellung des Konservatoriums]</title>
                         <note type="relation-type">wird rezensiert in</note>
                      </bibl>
@@ -68347,6 +68506,15 @@
                      </person>
                      <person role="hat mitwirkend">
                         <persName key="pmb26613">Waldschütz, Karl</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb7777">Hellmer, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb4127">Meixner, Julius</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb365004">Melzer</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -68472,7 +68640,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
@@ -68504,7 +68672,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
@@ -68580,7 +68748,7 @@
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                   </listBibl>
@@ -68867,7 +69035,7 @@
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                   </listBibl>
@@ -72456,7 +72624,7 @@
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                      <bibl>
-                        <title key="pmb78359">Pan. Mythologisches Divertissement in 1 Act</title>
+                        <title key="pmb30607">Pan. Mythologisches Divertissement in 1 Act</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -74021,6 +74189,9 @@
                      </person>
                      <person role="hat mitwirkend">
                         <persName key="pmb11312">Feuchtwang, David</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb22457">Peterselka, Max</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -79556,12 +79727,15 @@
                      <person role="hat mitwirkend">
                         <persName key="pmb26797">Weil, Theodor</persName>
                      </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2315">Steinrück, Elisabeth</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb968">Mödling</placeName>
+                        <placeName role="veranstaltet in" key="pmb364056">Sommertheater in Mödling</placeName>
                         <location>
-                           <geo>48,08605 16,28921</geo>
+                           <geo>48,083892 16,27948</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -85999,7 +86173,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
@@ -90383,6 +90557,9 @@
                      </person>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -95883,6 +96060,12 @@
                      </person>
                      <person role="hat mitwirkend">
                         <persName key="pmb16990">Gentner, Karl</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb9598">Rottenberg, Ludwig</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb23674">Rottenberg, Theodore</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -118883,7 +119066,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb78923">Aladin</title>
+                        <title key="pmb78923">Aladin und die Wunderlampe. Märchenspiel in 3 Aufzügen</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
@@ -132989,7 +133172,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Probe von</note>
                      </bibl>
                   </listBibl>
@@ -133038,7 +133221,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Probe von</note>
                      </bibl>
                   </listBibl>
@@ -134816,7 +134999,7 @@
                <desc>
                   <listBibl>
                      <bibl>
-                        <title key="pmb29957">Lebendige Stunden</title>
+                        <title key="pmb29957">Lebendige Stunden. Schauspiel in einem Aufzug</title>
                         <note type="relation-type">ist Lesung von</note>
                      </bibl>
                      <bibl>
@@ -135136,7 +135319,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb42626">Residenztheater Berlin</placeName>
+                        <placeName role="veranstaltet in" key="pmb42626">Residenz-Theater Berlin</placeName>
                         <location>
                            <geo>52,52041 13,41536</geo>
                         </location>
@@ -148588,8 +148771,14 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210748.html</idno>
             </event>
             <event when-iso="1925-04-08">
-               <head>Vortrag »Das heutige Europa« von Georg Brandes, 8.4.1925</head>
+               <head>Vortrag von Das heutige Europa, 8.4.1925</head>
                <desc>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb37723">Das heutige Europa</title>
+                        <note type="relation-type">ist Lesung von</note>
+                     </bibl>
+                  </listBibl>
                   <listPerson>
                      <person role="hat mitwirkend">
                         <persName key="pmb10992">Brandes, Georg</persName>
@@ -160075,6 +160264,12 @@
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
                      </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb112622">Jerger, Alfred</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
@@ -161835,7 +162030,7 @@
                   </listOrg>
                   <listBibl>
                      <bibl>
-                        <title key="pmb33704">Die ägyptische Helena</title>
+                        <title key="pmb33704">Die ägyptische Helena. Oper in zwei Aufzügen</title>
                         <note type="relation-type">ist Aufführung von</note>
                      </bibl>
                   </listBibl>
