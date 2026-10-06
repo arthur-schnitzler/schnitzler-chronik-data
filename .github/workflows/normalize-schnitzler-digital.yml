@@ -24,7 +24,7 @@ jobs:
     - name: Transform to schnitzler-digital_tage.xml
       run: |
         java -jar saxon/saxon9he.jar -xsl:xslts/diverses/1_arthur-schnitzler-digital-zu-import-listel.xsl -s:import-lists/${{ inputs.input_file || 'ASd_Export_Schnitzler_Tage.xml' }} -o:import-lists/schnitzler-digital_tage.xml
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Normalize schnitzler-digital_tage.xml
     - name: Trigger combine import lists workflow

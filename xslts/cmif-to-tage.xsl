@@ -379,47 +379,47 @@
                             <xsl:choose>
                                 <xsl:when test="$entry/tei:correspAction[1]/tei:date/@when">
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@when, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@when)"
                                     />
                                 </xsl:when>
                                 <xsl:when
                                     test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
                                     <xsl:text>zwischen </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@from)"/>
                                     <xsl:text> und </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@to)"
                                     />
                                 </xsl:when>
                                 <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from">
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@from)"
                                     />
                                 </xsl:when>
                                 <xsl:when
                                     test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
                                     <xsl:text>nach </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@notBefore)"/>
                                     <xsl:text> und vor </xsl:text>
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@notAfter)"
                                     />
                                 </xsl:when>
                                 <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore">
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@notBefore)"
                                     />
                                 </xsl:when>
                                 <xsl:when test="$entry/tei:correspAction[1]/tei:date/@to">
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@to)"
                                     />
                                 </xsl:when>
                                 <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notAfter">
                                     <xsl:value-of
-                                        select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                        select="foo:datum($entry/tei:correspAction[1]/tei:date/@notAfter)"
                                     />
                                 </xsl:when>
                             </xsl:choose>
@@ -590,47 +590,47 @@
                                 <xsl:choose>
                                     <xsl:when test="$entry/tei:correspAction[1]/tei:date/@when">
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@when, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@when)"
                                         />
                                     </xsl:when>
                                     <xsl:when
                                         test="$entry/tei:correspAction[1]/tei:date/@from and $entry/tei:correspAction[1]/tei:date/@to">
                                         <xsl:text>zwischen </xsl:text>
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@from)"/>
                                         <xsl:text> und </xsl:text>
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@to)"
                                         />
                                     </xsl:when>
                                     <xsl:when test="$entry/tei:correspAction[1]/tei:date/@from">
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@from, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@from)"
                                         />
                                     </xsl:when>
                                     <xsl:when
                                         test="$entry/tei:correspAction[1]/tei:date/@notBefore and $entry/tei:correspAction[1]/tei:date/@notAfter">
                                         <xsl:text>nach </xsl:text>
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@notBefore)"/>
                                         <xsl:text> und vor </xsl:text>
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@notAfter)"
                                         />
                                     </xsl:when>
                                     <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notBefore">
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@notBefore)"
                                         />
                                     </xsl:when>
                                     <xsl:when test="$entry/tei:correspAction[1]/tei:date/@to">
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@to, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@to)"
                                         />
                                     </xsl:when>
                                     <xsl:when test="$entry/tei:correspAction[1]/tei:date/@notAfter">
                                         <xsl:value-of
-                                            select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
+                                            select="foo:datum($entry/tei:correspAction[1]/tei:date/@notAfter)"
                                         />
                                     </xsl:when>
                                 </xsl:choose>
@@ -677,6 +677,14 @@
             </xsl:for-each>
         </xsl:if>
     </xsl:template>
+    <!-- Datum als T.M.JJJJ. Bewusst ohne format-date mit Sprache: Saxon HE kennt kein Deutsch
+        und schreibt dann "[Language: en]15th10th1910". -->
+    <xsl:function name="foo:datum" as="xs:string">
+        <xsl:param name="datum" as="xs:date"/>
+        <xsl:sequence
+            select="concat(day-from-date($datum), '.', month-from-date($datum), '.', year-from-date($datum))"
+        />
+    </xsl:function>
     <xsl:function name="foo:nameUmreihenBeimKomma">
         <xsl:param name="eingangsString" as="xs:string?"/>
         <xsl:choose>
