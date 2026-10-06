@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -157,6 +157,49 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03451.html</idno>
+            </event>
+            <event when-iso="1904-08-16">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [16. oder 17]. 8. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb415">Bad Aussee</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb47674">Villa Frühling</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01428.html</idno>
             </event>
             <event when-iso="1904-08-16">
                <head corresp="#pmb50">Wien</head>

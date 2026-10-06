@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -83,7 +83,13 @@
             </event>
             <event when-iso="1885-08-15">
                <head corresp="#pmb867">Innsbruck</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34110">
+                        <placeName>Innsbruck Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1885-08-15</idno>
             </event>
             <event when-iso="1885-08-15">
@@ -95,6 +101,9 @@
                      </place>
                      <place corresp="#pmb184605">
                         <placeName>Alter Botanischer Garten Zürich</placeName>
+                     </place>
+                     <place corresp="#pmb250163">
+                        <placeName>Zürich Hauptbahnhof</placeName>
                      </place>
                   </listPlace>
                </desc>

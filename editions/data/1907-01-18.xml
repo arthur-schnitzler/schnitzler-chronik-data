@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -139,16 +139,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb159">Heiligenstadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb722">Armbrustergasse</placeName>
+                        <placeName ref="pmb365513">Post- und Telegraphenamt 118</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb237626">Armbrustergasse 6</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb159">Heiligenstadt</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
@@ -238,37 +241,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/L041395.html</idno>
-            </event>
-            <event when-iso="1907-01-18">
-               <head>Arthur Schnitzler an Felix Salten, 18.1.1907</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-                     </person>
-                  </listPerson>
-                  <bibl> Hermann Bahr,
-                  Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931.
-                  Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein Verlag
-                  2018 
-               </bibl>
-               </desc>
-               <idno type="schnitzler-cmif"
-                     subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
-            </event>
-            <event when-iso="1907-01-18">
-               <head>Arthur Schnitzler an Felix Salten, 18. 1. 1907</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler:
-                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
-                  Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -119,42 +119,6 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-11-27.html</idno>
             </event>
             <event when-iso="1910-11-27">
-               <head>Stefan Zweig an Arthur Schnitzler, 27. 11. 1910</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb13212">Zweig, Stefan</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb249577">Kochgasse 8</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb14">Burgtheater</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb677">Breslau</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03628.html</idno>
-            </event>
-            <event when-iso="1910-11-27">
                <head>Arthur Schnitzler an Gustav Schwarzkopf, [27. oder 28]. 11. 1910</head>
                <desc>
                   <listPerson>
@@ -192,6 +156,42 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04169.html</idno>
+            </event>
+            <event when-iso="1910-11-27">
+               <head>Stefan Zweig an Arthur Schnitzler, 27. 11. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb13212">Zweig, Stefan</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb249577">Kochgasse 8</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb14">Burgtheater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb677">Breslau</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03628.html</idno>
             </event>
             <event when-iso="1910-11-27">
                <head corresp="#pmb50">Wien</head>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -164,6 +164,46 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03800.html</idno>
+            </event>
+            <event when-iso="1908-07-05">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [5. oder 6.  7. 1908]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365615">9/4 Post- und Telegraphenamt 68</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb467">Villa Heufler</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb988">Seis am Schlern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb113">Türkenschanzpark</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb895">Strobl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51516">Hotel am See</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01781.html</idno>
             </event>
             <event when-iso="1908-07-05">
                <head>Felix Salten an Arthur Schnitzler, 5. 7. 1908</head>

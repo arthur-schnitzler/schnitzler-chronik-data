@@ -118,14 +118,14 @@
   [
  {
  "placeName":
- "Wien",
+ "18/1 Post- und Telegraphenamt 110",
  "ref":
- "pmb50"}
+ "pmb365223"}
  ,  {
  "placeName":
- "I., Innere Stadt",
+ "K.K. Telegrafen Centrale",
  "ref":
- "pmb51"}
+ "pmb290824"}
  ,  {
  "placeName":
  "Edmund-Weiß-Gasse 7",
@@ -136,6 +136,11 @@
  "Tiefer Graben 23",
  "ref":
  "pmb207296"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Salzburg",
@@ -213,6 +218,71 @@
 }
 }, {
  "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L01457",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01457.html",
+ "head":
+ "Hugo von Hofmannsthal an Arthur Schnitzler, [17. oder 18]. 10. 1904",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Gertrude von Hofmannsthal",
+ "ref":
+ "pmb2292"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "10/2 Telegraphenamt 78",
+ "ref":
+ "pmb365407"}
+ ,  {
+ "placeName":
+ "7/3 Post- und Telegraphenamt 63",
+ "ref":
+ "pmb365409"}
+ ,  {
+ "placeName":
+ "18/1 Post- und Telegraphenamt 110",
+ "ref":
+ "pmb365223"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
+ ,  {
+ "placeName":
+ "XIII., Hietzing",
+ "ref":
+ "pmb63"}
+ ]
+}
+}, {
+ "type":
  "wienerschnitzler",
  "color":
  "#6F5106",
@@ -242,7 +312,7 @@
  "caption":
  "Gedruckte Briefwechsel",
  "head":
- "Max Reinhardt an Arthur Schnitzler, 17.10.1904",
+ "Max Reinhardt an Arthur Schnitzler, [Language: en]17th10th1904",
  "source":
  "Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg: 1971."
 }] 

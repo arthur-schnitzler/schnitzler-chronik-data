@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -164,6 +164,12 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207274">Haus Bahr</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
@@ -192,53 +198,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01338.html</idno>
-            </event>
-            <event when-iso="1903-11-10">
-               <head>Arthur Schnitzler an Hermann Bahr, 10. 11. [1903]</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10815">Bahr, Hermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13177">Carl Friedrich Zelter</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
-                     </person>
-                  </listPerson>
-                  <listBibl>
-                     <bibl>
-                        <title ref="pmb29975">Briefwechsel zwischen Goethe und Zelter</title>
-                     </bibl>
-                  </listBibl>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb63">XIII., Hietzing</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb220">Veitlissengasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb448">Galeriestraße</placeName>
-                     </place>
-                  </listPlace>
-                  <listOrg>
-                     <org>
-                        <orgName ref="pmb29255">Süddeutsches Antiquariat</orgName>
-                     </org>
-                  </listOrg>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01339.html</idno>
             </event>
             <event when-iso="1903-11-10">
                <head>Arthur Schnitzler an Felix Salten, 10. 11. 1903</head>
@@ -616,20 +575,6 @@
                   <listPerson>
                      <person>
                         <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler:
-                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
-                  Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
-            </event>
-            <event when-iso="1903-11-10">
-               <head>Arthur Schnitzler an Felix Salten, 10. 11. 1903</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                      </person>
                   </listPerson>
                   <bibl>Arthur Schnitzler:

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,6 +95,40 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-03-07.html</idno>
             </event>
             <event when-iso="1908-03-07">
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [7. oder 8]. 3. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51520">Berliner Dom</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51521">Friedrichsbrücke</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51522">Börse</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01762.html</idno>
+            </event>
+            <event when-iso="1908-03-07">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -160,7 +194,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209497.html</idno>
             </event>
             <event when-iso="1908-03-07">
-               <head>Arthur Schnitzler an Franz Nabl, 7.3.1908</head>
+               <head>Arthur Schnitzler an Franz Nabl, [Language: en]7th3rd1908</head>
                <desc>
                   <listPerson>
                      <person>

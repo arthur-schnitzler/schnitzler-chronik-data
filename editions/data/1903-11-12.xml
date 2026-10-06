@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -347,7 +347,7 @@
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10128</idno>
             </event>
             <event when-iso="1903-11-12">
-               <head>Samuel Fischer an Arthur Schnitzler, 12.11.1903</head>
+               <head>Samuel Fischer an Arthur Schnitzler, [Language: en]12th11th1903</head>
                <desc>
                   <listPerson>
                      <person>
@@ -361,7 +361,7 @@
                <idno type="schnitzler-cmif" subtype="#y8d39a2f-76d4-4426-8799-986c8bf5bc60"/>
             </event>
             <event when-iso="1903-11-12">
-               <head>Samuel Fischer an Arthur Schnitzler, 12.11.1903</head>
+               <head>Samuel Fischer an Arthur Schnitzler, [Language: en]12th11th1903</head>
                <desc>
                   <listPerson>
                      <person>
@@ -376,20 +376,6 @@
                </desc>
                <idno type="schnitzler-cmif"
                      subtype="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"/>
-            </event>
-            <event when-iso="1903-11-12">
-               <head>Arthur Schnitzler an Felix Salten, 12. 11. 1903</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-                     </person>
-                  </listPerson>
-                  <bibl>Arthur Schnitzler:
-                  Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
-                  Main: S. Fischer 1981.</bibl>
-               </desc>
-               <idno type="schnitzler-cmif" subtype="#j7685005-64da-4e31-99b6-b4641aa1628c"/>
             </event>
          </listEvent>
       </body>

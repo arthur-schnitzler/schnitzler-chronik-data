@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,6 +94,60 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-08-22.html</idno>
+            </event>
+            <event when-iso="1910-08-22">
+               <head>Arthur Schnitzler, Olga Schnitzler an Richard Beer-Hofmann, [22. oder 23]. 8. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2315">Elisabeth Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21891">Franz Neumann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31311">Liebelei. Oper in drei Akten</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb2318">Partenkirchen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb667">Garmisch-Partenkirchen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb250767">Rettenbachweg 5</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb52102">St. Anton [Partenkirchen]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb52104">Dreitorspitze</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb882">Heidelberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01954.html</idno>
             </event>
             <event when-iso="1910-08-22">
                <head corresp="#pmb667">Garmisch-Partenkirchen</head>
@@ -173,7 +227,7 @@
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10332</idno>
             </event>
             <event when-iso="1910-08-22">
-               <head>Samuel Fischer an Arthur Schnitzler, 22.8.1910</head>
+               <head>Samuel Fischer an Arthur Schnitzler, [Language: en]22nd8th1910</head>
                <desc>
                   <listPerson>
                      <person>
