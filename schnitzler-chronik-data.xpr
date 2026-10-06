@@ -525,7 +525,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslts/schnitzler-briefe-cmif-to-tage.xsl</String>
+                                    <String>${pdu}/xslts/cmif-to-tage.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${pdu}/import-lists/schnitzler-briefe_tage.xml</String>

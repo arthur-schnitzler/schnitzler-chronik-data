@@ -15,6 +15,16 @@ jobs:
     - name: Install Saxon, Ant
       run: |
         ./dl_saxon.sh
+    - name: Generate schnitzler-briefe-tage
+      run: |
+        java -jar ./saxon/saxon9he.jar -s:./xslts/cmif-to-tage.xsl -xsl:./xslts/cmif-to-tage.xsl -o:./import-lists/schnitzler-briefe_tage.xml quelle=briefe
+    - name: Generate schnitzler-cmif-tage
+      run: |
+        java -jar ./saxon/saxon9he.jar -s:./xslts/cmif-to-tage.xsl -xsl:./xslts/cmif-to-tage.xsl -o:./import-lists/schnitzler-cmif_tage.xml quelle=cmif
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Generate schnitzler-briefe-tage and schnitzler-cmif-tage
+        pull: '--rebase --autostash'
     - name: Transform schnitzler-kultur-tage
       run: |
         java -jar ./saxon/saxon9he.jar -s:./import-lists/schnitzler-kultur_tage.xml -xsl:./xslts/schnitzler-kultur/1_listevent-kuerzen.xsl -o:./import-lists/schnitzler-kultur_tage.xml

@@ -23,23 +23,11 @@
         <mkdir dir="${data}"/>
     </target>
     
-    <!-- Transformiert die Import-Dateien und verschiebt sie zurück nach import-lists -->
-    <!-- schnitzler-kultur und wienerschnitzler werden bereits im Workflow vor ant verarbeitet -->
-    <target name="transform-import" depends="prepare">
-        <xslt in="./import-lists/schnitzler-briefe_tage.xml" out="${tmpDir}/schnitzler-briefe_tage.xml"
-            style="./xslts/schnitzler-briefe-cmif-to-tage.xsl">
-            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-            <classpath refid="saxon.classpath"/>
-        </xslt>
-        <move todir="./import-lists" overwrite="true">
-            <fileset dir="${tmpDir}">
-                <include name="*_tage.xml"/>
-            </fileset>
-        </move>
-    </target>
+    <!-- schnitzler-briefe_tage.xml, schnitzler-cmif_tage.xml, schnitzler-kultur und wienerschnitzler
+         werden bereits im Workflow vor ant erzeugt (siehe .github/workflows/combine-import-lists.yml) -->
     
     <!-- Alle Events zusammenführen -->
-    <target name="merge-events" depends="transform-import">
+    <target name="merge-events" depends="prepare">
         <xslt in="./editions/indices/tagesliste.xml" out="${tmpDir}/schnitzler-chronik.xml"
             style="./xslts/1_alle-events-zusammenkopieren.xsl">
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>

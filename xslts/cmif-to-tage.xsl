@@ -4,14 +4,25 @@
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-skip"/>
-    <!-- Diese Datei, angewandt auf 
-        schnitzler-ohne-dubletten
-        oder
-        schnitzler-briefe-cmif.xml 
-    holt alle gedruckten Briefe raus, schnitzler-briefe wird
-    ignoriert. Briefe an Schnitzler werden dem mutmaßlichen Empfang geordnet.
-    Wenn die Zeile 75 abgeändert wird, geht das ganze auch mit schnitzler-briefe-cmif
-    -->
+    <!-- Erzeugt aus einem CMIF die Import-Liste für die Chronik. Die Quelle wird per
+        Parameter gewählt und direkt aus GitHub geholt, die Eingabedatei (-s) wird ignoriert:
+        quelle=briefe: schnitzler-briefe-cmif.xml, alle Briefe aus schnitzler-briefe
+            -> import-lists/schnitzler-briefe_tage.xml
+        quelle=cmif (Default): schnitzler-ohne-dubletten.xml, alle gedruckten Briefe,
+            schnitzler-briefe wird ignoriert. Briefe an Schnitzler werden dem mutmaßlichen
+            Empfang zugeordnet.
+            -> import-lists/schnitzler-cmif_tage.xml -->
+    <xsl:param name="quelle" as="xs:string" select="'cmif'"/>
+    <xsl:variable name="briefe" as="xs:boolean" select="$quelle = 'briefe'"/>
+    <xsl:variable name="quell-url"
+        select="
+            if ($briefe) then
+                'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe-cmif.xml'
+            else
+                'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/refs/heads/main/schnitzler-ohne-dubletten/schnitzler-ohne-dubletten.xml'"/>
+    <xsl:template match="/">
+        <xsl:apply-templates select="document($quell-url)//tei:profileDesc"/>
+    </xsl:template>
     <xsl:template match="tei:profileDesc">
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
             <teiHeader>
@@ -30,12 +41,12 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences </orgName>
                             <address>
-                                <addrLine>Sonnenfelsgasse 19</addrLine>
+                                <addrLine>Bäckerstraße 13</addrLine>
                                 <addrLine>1010 Vienna</addrLine>
                             </address>
                         </publisher>
                         <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-                        <date when="2022">2022</date>
+                        <date when="{year-from-date(current-date())}"><xsl:value-of select="year-from-date(current-date())"/></date>
                         <availability>
                             <licence target="https://creativecommons.org/licenses/by/4.0/">
                                 <p>The Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -45,8 +56,12 @@
                         </availability>
                     </publicationStmt>
                     <sourceDesc>
-                        <p>Basically all printed letters from Schnitzler that can be located within
-                            a time-frame of 5 days.</p>
+                        <p>
+                            <xsl:choose>
+                                <xsl:when test="$briefe">Schnitzler-Briefe-CMIF</xsl:when>
+                                <xsl:otherwise>Basically all printed letters from Schnitzler that can be located within a time-frame of 5 days.</xsl:otherwise>
+                            </xsl:choose>
+                        </p>
                     </sourceDesc>
                 </fileDesc>
             </teiHeader>
@@ -71,11 +86,8 @@
             <xsl:value-of select="foo:loop-string($current-number + 1, $duration)"/>
         </xsl:if>
     </xsl:function>
-    <!-- Variante für schnitzler-briefe: -->
-    <xsl:template match="tei:correspDesc">
-    <!-- Variante für cmif -->
-    <!--<xsl:template match="tei:correspDesc[not(starts-with(@ref, 'https://schnitzler-briefe.'))]">-->
-        <!-- Diese Variable gibt die einzelnen Daten aus, bei denen ein Eintrag erstellt werden soll -->
+    <xsl:template
+        match="tei:correspDesc[$briefe or not(starts-with(@ref, 'https://schnitzler-briefe.'))]">
         <xsl:variable name="entry" select="."/>
         <xsl:variable name="unsicheres-absendedatum" as="xs:boolean">
             <xsl:choose>
@@ -124,8 +136,8 @@
             </xsl:if>
         </xsl:variable>
         <xsl:variable name="beteiligte-entitaeten" as="node()?">
-            <xsl:if test="descendant::tei:ab[@type='entitaeten']">
-                <xsl:copy-of select="descendant::tei:ab[@type='entitaeten']"/>
+            <xsl:if test="descendant::tei:ab[@type = 'entitaeten']">
+                <xsl:copy-of select="descendant::tei:ab[@type = 'entitaeten']"/>
             </xsl:if>
         </xsl:variable>
         <xsl:variable name="erwaehnte-personen" as="node()?">
@@ -149,11 +161,11 @@
                 <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:for-each select="tei:note/tei:ref[ends-with(@type, 'mentionsBibl')]">
                         <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:element name="title"  namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:attribute name="ref">
-                                <xsl:value-of select="concat('#', @target)"/>
-                            </xsl:attribute>
-                            <xsl:value-of select="."/>
+                            <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:attribute name="ref">
+                                    <xsl:value-of select="concat('#', @target)"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="."/>
                             </xsl:element>
                         </xsl:element>
                     </xsl:for-each>
@@ -175,6 +187,105 @@
                     </xsl:for-each>
                 </xsl:element>
             </xsl:if>
+        </xsl:variable>
+        <!-- 1) Alle Briefe -->
+        <xsl:variable name="briefe-entitaeten">
+            <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                <xsl:if
+                    test="$entry/descendant::tei:note/tei:ref">
+                    <xsl:element name="listPerson" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:for-each select="$entry/tei:correspAction/tei:persName">
+                            <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:element name="persName" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:attribute name="ref">
+                                        <xsl:value-of select="replace(@ref, '#', '')"/>
+                                    </xsl:attribute>
+                                    <xsl:value-of select="."/>
+                                </xsl:element>
+                            </xsl:element>
+                        </xsl:for-each>
+                        <xsl:for-each
+                            select="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsPerson']">
+                            <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:element name="persName" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:attribute name="ref">
+                                        <xsl:value-of select="@target"/>
+                                    </xsl:attribute>
+                                    <xsl:value-of select="."/>
+                                </xsl:element>
+                            </xsl:element>
+                        </xsl:for-each>
+                    </xsl:element>
+                    <xsl:if
+                        test="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsBibl']">
+                        <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:for-each
+                                select="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsBibl']">
+                                <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:element name="title"
+                                        namespace="http://www.tei-c.org/ns/1.0">
+                                        <xsl:attribute name="ref">
+                                            <xsl:value-of select="@target"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="."/>
+                                    </xsl:element>
+                                </xsl:element>
+                            </xsl:for-each>
+                        </xsl:element>
+                    </xsl:if>
+                    <xsl:if
+                        test="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsPlace']">
+                        <xsl:element name="listPlace" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:for-each
+                                select="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsPlace']">
+                                <xsl:element name="place" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:element name="placeName"
+                                        namespace="http://www.tei-c.org/ns/1.0">
+                                        <xsl:attribute name="ref">
+                                            <xsl:value-of select="@target"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="."/>
+                                    </xsl:element>
+                                </xsl:element>
+                            </xsl:for-each>
+                        </xsl:element>
+                    </xsl:if>
+                    <xsl:if
+                        test="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsOrg']">
+                        <xsl:element name="listOrg" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:for-each
+                                select="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsOrg']">
+                                <xsl:element name="org" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:element name="orgName"
+                                        namespace="http://www.tei-c.org/ns/1.0">
+                                        <xsl:attribute name="ref">
+                                            <xsl:value-of select="@target"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="."/>
+                                    </xsl:element>
+                                </xsl:element>
+                            </xsl:for-each>
+                        </xsl:element>
+                    </xsl:if>
+                    <xsl:if
+                        test="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsEvent']">
+                        <xsl:element name="listEvent" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:for-each
+                                select="$entry/tei:note/tei:ref[@type = 'https://lod.academy/cmif/vocab/terms#mentionsEvent']">
+                                <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:element name="eventName"
+                                        namespace="http://www.tei-c.org/ns/1.0">
+                                        <xsl:attribute name="ref">
+                                            <xsl:value-of select="@target"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="."/>
+                                    </xsl:element>
+                                </xsl:element>
+                            </xsl:for-each>
+                        </xsl:element>
+                    </xsl:if>
+                </xsl:if>
+            </xsl:element>
         </xsl:variable>
         <!-- 1) Alle Briefe -->
         <xsl:variable name="zeitraum" as="node()">
@@ -318,59 +429,64 @@
                         <xsl:text>?</xsl:text>
                     </xsl:if>
                 </xsl:element>
-                <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                <xsl:if test="$briefe">
+                    <xsl:copy-of select="$briefe-entitaeten/*"/>
+                </xsl:if>
+                <xsl:if test="not($briefe)">
+                    <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:choose>
+                            <xsl:when test="$beteiligte-entitaeten//tei:persName">
+                                <xsl:copy-of select="$beteiligte-entitaeten/*"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:if test="$beteiligte-personen//tei:person">
+                                    <xsl:copy-of select="$beteiligte-personen"/>
+                                </xsl:if>
+                                <xsl:if test="$beteiligte-organisationen//tei:org">
+                                    <xsl:copy-of select="$beteiligte-organisationen"/>
+                                </xsl:if>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:if test="$erwaehnte-personen//tei:person">
+                            <xsl:copy-of select="$erwaehnte-personen"/>
+                        </xsl:if>
+                        <xsl:if test="$erwaehnte-werke//tei:bibl">
+                            <xsl:copy-of select="$erwaehnte-werke"/>
+                        </xsl:if>
+                        <xsl:if test="$erwaehnte-orte//tei:place">
+                            <xsl:copy-of select="$erwaehnte-orte"/>
+                        </xsl:if>
+                        <xsl:if test="$werk-inhalt and not($werk-inhalt = '')">
+                            <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:value-of select="$werk-inhalt"/>
+                            </xsl:element>
+                        </xsl:if>
+                    </xsl:element>
+                </xsl:if>
+                <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:choose>
-                        <xsl:when test="$beteiligte-entitaeten//tei:persName">
-                            <xsl:copy-of select="$beteiligte-entitaeten/*"/>
+                        <xsl:when test="contains($entry/@ref, 'schnitzler-briefe')">
+                            <xsl:attribute name="type">
+                                <xsl:text>schnitzler-briefe</xsl:text>
+                            </xsl:attribute>
+                            <xsl:value-of select="$entry/@ref"/>
+                        </xsl:when>
+                        <xsl:when
+                            test="starts-with($entry/@ref, 'https://biblio.ub.uni-freiburg.de/sf/')">
+                            <xsl:attribute name="type">
+                                <xsl:text>schnitzler-fischer</xsl:text>
+                            </xsl:attribute>
+                            <xsl:value-of select="$entry/@ref"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="$beteiligte-personen//tei:person">
-                                <xsl:copy-of select="$beteiligte-personen"/>
-                            </xsl:if>
-                            <xsl:if test="$beteiligte-organisationen//tei:org">
-                                <xsl:copy-of select="$beteiligte-organisationen"/>
-                            </xsl:if>
+                            <xsl:attribute name="type">
+                                <xsl:text>schnitzler-cmif</xsl:text>
+                            </xsl:attribute>
+                            <xsl:attribute name="subtype">
+                                <xsl:value-of select="$entry/@source"/>
+                            </xsl:attribute>
                         </xsl:otherwise>
                     </xsl:choose>
-                    <xsl:if test="$erwaehnte-personen//tei:person">
-                        <xsl:copy-of select="$erwaehnte-personen"/>
-                    </xsl:if>
-                    <xsl:if test="$erwaehnte-werke//tei:bibl">
-                        <xsl:copy-of select="$erwaehnte-werke"/>
-                    </xsl:if>
-                    <xsl:if test="$erwaehnte-orte//tei:place">
-                        <xsl:copy-of select="$erwaehnte-orte"/>
-                    </xsl:if>
-                    <xsl:if test="$werk-inhalt and not($werk-inhalt='')">
-                        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:value-of select="$werk-inhalt"/>
-                        </xsl:element>
-                    </xsl:if>
-                </xsl:element>
-                <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:choose>
-                    <xsl:when test="contains($entry/@ref, 'schnitzler-briefe')">
-                        <xsl:attribute name="type">
-                        <xsl:text>schnitzler-briefe</xsl:text>
-                        </xsl:attribute>
-                        <xsl:value-of select="$entry/@ref"/>
-                    </xsl:when>
-                    <xsl:when test="starts-with($entry/@ref, 'https://biblio.ub.uni-freiburg.de/sf/')">
-                        <xsl:attribute name="type">
-                            <xsl:text>schnitzler-fischer</xsl:text>
-                        </xsl:attribute>
-                        <xsl:value-of select="$entry/@ref"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:attribute name="type">
-                        <xsl:text>schnitzler-cmif</xsl:text>
-                        </xsl:attribute>
-                        <xsl:attribute name="subtype">
-                            <xsl:value-of select="$entry/@source"/>
-                        </xsl:attribute>
-                    </xsl:otherwise>
-                </xsl:choose>
-                
                 </xsl:element>
             </xsl:element>
         </xsl:for-each>
@@ -497,7 +613,7 @@
                                         <xsl:text>nach </xsl:text>
                                         <xsl:value-of
                                             select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notBefore, '[D1o][M1o][Y]', 'de', (), ())"/>
-                                        <xsl:text>und vor </xsl:text>
+                                        <xsl:text> und vor </xsl:text>
                                         <xsl:value-of
                                             select="fn:format-date($entry/tei:correspAction[1]/tei:date/@notAfter, '[D1o][M1o][Y]', 'de', (), ())"
                                         />
@@ -524,26 +640,31 @@
                             <xsl:text>?</xsl:text>
                         </xsl:if>
                     </xsl:element>
-                    <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:if test="$beteiligte-personen//tei:person">
-                            <xsl:copy-of select="$beteiligte-personen"/>
-                        </xsl:if>
-                        <xsl:if test="$beteiligte-organisationen//tei:org">
-                            <xsl:copy-of select="$beteiligte-organisationen"/>
-                        </xsl:if>
-                        <xsl:if test="$erwaehnte-personen//tei:person">
-                            <xsl:copy-of select="$erwaehnte-personen"/>
-                        </xsl:if>
-                        <xsl:if test="$erwaehnte-werke//tei:bibl">
-                            <xsl:copy-of select="$erwaehnte-werke"/>
-                        </xsl:if>
-                        <xsl:if test="$erwaehnte-orte//tei:place">
-                            <xsl:copy-of select="$erwaehnte-orte"/>
-                        </xsl:if>
-                        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:value-of select="$werk-inhalt"/>
+                    <xsl:if test="$briefe">
+                        <xsl:copy-of select="$briefe-entitaeten/*"/>
+                    </xsl:if>
+                    <xsl:if test="not($briefe)">
+                        <xsl:element name="desc" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:if test="$beteiligte-personen//tei:person">
+                                <xsl:copy-of select="$beteiligte-personen"/>
+                            </xsl:if>
+                            <xsl:if test="$beteiligte-organisationen//tei:org">
+                                <xsl:copy-of select="$beteiligte-organisationen"/>
+                            </xsl:if>
+                            <xsl:if test="$erwaehnte-personen//tei:person">
+                                <xsl:copy-of select="$erwaehnte-personen"/>
+                            </xsl:if>
+                            <xsl:if test="$erwaehnte-werke//tei:bibl">
+                                <xsl:copy-of select="$erwaehnte-werke"/>
+                            </xsl:if>
+                            <xsl:if test="$erwaehnte-orte//tei:place">
+                                <xsl:copy-of select="$erwaehnte-orte"/>
+                            </xsl:if>
+                            <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:value-of select="$werk-inhalt"/>
+                            </xsl:element>
                         </xsl:element>
-                    </xsl:element>
+                    </xsl:if>
                     <xsl:element name="idno" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:attribute name="type">
                             <xsl:text>schnitzler-cmif</xsl:text>
