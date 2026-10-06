@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -89,6 +89,43 @@
                   </listPerson>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1897-08-10.html</idno>
+            </event>
+            <event when-iso="1897-08-10">
+               <head>Paul Goldmann an Arthur Schnitzler, [10. oder 11]. 8. 1897</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb734">Bayreuth</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51377">Richard-Wagner-Festspielhaus</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb401">Hotel Marienbad [München]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02821.html</idno>
             </event>
             <event when-iso="1897-08-10">
                <head corresp="#pmb50">Wien</head>

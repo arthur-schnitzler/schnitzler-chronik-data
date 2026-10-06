@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -85,6 +85,63 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1908-07-19.html</idno>
             </event>
             <event when-iso="1908-07-19">
+               <head>Arthur Schnitzler, Olga Schnitzler an Richard Beer-Hofmann, [19. oder 20]. 7. 1908</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb27687">Franz August Carl Maria Reisch</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb51884">Partie in Seis am Schlern</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb988">Seis am Schlern</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb895">Strobl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51516">Hotel am See</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb969">Südtirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43520">Meran</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44311">San Martino di Castrozza</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb427">Madonna di Campiglio</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1061">Engadin</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01784.html</idno>
+            </event>
+            <event when-iso="1908-07-19">
                <head>Arthur Schnitzler, Otto Brahm an Felix Salten, 19. 7. 1908</head>
                <desc>
                   <listPerson>
@@ -114,13 +171,13 @@
                         <placeName ref="pmb960">Noordwijk</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb467">Villa Heufler</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb44016">Niederlande</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb969">Südtirol</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb467">Villa Heufler</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43520">Meran</placeName>

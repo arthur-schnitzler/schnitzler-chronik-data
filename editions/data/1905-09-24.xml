@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -90,6 +90,40 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1905-09-24.html</idno>
+            </event>
+            <event when-iso="1905-09-24">
+               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [24. oder 25]. 9. 1905</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Schnitzler, Olga</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb413">Südbahnhotel [Semmering]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04483.html</idno>
             </event>
             <event when-iso="1905-09-24">
                <head>Leo Van-Jung, Franziska Mütter, Richard Beer-Hofmann an Arthur Schnitzler, Olga Schnitzler, [24. 9.?] 1905</head>
@@ -166,37 +200,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02579.html</idno>
-            </event>
-            <event when-iso="1905-09-24">
-               <head>Arthur Schnitzler, Olga Schnitzler an Gustav Schwarzkopf, [24. oder 25]. 9. 1905</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Schnitzler, Olga</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb189">Semmering</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb413">Südbahnhotel [Semmering]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04483.html</idno>
             </event>
             <event when-iso="1905-09-24">
                <head corresp="#pmb189">Semmering</head>

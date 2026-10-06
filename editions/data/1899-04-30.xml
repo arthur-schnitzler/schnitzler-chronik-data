@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -107,6 +107,52 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1899-04-30.html</idno>
             </event>
             <event when-iso="1899-04-30">
+               <head>Felix Salten, Georg Hirschfeld, Jakob Wassermann, Peter Altenberg, Alfred Gold, Elly Hirschfeld, Ottilie Metzl an Arthur Schnitzler, [29. oder 30]. 4. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11701">Hirschfeld, Georg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Wassermann, Jakob</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2147">Altenberg, Peter</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11469">Gold, Alfred</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9233">Hirschfeld, Elly</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Metzl, Ottilie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365630">13/1 Post- und Telegraphenamt 88</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03289.html</idno>
+            </event>
+            <event when-iso="1899-04-30">
                <head>Arthur Schnitzler an Gustav Schwarzkopf, 30. 4. 1899</head>
                <desc>
                   <listPerson>
@@ -147,52 +193,6 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04123.html</idno>
-            </event>
-            <event when-iso="1899-04-30">
-               <head>Felix Salten, Georg Hirschfeld, Jakob Wassermann, Peter Altenberg, Alfred Gold, Elly Hirschfeld, Ottilie Metzl an Arthur Schnitzler, [29. oder 30]. 4. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11701">Hirschfeld, Georg</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13055">Wassermann, Jakob</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2147">Altenberg, Peter</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11469">Gold, Alfred</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb9233">Hirschfeld, Elly</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Metzl, Ottilie</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb63">XIII., Hietzing</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb545">Hotel Savoy [Berlin]</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03289.html</idno>
             </event>
             <event when-iso="1899-04-30">
                <head>Ludwig Ganghofer an Arthur Schnitzler, 30. 4. [1899]</head>

@@ -39,56 +39,6 @@
  "color":
  "#A63437",
  "filename":
- "L01030",
- "caption":
- "Briefe mit Autorinnen und Autoren",
- "idno":
- "https://schnitzler-briefe.acdh.oeaw.ac.at/L01030.html",
- "head":
- "Arthur Schnitzler an Richard Beer-Hofmann, [3.] 4. 1900",
- "desc":
-{"listPerson":
-  [
-{
- "persName":
- "Arthur Schnitzler",
- "ref":
- "pmb2121"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"}],
- "listPlace":
-  [
- {
- "placeName":
- "Solin",
- "ref":
- "pmb453"}
- ,  {
- "placeName":
- "I., Innere Stadt",
- "ref":
- "pmb51"}
- ,  {
- "placeName":
- "Wollzeile 15 (»Berthahof«)",
- "ref":
- "pmb190427"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ]
-}
-}, {
- "type":
- "schnitzler-briefe",
- "color":
- "#A63437",
- "filename":
  "L01026",
  "caption":
  "Briefe mit Autorinnen und Autoren",
@@ -118,14 +68,19 @@
  "pmb4231"}
  ,  {
  "placeName":
- "Wien",
+ "1/1 Post- und Telegraphenamt 1",
  "ref":
- "pmb50"}
+ "pmb365214"}
  ,  {
  "placeName":
  "Wollzeile 15 (»Berthahof«)",
  "ref":
  "pmb190427"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Peristil ulica",
@@ -136,6 +91,56 @@
  "Katedrala Svetog Duje",
  "ref":
  "pmb46388"}
+ ]
+}
+}, {
+ "type":
+ "schnitzler-briefe",
+ "color":
+ "#A63437",
+ "filename":
+ "L01030",
+ "caption":
+ "Briefe mit Autorinnen und Autoren",
+ "idno":
+ "https://schnitzler-briefe.acdh.oeaw.ac.at/L01030.html",
+ "head":
+ "Arthur Schnitzler an Richard Beer-Hofmann, [3.] 4. 1900",
+ "desc":
+{"listPerson":
+  [
+{
+ "persName":
+ "Arthur Schnitzler",
+ "ref":
+ "pmb2121"},
+ {
+ "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"}],
+ "listPlace":
+  [
+ {
+ "placeName":
+ "Solin",
+ "ref":
+ "pmb453"}
+ ,  {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
+ "Wollzeile 15 (»Berthahof«)",
+ "ref":
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

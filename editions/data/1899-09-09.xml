@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,6 +123,9 @@
                         <placeName ref="pmb43040">Brixen</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb43036">Gasthof Fritz</placeName>
                      </place>
                      <place>
@@ -134,6 +137,43 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00971.html</idno>
+            </event>
+            <event when-iso="1899-09-09">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, 9. 9. 1899</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43040">Brixen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb946">Vahrn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb423">Tirol</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41430">Sachsenburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00972.html</idno>
             </event>
             <event when-iso="1899-09-09">
                <head>Arthur Schnitzler an Gustav Schwarzkopf, 9. 9. 1899</head>
@@ -246,13 +286,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34401">Altaussee</placeName>
@@ -265,6 +302,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb1179">Lehártheater</placeName>
@@ -283,40 +323,6 @@
                   </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04142.html</idno>
-            </event>
-            <event when-iso="1899-09-09">
-               <head>Arthur Schnitzler an Richard Beer-Hofmann, 9. 9. 1899</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43040">Brixen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb946">Vahrn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb423">Tirol</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41430">Sachsenburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L00972.html</idno>
             </event>
             <event when-iso="1899-09-09">
                <head corresp="#pmb213">Bad Ischl</head>

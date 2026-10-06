@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,6 +114,43 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01743.html</idno>
+            </event>
+            <event when-iso="1907-12-20">
+               <head>Felix Salten, Otto Brahm, Ludwig Brahm, Jakob Wassermann an Arthur Schnitzler, [20. oder 21]. 12. [1907?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb5187">Brahm, Otto</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Brahm, Ludwig</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb13055">Wassermann, Jakob</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02578.html</idno>
             </event>
             <event when-iso="1907-12-20">
                <head corresp="#pmb50">Wien</head>

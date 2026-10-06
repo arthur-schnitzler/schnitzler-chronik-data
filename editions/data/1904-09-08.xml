@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,6 +114,54 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01440.html</idno>
+            </event>
+            <event when-iso="1904-09-08">
+               <head>Hugo von Hofmannsthal, Gerty von Hofmannsthal an Arthur Schnitzler, [8. oder 9]. 9. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292">Hofmannsthal, Gerty von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3603">Anton Pavlovič Čechov</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12170">Heinrich Mann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb31983">Die Göttinnen oder Die drei Romane der Herzogin von Assy</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb33">St. Gilgen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40260">Bozen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb824">Hotel und Pension Lueg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb186">Lueg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44487">Rosengartengruppe</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01441.html</idno>
             </event>
             <event when-iso="1904-09-08">
                <head corresp="#pmb33">St. Gilgen</head>

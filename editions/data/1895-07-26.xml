@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,6 +97,54 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1895-07-26.html</idno>
+            </event>
+            <event when-iso="1895-07-26">
+               <head>Felix Salten an Arthur Schnitzler, [26. oder 27]. 7. 1895</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2147">Peter Altenberg</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb144705">Die Münchener Kunstausstellungen. I. Im königl. Glaspalast</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144701">Die Münchener Kunstausstellungen. II. Im königl. Glaspalast</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb144711">Münchener Brief. (Orig.-Corr. der »Wiener Allg. Ztg.«)</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb199347">Hörlgasse 16</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb874">Gmunden</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1163">Goldener Brunnen</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03131.html</idno>
             </event>
             <event when-iso="1895-07-26">
                <head corresp="#pmb213">Bad Ischl</head>

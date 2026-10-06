@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -132,16 +132,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
+                        <placeName ref="pmb290824">K.K. Telegrafen Centrale</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
@@ -190,6 +193,43 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03804.html</idno>
             </event>
             <event when-iso="1904-10-17">
+               <head>Hugo von Hofmannsthal an Arthur Schnitzler, [17. oder 18]. 10. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365407">10/2 Telegraphenamt 78</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365409">7/3 Post- und Telegraphenamt 63</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb63">XIII., Hietzing</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01457.html</idno>
+            </event>
+            <event when-iso="1904-10-17">
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
@@ -211,7 +251,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1904-10-17</idno>
             </event>
             <event when-iso="1904-10-17">
-               <head>Max Reinhardt an Arthur Schnitzler, 17.10.1904</head>
+               <head>Max Reinhardt an Arthur Schnitzler, [Language: en]17th10th1904</head>
                <desc>
                   <listPerson>
                      <person>

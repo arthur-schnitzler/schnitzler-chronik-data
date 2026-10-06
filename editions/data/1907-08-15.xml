@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -77,6 +77,43 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1907-08-15.html</idno>
+            </event>
+            <event when-iso="1907-08-15">
+               <head>Paul Goldmann an Arthur Schnitzler, [15. oder 16]. 8. 1907</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb11485">Goldmann, Paul</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb17163">Clementine Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb723">Wildbad Waldbrunn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb423">Tirol</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L03256.html</idno>
             </event>
             <event when-iso="1907-08-15">
                <head>Felix Salten an Arthur Schnitzler, 15. 8. 1907</head>
@@ -172,7 +209,7 @@
                         <placeName ref="pmb772">Marienbad</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb428">Welsberg-Taisten</placeName>
+                        <placeName ref="pmb723">Wildbad Waldbrunn</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb509">Hotel Quisisana</placeName>

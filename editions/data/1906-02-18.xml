@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -113,6 +113,56 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1906-02-18.html</idno>
             </event>
             <event when-iso="1906-02-18">
+               <head>Lou Andreas-Salomé an Arthur Schnitzler, [18. oder 19]. 2. 1906</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10762">Andreas-Salomé, Lou</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10986">Otto Brahm</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11617">Gerhart Hauptmann</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33043">Und Pippa tanzt!</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb399">Hotel Continental [Berlin]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1103">Marburger Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1104">Hospiz des Westens</placeName>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb35053">Lessing-Theater</orgName>
+                     </org>
+                  </listOrg>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01585.html</idno>
+            </event>
+            <event when-iso="1906-02-18">
                <head corresp="#pmb866">Dresden</head>
                <desc>
                   <listPlace>
@@ -138,7 +188,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1906-02-18</idno>
             </event>
             <event when-iso="1906-02-18">
-               <head>Otto Brahm an Arthur Schnitzler, 18.2.1906</head>
+               <head>Otto Brahm an Arthur Schnitzler, [Language: en]18th2nd1906</head>
                <desc>
                   <listPerson>
                      <person>

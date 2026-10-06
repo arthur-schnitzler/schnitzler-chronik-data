@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,50 +99,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-08-17.html</idno>
             </event>
             <event when-iso="1904-08-17">
-               <head>Arthur Schnitzler an Hermann Bahr, 17. 8. 1904</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10815">Bahr, Hermann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb63">XIII., Hietzing</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb220">Veitlissengasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb304">Ottakringer Bräu</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb66">XVI., Ottakring</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb6">Kuffner Bierbrauerei</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01427.html</idno>
-            </event>
-            <event when-iso="1904-08-17">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, 17. 8. 1904</head>
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [16. oder 17]. 8. 1904</head>
                <desc>
                   <listPerson>
                      <person>
@@ -172,7 +129,7 @@
                         <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                        <placeName ref="pmb47674">Villa Frühling</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
@@ -183,6 +140,55 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01428.html</idno>
+            </event>
+            <event when-iso="1904-08-17">
+               <head>Arthur Schnitzler an Hermann Bahr, 17. 8. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365275">13/7 Post- und Telegraphenamt 94</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207274">Haus Bahr</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb165">Ober Sankt Veit</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb304">Ottakringer Bräu</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb63">XIII., Hietzing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb66">XVI., Ottakring</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb6">Kuffner Bierbrauerei</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01427.html</idno>
             </event>
             <event when-iso="1904-08-17">
                <head corresp="#pmb50">Wien</head>

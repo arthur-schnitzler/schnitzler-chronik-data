@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -96,6 +96,52 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1904-03-08.html</idno>
+            </event>
+            <event when-iso="1904-03-08">
+               <head>Hermann Bahr an Arthur Schnitzler, [8. oder 9]. 3. 1904</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb682">Dubrovnik</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb92731">Ombla</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb265">Dalmatien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365">Grand Hotel Imperial [Dubrovnik]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb388">Spanien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01379.html</idno>
             </event>
             <event when-iso="1904-03-08">
                <head>Felix Salten an Arthur Schnitzler, 8. 3. 1904</head>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -82,6 +82,55 @@
                   </listBibl>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1912-08-04.html</idno>
+            </event>
+            <event when-iso="1912-08-04">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [4. oder 5]. 8. 1912</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2496">Arthur Kaufmann</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb45260">Brijuni</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb51935">Hotel Waldhaus am See</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44374">St. Moritz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1061">Engadin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb52316">Val Catena</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40306">Italien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40516">Sils im Engadin/Segl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb44493">Tutzing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02082.html</idno>
             </event>
             <event when-iso="1912-08-04">
                <head corresp="#pmb45260">Brijuni</head>

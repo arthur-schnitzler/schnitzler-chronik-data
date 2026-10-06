@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,6 +108,34 @@
                   </listPlace>
                </desc>
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1910-08-10.html</idno>
+            </event>
+            <event when-iso="1910-08-10">
+               <head>Arthur Schnitzler an Richard Beer-Hofmann, [22. oder 23]. 7. 1910</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb365223">18/1 Post- und Telegraphenamt 110</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb250767">Rettenbachweg 5</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01953.html</idno>
             </event>
             <event when-iso="1910-08-10">
                <head corresp="#pmb50">Wien</head>
@@ -218,7 +246,7 @@
                <idno type="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/details/10331</idno>
             </event>
             <event when-iso="1910-08-10">
-               <head>Arthur Schnitzler an Samuel Fischer, 10.8.1910</head>
+               <head>Arthur Schnitzler an Samuel Fischer, [Language: en]10th8th1910</head>
                <desc>
                   <listPerson>
                      <person>

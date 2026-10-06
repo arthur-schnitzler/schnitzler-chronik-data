@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -79,7 +79,7 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1917-09-05.html</idno>
             </event>
             <event when-iso="1917-09-05">
-               <head>Richard Beer-Hofmann an Arthur Schnitzler, 5. 9. 1917</head>
+               <head>Richard Beer-Hofmann an Arthur Schnitzler, [4. oder 5]. 9. 1917</head>
                <desc>
                   <listPerson>
                      <person>
@@ -98,6 +98,9 @@
                   <listPlace>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43462">Villa Kupferschmid</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb808">Haus Tannenberg</placeName>

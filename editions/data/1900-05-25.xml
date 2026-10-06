@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -89,43 +89,6 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1900-05-25.html</idno>
             </event>
             <event when-iso="1900-05-25">
-               <head>Arthur Schnitzler, Felix Salten, Ottilie Metzl an Gustav Schwarzkopf, 25. 5. 1900</head>
-               <desc>
-                  <listPerson>
-                     <person>
-                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Salten, Felix</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Metzl, Ottilie</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName ref="pmb48761">Puchberg am Schneeberg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb5836">Hochschneeberg</placeName>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04450.html</idno>
-            </event>
-            <event when-iso="1900-05-25">
                <head>Arthur Schnitzler, Felix Salten, Ottilie Salten an Richard Beer-Hofmann, [25. oder 26]. 5. 1900</head>
                <desc>
                   <listPerson>
@@ -163,6 +126,43 @@
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L01041.html</idno>
             </event>
             <event when-iso="1900-05-25">
+               <head>Arthur Schnitzler, Felix Salten, Ottilie Metzl an Gustav Schwarzkopf, 25. 5. 1900</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Metzl, Ottilie</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12740">Schwarzkopf, Gustav</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb48761">Puchberg am Schneeberg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb207296">Tiefer Graben 23</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb5836">Hochschneeberg</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04450.html</idno>
+            </event>
+            <event when-iso="1900-05-25">
                <head>Adalbert Seligmann an Arthur Schnitzler, 25. 5. 1900</head>
                <desc>
                   <listPerson>
@@ -181,6 +181,9 @@
                   <listPlace>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                   </listPlace>
                </desc>

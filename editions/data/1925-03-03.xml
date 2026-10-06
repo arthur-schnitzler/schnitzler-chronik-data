@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-09-28.">28.09.2026</date>
+            <date when-iso="2026-10-06.">06.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -174,6 +174,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb44567">Bahnhof Marseille</placeName>
                      </place>
                      <place>
@@ -192,6 +195,11 @@
                         <placeName ref="pmb44589">Kathedrale von Avignon</placeName>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org>
+                        <orgName ref="pmb365636">International Exhibition of Modern Decorative and Industrial Arts</orgName>
+                     </org>
+                  </listOrg>
                </desc>
                <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L02436.html</idno>
             </event>
