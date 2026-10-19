@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,7 +97,13 @@
                         <persName ref="pmb10992">Brandes, Georg</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11485">Paul Goldmann</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11701">Georg Hirschfeld</persName>
                      </person>
                      <person>
                         <persName ref="pmb11919">Ellen Key</persName>
@@ -112,45 +118,30 @@
                         <persName ref="pmb5446">Helge Rode</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11701">Georg Hirschfeld</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb13923">Gabriel Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
+                        <persName ref="pmb2534">Naëmah Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                        <persName ref="pmb2668">Mirjam Beer-Hofmann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb36357">Politiken</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb36357">Politiken</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb144492">Skikkelser og Tanker. Arthur Schnitzler</title>
@@ -164,7 +155,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb14">Burgtheater</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43570">Dänemark</placeName>
@@ -173,19 +176,10 @@
                         <placeName ref="pmb445">Rom</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb677">Breslau</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb14">Burgtheater</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -220,13 +214,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb445">Rom</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb683">Steyrerhof</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb445">Rom</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

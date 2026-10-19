@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,10 +108,10 @@
                         <persName ref="pmb10788">Raoul Auernheimer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12248">Gustav Meyrink</persName>
+                        <persName ref="pmb10955">Franz Blei</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10955">Franz Blei</persName>
+                        <persName ref="pmb12248">Gustav Meyrink</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -127,7 +127,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb1212">Neulinggasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb237241">Ottakringer Straße 114</placeName>
@@ -136,10 +139,13 @@
                         <placeName ref="pmb462">Venedig</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1212">Neulinggasse</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
+                     <org>
+                        <orgName ref="pmb29212">Neue Rundschau, Neue Deutsche Rundschau, Freie Bühne</orgName>
+                     </org>
                      <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
                      </org>
@@ -148,9 +154,6 @@
                      </org>
                      <org>
                         <orgName ref="pmb29568">Der Spiegel. Münchner Halbmonatsschrift</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29212">Neue Rundschau, Neue Deutsche Rundschau, Freie Bühne</orgName>
                      </org>
                   </listOrg>
                </desc>

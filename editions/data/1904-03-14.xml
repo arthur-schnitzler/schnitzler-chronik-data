@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -134,6 +134,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
@@ -141,9 +144,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb40297">Hofmannsthal-Schlössl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -166,19 +166,10 @@
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23674">Theodore Rottenberg</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                        <persName ref="pmb23674">Theodore Rottenberg</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -197,10 +188,13 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb1283">Pompeji</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb3">Deutsches Theater Berlin</placeName>
@@ -213,9 +207,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb595">Neapel</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1283">Pompeji</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb901">Palermo</placeName>
@@ -247,7 +238,7 @@
                               <placeName>Kaiserpanorama [Wien, Schubertring 4]</placeName>
                            </place>
                            <place corresp="#pmb4">
-                              <placeName>Bösendorfer Saal</placeName>
+                              <placeName>Bösendorfer-Saal</placeName>
                            </place>
                         </listPlace>
                      </place>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -156,15 +156,6 @@
                   ?? [Regimentsarzt]
                </persName>
                      </person>
-                     <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8514">Zacharias Konrad Lecher</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -175,6 +166,9 @@
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
@@ -203,10 +197,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -228,24 +222,24 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb11485">Paul Goldmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb895">Strobl</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb895">Strobl</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -262,24 +256,24 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2871">Theodor Entsch</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb12348">Gilbert Otto Neumann-Hofer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb2871">Theodor Entsch</persName>
                      </person>
                      <person>
                         <persName ref="pmb5684">Fedor von Zobeltitz</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29935">Anatol</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30005">Abschiedssouper</title>
@@ -288,36 +282,36 @@
                         <title ref="pmb40968">Magazin für die Literatur des Auslandes</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29935">Anatol</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33530">Ohne Geläut</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb32832">Novellen</title>
+                        <title ref="pmb30177">Camelias</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30437">Das Kind</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30177">Camelias</title>
+                        <title ref="pmb32832">Novellen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33532">[Meldung: Märchen im Lessingtheater]</title>
+                        <title ref="pmb33530">Ohne Geläut</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33444">Wiener Dichter</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33532">[Meldung: Märchen im Lessingtheater]</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb1219">Ramsauer Garni Café</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1219">Ramsauer Garni Café</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -367,22 +361,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb945">Dölsach</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb897">Lienz</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb313">Polen</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb987">Toblach</placeName>
+                        <placeName ref="pmb34199">Cortina d’Ampezzo</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34199">Cortina d’Ampezzo</placeName>
+                        <placeName ref="pmb897">Lienz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb945">Dölsach</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb987">Toblach</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb167474">Putzenbacher</placeName>

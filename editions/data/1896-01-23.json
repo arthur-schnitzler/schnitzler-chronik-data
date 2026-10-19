@@ -56,14 +56,14 @@
  "pmb2121"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Hermann Bahr",
  "ref":
- "pmb87771"},
+ "pmb10815"},
  {
  "persName":
- "Gerhart Hauptmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb11617"},
+ "pmb10863"},
  {
  "persName":
  "Max Halbe",
@@ -71,19 +71,9 @@
  "pmb11565"},
  {
  "persName":
- "Theodor Wolff",
+ "Gerhart Hauptmann",
  "ref":
- "pmb13163"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
- "Hermann Bahr",
- "ref":
- "pmb10815"},
+ "pmb11617"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -96,9 +86,19 @@
  "pmb11867"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Theodor Wolff",
  "ref":
- "pmb10863"},
+ "pmb13163"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
  {
  "persName":
  "Clementine Goldmann",
@@ -108,12 +108,7 @@
  "persName":
  "Josef Rosengart",
  "ref":
- "pmb23593"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"}],
+ "pmb23593"}],
  "listBibl":
   [
  {
@@ -121,6 +116,11 @@
  "Die Zeit. Wiener Wochenschrift",
  "ref":
  "pmb36340"}
+ ,  {
+ "title":
+ "Östlich um die Welt I.",
+ "ref":
+ "pmb145498"}
  ,  {
  "title":
  "Liebelei. Schauspiel in drei Akten",
@@ -143,11 +143,6 @@
  "pmb36344"}
  ,  {
  "title":
- "Östlich um die Welt I.",
- "ref":
- "pmb145498"}
- ,  {
- "title":
  "Ostwärts um die Welt",
  "ref":
  "pmb118035"}
@@ -161,24 +156,9 @@
   [
  {
  "placeName":
- "Paris",
+ "China",
  "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
+ "pmb1108"}
  ,  {
  "placeName":
  "Frankfurt am Main",
@@ -186,22 +166,37 @@
  "pmb146"}
  ,  {
  "placeName":
- "China",
+ "Berlin",
  "ref":
- "pmb1108"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
  ],
  "listOrg":
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
  "Berliner Tageblatt",
  "ref":
  "pmb29329"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
  ,  {
  "orgName":
  "Deutsches Theater Berlin",

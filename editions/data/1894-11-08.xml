@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,12 +93,6 @@
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2815">Émile Augier</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2702">Heinrich Laube</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -107,16 +101,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb290824">K.K. Telegrafen Centrale</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb290824">K.K. Telegrafen Centrale</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -135,12 +129,6 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2815">Émile Augier</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2702">Heinrich Laube</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -149,7 +137,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -179,10 +167,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb296731">8, rue de Monceau</placeName>
@@ -191,7 +182,7 @@
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -199,19 +190,19 @@
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
+                        <orgName ref="pmb29380">Berliner Theater</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29561">Freie Bühne</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb35053">Lessing-Theater</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29380">Berliner Theater</orgName>
+                        <orgName ref="pmb35597">Deutsches Theater Berlin</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb45434">Neues Theater</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29561">Freie Bühne</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>

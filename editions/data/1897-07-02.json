@@ -66,19 +66,19 @@
  "pmb2121"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb87771"},
+ "pmb10863"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
  {
  "persName":
  "Richard Wagner",
  "ref":
  "pmb13024"},
- {
- "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
  {
  "persName":
  "Maxime Dethomas",
@@ -91,24 +91,14 @@
  "pmb26392"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Jeanne Marni",
  "ref":
  "pmb5459"},
  {
  "persName":
- "Marie Reinhard",
+ "Leopold Sonnemann",
  "ref":
- "pmb2378"},
- {
- "persName":
- "Therese Reinhard",
- "ref":
- "pmb23215"},
+ "pmb87771"},
  {
  "persName":
  "Houston Stewart Chamberlain",
@@ -118,7 +108,17 @@
  "persName":
  "Louise Schnitzler",
  "ref":
- "pmb12701"}],
+ "pmb12701"},
+ {
+ "persName":
+ "Therese Reinhard",
+ "ref":
+ "pmb23215"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"}],
  "listBibl":
   [
  {
@@ -138,18 +138,23 @@
  "pmb30219"}
  ,  {
  "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
  "Der Tod Georgs",
  "ref":
  "pmb31535"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Louveciennes",
+ "ref":
+ "pmb118522"}
+ ,  {
  "placeName":
  "Paris",
  "ref":
@@ -174,11 +179,6 @@
  "Bayreuth",
  "ref":
  "pmb734"}
- ,  {
- "placeName":
- "Louveciennes",
- "ref":
- "pmb118522"}
  ,  {
  "placeName":
  "Andermatt",

@@ -86,24 +86,14 @@
   [
  {
  "placeName":
+ "Semmering",
+ "ref":
+ "pmb189"}
+ ,  {
+ "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Brenner",
- "ref":
- "pmb608"}
- ,  {
- "placeName":
- "Riva del Garda",
- "ref":
- "pmb465"}
  ,  {
  "placeName":
  "Lago di Garda",
@@ -111,14 +101,34 @@
  "pmb39975"}
  ,  {
  "placeName":
- "Semmering",
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
  "ref":
- "pmb189"}
+ "pmb414"}
  ,  {
  "placeName":
- "Schafberg [Wien]",
+ "Riva del Garda",
  "ref":
- "pmb532"}
+ "pmb465"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Schafberg [St. Gilgen]",
+ "ref":
+ "pmb59367"}
+ ,  {
+ "placeName":
+ "Brenner",
+ "ref":
+ "pmb608"}
+ ,  {
+ "placeName":
+ "Arles",
+ "ref":
+ "pmb641"}
  ]
 }
 }, {
@@ -131,7 +141,27 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1892-09-11",
  "head":
- "Bad Ischl"
+ "Bad Ischl",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Hotel und Pension Rudolfshöhe (Leopold Petter)",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Bahnhof Bad Ischl",
+ "ref":
+ ""}
+ ,  {
+ "placeName":
+ "Grazer Straße 6 [Bad Ischl]",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -142,5 +172,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1892-09-11",
  "head":
- "Innsbruck"
+ "Innsbruck",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Innsbruck Hauptbahnhof",
+ "ref":
+ ""}
+ ]
+}
 }] 

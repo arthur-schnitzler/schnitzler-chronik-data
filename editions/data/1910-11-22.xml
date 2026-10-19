@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -125,13 +125,13 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb52544">Das Echo des Lebens</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29905">Der Ruf des Lebens. Schauspiel in drei Akten</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
@@ -231,19 +231,19 @@
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb989">Wuppertal</placeName>
+                        <placeName ref="pmb147">Beethovenmuseum</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb63">XIII., Hietzing</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb147">Beethovenmuseum</placeName>
+                        <placeName ref="pmb63">XIII., Hietzing</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb989">Wuppertal</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -273,13 +273,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb1242">Franz-Joseph-Straße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1242">Franz-Joseph-Straße</placeName>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -311,10 +311,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

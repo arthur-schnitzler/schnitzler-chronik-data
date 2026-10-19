@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,30 +116,30 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29957">Lebendige Stunden</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29877">Die letzten Masken</title>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29869">Literatur</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                        <title ref="pmb29877">Die letzten Masken</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb29957">Lebendige Stunden</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb365266">9/1 Post- und Telegraphenamt 66</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365266">9/1 Post- und Telegraphenamt 66</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -158,15 +158,6 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -178,10 +169,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb237534">Fichtegasse 11</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

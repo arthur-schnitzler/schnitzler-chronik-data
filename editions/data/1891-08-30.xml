@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,30 +111,30 @@
                      <person>
                         <persName ref="pmb12698">Julius Schnitzler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb31965">Die drei Elixire</title>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29935">Anatol</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <title ref="pmb31965">Die drei Elixire</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb833">Brünn</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb34305">Liechtensteinstraße [Hinterbrühl]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42968">Stadttheater [Brünn]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb788">Hybešova</placeName>
@@ -143,7 +143,7 @@
                         <placeName ref="pmb789">Buchfeldgasse</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34305">Liechtensteinstraße [Hinterbrühl]</placeName>
+                        <placeName ref="pmb833">Brünn</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -164,8 +164,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

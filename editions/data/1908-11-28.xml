@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,18 +111,21 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11910">Alfred Kerr</persName>
+                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
                      </person>
                      <person>
                         <persName ref="pmb11640">Heinrich Heine</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb189">Semmering</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
@@ -132,9 +135,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb96">Meissl &amp; Schadn</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb189">Semmering</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb4">Bösendorfer Saal</placeName>
@@ -201,19 +201,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb189">Semmering</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb235251">Hasenauerstraße 59</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb68">XVIII., Währing</placeName>
+                        <placeName ref="pmb58">VIII., Josefstadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb189">Semmering</placeName>
+                        <placeName ref="pmb68">XVIII., Währing</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb96">Meissl &amp; Schadn</placeName>
@@ -233,10 +233,10 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11910">Alfred Kerr</persName>
+                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11165">Ernst von Dohnányi</persName>
+                        <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
                      <person>
                         <persName ref="pmb12861">Oscar Straus</persName>
@@ -273,7 +273,7 @@
                               <placeName>Meissl &amp; Schadn</placeName>
                            </place>
                            <place corresp="#pmb4">
-                              <placeName>Bösendorfer Saal</placeName>
+                              <placeName>Bösendorfer-Saal</placeName>
                            </place>
                         </listPlace>
                      </place>

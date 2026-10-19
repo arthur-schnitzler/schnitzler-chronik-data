@@ -86,16 +86,6 @@
  "pmb11740"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
@@ -106,24 +96,14 @@
  "pmb11485"},
  {
  "persName":
- "Alfred Kerr",
- "ref":
- "pmb11910"},
- {
- "persName":
- "Oskar Mayer",
- "ref":
- "pmb21236"},
- {
- "persName":
  "Georg Hirschfeld",
  "ref":
  "pmb11701"},
  {
  "persName":
- "Elly Petersen",
+ "Alfred Kerr",
  "ref":
- "pmb9233"},
+ "pmb11910"},
  {
  "persName":
  "Josef Redlich",
@@ -131,9 +111,19 @@
  "pmb12481"},
  {
  "persName":
- "Nanette Speyer",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb25187"},
+ "pmb12740"},
+ {
+ "persName":
+ "Oskar Mayer",
+ "ref":
+ "pmb21236"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
  {
  "persName":
  "Albert Speyer",
@@ -141,44 +131,19 @@
  "pmb25179"},
  {
  "persName":
+ "Nanette Speyer",
+ "ref":
+ "pmb25187"},
+ {
+ "persName":
+ "Elly Petersen",
+ "ref":
+ "pmb9233"},
+ {
+ "persName":
  "Elisabeth Steinrück",
  "ref":
  "pmb2315"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Bertha Schimitschek",
- "ref":
- "pmb24186"},
- {
- "persName":
- "?? [Verehrer von Elisabeth Steinrück]",
- "ref":
- "pmb39712"},
- {
- "persName":
- "Alice Leo",
- "ref":
- "pmb28111"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Gisela Hajek",
- "ref":
- "pmb2461"},
- {
- "persName":
- "Helene Schnitzler",
- "ref":
- "pmb24423"},
  {
  "persName":
  "Paula Beer-Hofmann",
@@ -191,26 +156,56 @@
  "pmb11737"},
  {
  "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
+ {
+ "persName":
  "Anna von Hofmannsthal",
  "ref":
- "pmb18404"}],
+ "pmb18404"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Bertha Schimitschek",
+ "ref":
+ "pmb24186"},
+ {
+ "persName":
+ "Helene Schnitzler",
+ "ref":
+ "pmb24423"},
+ {
+ "persName":
+ "Gisela Hajek",
+ "ref":
+ "pmb2461"},
+ {
+ "persName":
+ "Alice Leo",
+ "ref":
+ "pmb28111"},
+ {
+ "persName":
+ "?? [Verehrer von Elisabeth Steinrück]",
+ "ref":
+ "pmb39712"}],
  "listBibl":
   [
  {
- "title":
- "Die Frau im Fenster",
- "ref":
- "pmb32067"}
- ,  {
  "title":
  "Gestern. Dramatische Studie in einem Akt in Versen",
  "ref":
  "pmb30141"}
  ,  {
  "title":
- "Die Quellen des Nil",
+ "Die Frau im Fenster",
  "ref":
- "pmb30625"}
+ "pmb32067"}
  ,  {
  "title":
  "Lieutenant Gustl. Novelle",
@@ -221,45 +216,15 @@
  "Frau Bertha Garlan. Roman",
  "ref":
  "pmb30486"}
+ ,  {
+ "title":
+ "Die Quellen des Nil",
+ "ref":
+ "pmb30625"}
  ],
  "listPlace":
   [
  {
- "placeName":
- "Reichenau an der Rax",
- "ref":
- "pmb483"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Kurhaus Rudolfsbad",
- "ref":
- "pmb44982"}
- ,  {
- "placeName":
- "Tegernsee",
- "ref":
- "pmb39752"}
- ,  {
- "placeName":
- "Altaussee",
- "ref":
- "pmb34401"}
- ,  {
- "placeName":
- "Kaliningrad",
- "ref":
- "pmb304404"}
- ,  {
- "placeName":
- "Edlach",
- "ref":
- "pmb470"}
- ,  {
  "placeName":
  "Bad Ischl",
  "ref":
@@ -269,6 +234,41 @@
  "Salzburg",
  "ref":
  "pmb30"}
+ ,  {
+ "placeName":
+ "Kaliningrad",
+ "ref":
+ "pmb304404"}
+ ,  {
+ "placeName":
+ "Bad Fusch",
+ "ref":
+ "pmb305739"}
+ ,  {
+ "placeName":
+ "Altaussee",
+ "ref":
+ "pmb34401"}
+ ,  {
+ "placeName":
+ "Tegernsee",
+ "ref":
+ "pmb39752"}
+ ,  {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ "pmb44982"}
+ ,  {
+ "placeName":
+ "Edlach",
+ "ref":
+ "pmb470"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -314,14 +314,9 @@
   [
  {
  "placeName":
- "Postamt Salzburg Stadt",
+ "Niederösterreich",
  "ref":
- "pmb365625"}
- ,  {
- "placeName":
- "Reichenau an der Rax",
- "ref":
- "pmb483"}
+ "pmb1003"}
  ,  {
  "placeName":
  "Salzburg",
@@ -329,19 +324,24 @@
  "pmb30"}
  ,  {
  "placeName":
- "Kurhaus Rudolfsbad",
+ "Postamt Salzburg Stadt",
  "ref":
- "pmb44982"}
- ,  {
- "placeName":
- "Niederösterreich",
- "ref":
- "pmb1003"}
+ "pmb365625"}
  ,  {
  "placeName":
  "Inneres Linzertor",
  "ref":
  "pmb43997"}
+ ,  {
+ "placeName":
+ "Kurhaus Rudolfsbad",
+ "ref":
+ "pmb44982"}
+ ,  {
+ "placeName":
+ "Reichenau an der Rax",
+ "ref":
+ "pmb483"}
  ]
 }
 }, {

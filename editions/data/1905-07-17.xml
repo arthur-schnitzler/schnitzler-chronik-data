@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -99,16 +99,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
+                        <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb231810">Willergasse 2</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
+                        <placeName ref="pmb44982">Kurhaus Rudolfsbad</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44982">Kurhaus Rudolfsbad</placeName>
+                        <placeName ref="pmb483">Reichenau an der Rax</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -120,6 +120,17 @@
                   <listPlace>
                      <place corresp="#pmb44982">
                         <placeName>Kurhaus Rudolfsbad</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1905-07-17</idno>
+            </event>
+            <event when-iso="1905-07-17">
+               <head corresp="#pmb948">Payerbach</head>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb147590">
+                        <placeName>Bahnhof Payerbach-Reichenau</placeName>
                      </place>
                   </listPlace>
                </desc>

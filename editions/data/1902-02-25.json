@@ -26,24 +26,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Dörmann",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2425"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Géza von Mattachich",
- "ref":
- "pmb21176"},
- {
- "persName":
- "Ignacy Daszyński",
- "ref":
- "pmb145270"},
+ "pmb10863"},
  {
  "persName":
  "Max Koch",
@@ -51,19 +36,29 @@
  "pmb11952"},
  {
  "persName":
+ "Ignacy Daszyński",
+ "ref":
+ "pmb145270"},
+ {
+ "persName":
  "Hans Jæger",
  "ref":
  "pmb145304"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Géza von Mattachich",
  "ref":
- "pmb10863"},
+ "pmb21176"},
  {
  "persName":
- "Elisabeth Steinrück",
+ "Olga Schnitzler",
  "ref":
- "pmb2315"},
+ "pmb2173"},
+ {
+ "persName":
+ "Felix Dörmann",
+ "ref":
+ "pmb2425"},
  {
  "persName":
  "Heinrich Meyer-Benfey",
@@ -71,31 +66,21 @@
  "pmb145319"},
  {
  "persName":
+ "Elisabeth Steinrück",
+ "ref":
+ "pmb2315"},
+ {
+ "persName":
  "Fedor Mamroth",
  "ref":
- "pmb4986"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb4986"}],
  "listBibl":
   [
  {
  "title":
- "Der Herr von Abadessa. Ein Abenteurerstreich in drei Akten",
+ "?? [Buch über den Talmud]",
  "ref":
- "pmb29989"}
+ "pmb145316"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -103,9 +88,9 @@
  "pmb29863"}
  ,  {
  "title":
- "?? [Buch über den Talmud]",
+ "Der Herr von Abadessa. Ein Abenteurerstreich in drei Akten",
  "ref":
- "pmb145316"}
+ "pmb29989"}
  ,  {
  "title":
  "Frankfurter Zeitung",
@@ -118,24 +103,9 @@
  "pmb145287"}
  ,  {
  "title":
- "Neue Freie Presse",
- "ref":
- "pmb36374"}
- ,  {
- "title":
- "Lieutenant Gustl. Novelle",
- "ref":
- "pmb29853"}
- ,  {
- "title":
  "Berliner Theater. (»Heilmar« von Wilhelm Kienzl im königlichen Opernhause.)",
  "ref":
  "pmb145295"}
- ,  {
- "title":
- "Christiania-Bohême",
- "ref":
- "pmb145311"}
  ,  {
  "title":
  "Fra Kristiania-Bohêmen",
@@ -143,37 +113,52 @@
  "pmb145309"}
  ,  {
  "title":
+ "Christiania-Bohême",
+ "ref":
+ "pmb145311"}
+ ,  {
+ "title":
  "Moderne Religion",
  "ref":
  "pmb145326"}
  ,  {
  "title":
- "?? [Rede über die Mattachich-Affaire]",
+ "Lieutenant Gustl. Novelle",
  "ref":
- "pmb145336"}
+ "pmb29853"}
+ ,  {
+ "title":
+ "Neue Freie Presse",
+ "ref":
+ "pmb36374"}
  ,  {
  "title":
  "?? [Kritik zu Lebendige Stunden]",
  "ref":
  "pmb145291"}
+ ,  {
+ "title":
+ "?? [Rede über die Mattachich-Affaire]",
+ "ref":
+ "pmb145336"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Deutschland",
+ "ref":
+ "pmb151"}
+ ,  {
  "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Dessauer Straße",
- "ref":
- "pmb40583"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Salzburg",
@@ -181,19 +166,9 @@
  "pmb30"}
  ,  {
  "placeName":
- "Südtirol",
+ "Dessauer Straße",
  "ref":
- "pmb969"}
- ,  {
- "placeName":
- "Deutschland",
- "ref":
- "pmb151"}
- ,  {
- "placeName":
- "Sächsische Schweiz",
- "ref":
- "pmb91636"}
+ "pmb40583"}
  ,  {
  "placeName":
  "Wiesbaden",
@@ -201,9 +176,24 @@
  "pmb883"}
  ,  {
  "placeName":
+ "Sächsische Schweiz",
+ "ref":
+ "pmb91636"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
+ ,  {
+ "placeName":
  "Hauptstraße 56",
  "ref":
  "pmb145165"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Hinterbrühl",
@@ -214,14 +204,14 @@
   [
  {
  "orgName":
+ "Die Zeit. Wiener Wochenschrift [Redaktion]",
+ "ref":
+ "pmb29209"}
+ ,  {
+ "orgName":
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
- ,  {
- "orgName":
- "Wiener Verlag",
- "ref":
- "pmb29636"}
  ,  {
  "orgName":
  "Die Zeit",
@@ -229,9 +219,9 @@
  "pmb29626"}
  ,  {
  "orgName":
- "Die Zeit. Wiener Wochenschrift [Redaktion]",
+ "Wiener Verlag",
  "ref":
- "pmb29209"}
+ "pmb29636"}
  ,  {
  "orgName":
  "Houghton Library",

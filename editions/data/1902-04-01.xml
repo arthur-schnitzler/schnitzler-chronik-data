@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,19 +94,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb231810">Willergasse 2</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb231810">Willergasse 2</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -128,6 +128,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
@@ -145,31 +148,31 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb21801">Ella Naschauer</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11581">Maximilian Harden</persName>
                      </person>
                      <person>
-                        <persName ref="pmb145407">Carl Seltmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12611">Hugo Salus</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12932">Heinrich Teweles</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb118324">Alice Ziegler</persName>
                      </person>
                      <person>
+                        <persName ref="pmb12611">Hugo Salus</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12932">Heinrich Teweles</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb145407">Carl Seltmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb21801">Ella Naschauer</persName>
                      </person>
                      <person>
                         <persName ref="pmb14384">Charlotte Bondy</persName>
@@ -177,48 +180,36 @@
                      <person>
                         <persName ref="pmb27472">Arnost Ziegler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11867">Heinrich Kanner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
+                        <title ref="pmb35935">Die Zeit</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb35935">Die Zeit</title>
+                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb652">Prag</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb93">Hotel Blauer Stern</placeName>
+                        <placeName ref="pmb145422">Böhmerwald</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb145422">Böhmerwald</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb652">Prag</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb93">Hotel Blauer Stern</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

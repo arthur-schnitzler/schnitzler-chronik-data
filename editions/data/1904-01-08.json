@@ -39,6 +39,11 @@
  "pmb10815"},
  {
  "persName":
+ "Bernhard Hoetger",
+ "ref":
+ "pmb11723"},
+ {
+ "persName":
  "Stephan Epstein",
  "ref":
  "pmb2199"},
@@ -47,11 +52,6 @@
  "André Antoine",
  "ref":
  "pmb2211"},
- {
- "persName":
- "Bernhard Hoetger",
- "ref":
- "pmb11723"},
  {
  "persName":
  "Henriette Estelle Epstein",
@@ -66,24 +66,9 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Edmund-Weiß-Gasse 7",
  "ref":
  "pmb168940"}
- ,  {
- "placeName":
- "rue de l’Assomption",
- "ref":
- "pmb450"}
- ,  {
- "placeName":
- "Secession",
- "ref":
- "pmb7"}
  ,  {
  "placeName":
  "Paris",
@@ -94,6 +79,21 @@
  "Semmering",
  "ref":
  "pmb189"}
+ ,  {
+ "placeName":
+ "rue de l’Assomption",
+ "ref":
+ "pmb450"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Secession",
+ "ref":
+ "pmb7"}
  ]
 }
 }, {
@@ -144,9 +144,9 @@
   [
  {
  "placeName":
- "Wien",
+ "Hotel Savoy [Wien]",
  "ref":
- "pmb50"}
+ "pmb1164"}
  ,  {
  "placeName":
  "Edmund-Weiß-Gasse 7",
@@ -159,9 +159,9 @@
  "pmb254"}
  ,  {
  "placeName":
- "Hotel Savoy [Wien]",
+ "Wien",
  "ref":
- "pmb1164"}
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -210,31 +210,31 @@
  "pmb10815"},
  {
  "persName":
- "Norbert von Ortner-Rodenstätt",
- "ref":
- "pmb2216"},
- {
- "persName":
  "Rosa Bahr",
  "ref":
  "pmb13682"},
  {
  "persName":
- "Julius Schnitzler",
+ "Norbert von Ortner-Rodenstätt",
  "ref":
- "pmb12698"},
+ "pmb2216"},
  {
  "persName":
  "Gertrude von Hofmannsthal",
  "ref":
- "pmb2292"}],
+ "pmb2292"},
+ {
+ "persName":
+ "Julius Schnitzler",
+ "ref":
+ "pmb12698"}],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Edmund-Weiß-Gasse 7",
  "ref":
- "pmb50"}
+ "pmb168940"}
  ,  {
  "placeName":
  "Sanatorium Schloss Marbach am Bodensee",

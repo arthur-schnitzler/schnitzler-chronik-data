@@ -76,6 +76,11 @@
  "pmb10815"},
  {
  "persName":
+ "Maximilian Harden",
+ "ref":
+ "pmb11581"},
+ {
+ "persName":
  "Siegfried Trebitsch",
  "ref":
  "pmb12968"},
@@ -86,24 +91,9 @@
  "pmb2381"},
  {
  "persName":
- "Maximilian Harden",
- "ref":
- "pmb11581"},
- {
- "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
- {
- "persName":
  "Siegfried Jacobsohn",
  "ref":
  "pmb11813"},
- {
- "persName":
- "Elisabeth Steinrück",
- "ref":
- "pmb2315"},
  {
  "persName":
  "Albert Steinrück",
@@ -111,66 +101,26 @@
  "pmb12837"},
  {
  "persName":
- "William Siegmund Schlamm",
+ "Elisabeth Steinrück",
  "ref":
- "pmb43666"},
+ "pmb2315"},
  {
  "persName":
- "Emil Rosenow",
+ "Ottilie Salten",
  "ref":
- "pmb12560"},
- {
- "persName":
- "Alfred Halm",
- "ref":
- "pmb2385"},
- {
- "persName":
- "August Strindberg",
- "ref":
- "pmb12877"},
- {
- "persName":
- "Arthur Pserhofer",
- "ref":
- "pmb3747"},
- {
- "persName":
- "Johannes Schlaf",
- "ref":
- "pmb12664"},
- {
- "persName":
- "Friedrich Hotho",
- "ref":
- "pmb60271"}],
+ "pmb23918"}],
  "listBibl":
   [
  {
- "title":
- "Die Schaubühne",
- "ref":
- "pmb41564"}
- ,  {
  "title":
  "Kater Lampe",
  "ref":
  "pmb32514"}
  ,  {
  "title":
- "Cäsar und Cleopatra. Eine historische Komödie",
+ "Die Schaubühne",
  "ref":
- "pmb77092"}
- ,  {
- "title":
- "Bühnenvertrieb",
- "ref":
- "pmb32516"}
- ,  {
- "title":
- "Bund der Bühnendichter. II",
- "ref":
- "pmb60265"}
+ "pmb41564"}
  ,  {
  "title":
  "Russisches Theater. II",
@@ -178,14 +128,29 @@
  "pmb32428"}
  ,  {
  "title":
+ "»Kater Lampe«",
+ "ref":
+ "pmb32430"}
+ ,  {
+ "title":
+ "Bühnenvertrieb",
+ "ref":
+ "pmb32516"}
+ ,  {
+ "title":
  "B.Z. am Mittag",
  "ref":
  "pmb58435"}
  ,  {
  "title":
- "»Kater Lampe«",
+ "Bund der Bühnendichter. II",
  "ref":
- "pmb32430"}
+ "pmb60265"}
+ ,  {
+ "title":
+ "Cäsar und Cleopatra. Eine historische Komödie",
+ "ref":
+ "pmb77092"}
  ,  {
  "title":
  "Theater",
@@ -196,59 +161,19 @@
   [
  {
  "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Kochstraße",
- "ref":
- "pmb855"}
- ,  {
- "placeName":
- "Thüringen",
- "ref":
- "pmb432"}
- ,  {
- "placeName":
  "Rheinland",
  "ref":
  "pmb135046"}
  ,  {
  "placeName":
- "Tirol",
+ "Berlin",
  "ref":
- "pmb423"}
+ "pmb168"}
  ,  {
  "placeName":
- "Südtirol",
+ "Edmund-Weiß-Gasse 7",
  "ref":
- "pmb969"}
- ,  {
- "placeName":
- "Schweiz",
- "ref":
- "pmb43435"}
- ,  {
- "placeName":
- "Lugano",
- "ref":
- "pmb885"}
- ,  {
- "placeName":
- "Genfer See",
- "ref":
- "pmb512"}
- ,  {
- "placeName":
- "Magdeburg",
- "ref":
- "pmb918"}
+ "pmb168940"}
  ,  {
  "placeName":
  "Genthin",
@@ -256,29 +181,29 @@
  "pmb37728"}
  ,  {
  "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
+ ,  {
+ "placeName":
+ "Thüringen",
+ "ref":
+ "pmb432"}
+ ,  {
+ "placeName":
+ "Schweiz",
+ "ref":
+ "pmb43435"}
+ ,  {
+ "placeName":
+ "Dänemark",
+ "ref":
+ "pmb43570"}
+ ,  {
+ "placeName":
  "Niederlande",
  "ref":
  "pmb44016"}
- ,  {
- "placeName":
- "Kiel",
- "ref":
- "pmb907"}
- ,  {
- "placeName":
- "Rothenburg ob der Tauber",
- "ref":
- "pmb856"}
- ,  {
- "placeName":
- "Bayreuth",
- "ref":
- "pmb734"}
- ,  {
- "placeName":
- "Marienlyst",
- "ref":
- "pmb959"}
  ,  {
  "placeName":
  "Ostsee",
@@ -286,9 +211,54 @@
  "pmb44599"}
  ,  {
  "placeName":
- "Dänemark",
+ "Wien",
  "ref":
- "pmb43570"}
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Genfer See",
+ "ref":
+ "pmb512"}
+ ,  {
+ "placeName":
+ "Bayreuth",
+ "ref":
+ "pmb734"}
+ ,  {
+ "placeName":
+ "Kochstraße",
+ "ref":
+ "pmb855"}
+ ,  {
+ "placeName":
+ "Rothenburg ob der Tauber",
+ "ref":
+ "pmb856"}
+ ,  {
+ "placeName":
+ "Lugano",
+ "ref":
+ "pmb885"}
+ ,  {
+ "placeName":
+ "Kiel",
+ "ref":
+ "pmb907"}
+ ,  {
+ "placeName":
+ "Magdeburg",
+ "ref":
+ "pmb918"}
+ ,  {
+ "placeName":
+ "Marienlyst",
+ "ref":
+ "pmb959"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
  ,  {
  "placeName":
  "Gilleleje",
@@ -304,11 +274,6 @@
   [
  {
  "orgName":
- "B.Z. am Mittag",
- "ref":
- "pmb29702"}
- ,  {
- "orgName":
  "Neue Freie Presse",
  "ref":
  "pmb29351"}
@@ -317,6 +282,11 @@
  "Die Zukunft",
  "ref":
  "pmb29631"}
+ ,  {
+ "orgName":
+ "B.Z. am Mittag",
+ "ref":
+ "pmb29702"}
  ,  {
  "orgName":
  "Neues Theater",

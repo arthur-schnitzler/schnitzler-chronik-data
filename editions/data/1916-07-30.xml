@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,13 +123,16 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2173">Olga Schnitzler</persName>
+                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10860">Paula Beer-Hofmann</persName>
+                        <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb34387">Villa Annerl</placeName>
                      </place>
@@ -137,25 +140,22 @@
                         <placeName ref="pmb34401">Altaussee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43462">Villa Kupferschmid</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45943">Dachstein</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb655">Hotel Kaiserkrone</placeName>
+                        <placeName ref="pmb40450">Restaurant Sonnenschein</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40452">Aschau</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40450">Restaurant Sonnenschein</placeName>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43462">Villa Kupferschmid</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45943">Dachstein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb655">Hotel Kaiserkrone</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -172,16 +172,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb22728">Frieda Pollak</persName>
+                        <persName ref="pmb12837">Albert Steinrück</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb14642">Marie Brüll</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12837">Albert Steinrück</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14642">Marie Brüll</persName>
+                        <persName ref="pmb22728">Frieda Pollak</persName>
                      </person>
                      <person>
                         <persName ref="pmb23918">Ottilie Salten</persName>
@@ -194,9 +194,6 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb877">Unterach am Attersee</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb34387">Villa Annerl</placeName>
                      </place>
                      <place>
@@ -206,13 +203,16 @@
                         <placeName ref="pmb34402">Fischerndorf</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb411">Berghof</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb877">Unterach am Attersee</placeName>
                      </place>
                   </listPlace>
                </desc>

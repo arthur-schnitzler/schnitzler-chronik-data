@@ -76,14 +76,14 @@
  "pmb13055"},
  {
  "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"},
- {
- "persName":
  "Caroline Burger",
  "ref":
  "pmb14707"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"},
  {
  "persName":
  "Rudolf Burger",
@@ -92,11 +92,6 @@
  "listPlace":
   [
  {
- "placeName":
- "Velden am Wörthersee",
- "ref":
- "pmb909"}
- ,  {
  "placeName":
  "Seeboden am Millstättersee",
  "ref":
@@ -108,14 +103,14 @@
  "pmb36282"}
  ,  {
  "placeName":
- "Villa Platzer",
- "ref":
- "pmb40788"}
- ,  {
- "placeName":
  "Millstätter See",
  "ref":
  "pmb39637"}
+ ,  {
+ "placeName":
+ "Villa Platzer",
+ "ref":
+ "pmb40788"}
  ,  {
  "placeName":
  "Krumpendorf am Wörthersee",
@@ -136,6 +131,11 @@
  "Faakersee",
  "ref":
  "pmb605"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
  ]
 }
 }, {
@@ -171,11 +171,6 @@
  "pmb10863"},
  {
  "persName":
- "Clemens von Franckenstein",
- "ref":
- "pmb3130"},
- {
- "persName":
  "Georg von Franckenstein",
  "ref":
  "pmb11359"},
@@ -183,7 +178,12 @@
  "persName":
  "Felix Salten",
  "ref":
- "pmb2167"}],
+ "pmb2167"},
+ {
+ "persName":
+ "Clemens von Franckenstein",
+ "ref":
+ "pmb3130"}],
  "listBibl":
   [
  {
@@ -196,14 +196,14 @@
   [
  {
  "placeName":
- "Marienbad",
+ "Hotel am See",
  "ref":
- "pmb772"}
+ "pmb106"}
  ,  {
  "placeName":
- "Wien",
+ "Salzburg",
  "ref":
- "pmb50"}
+ "pmb30"}
  ,  {
  "placeName":
  "Altaussee",
@@ -211,14 +211,9 @@
  "pmb34401"}
  ,  {
  "placeName":
- "Hotel am See",
+ "Pension Pundschu",
  "ref":
- "pmb106"}
- ,  {
- "placeName":
- "Passau",
- "ref":
- "pmb5907"}
+ "pmb36282"}
  ,  {
  "placeName":
  "Nürnberg",
@@ -226,19 +221,24 @@
  "pmb44172"}
  ,  {
  "placeName":
- "Rothenburg ob der Tauber",
- "ref":
- "pmb856"}
- ,  {
- "placeName":
  "München",
  "ref":
  "pmb45258"}
  ,  {
  "placeName":
- "Salzburg",
+ "Passau",
  "ref":
- "pmb30"}
+ "pmb5907"}
+ ,  {
+ "placeName":
+ "Marienbad",
+ "ref":
+ "pmb772"}
+ ,  {
+ "placeName":
+ "Rothenburg ob der Tauber",
+ "ref":
+ "pmb856"}
  ]
 }
 }, {

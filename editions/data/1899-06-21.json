@@ -68,9 +68,9 @@
  "pmb10863"},
  {
  "persName":
- "Oskar Mayer",
+ "Paul Goldmann",
  "ref":
- "pmb21236"},
+ "pmb11485"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -78,9 +78,9 @@
  "pmb11740"},
  {
  "persName":
- "Paul Goldmann",
+ "Oskar Mayer",
  "ref":
- "pmb11485"},
+ "pmb21236"},
  {
  "persName":
  "Marie Reinhard",
@@ -93,21 +93,31 @@
  "pmb10860"},
  {
  "persName":
- "Mirjam Beer-Hofmann",
- "ref":
- "pmb2668"},
- {
- "persName":
  "Naëmah Beer-Hofmann",
  "ref":
- "pmb2534"}],
+ "pmb2534"},
+ {
+ "persName":
+ "Mirjam Beer-Hofmann",
+ "ref":
+ "pmb2668"}],
  "listPlace":
   [
  {
  "placeName":
- "Wien",
+ "Gutenstein",
  "ref":
- "pmb50"}
+ "pmb1036"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Cortina d’Ampezzo",
+ "ref":
+ "pmb34199"}
  ,  {
  "placeName":
  "Seeboden am Millstättersee",
@@ -115,19 +125,19 @@
  "pmb34824"}
  ,  {
  "placeName":
- "Südtirol",
+ "Pottenstein",
  "ref":
- "pmb969"}
+ "pmb40112"}
  ,  {
  "placeName":
- "San Martino di Castrozza",
+ "Bozen",
  "ref":
- "pmb44311"}
+ "pmb40260"}
  ,  {
  "placeName":
- "Hotel Edlacherhof",
+ "Karersee",
  "ref":
- "pmb714"}
+ "pmb40371"}
  ,  {
  "placeName":
  "Gasthof zur Singerin",
@@ -135,29 +145,9 @@
  "pmb40527"}
  ,  {
  "placeName":
- "Gutenstein",
- "ref":
- "pmb1036"}
- ,  {
- "placeName":
- "Pottenstein",
- "ref":
- "pmb40112"}
- ,  {
- "placeName":
- "Bad Vöslau",
- "ref":
- "pmb992"}
- ,  {
- "placeName":
  "Slawonien",
  "ref":
  "pmb40529"}
- ,  {
- "placeName":
- "Tirol",
- "ref":
- "pmb423"}
  ,  {
  "placeName":
  "Niederdorf",
@@ -165,19 +155,9 @@
  "pmb40556"}
  ,  {
  "placeName":
- "Carbonin",
- "ref":
- "pmb44317"}
- ,  {
- "placeName":
  "Tre Croci",
  "ref":
  "pmb40563"}
- ,  {
- "placeName":
- "Cortina d’Ampezzo",
- "ref":
- "pmb34199"}
  ,  {
  "placeName":
  "Alleghe",
@@ -190,14 +170,34 @@
  "pmb40577"}
  ,  {
  "placeName":
- "Karersee",
- "ref":
- "pmb40371"}
- ,  {
- "placeName":
  "Passo Rolle",
  "ref":
  "pmb40578"}
+ ,  {
+ "placeName":
+ "Tirol",
+ "ref":
+ "pmb423"}
+ ,  {
+ "placeName":
+ "San Martino di Castrozza",
+ "ref":
+ "pmb44311"}
+ ,  {
+ "placeName":
+ "Carbonin",
+ "ref":
+ "pmb44317"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Hotel Edlacherhof",
+ "ref":
+ "pmb714"}
  ,  {
  "placeName":
  "Trient",
@@ -205,14 +205,14 @@
  "pmb954"}
  ,  {
  "placeName":
- "Bozen",
+ "Südtirol",
  "ref":
- "pmb40260"}
+ "pmb969"}
  ,  {
  "placeName":
- "Belišće",
+ "Bad Vöslau",
  "ref":
- "pmb90320"}
+ "pmb992"}
  ,  {
  "placeName":
  "Orahovica",
@@ -223,6 +223,11 @@
  "Budapest",
  "ref":
  "pmb43471"}
+ ,  {
+ "placeName":
+ "Belišće",
+ "ref":
+ "pmb90320"}
  ],
  "listOrg":
   [
@@ -263,9 +268,9 @@
   [
  {
  "placeName":
- "9/3 Post- und Telegraphenamt 72",
+ "Frankgasse 1",
  "ref":
- "pmb365208"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Seeboden am Millstättersee",
@@ -273,9 +278,9 @@
  "pmb34824"}
  ,  {
  "placeName":
- "Frankgasse 1",
+ "9/3 Post- und Telegraphenamt 72",
  "ref":
- "pmb168934"}
+ "pmb365208"}
  ,  {
  "placeName":
  "Villa Platzer",
@@ -311,6 +316,16 @@
  "pmb2121"},
  {
  "persName":
+ "Paul Goldmann",
+ "ref":
+ "pmb11485"},
+ {
+ "persName":
+ "Georg Hirschfeld",
+ "ref":
+ "pmb11701"},
+ {
+ "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
@@ -319,16 +334,6 @@
  "Gustav Schwarzkopf",
  "ref":
  "pmb12740"},
- {
- "persName":
- "Georg Hirschfeld",
- "ref":
- "pmb11701"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
  {
  "persName":
  "Julius Szeps",
@@ -348,11 +353,6 @@
  "pmb143251"}
  ,  {
  "title":
- "Reigen. Zehn Dialoge",
- "ref":
- "pmb29855"}
- ,  {
- "title":
  "Scene aus der »Hochzeit der Sobeide«. (Ältere Niederschrift. Wien 1897. — Ungedruckt.)",
  "ref":
  "pmb143253"}
@@ -361,29 +361,39 @@
  "?? [Feuilleton über Paul Goldmann]",
  "ref":
  "pmb146069"}
+ ,  {
+ "title":
+ "Reigen. Zehn Dialoge",
+ "ref":
+ "pmb29855"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Pelikangasse 4",
+ "ref":
+ "pmb405585"}
+ ,  {
  "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Pelikangasse",
- "ref":
- "pmb198"}
- ,  {
- "placeName":
  "Schulerstraße",
  "ref":
  "pmb729"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
  ,  {
  "placeName":
  "Slawonien",

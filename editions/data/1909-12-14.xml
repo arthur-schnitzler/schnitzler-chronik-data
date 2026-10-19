@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -106,25 +106,25 @@
                         <persName ref="pmb10815">Bahr, Hermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12671">Paul Schlenther</persName>
+                        <persName ref="pmb10986">Otto Brahm</persName>
                      </person>
                      <person>
                         <persName ref="pmb12504">Max Reinhardt</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10986">Otto Brahm</persName>
+                        <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
                         <persName ref="pmb12813">Albert von Speidel</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2241">Oskar Bacher</persName>
+                        <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10818">Anna Bahr-Mildenburg</persName>
+                        <persName ref="pmb2241">Oskar Bacher</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -140,22 +140,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                        <placeName ref="pmb140">Halle (Saale)</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb140">Halle (Saale)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -182,7 +179,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb45258">München</placeName>
@@ -208,6 +205,9 @@
                      </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>

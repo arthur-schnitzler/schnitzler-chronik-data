@@ -81,11 +81,6 @@
   [
  {
  "placeName":
- "Marienbad",
- "ref":
- "pmb772"}
- ,  {
- "placeName":
  "Bad Ischl",
  "ref":
  "pmb213"}
@@ -94,6 +89,11 @@
  "Prag",
  "ref":
  "pmb652"}
+ ,  {
+ "placeName":
+ "Marienbad",
+ "ref":
+ "pmb772"}
  ,  {
  "placeName":
  "Karlsbad",
@@ -129,19 +129,14 @@
  "pmb11740"},
  {
  "persName":
- "Rudolf von Österreich-Ungarn",
+ "Ernst Hartmann",
  "ref":
- "pmb2519"},
+ "pmb11610"},
  {
  "persName":
- "Josef von Bezecný",
+ "Anna Kallina",
  "ref":
- "pmb14179"},
- {
- "persName":
- "Moritz Broda",
- "ref":
- "pmb14581"},
+ "pmb11860"},
  {
  "persName":
  "Wilhelmine Sandrock",
@@ -154,54 +149,24 @@
  "pmb12809"},
  {
  "persName":
+ "Josef von Bezecný",
+ "ref":
+ "pmb14179"},
+ {
+ "persName":
+ "Moritz Broda",
+ "ref":
+ "pmb14581"},
+ {
+ "persName":
+ "Rudolf von Österreich-Ungarn",
+ "ref":
+ "pmb2519"},
+ {
+ "persName":
  "Antonín Dvořák",
  "ref":
- "pmb4816"},
- {
- "persName":
- "Ernst Hartmann",
- "ref":
- "pmb11610"},
- {
- "persName":
- "Anna Kallina",
- "ref":
- "pmb11860"},
- {
- "persName":
- "Engelbert Humperdinck",
- "ref":
- "pmb11784"},
- {
- "persName":
- "Adelheid Wette",
- "ref":
- "pmb185699"},
- {
- "persName":
- "Carl Millöcker",
- "ref":
- "pmb4947"},
- {
- "persName":
- "Hugo Wittmann",
- "ref":
- "pmb2739"},
- {
- "persName":
- "Julius Bauer",
- "ref":
- "pmb2150"},
- {
- "persName":
- "August Förster",
- "ref":
- "pmb33922"},
- {
- "persName":
- "Henri Meilhac",
- "ref":
- "pmb12222"}],
+ "pmb4816"}],
  "listBibl":
   [
  {
@@ -229,24 +194,14 @@
   [
  {
  "placeName":
- "Marienbad",
+ "Polen",
  "ref":
- "pmb772"}
+ "pmb313"}
  ,  {
  "placeName":
- "Hodonín",
+ "Franzensbad",
  "ref":
- "pmb49823"}
- ,  {
- "placeName":
- "Prag",
- "ref":
- "pmb652"}
- ,  {
- "placeName":
- "Karlsbad",
- "ref":
- "pmb842"}
+ "pmb390"}
  ,  {
  "placeName":
  "Hotel und Pension Rudolfshöhe (Leopold Petter)",
@@ -254,14 +209,14 @@
  "pmb414"}
  ,  {
  "placeName":
+ "Hodonín",
+ "ref":
+ "pmb49823"}
+ ,  {
+ "placeName":
  "Prager Burg",
  "ref":
  "pmb59763"}
- ,  {
- "placeName":
- "Polen",
- "ref":
- "pmb313"}
  ,  {
  "placeName":
  "Böhmen",
@@ -269,9 +224,19 @@
  "pmb628"}
  ,  {
  "placeName":
- "Franzensbad",
+ "Prag",
  "ref":
- "pmb390"}
+ "pmb652"}
+ ,  {
+ "placeName":
+ "Marienbad",
+ "ref":
+ "pmb772"}
+ ,  {
+ "placeName":
+ "Karlsbad",
+ "ref":
+ "pmb842"}
  ,  {
  "placeName":
  "Alter Jüdischer Friedhof",
@@ -297,7 +262,17 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1895-07-10",
  "head":
- "Marienbad"
+ "Mariánské Lázně",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Mariánské Lázně železniční nádraží",
+ "ref":
+ ""}
+ ]
+}
 }, {
  "type":
  "wienerschnitzler",
@@ -308,5 +283,15 @@
  "idno":
  "https://wienerschnitzler.org/tag.html#1895-07-10",
  "head":
- "Františkovy Lázně"
+ "Františkovy Lázně",
+ "desc":
+{"listPlace":
+  [
+ {
+ "placeName":
+ "Františkovy Lázně nádraží",
+ "ref":
+ ""}
+ ]
+}
 }] 

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -123,6 +123,37 @@
                <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1913-05-22.html</idno>
             </event>
             <event when-iso="1913-05-22">
+               <head>Berta Zuckerkandl an Arthur Schnitzler, [zwischen 20. und
+                  25. 5. 1913?]</head>
+               <desc>
+                  <listPerson>
+                     <person>
+                        <persName ref="pmb2312">Zuckerkandl, Berta</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listBibl>
+                     <bibl>
+                        <title ref="pmb32133">Frau Beate und ihr Sohn. Novelle</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                  </listBibl>
+                  <listPlace>
+                     <place>
+                        <placeName ref="pmb238485">Nusswaldgasse 22</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
+               <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/L04002.html</idno>
+            </event>
+            <event when-iso="1913-05-22">
                <head>Thomas Mann an Arthur Schnitzler, 22. 5. 1913</head>
                <desc>
                   <listPerson>
@@ -141,10 +172,10 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb33592">Der Tod in Venedig</title>
+                        <title ref="pmb32133">Frau Beate und ihr Sohn. Novelle</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32133">Frau Beate und ihr Sohn. Novelle</title>
+                        <title ref="pmb33592">Der Tod in Venedig</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33594">Tagebuch</title>
@@ -152,13 +183,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb424">Bad Tölz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb1243">Thomas Mann Villa</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb424">Bad Tölz</placeName>
                      </place>
                   </listPlace>
                </desc>

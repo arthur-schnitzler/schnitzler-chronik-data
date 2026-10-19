@@ -59,29 +59,9 @@
  "pmb2121"},
  {
  "persName":
- "Camillo Müller",
- "ref":
- "pmb36407"},
- {
- "persName":
- "Alfred von Winterstein",
- "ref":
- "pmb13136"},
- {
- "persName":
  "Franz Blei",
  "ref":
  "pmb10955"},
- {
- "persName":
- "Thekla Maria Braun",
- "ref":
- "pmb36427"},
- {
- "persName":
- "Adolf Weisse",
- "ref":
- "pmb26880"},
  {
  "persName":
  "Paul Schlenther",
@@ -89,14 +69,34 @@
  "pmb12671"},
  {
  "persName":
- "Josef Hassreiter",
+ "Alfred von Winterstein",
  "ref":
- "pmb7726"},
+ "pmb13136"},
  {
  "persName":
  "Josefine Glöckner",
  "ref":
  "pmb17109"},
+ {
+ "persName":
+ "Adolf Weisse",
+ "ref":
+ "pmb26880"},
+ {
+ "persName":
+ "Camillo Müller",
+ "ref":
+ "pmb36407"},
+ {
+ "persName":
+ "Thekla Maria Braun",
+ "ref":
+ "pmb36427"},
+ {
+ "persName":
+ "Josef Hassreiter",
+ "ref":
+ "pmb7726"},
  {
  "persName":
  "Charlotte Waldow",
@@ -106,12 +106,7 @@
  "persName":
  "Christiane Zimmer",
  "ref":
- "pmb3220"},
- {
- "persName":
- "Richard Strauss",
- "ref":
- "pmb12870"}],
+ "pmb3220"}],
  "listBibl":
   [
  {
@@ -121,27 +116,32 @@
  "pmb29917"}
  ,  {
  "title":
- "[Gedichte]",
- "ref":
- "pmb41642"}
- ,  {
- "title":
  "Der Rosenkavalier. Komödie für Musik",
  "ref":
  "pmb30341"}
+ ,  {
+ "title":
+ "[Gedichte]",
+ "ref":
+ "pmb41642"}
  ],
  "listPlace":
   [
  {
  "placeName":
+ "Wipplingerstraße",
+ "ref":
+ "pmb120"}
+ ,  {
+ "placeName":
+ "Edmund-Weiß-Gasse 7",
+ "ref":
+ "pmb168940"}
+ ,  {
+ "placeName":
  "Rodaun",
  "ref":
  "pmb173"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "St. Gilgen",
@@ -149,14 +149,14 @@
  "pmb33"}
  ,  {
  "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
  "Graz",
  "ref":
  "pmb860"}
- ,  {
- "placeName":
- "Wipplingerstraße",
- "ref":
- "pmb120"}
  ],
  "listOrg":
   [
@@ -167,6 +167,11 @@
  "pmb34262"}
  ,  {
  "orgName":
+ "Burgtheater",
+ "ref":
+ "pmb36247"}
+ ,  {
+ "orgName":
  "Volkstheater",
  "ref":
  "pmb36430"}
@@ -175,11 +180,6 @@
  "Opernballett",
  "ref":
  "pmb44690"}
- ,  {
- "orgName":
- "Burgtheater",
- "ref":
- "pmb36247"}
  ,  {
  "orgName":
  "Hyperion",

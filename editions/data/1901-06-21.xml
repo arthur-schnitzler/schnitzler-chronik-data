@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,28 +97,25 @@
                      <person>
                         <persName ref="pmb11036">Max Eugen Burckhard</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                        <title ref="pmb144424">Leutnant Gustl. Parodie</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb43151">Wien, 20. Juni</title>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb144424">Leutnant Gustl. Parodie</title>
+                        <title ref="pmb43151">Wien, 20. Juni</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
@@ -127,9 +124,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>

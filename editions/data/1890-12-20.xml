@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,24 +94,18 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2284">Markus Hajek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2461">Gisela Hajek</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb3727">Joseph Eberle</persName>
                      </person>
                      <person>
                         <persName ref="pmb88895">
                   ?? [Anwalt der Buchdruckerei Eberle, 1891]
                </persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2461">Gisela Hajek</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2284">Markus Hajek</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8514">Zacharias Konrad Lecher</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -121,21 +115,24 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb302">Mariahilfer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb53101">Seidengasse</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb341541">Seidengasse 3-9</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
+                        <orgName ref="pmb29270">Die Presse</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29270">Die Presse</orgName>
+                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb53104">Josef Eberle  Stein-, Buch und Musikaliendruckerei</orgName>
@@ -154,8 +151,8 @@
                            <place corresp="#pmb49">
                               <placeName>Café Pfob</placeName>
                            </place>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

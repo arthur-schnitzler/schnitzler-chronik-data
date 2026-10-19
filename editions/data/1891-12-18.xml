@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -116,19 +116,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb89588">Café de la Paix</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb313">Polen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb89588">Café de la Paix</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168">Berlin</placeName>
@@ -169,19 +169,13 @@
                      <person>
                         <persName ref="pmb65913">Hilda von Mitis</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb3442">Marco Brociner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11402">Ludwig Ganghofer</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb77509">Die Hochzeit von Valeni</title>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <title ref="pmb77509">Die Hochzeit von Valeni</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
@@ -189,13 +183,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb862">Brüssel</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb862">Brüssel</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -208,8 +205,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

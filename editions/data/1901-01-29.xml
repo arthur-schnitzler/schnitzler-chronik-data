@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -157,6 +157,12 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
@@ -164,9 +170,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -183,10 +186,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb14948">Auguste Glümer</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb19904">Arthur Kuttner</persName>
                      </person>
                      <person>
                         <persName ref="pmb2284">Markus Hajek</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12701">Louise Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb144021">
@@ -195,12 +204,6 @@
                      </person>
                      <person>
                         <persName ref="pmb14953">Marie Glümer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12701">Louise Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14948">Auguste Glümer</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -213,7 +216,7 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40583">Dessauer Straße</placeName>

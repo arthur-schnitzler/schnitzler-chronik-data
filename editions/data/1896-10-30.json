@@ -124,11 +124,6 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -137,6 +132,11 @@
  "Schloss Schönbrunn",
  "ref":
  "pmb21799"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -175,9 +175,9 @@
  "pmb2121"},
  {
  "persName":
- "Leo Ebermann",
+ "Gerhart Hauptmann",
  "ref":
- "pmb2157"},
+ "pmb11617"},
  {
  "persName":
  "Gustav Schwarzkopf",
@@ -185,9 +185,9 @@
  "pmb12740"},
  {
  "persName":
- "Gerhart Hauptmann",
+ "Leo Ebermann",
  "ref":
- "pmb11617"},
+ "pmb2157"},
  {
  "persName":
  "Nah-Badû",
@@ -195,34 +195,19 @@
  "pmb29138"},
  {
  "persName":
- "Georg Hirschfeld",
- "ref":
- "pmb11701"},
- {
- "persName":
  "George Gordon Noël Lord Byron",
  "ref":
  "pmb11057"},
  {
  "persName":
+ "Georg Hirschfeld",
+ "ref":
+ "pmb11701"},
+ {
+ "persName":
  "Friedrich Halm",
  "ref":
- "pmb5591"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb5591"}],
  "listBibl":
   [
  {
@@ -237,9 +222,9 @@
  "pmb33420"}
  ,  {
  "title":
- "Neue Freie Presse",
+ "Sämmtliche Werke",
  "ref":
- "pmb36374"}
+ "pmb33422"}
  ,  {
  "title":
  "Der Giaur",
@@ -247,9 +232,9 @@
  "pmb33424"}
  ,  {
  "title":
- "Sämmtliche Werke",
+ "Neue Freie Presse",
  "ref":
- "pmb33422"}
+ "pmb36374"}
  ],
  "listPlace":
   [
@@ -260,14 +245,14 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Schloss Schönbrunn",
  "ref":
  "pmb21799"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -316,11 +301,6 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -329,6 +309,11 @@
  "Uppsala",
  "ref":
  "pmb34034"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -364,19 +349,9 @@
  "pmb11324"},
  {
  "persName":
- "Max Nordau",
+ "Friedrich Mitterwurzer",
  "ref":
- "pmb12365"},
- {
- "persName":
- "Marie Reinhard",
- "ref":
- "pmb2378"},
- {
- "persName":
- "Jenny Bally",
- "ref":
- "pmb13698"},
+ "pmb12265"},
  {
  "persName":
  "Wilhelmine Mitterwurzer",
@@ -384,9 +359,19 @@
  "pmb12268"},
  {
  "persName":
- "Friedrich Mitterwurzer",
+ "Max Nordau",
  "ref":
- "pmb12265"},
+ "pmb12365"},
+ {
+ "persName":
+ "Jenny Bally",
+ "ref":
+ "pmb13698"},
+ {
+ "persName":
+ "Marie Reinhard",
+ "ref":
+ "pmb2378"},
  {
  "persName":
  "Isidore S. Bally",
@@ -401,54 +386,14 @@
  "persName":
  "?? [Kadett]",
  "ref":
- "pmb168868"},
- {
- "persName":
- "Friedrich von Schiller",
- "ref":
- "pmb12654"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb168868"}],
  "listBibl":
   [
  {
  "title":
- "Heldentod",
- "ref":
- "pmb76518"}
- ,  {
- "title":
- "Der Hinterbliebene",
- "ref":
- "pmb29839"}
- ,  {
- "title":
- "Flucht",
- "ref":
- "pmb93681"}
- ,  {
- "title":
  "Cocotte und Kellner",
  "ref":
  "pmb144994"}
- ,  {
- "title":
- "Begräbnis",
- "ref":
- "pmb34361"}
  ,  {
  "title":
  "Der Hund",
@@ -461,9 +406,9 @@
  "pmb144998"}
  ,  {
  "title":
- "Die kleine Veronika",
+ "Der Hinterbliebene",
  "ref":
- "pmb76513"}
+ "pmb29839"}
  ,  {
  "title":
  "Dom Karlos, Infant von Spanien",
@@ -471,19 +416,39 @@
  "pmb33023"}
  ,  {
  "title":
+ "Begräbnis",
+ "ref":
+ "pmb34361"}
+ ,  {
+ "title":
+ "Die kleine Veronika",
+ "ref":
+ "pmb76513"}
+ ,  {
+ "title":
+ "Heldentod",
+ "ref":
+ "pmb76518"}
+ ,  {
+ "title":
  "Judith. Eine Tragödie in fünf Aufzügen",
  "ref":
  "pmb76689"}
  ,  {
  "title":
- "Der Hinterbliebene. Kurze Novellen",
+ "Flucht",
  "ref":
- "pmb33301"}
+ "pmb93681"}
  ,  {
  "title":
  "Einiges über Schiller’s »Don Carlos«",
  "ref":
  "pmb144915"}
+ ,  {
+ "title":
+ "Der Hinterbliebene. Kurze Novellen",
+ "ref":
+ "pmb33301"}
  ,  {
  "title":
  "Neue Freie Presse",
@@ -499,9 +464,9 @@
   [
  {
  "placeName":
- "Wien",
+ "Burgtheater",
  "ref":
- "pmb50"}
+ "pmb14"}
  ,  {
  "placeName":
  "Berlin",
@@ -509,9 +474,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Burgtheater",
+ "Wien",
  "ref":
- "pmb14"}
+ "pmb50"}
  ],
  "listOrg":
   [

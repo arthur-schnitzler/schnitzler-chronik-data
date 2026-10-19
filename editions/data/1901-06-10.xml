@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,27 +94,30 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29957">Lebendige Stunden</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb842">Karlsbad</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb728">Kochgasse</placeName>
@@ -137,9 +140,20 @@
                <head corresp="#pmb50">Wien</head>
                <desc>
                   <listPlace>
+                     <place corresp="#58">
+                        <placeName>VIII., Josefstadt</placeName>
+                        <listPlace>
+                           <place corresp="#pmb231623">
+                              <placeName>Kochgasse 32</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
                      <place corresp="#59">
                         <placeName>IX., Alsergrund</placeName>
                         <listPlace>
+                           <place corresp="#pmb405585">
+                              <placeName>Pelikangasse 4</placeName>
+                           </place>
                            <place corresp="#pmb168934">
                               <placeName>Frankgasse 1</placeName>
                            </place>

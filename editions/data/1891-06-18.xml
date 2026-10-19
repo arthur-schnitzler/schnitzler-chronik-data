@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -118,18 +118,18 @@
                         <persName ref="pmb18870">Jaques Joachim</persName>
                      </person>
                      <person>
+                        <persName ref="pmb2416">Jakob Julius David</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb2563">Eduard Michael Kafka</persName>
                      </person>
                      <person>
                         <persName ref="pmb41781">Franz Held</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2416">Jakob Julius David</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb41788">Ein Pyrrhus-Sieg. Geschichte eines glücklichen Pechvogels</title>
+                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31371">Hagars Sohn. Schauspiel in vier Acten</title>
@@ -138,32 +138,35 @@
                         <title ref="pmb31965">Die drei Elixire</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29823">Das Märchen. Schauspiel in drei Aufzügen</title>
+                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
+                        <title ref="pmb41788">Ein Pyrrhus-Sieg. Geschichte eines glücklichen Pechvogels</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339370">Tuchlauben 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43528">Joseph G. Wieninger, Weinhandlung</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb789">Buchfeldgasse</placeName>
                      </place>
-                     <place>
-                        <placeName ref="pmb790">Tuchlauben</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43528">Joseph G. Wieninger, Weinhandlung</placeName>
-                     </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb29417">Moderne Dichtung/Moderne Rundschau</orgName>
+                        <orgName ref="pmb29220">Leopold Weiß</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29220">Leopold Weiß</orgName>
+                        <orgName ref="pmb29417">Moderne Dichtung/Moderne Rundschau</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb89143">Jung Wien</orgName>
@@ -179,8 +182,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

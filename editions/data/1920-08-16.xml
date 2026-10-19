@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -114,20 +114,18 @@
                         <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3124">
-                  Voltaire
-               </persName>
+                        <persName ref="pmb12507">Karl Renner</persName>
                      </person>
                      <person>
                         <persName ref="pmb14796">Gaius Iulius Caesar</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12507">Karl Renner</persName>
+                        <persName ref="pmb3124">
+                  Voltaire
+               </persName>
                      </person>
                      <person>
-                        <persName ref="pmb44647">
-                  ?? [Staatsmann aus der Umgebung Renners]
-               </persName>
+                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -142,7 +140,9 @@
                         <persName ref="pmb2461">Gisela Hajek</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12692">Heinrich Schnitzler</persName>
+                        <persName ref="pmb44647">
+                  ?? [Staatsmann aus der Umgebung Renners]
+               </persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -158,22 +158,34 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41240">Österreich</placeName>
+                        <placeName ref="pmb175">Amerika</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb263">Florenz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34401">Altaussee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34438">Russland</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb35512">Ungarn</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40709">Amsterdam</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41240">Österreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb429">Salzkammergut</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb43570">Dänemark</placeName>
@@ -185,25 +197,13 @@
                         <placeName ref="pmb44335">Schweden</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb175">Amerika</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb263">Florenz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40709">Amsterdam</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb521">Bad Gastein</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34401">Altaussee</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb429">Salzkammergut</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb745">Skandinavien</placeName>

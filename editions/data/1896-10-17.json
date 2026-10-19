@@ -91,11 +91,6 @@
  "pmb10863"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Otto Brahm",
  "ref":
  "pmb10986"},
@@ -103,7 +98,12 @@
  "persName":
  "Georg Hirschfeld",
  "ref":
- "pmb11701"}],
+ "pmb11701"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"}],
  "listBibl":
   [
  {
@@ -116,16 +116,6 @@
   [
  {
  "placeName":
- "9/1 Post- und Telegraphenamt 66",
- "ref":
- "pmb365266"}
- ,  {
- "placeName":
- "1/1 Telegramm- und Rohrpostamt 2",
- "ref":
- "pmb365269"}
- ,  {
- "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
@@ -136,9 +126,14 @@
  "pmb190427"}
  ,  {
  "placeName":
- "Wien",
+ "9/1 Post- und Telegraphenamt 66",
  "ref":
- "pmb50"}
+ "pmb365266"}
+ ,  {
+ "placeName":
+ "1/1 Telegramm- und Rohrpostamt 2",
+ "ref":
+ "pmb365269"}
  ,  {
  "placeName":
  "Café Imperial",
@@ -149,6 +144,11 @@
  "Riedhof",
  "ref":
  "pmb44"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {
@@ -179,24 +179,9 @@
  "pmb2121"},
  {
  "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
- "Jean Thorel",
- "ref":
- "pmb3966"},
- {
- "persName":
  "Jean-Louis Forain",
  "ref":
  "pmb112447"},
- {
- "persName":
- "Leo Van-Jung",
- "ref":
- "pmb26392"},
  {
  "persName":
  "Henning von Brüsewitz",
@@ -209,14 +194,29 @@
  "pmb114034"},
  {
  "persName":
- "Nikolaus II. von Russland",
+ "Leo Van-Jung",
  "ref":
- "pmb2996"},
+ "pmb26392"},
+ {
+ "persName":
+ "Jean Thorel",
+ "ref":
+ "pmb3966"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"},
  {
  "persName":
  "Alix von Hessen-Darmstadt",
  "ref":
  "pmb112786"},
+ {
+ "persName":
+ "Nikolaus II. von Russland",
+ "ref":
+ "pmb2996"},
  {
  "persName":
  "?? [Wirt im Café Tannhäuser]",
@@ -226,14 +226,14 @@
   [
  {
  "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
- ,  {
- "title":
  "Tages-Rundschau [Offizier hat Bürger niedergestochen]",
  "ref":
  "pmb112509"}
+ ,  {
+ "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
  ,  {
  "title":
  "Frankfurter Zeitung",
@@ -249,36 +249,6 @@
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "rue Feydeau",
- "ref":
- "pmb42671"}
- ,  {
- "placeName":
- "Berlin",
- "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Russland",
- "ref":
- "pmb34438"}
- ,  {
- "placeName":
- "Karlsruhe",
- "ref":
- "pmb871"}
- ,  {
- "placeName":
  "Karlstraße [Karlsruhe]",
  "ref":
  "pmb113785"}
@@ -287,6 +257,36 @@
  "Kaiserstraße [Karlsruhe]",
  "ref":
  "pmb114155"}
+ ,  {
+ "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
+ "Russland",
+ "ref":
+ "pmb34438"}
+ ,  {
+ "placeName":
+ "rue Feydeau",
+ "ref":
+ "pmb42671"}
+ ,  {
+ "placeName":
+ "Karlsruhe",
+ "ref":
+ "pmb871"}
  ,  {
  "placeName":
  "Frankreich",
@@ -302,14 +302,14 @@
   [
  {
  "orgName":
- "Frankfurter Zeitung",
- "ref":
- "pmb29442"}
- ,  {
- "orgName":
  "Société des Auteurs et Compositeurs Dramatiques",
  "ref":
  "pmb29397"}
+ ,  {
+ "orgName":
+ "Frankfurter Zeitung",
+ "ref":
+ "pmb29442"}
  ,  {
  "orgName":
  "Theater in der Josefstadt",
@@ -345,9 +345,9 @@
  "pmb2121"},
  {
  "persName":
- "Felix Dörmann",
+ "Otto Brahm",
  "ref":
- "pmb2425"},
+ "pmb10986"},
  {
  "persName":
  "Leo Feld",
@@ -355,9 +355,9 @@
  "pmb18308"},
  {
  "persName":
- "Otto Brahm",
+ "Felix Dörmann",
  "ref":
- "pmb10986"},
+ "pmb2425"},
  {
  "persName":
  "Clementine Plessner",
@@ -380,9 +380,14 @@
   [
  {
  "placeName":
- "Wien",
+ "Berlin",
  "ref":
- "pmb50"}
+ "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
  ,  {
  "placeName":
  "Bäckerstraße 1",
@@ -390,9 +395,9 @@
  "pmb295211"}
  ,  {
  "placeName":
- "Berlin",
+ "Wien",
  "ref":
- "pmb168"}
+ "pmb50"}
  ,  {
  "placeName":
  "Raimund-Theater",

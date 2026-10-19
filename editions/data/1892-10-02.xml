@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,9 +101,6 @@
                      <person>
                         <persName ref="pmb26121">Carl von Torresani-Lanzenfeld</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb12040">Margarete Langkammer</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -112,16 +109,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365220">1/1 Post- und Telegraphenamt 15</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb405263">Postbestellbezirk 1/1</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365220">1/1 Post- und Telegraphenamt 15</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb405263">Postbestellbezirk 1/1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -148,8 +145,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

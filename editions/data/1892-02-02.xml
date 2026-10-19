@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,22 +102,10 @@
                      <person>
                         <persName ref="pmb11740">Hofmannsthal, Hugo von</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11485">Paul Goldmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb8514">Zacharias Konrad Lecher</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb31357">Episode</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb35860">An der schönen blauen Donau</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29935">Anatol</title>
@@ -125,8 +113,17 @@
                      <bibl>
                         <title ref="pmb33544">Prolog [zum Anatol]</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb35860">An der schönen blauen Donau</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
@@ -141,8 +138,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

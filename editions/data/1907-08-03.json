@@ -63,9 +63,14 @@
   [
  {
  "placeName":
- "Peggau",
+ "Edmund-Weiß-Gasse 7",
  "ref":
- "pmb54762"}
+ "pmb168940"}
+ ,  {
+ "placeName":
+ "Schloss Thinnfeld",
+ "ref":
+ "pmb50844"}
  ,  {
  "placeName":
  "Deutschfeistritz",
@@ -73,9 +78,9 @@
  "pmb50963"}
  ,  {
  "placeName":
- "Edmund-Weiß-Gasse 7",
+ "Peggau",
  "ref":
- "pmb168940"}
+ "pmb54762"}
  ,  {
  "placeName":
  "XVIII., Währing",
@@ -83,9 +88,9 @@
  "pmb68"}
  ,  {
  "placeName":
- "Schloss Thinnfeld",
+ "Wildbad Waldbrunn",
  "ref":
- "pmb50844"}
+ "pmb723"}
  ]
 }
 }, {
@@ -126,14 +131,24 @@
  "pmb10815"},
  {
  "persName":
- "Paul Salten",
+ "Anna Bahr-Mildenburg",
  "ref":
- "pmb2922"},
+ "pmb10818"},
+ {
+ "persName":
+ "Robert Hirschfeld",
+ "ref":
+ "pmb11707"},
  {
  "persName":
  "Eduard Pötzl",
  "ref":
  "pmb12460"},
+ {
+ "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
  {
  "persName":
  "Adalbert Franz Seligmann",
@@ -146,19 +161,9 @@
  "pmb2618"},
  {
  "persName":
- "Anna Bahr-Mildenburg",
+ "Paul Salten",
  "ref":
- "pmb10818"},
- {
- "persName":
- "Robert Hirschfeld",
- "ref":
- "pmb11707"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
+ "pmb2922"},
  {
  "persName":
  "Friedrich Viktor Spitzer",
@@ -173,35 +178,15 @@
  "persName":
  "?? [Arzt von Ottilie Salten]",
  "ref":
- "pmb147695"},
- {
- "persName":
- "Werner Sombart",
- "ref":
- "pmb9931"},
- {
- "persName":
- "Richard Strauss",
- "ref":
- "pmb12870"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
- "Georg Brandes",
- "ref":
- "pmb10992"},
- {
- "persName":
- "Richard Muther",
- "ref":
- "pmb12319"}],
+ "pmb147695"}],
  "listBibl":
   [
  {
+ "title":
+ "Wien. Mit acht Vollbildern",
+ "ref":
+ "pmb30715"}
+ ,  {
  "title":
  "Neues Wiener Tagblatt",
  "ref":
@@ -213,23 +198,38 @@
  "pmb41630"}
  ,  {
  "title":
- "Wien. Mit acht Vollbildern",
+ "Der Wiener Korrespondent",
  "ref":
- "pmb30715"}
+ "pmb31293"}
  ,  {
  "title":
  "Das gelobte Wien",
  "ref":
  "pmb31713"}
- ,  {
- "title":
- "Der Wiener Korrespondent",
- "ref":
- "pmb31293"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Oper",
+ "ref":
+ "pmb15"}
+ ,  {
+ "placeName":
+ "Heiligenstadt",
+ "ref":
+ "pmb159"}
+ ,  {
+ "placeName":
+ "Armbrustergasse 6",
+ "ref":
+ "pmb237626"}
+ ,  {
+ "placeName":
+ "Lido",
+ "ref":
+ "pmb259"}
+ ,  {
  "placeName":
  "1/1 Telegraphenamt 13",
  "ref":
@@ -239,51 +239,6 @@
  "Welsberg-Taisten",
  "ref":
  "pmb428"}
- ,  {
- "placeName":
- "Armbrustergasse 6",
- "ref":
- "pmb237626"}
- ,  {
- "placeName":
- "Wildbad Waldbrunn",
- "ref":
- "pmb723"}
- ,  {
- "placeName":
- "XIX., Döbling",
- "ref":
- "pmb69"}
- ,  {
- "placeName":
- "Pustertal",
- "ref":
- "pmb724"}
- ,  {
- "placeName":
- "Heiligenstadt",
- "ref":
- "pmb159"}
- ,  {
- "placeName":
- "Marienbad",
- "ref":
- "pmb772"}
- ,  {
- "placeName":
- "Karlsbad",
- "ref":
- "pmb842"}
- ,  {
- "placeName":
- "Hotel Quisisana",
- "ref":
- "pmb509"}
- ,  {
- "placeName":
- "Hotel Waldmühle [Karlsbad]",
- "ref":
- "pmb510"}
  ,  {
  "placeName":
  "Wien",
@@ -296,14 +251,39 @@
  "pmb505"}
  ,  {
  "placeName":
- "Lido",
+ "Hotel Quisisana",
  "ref":
- "pmb259"}
+ "pmb509"}
  ,  {
  "placeName":
- "Oper",
+ "Hotel Waldmühle [Karlsbad]",
  "ref":
- "pmb15"}
+ "pmb510"}
+ ,  {
+ "placeName":
+ "XIX., Döbling",
+ "ref":
+ "pmb69"}
+ ,  {
+ "placeName":
+ "Wildbad Waldbrunn",
+ "ref":
+ "pmb723"}
+ ,  {
+ "placeName":
+ "Pustertal",
+ "ref":
+ "pmb724"}
+ ,  {
+ "placeName":
+ "Marienbad",
+ "ref":
+ "pmb772"}
+ ,  {
+ "placeName":
+ "Karlsbad",
+ "ref":
+ "pmb842"}
  ,  {
  "placeName":
  "Südtirol",

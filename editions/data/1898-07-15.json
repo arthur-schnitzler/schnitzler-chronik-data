@@ -236,14 +236,14 @@
  "pmb10863"},
  {
  "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"},
- {
- "persName":
  "Paula Beer-Hofmann",
  "ref":
  "pmb10860"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
  {
  "persName":
  "Mirjam Beer-Hofmann",
@@ -258,14 +258,19 @@
   [
  {
  "placeName":
- "Graz",
+ "Frankgasse 1",
  "ref":
- "pmb860"}
+ "pmb168934"}
  ,  {
  "placeName":
- "Steindorf am Ossiacher See",
+ "Salzburg",
  "ref":
- "pmb34860"}
+ "pmb30"}
+ ,  {
+ "placeName":
+ "Villa Dr. Wassing",
+ "ref":
+ "pmb34014"}
  ,  {
  "placeName":
  "Hotel Elefant [Graz]",
@@ -273,9 +278,14 @@
  "pmb34018"}
  ,  {
  "placeName":
- "Frankgasse 1",
+ "Steindorf am Ossiacher See",
  "ref":
- "pmb168934"}
+ "pmb34860"}
+ ,  {
+ "placeName":
+ "Tegernsee",
+ "ref":
+ "pmb39752"}
  ,  {
  "placeName":
  "Ossiacher See",
@@ -288,19 +298,9 @@
  "pmb651"}
  ,  {
  "placeName":
- "Villa Dr. Wassing",
+ "Graz",
  "ref":
- "pmb34014"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
- ,  {
- "placeName":
- "Tegernsee",
- "ref":
- "pmb39752"}
+ "pmb860"}
  ]
 }
 }, {
@@ -341,14 +341,14 @@
  "pmb11737"},
  {
  "persName":
- "Anna von Hofmannsthal",
- "ref":
- "pmb18404"},
- {
- "persName":
  "Louise Schnitzler",
  "ref":
- "pmb12701"}],
+ "pmb12701"},
+ {
+ "persName":
+ "Anna von Hofmannsthal",
+ "ref":
+ "pmb18404"}],
  "listBibl":
   [
  {
@@ -371,14 +371,9 @@
   [
  {
  "placeName":
- "Graz",
+ "Salzburg",
  "ref":
- "pmb860"}
- ,  {
- "placeName":
- "Tschortkiw",
- "ref":
- "pmb45274"}
+ "pmb30"}
  ,  {
  "placeName":
  "Bad Fusch",
@@ -391,9 +386,14 @@
  "pmb34014"}
  ,  {
  "placeName":
- "Salzburg",
+ "Hotel Elefant [Graz]",
  "ref":
- "pmb30"}
+ "pmb34018"}
+ ,  {
+ "placeName":
+ "Tschortkiw",
+ "ref":
+ "pmb45274"}
  ,  {
  "placeName":
  "Wien",
@@ -404,6 +404,11 @@
  "Bad Gastein",
  "ref":
  "pmb521"}
+ ,  {
+ "placeName":
+ "Graz",
+ "ref":
+ "pmb860"}
  ]
 }
 }, {

@@ -56,9 +56,9 @@
  "pmb2121"},
  {
  "persName":
- "Jakob Wassermann",
+ "Georg Hirschfeld",
  "ref":
- "pmb13055"},
+ "pmb11701"},
  {
  "persName":
  "Gustav Schwarzkopf",
@@ -66,9 +66,9 @@
  "pmb12740"},
  {
  "persName":
- "Georg Hirschfeld",
+ "Jakob Wassermann",
  "ref":
- "pmb11701"},
+ "pmb13055"},
  {
  "persName":
  "Otto Brahm",
@@ -86,44 +86,14 @@
  "pmb140950"},
  {
  "persName":
- "Vally Rosengart",
- "ref":
- "pmb34971"},
- {
- "persName":
  "Josef Rosengart",
  "ref":
  "pmb23593"},
  {
  "persName":
- "Clemens von Franckenstein",
+ "Vally Rosengart",
  "ref":
- "pmb3130"},
- {
- "persName":
- "Eugen d’Albert",
- "ref":
- "pmb27633"},
- {
- "persName":
- "Clementine Goldmann",
- "ref":
- "pmb17163"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Louise Schnitzler",
- "ref":
- "pmb12701"},
- {
- "persName":
- "Gisela Hajek",
- "ref":
- "pmb2461"},
+ "pmb34971"},
  {
  "persName":
  "Julius Schnitzler",
@@ -131,21 +101,51 @@
  "pmb12698"},
  {
  "persName":
+ "Louise Schnitzler",
+ "ref":
+ "pmb12701"},
+ {
+ "persName":
+ "Marie Glümer",
+ "ref":
+ "pmb14953"},
+ {
+ "persName":
+ "Clementine Goldmann",
+ "ref":
+ "pmb17163"},
+ {
+ "persName":
  "Markus Hajek",
  "ref":
- "pmb2284"}],
+ "pmb2284"},
+ {
+ "persName":
+ "Gisela Hajek",
+ "ref":
+ "pmb2461"},
+ {
+ "persName":
+ "Eugen d’Albert",
+ "ref":
+ "pmb27633"},
+ {
+ "persName":
+ "Clemens von Franckenstein",
+ "ref":
+ "pmb3130"}],
  "listBibl":
   [
  {
  "title":
- "Der Schleier der Beatrice. Schauspiel in fünf Akten",
- "ref":
- "pmb29857"}
- ,  {
- "title":
  "Reigen. Zehn Dialoge",
  "ref":
  "pmb29855"}
+ ,  {
+ "title":
+ "Der Schleier der Beatrice. Schauspiel in fünf Akten",
+ "ref":
+ "pmb29857"}
  ],
  "listPlace":
   [
@@ -156,14 +156,19 @@
  "pmb146"}
  ,  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Deutsches Theater Berlin",
@@ -174,19 +179,9 @@
   [
  {
  "orgName":
- "Burgtheater",
+ "Neue Freie Presse",
  "ref":
- "pmb36247"}
- ,  {
- "orgName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb35597"}
- ,  {
- "orgName":
- "Schauspielhaus Berlin",
- "ref":
- "pmb55522"}
+ "pmb29351"}
  ,  {
  "orgName":
  "Frankfurter Zeitung",
@@ -194,9 +189,19 @@
  "pmb29442"}
  ,  {
  "orgName":
- "Neue Freie Presse",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb29351"}
+ "pmb35597"}
+ ,  {
+ "orgName":
+ "Burgtheater",
+ "ref":
+ "pmb36247"}
+ ,  {
+ "orgName":
+ "Schauspielhaus Berlin",
+ "ref":
+ "pmb55522"}
  ,  {
  "orgName":
  "A. Entsch",
@@ -244,19 +249,9 @@
   [
  {
  "placeName":
- "Postamt Salzburg Stadt",
+ "Staatsbrücke",
  "ref":
- "pmb365625"}
- ,  {
- "placeName":
- "9/3 Post- und Telegraphenamt 72",
- "ref":
- "pmb365208"}
- ,  {
- "placeName":
- "Salzburg",
- "ref":
- "pmb30"}
+ "pmb145772"}
  ,  {
  "placeName":
  "Frankgasse 1",
@@ -264,14 +259,24 @@
  "pmb168934"}
  ,  {
  "placeName":
+ "Salzburg",
+ "ref":
+ "pmb30"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
+ "Postamt Salzburg Stadt",
+ "ref":
+ "pmb365625"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Staatsbrücke",
- "ref":
- "pmb145772"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,31 +94,19 @@
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11098">Michael Georg Conrad</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2509">Heinrich Osten</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb14328">Oskar Blumenthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11845">Gustav Kadelburg</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb35919">Die Gesellschaft. Monatsschrift für Litteratur, Kunst und Sozialpolitik</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb33546">Die Orientreise. Schwank in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb33552">Arthur Schnitzler, Anatol</title>
+                        <title ref="pmb35919">Die Gesellschaft. Monatsschrift für Litteratur, Kunst und Sozialpolitik</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33552">Arthur Schnitzler, Anatol</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29935">Anatol</title>
@@ -132,13 +120,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb1178">Mahlerstraße</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb14">Burgtheater</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1178">Mahlerstraße</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb232296">Mahlerstraße 13</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb20">Volkstheater</placeName>
@@ -177,7 +168,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-10-31</idno>
             </event>
             <event when-iso="1892-10-31">
-               <head>Premiere von Die Orientreise. Schwank in drei Akten, 31.10.1892</head>
+               <head>Premiere von Die Orientreise, 31.10.1892</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -193,6 +184,9 @@
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11988">Kraus, Karl</persName>
                      </person>
                   </listPerson>
                   <listPlace>

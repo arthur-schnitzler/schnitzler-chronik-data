@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,16 +100,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb5449">Joris-Karl Huysmans</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb29102">Emilie Brandes</persName>
+                        <persName ref="pmb5449">Joris-Karl Huysmans</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2361">Adele Neustädter</persName>
+                        <persName ref="pmb29102">Emilie Brandes</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -120,18 +117,33 @@
                         <title ref="pmb33319">Ein Dilemma</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb32065">Polen</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb33293">Ungdomsvers [Jugendgedichte]</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33321">Julius Lange</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb32065">Polen</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb1114">Südschleswig</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb166">Frankreich</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb206">Preußen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb313">Polen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36300">Kopenhagen</placeName>
@@ -140,25 +152,10 @@
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb313">Polen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb46224">Lviv</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1114">Südschleswig</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb206">Preußen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb166">Frankreich</placeName>
+                        <placeName ref="pmb46224">Lviv</placeName>
                      </place>
                   </listPlace>
                </desc>

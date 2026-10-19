@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,25 +105,25 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb173">Rodaun</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb177">Gasthaus Stelzer</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb177">Gasthaus Stelzer</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -144,9 +144,6 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb20320">Ruggero Leoncavallo</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -158,24 +155,24 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb968">Mödling</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50178">Café Reichsrath (Inh. Karl Auböck)</placeName>
                      </place>
+                     <place>
+                        <placeName ref="pmb968">Mödling</placeName>
+                     </place>
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb45127">Internationale Ausstellung für Musik und Theaterwesen</orgName>
+                        <orgName ref="pmb36689">K.K. Hof-Oper</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb36689">K.K. Hof-Oper</orgName>
+                        <orgName ref="pmb45127">Internationale Ausstellung für Musik und Theaterwesen</orgName>
                      </org>
                   </listOrg>
                </desc>

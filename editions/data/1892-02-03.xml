@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,13 +95,10 @@
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11666">Marie Herzfeld</persName>
                      </person>
                      <person>
-                        <persName ref="pmb3892">Maurice Barrès</persName>
+                        <persName ref="pmb12156">Maurice Maeterlinck</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -109,13 +106,13 @@
                         <title ref="pmb31837">Die Blinden</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb31945">Die Überwindung des Naturalismus. Als zweite Reihe von »Die Kritik der Moderne«</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb31951">Der Garten der Bérenice</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31953">Die sieben Prinzessinnen</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31945">Die Überwindung des Naturalismus. Als zweite Reihe von »Die Kritik der Moderne«</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb32616">Maurice Maeterlinck</title>
@@ -126,7 +123,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -144,8 +144,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

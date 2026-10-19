@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -111,7 +111,13 @@
             </event>
             <event when-iso="1893-03-11">
                <head corresp="#pmb44246">Rijeka</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb405542">
+                        <placeName>Željeznički kolodvor Rijeka</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1893-03-11</idno>
             </event>
             <event when-iso="1893-03-11">

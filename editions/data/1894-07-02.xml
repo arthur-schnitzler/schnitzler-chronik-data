@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -98,25 +98,25 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb24566">Paul Schulz</persName>
+                        <persName ref="pmb19096">Adele Kapper</persName>
                      </person>
                      <person>
                         <persName ref="pmb19106">Friedrich Kapper</persName>
                      </person>
                      <person>
-                        <persName ref="pmb19096">Adele Kapper</persName>
+                        <persName ref="pmb19610">Heinrich von Korff</persName>
                      </person>
                      <person>
                         <persName ref="pmb2450">Friedrich Michael Fels</persName>
                      </person>
                      <person>
-                        <persName ref="pmb19610">Heinrich von Korff</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb24423">Helene Schnitzler</persName>
+                        <persName ref="pmb24566">Paul Schulz</persName>
                      </person>
                      <person>
                         <persName ref="pmb12698">Julius Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24423">Helene Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -129,19 +129,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb364910">Eglmoosgasse 22</placeName>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb41038">Lobkowitzplatz</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
@@ -150,13 +144,19 @@
                         <placeName ref="pmb305739">Bad Fusch</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
+                        <placeName ref="pmb364910">Eglmoosgasse 22</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb69">XIX., Döbling</placeName>
+                        <placeName ref="pmb365208">9/3 Post- und Telegraphenamt 72</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb41038">Lobkowitzplatz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb69">XIX., Döbling</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -180,18 +180,6 @@
                      <person>
                         <persName ref="pmb11447">Karl Glossy</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -205,6 +193,9 @@
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
@@ -233,10 +224,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb936">Schliersee</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb936">Schliersee</placeName>
                      </place>
                   </listPlace>
                </desc>

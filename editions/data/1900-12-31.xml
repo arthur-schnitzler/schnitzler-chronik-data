@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -160,22 +160,19 @@
                      <person>
                         <persName ref="pmb11910">Alfred Kerr</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb21082">Max Marschalk</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
+                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb31735">Die versunkene Glocke. Ein deutsches Märchendrama in fünf Aufzügen</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb32668">Michael Kramer. Drama</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb33037">Fuhrmann Henschel. Schauspiel in 5 Akten</title>
@@ -184,36 +181,27 @@
                         <title ref="pmb76929">Schluck und Jau</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32668">Michael Kramer. Drama</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb142613">»Michael Kramer.«</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31943">Der Biberpelz. Eine Diebskomödie</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb146">Frankfurt am Main</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb142610">Reuterweg</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb146">Frankfurt am Main</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                   </listPlace>
                </desc>

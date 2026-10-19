@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -113,25 +113,31 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb189">Semmering</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb608">Brenner</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb465">Riva del Garda</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb39975">Lago di Garda</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb189">Semmering</placeName>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb532">Schafberg [Wien]</placeName>
+                        <placeName ref="pmb465">Riva del Garda</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb59367">Schafberg [St. Gilgen]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb608">Brenner</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb641">Arles</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -139,12 +145,30 @@
             </event>
             <event when-iso="1892-09-11">
                <head corresp="#pmb213">Bad Ischl</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb414">
+                        <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                     </place>
+                     <place corresp="#pmb248791">
+                        <placeName>Bahnhof Bad Ischl</placeName>
+                     </place>
+                     <place corresp="#pmb405441">
+                        <placeName>Grazer Straße 6 [Bad Ischl]</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-09-11</idno>
             </event>
             <event when-iso="1892-09-11">
                <head corresp="#pmb867">Innsbruck</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb34110">
+                        <placeName>Innsbruck Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1892-09-11</idno>
             </event>
          </listEvent>

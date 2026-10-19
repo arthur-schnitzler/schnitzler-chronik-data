@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -108,10 +108,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb867">Innsbruck</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb867">Innsbruck</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -133,13 +133,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb212">St. Anton am Arlberg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1111">Havnegade</placeName>
+                        <placeName ref="pmb238114">Havnegade 55</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -154,6 +154,9 @@
                      </place>
                      <place corresp="#pmb231573">
                         <placeName>Gasthaus zum Bierwastl</placeName>
+                     </place>
+                     <place corresp="#pmb34110">
+                        <placeName>Innsbruck Hauptbahnhof</placeName>
                      </place>
                   </listPlace>
                </desc>

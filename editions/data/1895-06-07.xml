@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -92,40 +92,31 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb16781">Isidor Fuchs</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb25196">Edgar von Spiegl-Thurnsee</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11036">Max Eugen Burckhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2299">Agnes Sorma</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb13163">Theodor Wolff</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23611">Mizi Rosner</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12365">Max Nordau</persName>
                      </person>
                      <person>
                         <persName ref="pmb11673">Theodor Herzl</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
+                        <persName ref="pmb12365">Max Nordau</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
+                        <persName ref="pmb13163">Theodor Wolff</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                        <persName ref="pmb16781">Isidor Fuchs</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2299">Agnes Sorma</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23611">Mizi Rosner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25196">Edgar von Spiegl-Thurnsee</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -144,19 +135,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
-                     <place>
-                        <placeName ref="pmb168">Berlin</placeName>
-                     </place>
                   </listPlace>
                   <listOrg>
+                     <org>
+                        <orgName ref="pmb29329">Berliner Tageblatt</orgName>
+                     </org>
                      <org>
                         <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
                      </org>
@@ -165,9 +159,6 @@
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29329">Berliner Tageblatt</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29351">Neue Freie Presse</orgName>

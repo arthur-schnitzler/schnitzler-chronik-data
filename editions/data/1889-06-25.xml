@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -112,10 +112,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb4986">Fedor Mamroth</persName>
+                        <persName ref="pmb169237">Sigmund Spitzer</persName>
                      </person>
                      <person>
-                        <persName ref="pmb169237">Sigmund Spitzer</persName>
+                        <persName ref="pmb4986">Fedor Mamroth</persName>
                      </person>
                      <person>
                         <persName ref="pmb65479">Alfred Spitzer</persName>
@@ -123,13 +123,16 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168768">Wohnung und Ordination Arthur Schnitzler Burgring 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb339258">Berggasse 31</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb341541">Seidengasse 3-9</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb53101">Seidengasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb52510">Berggasse</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb662">Baden bei Wien</placeName>
@@ -137,10 +140,10 @@
                   </listPlace>
                   <listOrg>
                      <org>
-                        <orgName ref="pmb53104">Josef Eberle  Stein-, Buch und Musikaliendruckerei</orgName>
+                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
+                        <orgName ref="pmb53104">Josef Eberle  Stein-, Buch und Musikaliendruckerei</orgName>
                      </org>
                   </listOrg>
                </desc>

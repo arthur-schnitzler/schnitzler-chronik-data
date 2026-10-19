@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -85,13 +85,13 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365211">9/2 Post- und Telegraphenamt 71</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365211">9/2 Post- und Telegraphenamt 71</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -119,13 +119,16 @@
                         <placeName ref="pmb146">Frankfurt am Main</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb17">Steiermark</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb17">Steiermark</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -152,16 +155,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168">Berlin</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34806">Hotel Windsor</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34807">Behrenstraße</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -188,10 +194,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb143894">Café Glattauer</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb143894">Café Glattauer</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

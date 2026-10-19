@@ -68,11 +68,6 @@
  "pmb10863"},
  {
  "persName":
- "Jakob Wassermann",
- "ref":
- "pmb13055"},
- {
- "persName":
  "Robert Hirschfeld",
  "ref":
  "pmb11707"},
@@ -81,6 +76,11 @@
  "Gustav Schwarzkopf",
  "ref":
  "pmb12740"},
+ {
+ "persName":
+ "Jakob Wassermann",
+ "ref":
+ "pmb13055"},
  {
  "persName":
  "Louise Schnitzler",
@@ -95,14 +95,14 @@
   [
  {
  "title":
- "Der Tod Georgs",
- "ref":
- "pmb31535"}
- ,  {
- "title":
  "Der Schleier der Beatrice. Schauspiel in fünf Akten",
  "ref":
  "pmb29857"}
+ ,  {
+ "title":
+ "Der Tod Georgs",
+ "ref":
+ "pmb31535"}
  ,  {
  "title":
  "Das Bergwerk zu Falun",
@@ -118,14 +118,9 @@
   [
  {
  "placeName":
- "Velden am Wörthersee",
+ "Bad Ischl",
  "ref":
- "pmb909"}
- ,  {
- "placeName":
- "Marienbad",
- "ref":
- "pmb772"}
+ "pmb213"}
  ,  {
  "placeName":
  "Pension Pundschu",
@@ -133,9 +128,9 @@
  "pmb36282"}
  ,  {
  "placeName":
- "Toblach",
+ "Südbahnhotel [Toblach]",
  "ref":
- "pmb987"}
+ "pmb36284"}
  ,  {
  "placeName":
  "Millstätter See",
@@ -143,24 +138,9 @@
  "pmb39637"}
  ,  {
  "placeName":
- "Südtirol",
- "ref":
- "pmb969"}
- ,  {
- "placeName":
- "Trient",
- "ref":
- "pmb954"}
- ,  {
- "placeName":
  "Bozen",
  "ref":
  "pmb40260"}
- ,  {
- "placeName":
- "Bad Ischl",
- "ref":
- "pmb213"}
  ,  {
  "placeName":
  "Thüringen",
@@ -168,9 +148,29 @@
  "pmb432"}
  ,  {
  "placeName":
- "Südbahnhotel [Toblach]",
+ "Marienbad",
  "ref":
- "pmb36284"}
+ "pmb772"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
+ ,  {
+ "placeName":
+ "Trient",
+ "ref":
+ "pmb954"}
+ ,  {
+ "placeName":
+ "Südtirol",
+ "ref":
+ "pmb969"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
  ]
 }
 }, {
@@ -334,14 +334,14 @@
  "pmb2121"},
  {
  "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
+ {
+ "persName":
+ "Fedor Mamroth",
+ "ref":
+ "pmb4986"},
  {
  "persName":
  "Richard Wagner",
@@ -369,26 +369,6 @@
   [
  {
  "placeName":
- "Bayreuth",
- "ref":
- "pmb734"}
- ,  {
- "placeName":
- "Villach",
- "ref":
- "pmb40454"}
- ,  {
- "placeName":
- "Velden am Wörthersee",
- "ref":
- "pmb909"}
- ,  {
- "placeName":
- "Rennes",
- "ref":
- "pmb55293"}
- ,  {
- "placeName":
  "Grönland",
  "ref":
  "pmb142348"}
@@ -399,14 +379,34 @@
  "pmb40306"}
  ,  {
  "placeName":
- "Wörthersee",
+ "Villach",
  "ref":
- "pmb430"}
+ "pmb40454"}
+ ,  {
+ "placeName":
+ "Rennes",
+ "ref":
+ "pmb55293"}
+ ,  {
+ "placeName":
+ "Bayreuth",
+ "ref":
+ "pmb734"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
  ,  {
  "placeName":
  "Deutschland",
  "ref":
  "pmb151"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
  ],
  "listOrg":
   [
@@ -445,21 +445,6 @@
  "pmb2121"},
  {
  "persName":
- "Ottilie Salten",
- "ref":
- "pmb23918"},
- {
- "persName":
- "Moriz Szeps",
- "ref":
- "pmb25798"},
- {
- "persName":
- "Leopold Geiringer",
- "ref":
- "pmb28530"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
@@ -475,14 +460,24 @@
  "pmb13055"},
  {
  "persName":
- "Alfred Dreyfus",
+ "Ottilie Salten",
  "ref":
- "pmb4216"},
+ "pmb23918"},
  {
  "persName":
- "Julius Szeps",
+ "Moriz Szeps",
  "ref":
- "pmb25793"}],
+ "pmb25798"},
+ {
+ "persName":
+ "Leopold Geiringer",
+ "ref":
+ "pmb28530"},
+ {
+ "persName":
+ "Alfred Dreyfus",
+ "ref":
+ "pmb4216"}],
  "listBibl":
   [
  {
@@ -490,6 +485,11 @@
  "Wiener Allgemeine Rundschau",
  "ref":
  "pmb167898"}
+ ,  {
+ "title":
+ "Neue französische Humoristen",
+ "ref":
+ "pmb118028"}
  ,  {
  "title":
  "Wiener Allgemeine Montags-Zeitung",
@@ -507,19 +507,14 @@
  "pmb36344"}
  ,  {
  "title":
- "Neue französische Humoristen",
+ "?? [Feuilleton über Paul Goldmann]",
  "ref":
- "pmb118028"}
+ "pmb146069"}
  ,  {
  "title":
  "Wiener Allgemeine Zeitung",
  "ref":
  "pmb39950"}
- ,  {
- "title":
- "?? [Feuilleton über Paul Goldmann]",
- "ref":
- "pmb146069"}
  ],
  "listPlace":
   [
@@ -530,14 +525,14 @@
  "pmb50"}
  ,  {
  "placeName":
- "Velden am Wörthersee",
- "ref":
- "pmb909"}
- ,  {
- "placeName":
  "Unterach am Attersee",
  "ref":
  "pmb877"}
+ ,  {
+ "placeName":
+ "Velden am Wörthersee",
+ "ref":
+ "pmb909"}
  ,  {
  "placeName":
  "Frankreich",
@@ -545,14 +540,14 @@
  "pmb166"}
  ,  {
  "placeName":
- "Villach",
- "ref":
- "pmb40454"}
- ,  {
- "placeName":
  "Seeboden am Millstättersee",
  "ref":
  "pmb34824"}
+ ,  {
+ "placeName":
+ "Villach",
+ "ref":
+ "pmb40454"}
  ,  {
  "placeName":
  "Niederdorf",

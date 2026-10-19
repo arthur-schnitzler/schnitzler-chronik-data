@@ -31,16 +31,6 @@
  "pmb10815"},
  {
  "persName":
- "Paula Dehmel",
- "ref":
- "pmb2281"},
- {
- "persName":
- "Hans Bernhard Schlesinger",
- "ref":
- "pmb24239"},
- {
- "persName":
  "Richard Beer-Hofmann",
  "ref":
  "pmb10863"},
@@ -61,9 +51,14 @@
  "pmb12618"},
  {
  "persName":
- "Olga Schnitzler",
+ "Paula Dehmel",
  "ref":
- "pmb2173"},
+ "pmb2281"},
+ {
+ "persName":
+ "Hans Bernhard Schlesinger",
+ "ref":
+ "pmb24239"},
  {
  "persName":
  "Heinrich Schnitzler",
@@ -73,7 +68,12 @@
  "persName":
  "Hermann Beer",
  "ref":
- "pmb13913"}],
+ "pmb13913"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"}],
  "listBibl":
   [
  {
@@ -96,14 +96,24 @@
   [
  {
  "placeName":
+ "Berlin",
+ "ref":
+ "pmb168"}
+ ,  {
+ "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
  ,  {
  "placeName":
- "Hôtel Hassler",
+ "Burg Liechtenstein",
  "ref":
- "pmb623"}
+ "pmb39860"}
+ ,  {
+ "placeName":
+ "Rom",
+ "ref":
+ "pmb445"}
  ,  {
  "placeName":
  "Wien",
@@ -111,14 +121,9 @@
  "pmb50"}
  ,  {
  "placeName":
- "Berlin",
+ "Hôtel Hassler",
  "ref":
- "pmb168"}
- ,  {
- "placeName":
- "Rom",
- "ref":
- "pmb445"}
+ "pmb623"}
  ,  {
  "placeName":
  "Wiesbaden",
@@ -129,11 +134,6 @@
  "Biebrich",
  "ref":
  "pmb971"}
- ,  {
- "placeName":
- "Burg Liechtenstein",
- "ref":
- "pmb39860"}
  ],
  "listOrg":
   [
@@ -179,19 +179,14 @@
  "pmb148287"}
  ,  {
  "placeName":
- "9/3 Post- und Telegraphenamt 72",
- "ref":
- "pmb365208"}
- ,  {
- "placeName":
- "Hôtel Hassler",
- "ref":
- "pmb623"}
- ,  {
- "placeName":
  "Frankgasse 1",
  "ref":
  "pmb168934"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
  ,  {
  "placeName":
  "Österreich",
@@ -199,9 +194,9 @@
  "pmb41240"}
  ,  {
  "placeName":
- "Wien",
+ "Monte Pincio",
  "ref":
- "pmb50"}
+ "pmb44225"}
  ,  {
  "placeName":
  "Rom",
@@ -209,14 +204,19 @@
  "pmb445"}
  ,  {
  "placeName":
- "Monte Pincio",
+ "Wien",
  "ref":
- "pmb44225"}
+ "pmb50"}
  ,  {
  "placeName":
  "Stubaital",
  "ref":
  "pmb607"}
+ ,  {
+ "placeName":
+ "Hôtel Hassler",
+ "ref":
+ "pmb623"}
  ]
 }
 }, {

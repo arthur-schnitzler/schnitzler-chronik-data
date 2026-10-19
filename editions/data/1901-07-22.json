@@ -59,11 +59,6 @@
  "pmb10863"},
  {
  "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
  "Paul Goldmann",
  "ref":
  "pmb11485"},
@@ -74,9 +69,9 @@
  "pmb12698"},
  {
  "persName":
- "Rosa Beer",
+ "Gustav Schwarzkopf",
  "ref":
- "pmb34918"},
+ "pmb12740"},
  {
  "persName":
  "Hermann Beer",
@@ -86,7 +81,12 @@
  "persName":
  "Helene Schnitzler",
  "ref":
- "pmb24423"}],
+ "pmb24423"},
+ {
+ "persName":
+ "Rosa Beer",
+ "ref":
+ "pmb34918"}],
  "listBibl":
   [
  {
@@ -109,24 +109,9 @@
   [
  {
  "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
- "Pörtschach am Wörthersee",
- "ref":
- "pmb44278"}
- ,  {
- "placeName":
  "Villa Arnstein",
  "ref":
  "pmb1110"}
- ,  {
- "placeName":
- "Wörthersee",
- "ref":
- "pmb430"}
  ,  {
  "placeName":
  "Seiser Alm",
@@ -149,14 +134,29 @@
  "pmb40294"}
  ,  {
  "placeName":
+ "Karersee",
+ "ref":
+ "pmb40371"}
+ ,  {
+ "placeName":
+ "Wörthersee",
+ "ref":
+ "pmb430"}
+ ,  {
+ "placeName":
+ "Pörtschach am Wörthersee",
+ "ref":
+ "pmb44278"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
  ,  {
  "placeName":
- "Karersee",
+ "Vahrn",
  "ref":
- "pmb40371"}
+ "pmb946"}
  ]
 }
 }, {
@@ -194,14 +194,14 @@
   [
  {
  "placeName":
- "Vahrn",
- "ref":
- "pmb946"}
- ,  {
- "placeName":
  "Kopenhagen",
  "ref":
  "pmb36300"}
+ ,  {
+ "placeName":
+ "Vahrn",
+ "ref":
+ "pmb946"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,10 +105,13 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb167805">Kärntnerring 12/Bösendorferstraße 11</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -125,10 +128,10 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb11605">Otto Erich Hartleben</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11605">Otto Erich Hartleben</persName>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -139,27 +142,30 @@
                         <title ref="pmb30437">Das Kind</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32001">Die Erziehung zur Ehe</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb31535">Der Tod Georgs</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb32832">Novellen</title>
+                        <title ref="pmb32001">Die Erziehung zur Ehe</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb31975">Die kleine Komödie</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb32832">Novellen</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41463">Schulgasse</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

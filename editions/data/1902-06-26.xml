@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -122,16 +122,16 @@
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb365625">Postamt Salzburg Stadt</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb40297">Hofmannsthal-Schlössl</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb230">Österreichischer Hof</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb30">Salzburg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365625">Postamt Salzburg Stadt</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb40297">Hofmannsthal-Schlössl</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -150,21 +150,6 @@
                      <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2150">Julius Bauer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11707">Robert Hirschfeld</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12816">Ludwig Speidel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2416">Jakob Julius David</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -176,13 +161,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb44102">Kaltenleutgeben</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

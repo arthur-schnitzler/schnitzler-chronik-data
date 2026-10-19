@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -109,13 +109,16 @@
                   </listPerson>
                   <listBibl>
                      <bibl>
-                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
+                        <title ref="pmb168444">Le Privilège. Trois actes</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb168444">Le Privilège. Trois actes</title>
+                        <title ref="pmb29899">Freiwild. Schauspiel in 3 Akten</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb173">Rodaun</placeName>
                      </place>
@@ -124,9 +127,6 @@
                      </place>
                      <place>
                         <placeName ref="pmb40297">Hofmannsthal-Schlössl</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -188,10 +188,10 @@
                         <placeName ref="pmb168">Berlin</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb948">Payerbach</placeName>
+                        <placeName ref="pmb40583">Dessauer Straße</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40583">Dessauer Straße</placeName>
+                        <placeName ref="pmb948">Payerbach</placeName>
                      </place>
                   </listPlace>
                </desc>

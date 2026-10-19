@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -131,13 +131,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb234399">Franzosenschanze 4</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb234454">Lichtenfelsgasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb252271">Waldhof, Dependance des Südbahnhotels Semmering</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb33">St. Gilgen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb95">Lichtenfelsgasse</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -150,6 +156,9 @@
                      <place corresp="#pmb252271">
                         <placeName>Waldhof, Dependance des Südbahnhotels Semmering</placeName>
                      </place>
+                     <place corresp="#pmb238255">
+                        <placeName>Bahnhof Semmering</placeName>
+                     </place>
                   </listPlace>
                </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1911-08-23</idno>
@@ -160,6 +169,9 @@
                   <listPlace>
                      <place corresp="#pmb184727">
                         <placeName>Hotel Sacher Baden</placeName>
+                     </place>
+                     <place corresp="#pmb249350">
+                        <placeName>Bahnhof Baden bei Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

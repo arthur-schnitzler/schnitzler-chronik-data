@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -105,7 +105,10 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb55">V., Margareten</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb364746">Seidlgasse 30</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb365287">3/2 Post- und Telegraphenamt 45</placeName>
@@ -114,10 +117,7 @@
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb730">Seidlgasse</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb364746">Seidlgasse 30</placeName>
+                        <placeName ref="pmb55">V., Margareten</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -147,6 +147,12 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
@@ -173,8 +179,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

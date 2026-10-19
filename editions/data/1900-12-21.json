@@ -66,14 +66,14 @@
  "pmb2121"},
  {
  "persName":
- "Emerich von Bukovics",
- "ref":
- "pmb2161"},
- {
- "persName":
  "Max Eugen Burckhard",
  "ref":
  "pmb11036"},
+ {
+ "persName":
+ "Emerich von Bukovics",
+ "ref":
+ "pmb2161"},
  {
  "persName":
  "Henri Berény",
@@ -96,9 +96,14 @@
   [
  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Ronacher",
+ "ref":
+ "pmb19"}
  ,  {
  "placeName":
  "Volkstheater",
@@ -106,9 +111,9 @@
  "pmb20"}
  ,  {
  "placeName":
- "Ronacher",
+ "Wien",
  "ref":
- "pmb19"}
+ "pmb50"}
  ,  {
  "placeName":
  "Sofiensäle",
@@ -141,22 +146,7 @@
  "persName":
  "Arthur Schnitzler",
  "ref":
- "pmb2121"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Moriz Benedikt",
- "ref":
- "pmb10875"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"}],
+ "pmb2121"}],
  "listBibl":
   [
  {
@@ -174,14 +164,19 @@
   [
  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Fichtegasse 11",
  "ref":
  "pmb237534"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -227,14 +222,19 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

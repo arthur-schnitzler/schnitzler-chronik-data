@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -115,6 +115,11 @@
                         <persName ref="pmb2124">Josef Svatopluk Machar</persName>
                      </person>
                      <person>
+                        <persName ref="pmb147635">
+                  ?? [Kinderarzt von Paul Salten]
+               </persName>
+                     </person>
+                     <person>
                         <persName ref="pmb147638">
                   ?? [Anwalt von Julius Gans-Ludassy]
                </persName>
@@ -122,13 +127,11 @@
                      <person>
                         <persName ref="pmb23915">Anna Katharina Rehmann</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb147635">
-                  ?? [Kinderarzt von Paul Salten]
-               </persName>
-                     </person>
                   </listPerson>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>

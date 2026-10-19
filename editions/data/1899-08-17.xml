@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -78,16 +78,16 @@
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11469">Alfred Gold</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11469">Alfred Gold</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11867">Heinrich Kanner</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
                         <persName ref="pmb13055">Jakob Wassermann</persName>
@@ -106,28 +106,25 @@
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34824">Seeboden am Millstättersee</placeName>
+                        <placeName ref="pmb231658">Günthergasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                        <placeName ref="pmb34824">Seeboden am Millstättersee</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40788">Villa Platzer</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb651">Kärnten</placeName>
+                        <placeName ref="pmb414">Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb296">Günthergasse</placeName>
+                        <placeName ref="pmb651">Kärnten</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb415">Bad Aussee</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb248791">Bahnhof Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb263516">Bahnhof Bad Aussee</placeName>
@@ -152,51 +149,36 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12772">Franz Servaes</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb25968">Karl von Thaler</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb23918">Ottilie Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb11086">Houston Stewart Chamberlain</persName>
                      </person>
                      <person>
-                        <persName ref="pmb13055">Jakob Wassermann</persName>
+                        <persName ref="pmb12772">Franz Servaes</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Ottilie Salten</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25968">Karl von Thaler</persName>
                      </person>
                      <person>
                         <persName ref="pmb11673">Theodor Herzl</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10809">Eduard Bacher</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10875">Moriz Benedikt</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb10872">Ernst Benedikt</persName>
+                        <persName ref="pmb13055">Jakob Wassermann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb122335">Die Welt (Wien)</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb145709">Decadence-Romane</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb146061">Die Grundlagen des Neunzehnten Jahrhunderts. 2 Bde.</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb122335">Die Welt (Wien)</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb36374">Neue Freie Presse</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33243">Tagebuch</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb167903">»Das fremde Volk«</title>
@@ -210,13 +192,19 @@
                      <bibl>
                         <title ref="pmb167916">»Das fremde Volk«. III.</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb33243">Tagebuch</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb36374">Neue Freie Presse</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb682">Dubrovnik</placeName>

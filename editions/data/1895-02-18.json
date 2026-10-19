@@ -265,14 +265,14 @@
  "pmb12331"},
  {
  "persName":
- "Friedrich Schik",
- "ref":
- "pmb2420"},
- {
- "persName":
  "Heinrich Teweles",
  "ref":
- "pmb12932"}],
+ "pmb12932"},
+ {
+ "persName":
+ "Friedrich Schik",
+ "ref":
+ "pmb2420"}],
  "listBibl":
   [
  {
@@ -285,16 +285,6 @@
   [
  {
  "placeName":
- "Paris",
- "ref":
- "pmb182"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Palais Bourbon",
  "ref":
  "pmb112436"}
@@ -303,6 +293,16 @@
  "Berlin",
  "ref":
  "pmb168"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
  ,  {
  "placeName":
  "München",
@@ -318,24 +318,24 @@
   [
  {
  "orgName":
- "Deutsches Theater Berlin",
- "ref":
- "pmb35597"}
- ,  {
- "orgName":
  "Lessing-Theater",
  "ref":
  "pmb35053"}
  ,  {
  "orgName":
- "Raimund-Theater",
+ "Deutsches Theater Berlin",
  "ref":
- "pmb39666"}
+ "pmb35597"}
  ,  {
  "orgName":
  "Neues Deutsches Theater",
  "ref":
  "pmb37080"}
+ ,  {
+ "orgName":
+ "Raimund-Theater",
+ "ref":
+ "pmb39666"}
  ]
 }
 }, {
@@ -371,9 +371,9 @@
  "pmb10815"},
  {
  "persName":
- "Charlotte Pohl-Glas",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb3784"},
+ "pmb10863"},
  {
  "persName":
  "Otto Brahm",
@@ -386,29 +386,19 @@
  "pmb11406"},
  {
  "persName":
- "Richard Beer-Hofmann",
- "ref":
- "pmb10863"},
- {
- "persName":
  "Hugo von Hofmannsthal",
  "ref":
  "pmb11740"},
  {
  "persName":
+ "Charlotte Pohl-Glas",
+ "ref":
+ "pmb3784"},
+ {
+ "persName":
  "Maria Charlotte Lamberg",
  "ref":
- "pmb143356"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"}],
+ "pmb143356"}],
  "listBibl":
   [
  {
@@ -431,14 +421,14 @@
   [
  {
  "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ,  {
  "placeName":
  "Hotel Oberpollinger",

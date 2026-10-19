@@ -86,6 +86,11 @@
  "pmb10863"},
  {
  "persName":
+ "Julius Bauer",
+ "ref":
+ "pmb2150"},
+ {
+ "persName":
  "Felix Dörmann",
  "ref":
  "pmb2425"},
@@ -96,11 +101,6 @@
  "pmb42015"},
  {
  "persName":
- "Julius Bauer",
- "ref":
- "pmb2150"},
- {
- "persName":
  "Leo Ebermann",
  "ref":
  "pmb2157"}],
@@ -108,19 +108,9 @@
   [
  {
  "title":
- "Sein Sohn. Schauspiel in vier Acten",
- "ref":
- "pmb42009"}
- ,  {
- "title":
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
  "pmb29823"}
- ,  {
- "title":
- "Liebelei. Schauspiel in drei Akten",
- "ref":
- "pmb29917"}
  ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
@@ -128,9 +118,19 @@
  "pmb29899"}
  ,  {
  "title":
+ "Liebelei. Schauspiel in drei Akten",
+ "ref":
+ "pmb29917"}
+ ,  {
+ "title":
  "Die Athenerin. Drama in drei Aufzügen",
  "ref":
  "pmb30417"}
+ ,  {
+ "title":
+ "Sein Sohn. Schauspiel in vier Acten",
+ "ref":
+ "pmb42009"}
  ,  {
  "title":
  "Tagebuch",
@@ -141,14 +141,24 @@
   [
  {
  "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wollzeile 15 (»Berthahof«)",
+ "ref":
+ "pmb190427"}
+ ,  {
+ "placeName":
+ "Kaiser-Franz-Ring 54",
+ "ref":
+ "pmb365095"}
+ ,  {
+ "placeName":
  "9/3 Post- und Telegraphenamt 72",
  "ref":
  "pmb365208"}
- ,  {
- "placeName":
- "Baden bei Wien",
- "ref":
- "pmb662"}
  ,  {
  "placeName":
  "1/1 Post- und Telegraphenamt 1",
@@ -161,19 +171,9 @@
  "pmb50"}
  ,  {
  "placeName":
- "Wollzeile 15 (»Berthahof«)",
+ "Baden bei Wien",
  "ref":
- "pmb190427"}
- ,  {
- "placeName":
- "Frankgasse 1",
- "ref":
- "pmb168934"}
- ,  {
- "placeName":
- "Kaiser-Franz-Ring 54",
- "ref":
- "pmb365095"}
+ "pmb662"}
  ]
 }
 }, {
@@ -205,6 +205,11 @@
  "listPlace":
   [
  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
  "placeName":
  "Wien",
  "ref":
@@ -241,19 +246,14 @@
  "persName":
  "Otto Brahm",
  "ref":
- "pmb10986"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"}],
+ "pmb10986"}],
  "listBibl":
   [
  {
  "title":
- "Warten. Novelle",
+ "Pierettes Tagebuch [19 unveröffentlichte Gedichte]",
  "ref":
- "pmb32316"}
+ "pmb295716"}
  ,  {
  "title":
  "Der Onkel",
@@ -271,24 +271,19 @@
  "pmb295725"}
  ,  {
  "title":
- "Pierettes Tagebuch [19 unveröffentlichte Gedichte]",
+ "Warten. Novelle",
  "ref":
- "pmb295716"}
- ,  {
- "title":
- "Der gläserne Käfig. Skizzen und Novellen",
- "ref":
- "pmb32230"}
- ,  {
- "title":
- "Die Leiter der Seele",
- "ref":
- "pmb295184"}
+ "pmb32316"}
  ,  {
  "title":
  "Der Begräbnißtag",
  "ref":
  "pmb295182"}
+ ,  {
+ "title":
+ "Die Leiter der Seele",
+ "ref":
+ "pmb295184"}
  ,  {
  "title":
  "Im Feuer geprüft",
@@ -301,14 +296,19 @@
  "pmb295188"}
  ,  {
  "title":
- "Tagebuch",
- "ref":
- "pmb33243"}
- ,  {
- "title":
  "Heimkehr [dreiaktige Tragikomödie]",
  "ref":
  "pmb296028"}
+ ,  {
+ "title":
+ "Der gläserne Käfig. Skizzen und Novellen",
+ "ref":
+ "pmb32230"}
+ ,  {
+ "title":
+ "Tagebuch",
+ "ref":
+ "pmb33243"}
  ,  {
  "title":
  "Anatol",
@@ -319,9 +319,9 @@
   [
  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Bäckerstraße 1",

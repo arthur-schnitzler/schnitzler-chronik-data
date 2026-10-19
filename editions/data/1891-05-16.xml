@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -95,22 +95,16 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb12740">Gustav Schwarzkopf</persName>
                      </person>
                      <person>
                         <persName ref="pmb2453">Olga Waissnix</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb19832">Julius Kulka</persName>
                      </person>
                      <person>
                         <persName ref="pmb12737">Falk Schupp</persName>
@@ -119,10 +113,16 @@
                         <persName ref="pmb18870">Jaques Joachim</persName>
                      </person>
                      <person>
-                        <persName ref="pmb26392">Leo Van-Jung</persName>
+                        <persName ref="pmb19832">Julius Kulka</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb26388">Boris Van-Jung</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -138,7 +138,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb862">Brüssel</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -147,16 +147,19 @@
                         <placeName ref="pmb710">Belgien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43528">Joseph G. Wieninger, Weinhandlung</placeName>
+                        <placeName ref="pmb862">Brüssel</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb662">Baden bei Wien</placeName>
+                        <placeName ref="pmb140">Halle (Saale)</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb140">Halle (Saale)</placeName>
+                        <placeName ref="pmb43528">Joseph G. Wieninger, Weinhandlung</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb662">Baden bei Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -185,8 +188,8 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

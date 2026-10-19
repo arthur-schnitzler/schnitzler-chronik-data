@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -103,16 +103,19 @@
                         <persName ref="pmb10883">Alfred von Berger</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2161">Emerich von Bukovics</persName>
+                        <persName ref="pmb11851">Josef Kainz</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11851">Josef Kainz</persName>
+                        <persName ref="pmb2161">Emerich von Bukovics</persName>
                      </person>
                      <person>
                         <persName ref="pmb2185">Albert Gutmann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
+                     <bibl>
+                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
+                     </bibl>
                      <bibl>
                         <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
@@ -123,9 +126,6 @@
                         <title ref="pmb29957">Lebendige Stunden</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29853">Lieutenant Gustl. Novelle</title>
-                     </bibl>
-                     <bibl>
                         <title ref="pmb29863">Lebendige Stunden. Vier Einakter</title>
                      </bibl>
                      <bibl>
@@ -134,16 +134,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb506">Hamburg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb645">Deutsches Schauspielhaus in Hamburg</placeName>
+                        <placeName ref="pmb4">Bösendorfer Saal</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb4">Bösendorfer Saal</placeName>
+                        <placeName ref="pmb645">Deutsches Schauspielhaus in Hamburg</placeName>
                      </place>
                   </listPlace>
                </desc>

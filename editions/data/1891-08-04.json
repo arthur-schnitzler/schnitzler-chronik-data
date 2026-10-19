@@ -56,39 +56,9 @@
  "pmb2121"},
  {
  "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Wilhelm Singer",
- "ref":
- "pmb2202"},
- {
- "persName":
- "Karl Schönfeld",
- "ref":
- "pmb88758"},
- {
- "persName":
  "Max Eugen Burckhard",
  "ref":
  "pmb11036"},
- {
- "persName":
- "Edmund Wengraf",
- "ref":
- "pmb13088"},
- {
- "persName":
- "Gustav Schwarzkopf",
- "ref":
- "pmb12740"},
- {
- "persName":
- "Sophokles",
- "ref":
- "pmb2693"},
  {
  "persName":
  "Victorien Sardou",
@@ -96,34 +66,49 @@
  "pmb12624"},
  {
  "persName":
+ "Gustav Schwarzkopf",
+ "ref":
+ "pmb12740"},
+ {
+ "persName":
+ "Edmund Wengraf",
+ "ref":
+ "pmb13088"},
+ {
+ "persName":
  "Friedrich Kapper",
  "ref":
  "pmb19106"},
  {
  "persName":
- "Marie Henriette von Österreich",
+ "Wilhelm Singer",
  "ref":
- "pmb88750"},
+ "pmb2202"},
  {
  "persName":
- "Leopold II. von Belgien",
+ "Sophokles",
  "ref":
- "pmb89266"},
+ "pmb2693"},
  {
  "persName":
- "Hermann Bahr",
+ "Fedor Mamroth",
  "ref":
- "pmb10815"},
+ "pmb4986"},
  {
  "persName":
- "Hugo von Hofmannsthal",
+ "Karl Schönfeld",
  "ref":
- "pmb11740"},
+ "pmb88758"},
  {
  "persName":
  "Eduard Bacher",
  "ref":
  "pmb10809"},
+ {
+ "persName":
+ "Hermann Bahr",
+ "ref":
+ "pmb10815"},
  {
  "persName":
  "Moriz Benedikt",
@@ -136,19 +121,19 @@
  "pmb11673"},
  {
  "persName":
+ "Paul Heyse",
+ "ref":
+ "pmb11691"},
+ {
+ "persName":
+ "Hugo von Hofmannsthal",
+ "ref":
+ "pmb11740"},
+ {
+ "persName":
  "Else Berger",
  "ref":
  "pmb14056"},
- {
- "persName":
- "Friedrich Michael Fels",
- "ref":
- "pmb2450"},
- {
- "persName":
- "Hermann Fürst",
- "ref":
- "pmb28894"},
  {
  "persName":
  "Marie Glümer",
@@ -156,29 +141,44 @@
  "pmb14953"},
  {
  "persName":
- "Olga Waissnix",
- "ref":
- "pmb2453"},
- {
- "persName":
- "Paul Heyse",
- "ref":
- "pmb11691"},
- {
- "persName":
  "Gabriele von Haugwitz",
  "ref":
  "pmb17939"},
  {
  "persName":
- "Leopold Sonnemann",
+ "Friedrich Michael Fels",
  "ref":
- "pmb87771"},
+ "pmb2450"},
+ {
+ "persName":
+ "Olga Waissnix",
+ "ref":
+ "pmb2453"},
+ {
+ "persName":
+ "Hermann Fürst",
+ "ref":
+ "pmb28894"},
+ {
+ "persName":
+ "Marie Henriette von Österreich",
+ "ref":
+ "pmb88750"},
+ {
+ "persName":
+ "Leopold II. von Belgien",
+ "ref":
+ "pmb89266"},
  {
  "persName":
  "Julius Schnitzler",
  "ref":
- "pmb12698"}],
+ "pmb12698"},
+ {
+ "persName":
+ "Leopold Sonnemann",
+ "ref":
+ "pmb87771"}],
  "listBibl":
   [
  {
@@ -193,14 +193,14 @@
  "pmb117914"}
  ,  {
  "title":
- "Frankfurter Zeitung",
- "ref":
- "pmb36344"}
- ,  {
- "title":
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
  "pmb29823"}
+ ,  {
+ "title":
+ "Weihnachts-Einkäufe",
+ "ref":
+ "pmb30163"}
  ,  {
  "title":
  "Tagebuch",
@@ -208,9 +208,9 @@
  "pmb33243"}
  ,  {
  "title":
- "Weihnachts-Einkäufe",
+ "Frankfurter Zeitung",
  "ref":
- "pmb30163"}
+ "pmb36344"}
  ,  {
  "title":
  "Gute Kameraden",
@@ -226,24 +226,14 @@
   [
  {
  "placeName":
- "Brüssel",
- "ref":
- "pmb862"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Frankfurt am Main",
  "ref":
  "pmb146"}
  ,  {
  "placeName":
- "Österreich",
+ "Ordination Arthur Schnitzler [Bösendorferstraße 11]",
  "ref":
- "pmb41240"}
+ "pmb167789"}
  ,  {
  "placeName":
  "Paris",
@@ -251,9 +241,24 @@
  "pmb182"}
  ,  {
  "placeName":
+ "Österreich",
+ "ref":
+ "pmb41240"}
+ ,  {
+ "placeName":
  "Niederlande",
  "ref":
  "pmb44016"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
+ ,  {
+ "placeName":
+ "Brüssel",
+ "ref":
+ "pmb862"}
  ],
  "listOrg":
   [
@@ -264,19 +269,14 @@
  "pmb29351"}
  ,  {
  "orgName":
- "Frankfurter Stadttheater",
- "ref":
- "pmb88756"}
- ,  {
- "orgName":
  "»Freie Bühne« Verein für moderne Literatur",
  "ref":
  "pmb29781"}
  ,  {
  "orgName":
- "Internationale Elektrotechnische Ausstellung",
+ "Frankfurter Stadttheater",
  "ref":
- "pmb89260"}
+ "pmb88756"}
  ,  {
  "orgName":
  "Neues Wiener Tagblatt",
@@ -287,6 +287,11 @@
  "Burgtheater",
  "ref":
  "pmb36247"}
+ ,  {
+ "orgName":
+ "Internationale Elektrotechnische Ausstellung",
+ "ref":
+ "pmb89260"}
  ,  {
  "orgName":
  "Frankfurter Zeitung",

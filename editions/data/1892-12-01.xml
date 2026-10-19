@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,7 +94,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
@@ -104,6 +104,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb40326">Elisabethbrücke</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -125,10 +128,19 @@
                      <person>
                         <persName ref="pmb18404">Anna von Hofmannsthal</persName>
                      </person>
+                     <person>
+                        <persName ref="pmb23573">Leopold Rosenberg</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2456">Richard Specht</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb167782">Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb192623">Salesianergasse 12</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -157,6 +169,9 @@
                      <place corresp="#51">
                         <placeName>I., Innere Stadt</placeName>
                         <listPlace>
+                           <place corresp="#pmb34">
+                              <placeName>Café Griensteidl</placeName>
+                           </place>
                            <place corresp="#pmb167782">
                               <placeName>Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock</placeName>
                            </place>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -120,6 +120,9 @@
                         <persName ref="pmb11431">Giuseppe Giacosa</persName>
                      </person>
                      <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb11798">Henrik Ibsen</persName>
                      </person>
                      <person>
@@ -129,33 +132,12 @@
                         <persName ref="pmb24686">Christine Kepert</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12618">Adele Sandrock</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12654">Friedrich von Schiller</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb4076">Otto Eisenschitz</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11784">Engelbert Humperdinck</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb185699">Adelheid Wette</persName>
                      </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb33023">Dom Karlos, Infant von Spanien</title>
-                     </bibl>
-                     <bibl>
-                        <title ref="pmb31711">Rechte der Seele. Schauspiel in einem Act</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb30447">Hänsel und Gretel. Märchenspiel in drei Bildern</title>
@@ -164,27 +146,30 @@
                         <title ref="pmb31535">Der Tod Georgs</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30285">Das Portrait</title>
+                        <title ref="pmb31711">Rechte der Seele. Schauspiel in einem Act</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb33023">Dom Karlos, Infant von Spanien</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb29935">Anatol</title>
                      </bibl>
+                     <bibl>
+                        <title ref="pmb30285">Das Portrait</title>
+                     </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb374">Gardone Riviera</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb374">Gardone Riviera</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb39975">Lago di Garda</placeName>
@@ -194,6 +179,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

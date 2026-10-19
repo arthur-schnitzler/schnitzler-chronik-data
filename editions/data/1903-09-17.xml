@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -78,13 +78,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb9131">Jacques Offenbach</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb148120">Paul Siraudin</persName>
                      </person>
                      <person>
                         <persName ref="pmb21522">Jules Moinaux</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb9131">Jacques Offenbach</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
@@ -100,19 +100,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb365220">1/1 Post- und Telegraphenamt 15</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb365226">18/1 Post- und Telegraphenamt 111</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb37">Theater an der Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -129,25 +129,22 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                      <person>
-                        <persName ref="pmb23918">Ottilie Salten</persName>
+                        <persName ref="pmb12790">Isidor Singer</persName>
                      </person>
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb23918">Ottilie Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb12692">Heinrich Schnitzler</persName>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
                      <place>
                         <placeName ref="pmb120">Wipplingerstraße</placeName>
                      </place>
@@ -156,6 +153,9 @@
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb68">XVIII., Währing</placeName>

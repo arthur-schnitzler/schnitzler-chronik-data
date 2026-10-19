@@ -55,24 +55,14 @@
  "persName":
  "Émile Zola",
  "ref":
- "pmb13194"},
- {
- "persName":
- "Heinrich Kanner",
- "ref":
- "pmb11867"},
- {
- "persName":
- "Isidor Singer",
- "ref":
- "pmb12790"}],
+ "pmb13194"}],
  "listBibl":
   [
  {
  "title":
- "L’œuvre",
+ "Die kleine Veronika",
  "ref":
- "pmb77626"}
+ "pmb76513"}
  ,  {
  "title":
  "La joie de vivre",
@@ -80,9 +70,9 @@
  "pmb77622"}
  ,  {
  "title":
- "Die kleine Veronika",
+ "L’œuvre",
  "ref":
- "pmb76513"}
+ "pmb77626"}
  ,  {
  "title":
  "Abschiedssouper",
@@ -90,18 +80,23 @@
  "pmb30005"}
  ,  {
  "title":
- "Zola’s Lebenswerk",
- "ref":
- "pmb93824"}
- ,  {
- "title":
  "Die Zeit",
  "ref":
  "pmb35935"}
+ ,  {
+ "title":
+ "Zola’s Lebenswerk",
+ "ref":
+ "pmb93824"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
  "placeName":
  "Wien",
  "ref":
@@ -148,14 +143,19 @@
   [
  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Rom",
  "ref":
  "pmb445"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ,  {
  "placeName":
  "Hôtel Hassler",
@@ -191,6 +191,11 @@
  "pmb2121"},
  {
  "persName":
+ "Heinrich Glücksmann",
+ "ref":
+ "pmb11454"},
+ {
+ "persName":
  "Siegfried Jacobsohn",
  "ref":
  "pmb11813"},
@@ -199,11 +204,6 @@
  "Alfred Polgar",
  "ref":
  "pmb2989"},
- {
- "persName":
- "Heinrich Glücksmann",
- "ref":
- "pmb11454"},
  {
  "persName":
  "Ferency",
@@ -221,19 +221,24 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
  ,  {
  "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
  "München",
  "ref":
  "pmb45258"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ]
 }
 }, {

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,13 +102,13 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11461">Johann Wolfgang von Goethe</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -118,25 +118,25 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb424">Bad Tölz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
+                        <placeName ref="pmb117">Alpen</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb42671">rue Feydeau</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb30">Salzburg</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb41240">Österreich</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb117">Alpen</placeName>
+                        <placeName ref="pmb424">Bad Tölz</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb30">Salzburg</placeName>
+                        <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -152,7 +152,13 @@
             </event>
             <event when-iso="1895-08-13">
                <head corresp="#pmb587">Wiener Neustadt</head>
-               <desc/>
+               <desc>
+                  <listPlace>
+                     <place corresp="#pmb233081">
+                        <placeName>Wiener Neustadt Hauptbahnhof</placeName>
+                     </place>
+                  </listPlace>
+               </desc>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1895-08-13</idno>
             </event>
             <event when-iso="1895-08-13">
@@ -164,6 +170,14 @@
                         <listPlace>
                            <place corresp="#pmb43">
                               <placeName>Café Imperial</placeName>
+                           </place>
+                        </listPlace>
+                     </place>
+                     <place corresp="#60">
+                        <placeName>X., Favoriten</placeName>
+                        <listPlace>
+                           <place corresp="#pmb132">
+                              <placeName>Südbahnhof</placeName>
                            </place>
                         </listPlace>
                      </place>

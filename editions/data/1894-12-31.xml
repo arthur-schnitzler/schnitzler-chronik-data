@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -141,16 +141,19 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb44413">Brühl</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -167,10 +170,10 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb87771">Leopold Sonnemann</persName>
+                        <persName ref="pmb10815">Hermann Bahr</persName>
                      </person>
                      <person>
-                        <persName ref="pmb12816">Ludwig Speidel</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11036">Max Eugen Burckhard</persName>
@@ -179,13 +182,19 @@
                         <persName ref="pmb12618">Adele Sandrock</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2850">Stella Hohenfels</persName>
+                        <persName ref="pmb12816">Ludwig Speidel</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb25076">Clemens Sokal</persName>
                      </person>
                      <person>
                         <persName ref="pmb2801">Henri Albert</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10815">Hermann Bahr</persName>
+                        <persName ref="pmb2850">Stella Hohenfels</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb87771">Leopold Sonnemann</persName>
                      </person>
                      <person>
                         <persName ref="pmb88124">André Hallays</persName>
@@ -200,19 +209,16 @@
                         <persName ref="pmb88138">Jules Lemaître</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb88149">Édouard Drumont</persName>
                      </person>
                      <person>
-                        <persName ref="pmb25076">Clemens Sokal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb20456">Karl Lindau</persName>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb11999">Leopold Krenn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb20456">Karl Lindau</persName>
                      </person>
                      <person>
                         <persName ref="pmb23760">Georg Ruttkay</persName>
@@ -221,16 +227,7 @@
                         <persName ref="pmb4464">Camille Mauclair</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb12701">Louise Schnitzler</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb12790">Isidor Singer</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11867">Heinrich Kanner</persName>
                      </person>
                   </listPerson>
                   <listBibl>
@@ -244,13 +241,16 @@
                         <title ref="pmb88148">Le Courrier français</title>
                      </bibl>
                      <bibl>
+                        <title ref="pmb30441">Les Jeunes Viennois</title>
+                     </bibl>
+                     <bibl>
                         <title ref="pmb32630">Das arme Mädel</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb56283">Az Est</title>
+                        <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb30441">Les Jeunes Viennois</title>
+                        <title ref="pmb56283">Az Est</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb88096">Revue des Revues</title>
@@ -258,39 +258,36 @@
                      <bibl>
                         <title ref="pmb88119">Camille Mauclair</title>
                      </bibl>
-                     <bibl>
-                        <title ref="pmb36340">Die Zeit. Wiener Wochenschrift</title>
-                     </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb213">Bad Ischl</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
-                     <place>
-                        <placeName ref="pmb213">Bad Ischl</placeName>
-                     </place>
                   </listPlace>
                   <listOrg>
-                     <org>
-                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb36430">Volkstheater</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb34301">Mercure de France</orgName>
-                     </org>
                      <org>
                         <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29221">Journal des débats</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb29442">Frankfurter Zeitung</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb34301">Mercure de France</orgName>
+                     </org>
+                     <org>
+                        <orgName ref="pmb36430">Volkstheater</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb36247">Burgtheater</orgName>
@@ -320,10 +317,10 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb182">Paris</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb296731">8, rue de Monceau</placeName>

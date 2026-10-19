@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -129,13 +129,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb134">Zell am Ziller</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb168940">Edmund-Weiß-Gasse 7</placeName>
@@ -144,7 +138,16 @@
                         <placeName ref="pmb423">Tirol</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb471">Alte Mariensäule</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb485">Hotel Vier Jahreszeiten</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -160,9 +163,6 @@
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2306">Heinrich Kley</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -171,19 +171,22 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb843">Santa Maria Elisabetta</placeName>
+                        <placeName ref="pmb259">Lido</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb40983">Grand Hotel des Bains</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb259">Lido</placeName>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb485">Hotel Vier Jahreszeiten</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb52007">Theatinerkirche</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb843">Santa Maria Elisabetta</placeName>
                      </place>
                   </listPlace>
                </desc>

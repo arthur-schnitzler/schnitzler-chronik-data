@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -140,25 +140,19 @@
                      <person>
                         <persName ref="pmb2173">Olga Schnitzler</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb13791">Ludwig Basch</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2150">Julius Bauer</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
-                     <bibl>
-                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
-                     </bibl>
                      <bibl>
                         <title ref="pmb295177">Das erste Kapitel. Schauspiel in drei Akten</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb296253">Der einsame Weg. Schauspiel von Artur Schnitzler. Erste Aufführung in den Kammerspielen am 27. November</title>
+                        <title ref="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb122056">Münchner Neueste Nachrichten</title>
+                     </bibl>
+                     <bibl>
+                        <title ref="pmb296253">Der einsame Weg. Schauspiel von Artur Schnitzler. Erste Aufführung in den Kammerspielen am 27. November</title>
                      </bibl>
                      <bibl>
                         <title ref="pmb41484">Illustrirtes Wiener Extrablatt</title>
@@ -166,10 +160,7 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb45258">München</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168815">Sternwartestraße 71</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb295215">Pension Serno</placeName>
@@ -178,7 +169,13 @@
                         <placeName ref="pmb296084">Theresienstraße 78</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb168">Berlin</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

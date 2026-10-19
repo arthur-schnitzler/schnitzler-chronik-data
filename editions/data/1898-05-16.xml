@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -93,9 +93,6 @@
                      <person>
                         <persName ref="pmb10863">Beer-Hofmann, Richard</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10905">Max Bernstein</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -104,16 +101,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365266">9/1 Post- und Telegraphenamt 66</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365266">9/1 Post- und Telegraphenamt 66</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
@@ -136,15 +133,21 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                     </person>
+                     <person>
                         <persName ref="pmb141891">
                   ?? [Chinesischer Fotograf]
                </persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb26392">Leo Van-Jung</persName>
                      </person>
                      <person>
-                        <persName ref="pmb26392">Leo Van-Jung</persName>
+                        <persName ref="pmb102825">Arthur Rosthorn</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb16658">Louis Philipp Friedmann</persName>
@@ -153,13 +156,7 @@
                         <persName ref="pmb16670">Rose Friedmann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb102825">Arthur Rosthorn</persName>
-                     </person>
-                     <person>
                         <persName ref="pmb2378">Marie Reinhard</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
                         <persName ref="pmb118324">Alice Ziegler</persName>
@@ -175,19 +172,19 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb44086">Hong Kong</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb118797">Guangzhou</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb118802">Hongkong Hotel</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb37885">Shanghai</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb118797">Guangzhou</placeName>
+                        <placeName ref="pmb44086">Hong Kong</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb468">Europa</placeName>
@@ -202,31 +199,34 @@
                         <placeName ref="pmb118369">Peking</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb860">Graz</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb521">Bad Gastein</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb30">Salzburg</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb45258">München</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb39752">Tegernsee</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb43435">Schweiz</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb151">Deutschland</placeName>
+                        <placeName ref="pmb43435">Schweiz</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb45258">München</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb521">Bad Gastein</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb860">Graz</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb141888">Deutsches Postamt in Shanghai</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb151">Deutschland</placeName>
                      </place>
                   </listPlace>
                   <listOrg>

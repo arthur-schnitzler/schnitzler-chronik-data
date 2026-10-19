@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -94,22 +94,22 @@
                      <person>
                         <persName ref="pmb4986">Fedor Mamroth</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb2412">William Shakespeare</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
                         <title ref="pmb88941">(Burgtheater.) [Rezension des Gastspiels von Anna Hochenburger]</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb41479">Wiener Sonn- und Montagszeitung</title>
+                        <title ref="pmb31213">Romeo and Juliet</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb31213">Romeo and Juliet</title>
+                        <title ref="pmb41479">Wiener Sonn- und Montagszeitung</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
+                     <place>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                     </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
@@ -122,10 +122,10 @@
                         <orgName ref="pmb36247">Burgtheater</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
+                        <orgName ref="pmb29525">Wiener Sonn- und Montagszeitung</orgName>
                      </org>
                      <org>
-                        <orgName ref="pmb29525">Wiener Sonn- und Montagszeitung</orgName>
+                        <orgName ref="pmb29698">An der schönen blauen Donau</orgName>
                      </org>
                   </listOrg>
                </desc>
@@ -141,15 +141,6 @@
                      <person>
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb10147">Franz von Suppè</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb26666">Camillo Walzel</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb11420">Richard Genée</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -161,16 +152,16 @@
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365357">1/1 Telegraphen-Central-Station C.R.</placeName>
+                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb501">Kärntnerring</placeName>
+                        <placeName ref="pmb365357">1/1 Telegraphen-Central-Station C.R.</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb167789">Ordination Arthur Schnitzler [Bösendorferstraße 11]</placeName>
+                        <placeName ref="pmb501">Kärntnerring</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -196,8 +187,8 @@
                            <place corresp="#pmb14">
                               <placeName>Burgtheater</placeName>
                            </place>
-                           <place corresp="#pmb167805">
-                              <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
+                           <place corresp="#pmb167789">
+                              <placeName>Wohnung und Ordination Arthur Schnitzler, Bösendorferstraße 11</placeName>
                            </place>
                         </listPlace>
                      </place>

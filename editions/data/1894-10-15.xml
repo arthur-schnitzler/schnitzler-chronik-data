@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -97,19 +97,19 @@
                         <persName ref="pmb11740">Hugo von Hofmannsthal</persName>
                      </person>
                      <person>
-                        <persName ref="pmb2167">Felix Salten</persName>
+                        <persName ref="pmb11988">Karl Kraus</persName>
                      </person>
                      <person>
                         <persName ref="pmb12899">Hermann Sudermann</persName>
                      </person>
                      <person>
-                        <persName ref="pmb11988">Karl Kraus</persName>
+                        <persName ref="pmb19610">Heinrich von Korff</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb2167">Felix Salten</persName>
                      </person>
                      <person>
                         <persName ref="pmb2450">Friedrich Michael Fels</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb19610">Heinrich von Korff</persName>
                      </person>
                      <person>
                         <persName ref="pmb2456">Richard Specht</persName>
@@ -120,9 +120,6 @@
                      <person>
                         <persName ref="pmb34828">Irma von Korff</persName>
                      </person>
-                     <person>
-                        <persName ref="pmb25793">Julius Szeps</persName>
-                     </person>
                   </listPerson>
                   <listBibl>
                      <bibl>
@@ -132,24 +129,21 @@
                         <title ref="pmb39950">Wiener Allgemeine Zeitung</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
                      </bibl>
                      <bibl>
-                        <title ref="pmb29865">Die Frau mit dem Dolche</title>
+                        <title ref="pmb29917">Liebelei. Schauspiel in drei Akten</title>
                      </bibl>
                   </listBibl>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb595">Neapel</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb364923">Hotel Hassler [Neapel]</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                        <placeName ref="pmb365214">1/1 Post- und Telegraphenamt 1</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb365452">Palazzo Orsini di Gravina</placeName>
@@ -158,21 +152,24 @@
                         <placeName ref="pmb40306">Italien</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb44116">Liverpool</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44116">Liverpool</placeName>
+                        <placeName ref="pmb595">Neapel</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
+                     <org>
+                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
+                     </org>
                      <org>
                         <orgName ref="pmb29670">Wiener Allgemeine Zeitung</orgName>
                      </org>
                      <org>
                         <orgName ref="pmb29794">Die Saubermänner. Tischgesellschaft</orgName>
-                     </org>
-                     <org>
-                        <orgName ref="pmb29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
                      </org>
                   </listOrg>
                </desc>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -102,25 +102,25 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb42542">Tromsø</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb365086">?? [Nördlich der Lofoten im Atlanik]</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb43570">Dänemark</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb1119">Stockholm</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36296">Oslo</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb365086">?? [Nördlich der Lofoten im Atlantik]</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40700">Göteborg</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb42542">Tromsø</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb43570">Dänemark</placeName>
                      </place>
                   </listPlace>
                   <listOrg>
@@ -220,22 +220,22 @@
                         <placeName ref="pmb182">Paris</placeName>
                      </place>
                      <place>
+                        <placeName ref="pmb36300">Kopenhagen</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb40290">Trondheim</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb42671">rue Feydeau</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb36300">Kopenhagen</placeName>
-                     </place>
-                     <place>
                         <placeName ref="pmb958">Skodsborg</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
+                        <placeName ref="pmb1091">Badehotellet</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb1091">Badehotellet</placeName>
+                        <placeName ref="pmb40903">Hotel Kongen af Danmark</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb36296">Oslo</placeName>
@@ -264,7 +264,7 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-17</idno>
             </event>
             <event when-iso="1896-07-17">
-               <head corresp="#pmb365086">?? [Nördlich der Lofoten im Atlanik]</head>
+               <head corresp="#pmb365086">?? [Nördlich der Lofoten im Atlantik]</head>
                <desc/>
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1896-07-17</idno>
             </event>

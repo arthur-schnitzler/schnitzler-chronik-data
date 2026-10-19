@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -101,30 +101,6 @@
                <idno type="wienerschnitzler">https://wienerschnitzler.org/tag.html#1889-11-02</idno>
             </event>
             <event when-iso="1889-11-02">
-               <head>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                     </org>
-                  </listOrg>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
-                        <location>
-                           <geo>48,210333 16,37084</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
-            </event>
-            <event when-iso="1889-11-02">
                <head>Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</head>
                <desc>
                   <listOrg>
@@ -150,6 +126,7 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186720.html</idno>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
             </event>
          </listEvent>
       </body>

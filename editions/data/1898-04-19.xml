@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when-iso="2026-10-06.">06.10.2026</date>
+            <date when-iso="2026-10-19.">19.10.2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
@@ -100,31 +100,31 @@
                   </listPerson>
                   <listPlace>
                      <place>
+                        <placeName ref="pmb1106">Residenzhotel</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb34210">Café Kaiserhof (Inh. Johann Wortner) [Wien]</placeName>
+                     </place>
+                     <place>
                         <placeName ref="pmb365266">9/1 Post- und Telegraphenamt 66</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb365269">1/1 Telegramm- und Rohrpostamt 2</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb168934">Frankgasse 1</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb59">IX., Alsergrund</placeName>
+                        <placeName ref="pmb50">Wien</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb51">I., Innere Stadt</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb50">Wien</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb1106">Residenzhotel</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb34210">Café Kaiserhof (Inh. Johann Wortner) [Wien]</placeName>
+                        <placeName ref="pmb59">IX., Alsergrund</placeName>
                      </place>
                   </listPlace>
                </desc>
@@ -141,13 +141,7 @@
                         <persName ref="pmb2121">Schnitzler, Arthur</persName>
                      </person>
                      <person>
-                        <persName ref="pmb24233">Franziska Schlesinger</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
-                     </person>
-                     <person>
-                        <persName ref="pmb3130">Clemens von Franckenstein</persName>
+                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
                      </person>
                      <person>
                         <persName ref="pmb11359">Georg von Franckenstein</persName>
@@ -156,24 +150,33 @@
                         <persName ref="pmb12671">Paul Schlenther</persName>
                      </person>
                      <person>
-                        <persName ref="pmb10863">Richard Beer-Hofmann</persName>
+                        <persName ref="pmb2292">Gertrude von Hofmannsthal</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb24233">Franziska Schlesinger</persName>
+                     </person>
+                     <person>
+                        <persName ref="pmb3130">Clemens von Franckenstein</persName>
                      </person>
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName ref="pmb50">Wien</placeName>
+                        <placeName ref="pmb168934">Frankgasse 1</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb44271">Pressbaum</placeName>
-                     </place>
-                     <place>
-                        <placeName ref="pmb662">Baden bei Wien</placeName>
+                        <placeName ref="pmb34210">Café Kaiserhof (Inh. Johann Wortner) [Wien]</placeName>
                      </place>
                      <place>
                         <placeName ref="pmb34310">Café de l’Europe</placeName>
                      </place>
                      <place>
-                        <placeName ref="pmb34210">Café Kaiserhof (Inh. Johann Wortner) [Wien]</placeName>
+                        <placeName ref="pmb44271">Pressbaum</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb50">Wien</placeName>
+                     </place>
+                     <place>
+                        <placeName ref="pmb662">Baden bei Wien</placeName>
                      </place>
                   </listPlace>
                </desc>

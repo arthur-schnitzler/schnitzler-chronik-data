@@ -73,6 +73,11 @@
   [
  {
  "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
@@ -111,19 +116,14 @@
  "pmb2121"},
  {
  "persName":
+ "Richard Beer-Hofmann",
+ "ref":
+ "pmb10863"},
+ {
+ "persName":
  "Moriz Benedikt",
  "ref":
  "pmb10875"},
- {
- "persName":
- "Olga Schnitzler",
- "ref":
- "pmb2173"},
- {
- "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -131,24 +131,9 @@
  "pmb11740"},
  {
  "persName":
- "Herman Heijermans",
- "ref":
- "pmb7767"},
- {
- "persName":
  "Alfred Kerr",
  "ref":
  "pmb11910"},
- {
- "persName":
- "Marie Glümer",
- "ref":
- "pmb14953"},
- {
- "persName":
- "Auguste Glümer",
- "ref":
- "pmb14948"},
  {
  "persName":
  "Irene Triesch",
@@ -156,14 +141,14 @@
  "pmb12977"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Auguste Glümer",
  "ref":
- "pmb10863"},
+ "pmb14948"},
  {
  "persName":
- "Berta Doepler",
+ "Marie Glümer",
  "ref":
- "pmb45120"},
+ "pmb14953"},
  {
  "persName":
  "Peter Dorner",
@@ -171,9 +156,34 @@
  "pmb15445"},
  {
  "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Olga Schnitzler",
+ "ref":
+ "pmb2173"},
+ {
+ "persName":
+ "Berta Doepler",
+ "ref":
+ "pmb45120"},
+ {
+ "persName":
+ "Herman Heijermans",
+ "ref":
+ "pmb7767"},
+ {
+ "persName":
  "Gerhart Hauptmann",
  "ref":
  "pmb11617"},
+ {
+ "persName":
+ "Walther Rathenau",
+ "ref":
+ "pmb12471"},
  {
  "persName":
  "Herman (Sr.) Heijermans",
@@ -186,41 +196,16 @@
  "pmb38973"},
  {
  "persName":
- "Walther Rathenau",
- "ref":
- "pmb12471"},
- {
- "persName":
  "Elisabeth Steinrück",
  "ref":
- "pmb2315"},
- {
- "persName":
- "Eduard Bacher",
- "ref":
- "pmb10809"},
- {
- "persName":
- "Ernst Benedikt",
- "ref":
- "pmb10872"},
- {
- "persName":
- "Maximilian Harden",
- "ref":
- "pmb11581"},
- {
- "persName":
- "Adolf Brüning",
- "ref":
- "pmb144246"}],
+ "pmb2315"}],
  "listBibl":
   [
  {
  "title":
- "Neue Freie Presse",
+ "Physiologie des Kunstempfindens. Der Grundsatz",
  "ref":
- "pmb36374"}
+ "pmb144522"}
  ,  {
  "title":
  "Lebendige Stunden. Vier Einakter",
@@ -233,9 +218,9 @@
  "pmb29879"}
  ,  {
  "title":
- "Die Hoffnung auf Segen. Eine Fischertragödie in vier Acten",
+ "Neue Freie Presse",
  "ref":
- "pmb79860"}
+ "pmb36374"}
  ,  {
  "title":
  "Die Zukunft",
@@ -243,19 +228,9 @@
  "pmb40042"}
  ,  {
  "title":
- "Physiologie des Kunstempfindens. Der Grundsatz",
+ "Die Hoffnung auf Segen. Eine Fischertragödie in vier Acten",
  "ref":
- "pmb144522"}
- ,  {
- "title":
- "Theater- und Kunstnachrichten [zur Eröffnung des Jung-Wiener Theaters zum lieben Augustin]",
- "ref":
- "pmb144527"}
- ,  {
- "title":
- "Lebendige Stunden",
- "ref":
- "pmb29957"}
+ "pmb79860"}
  ,  {
  "title":
  "Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)",
@@ -263,19 +238,29 @@
  "pmb144122"}
  ,  {
  "title":
- "Berliner Theater. »Einsame Menschen« im Deutschen Theater",
- "ref":
- "pmb29861"}
- ,  {
- "title":
  "Op hoop van zegen. Spel van de zee in vier bedrijven",
  "ref":
  "pmb144156"}
  ,  {
  "title":
+ "Theater- und Kunstnachrichten [zur Eröffnung des Jung-Wiener Theaters zum lieben Augustin]",
+ "ref":
+ "pmb144527"}
+ ,  {
+ "title":
  "»Die Hoffnung«. »Ein Seestück« von Heyermans. Erst-Aufführung im Deutschen Theater",
  "ref":
  "pmb144532"}
+ ,  {
+ "title":
+ "Berliner Theater. »Einsame Menschen« im Deutschen Theater",
+ "ref":
+ "pmb29861"}
+ ,  {
+ "title":
+ "Lebendige Stunden",
+ "ref":
+ "pmb29957"}
  ,  {
  "title":
  "Der Tag",
@@ -296,9 +281,9 @@
  "pmb168"}
  ,  {
  "placeName":
- "Wien",
+ "Frankgasse 1",
  "ref":
- "pmb50"}
+ "pmb168934"}
  ,  {
  "placeName":
  "Dessauer Straße",
@@ -324,14 +309,14 @@
  "pmb144041"}
  ,  {
  "orgName":
- "Frankfurter Stadttheater",
- "ref":
- "pmb88756"}
- ,  {
- "orgName":
  "Deutsches Theater Berlin",
  "ref":
  "pmb35597"}
+ ,  {
+ "orgName":
+ "Frankfurter Stadttheater",
+ "ref":
+ "pmb88756"}
  ]
 }
 }, {

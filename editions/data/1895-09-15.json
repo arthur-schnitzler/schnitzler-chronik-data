@@ -61,14 +61,14 @@
  "pmb10863"},
  {
  "persName":
+ "Ludwig Anzengruber",
+ "ref":
+ "pmb10772"},
+ {
+ "persName":
  "Hermann Bahr",
  "ref":
  "pmb10815"},
- {
- "persName":
- "Adele Sandrock",
- "ref":
- "pmb12618"},
  {
  "persName":
  "Max Eugen Burckhard",
@@ -76,34 +76,9 @@
  "pmb11036"},
  {
  "persName":
- "Josef von Bezecný",
+ "Alfred Gold",
  "ref":
- "pmb14179"},
- {
- "persName":
- "Jakob Julius David",
- "ref":
- "pmb2416"},
- {
- "persName":
- "Ludwig Speidel",
- "ref":
- "pmb12816"},
- {
- "persName":
- "Leo Ebermann",
- "ref":
- "pmb2157"},
- {
- "persName":
- "Ludwig Anzengruber",
- "ref":
- "pmb10772"},
- {
- "persName":
- "Heinrich Laube",
- "ref":
- "pmb2702"},
+ "pmb11469"},
  {
  "persName":
  "Hugo von Hofmannsthal",
@@ -111,9 +86,9 @@
  "pmb11740"},
  {
  "persName":
- "Felix Salten",
+ "Adele Sandrock",
  "ref":
- "pmb2167"},
+ "pmb12618"},
  {
  "persName":
  "Gustav Schwarzkopf",
@@ -121,14 +96,14 @@
  "pmb12740"},
  {
  "persName":
- "Alfred Gold",
+ "Ludwig Speidel",
  "ref":
- "pmb11469"},
+ "pmb12816"},
  {
  "persName":
- "Lou Brion",
+ "Josef von Bezecný",
  "ref":
- "pmb2881"},
+ "pmb14179"},
  {
  "persName":
  "Paul Horn",
@@ -136,9 +111,29 @@
  "pmb18523"},
  {
  "persName":
- "Olga von Golovin",
+ "Leo Ebermann",
  "ref":
- "pmb17222"},
+ "pmb2157"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"},
+ {
+ "persName":
+ "Jakob Julius David",
+ "ref":
+ "pmb2416"},
+ {
+ "persName":
+ "Heinrich Laube",
+ "ref":
+ "pmb2702"},
+ {
+ "persName":
+ "Lou Brion",
+ "ref":
+ "pmb2881"},
  {
  "persName":
  "Hugo August von Hofmannsthal",
@@ -146,14 +141,19 @@
  "pmb11737"},
  {
  "persName":
- "Anna von Hofmannsthal",
- "ref":
- "pmb18404"},
- {
- "persName":
  "Rosa Bahr",
  "ref":
- "pmb13682"}],
+ "pmb13682"},
+ {
+ "persName":
+ "Olga von Golovin",
+ "ref":
+ "pmb17222"},
+ {
+ "persName":
+ "Anna von Hofmannsthal",
+ "ref":
+ "pmb18404"}],
  "listBibl":
   [
  {
@@ -191,14 +191,9 @@
   [
  {
  "placeName":
- "9/3 Post- und Telegraphenamt 72",
+ "Burgtheater",
  "ref":
- "pmb365208"}
- ,  {
- "placeName":
- "Schönberg im Stubaital",
- "ref":
- "pmb759"}
+ "pmb14"}
  ,  {
  "placeName":
  "Frankgasse 1",
@@ -206,14 +201,19 @@
  "pmb168934"}
  ,  {
  "placeName":
+ "Russland",
+ "ref":
+ "pmb34438"}
+ ,  {
+ "placeName":
+ "9/3 Post- und Telegraphenamt 72",
+ "ref":
+ "pmb365208"}
+ ,  {
+ "placeName":
  "Tirol",
  "ref":
  "pmb423"}
- ,  {
- "placeName":
- "Riva del Garda",
- "ref":
- "pmb465"}
  ,  {
  "placeName":
  "Venedig",
@@ -221,19 +221,19 @@
  "pmb462"}
  ,  {
  "placeName":
+ "Riva del Garda",
+ "ref":
+ "pmb465"}
+ ,  {
+ "placeName":
+ "Hodonín",
+ "ref":
+ "pmb49823"}
+ ,  {
+ "placeName":
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Burgtheater",
- "ref":
- "pmb14"}
- ,  {
- "placeName":
- "Russland",
- "ref":
- "pmb34438"}
  ,  {
  "placeName":
  "Tegetthoff-Denkmal",
@@ -241,9 +241,9 @@
  "pmb549"}
  ,  {
  "placeName":
- "Hodonín",
+ "Schönberg im Stubaital",
  "ref":
- "pmb49823"}
+ "pmb759"}
  ,  {
  "placeName":
  "Bruck an der Mur",
@@ -284,6 +284,11 @@
  "pmb2121"},
  {
  "persName":
+ "Giuseppe Giacosa",
+ "ref":
+ "pmb11431"},
+ {
+ "persName":
  "Adolf von Sonnenthal",
  "ref":
  "pmb12809"},
@@ -296,17 +301,7 @@
  "persName":
  "Anna Bauer",
  "ref":
- "pmb29160"},
- {
- "persName":
- "Giuseppe Giacosa",
- "ref":
- "pmb11431"},
- {
- "persName":
- "Otto Eisenschitz",
- "ref":
- "pmb4076"}],
+ "pmb29160"}],
  "listBibl":
   [
  {
@@ -324,14 +319,19 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Sprottau",
  "ref":
  "pmb1004"}
+ ,  {
+ "placeName":
+ "Frankgasse 1",
+ "ref":
+ "pmb168934"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [

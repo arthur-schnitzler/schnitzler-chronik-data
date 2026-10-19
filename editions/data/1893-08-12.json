@@ -158,22 +158,7 @@
  "persName":
  "?? [Regimentsarzt]",
  "ref":
- "pmb27693"},
- {
- "persName":
- "Fedor Mamroth",
- "ref":
- "pmb4986"},
- {
- "persName":
- "Paul Goldmann",
- "ref":
- "pmb11485"},
- {
- "persName":
- "Zacharias Konrad Lecher",
- "ref":
- "pmb8514"}],
+ "pmb27693"}],
  "listBibl":
   [
  {
@@ -190,6 +175,11 @@
  "listPlace":
   [
  {
+ "placeName":
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
+ "ref":
+ "pmb167782"}
+ ,  {
  "placeName":
  "Wien",
  "ref":
@@ -239,14 +229,14 @@
   [
  {
  "placeName":
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
+ "ref":
+ "pmb167782"}
+ ,  {
+ "placeName":
  "Berlin",
  "ref":
  "pmb168"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
  ],
  "listOrg":
   [
@@ -285,27 +275,17 @@
  "pmb2121"},
  {
  "persName":
- "Felix Salten",
- "ref":
- "pmb2167"},
- {
- "persName":
  "Paul Goldmann",
  "ref":
- "pmb11485"}],
+ "pmb11485"},
+ {
+ "persName":
+ "Felix Salten",
+ "ref":
+ "pmb2167"}],
  "listPlace":
   [
  {
- "placeName":
- "1/1 Post- und Telegraphenamt 1",
- "ref":
- "pmb365214"}
- ,  {
- "placeName":
- "Strobl",
- "ref":
- "pmb895"}
- ,  {
  "placeName":
  "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
  "ref":
@@ -315,6 +295,16 @@
  "Salzburg",
  "ref":
  "pmb30"}
+ ,  {
+ "placeName":
+ "1/1 Post- und Telegraphenamt 1",
+ "ref":
+ "pmb365214"}
+ ,  {
+ "placeName":
+ "Strobl",
+ "ref":
+ "pmb895"}
  ]
 }
 }, {
@@ -345,9 +335,9 @@
  "pmb2121"},
  {
  "persName":
- "Theodor Entsch",
+ "Richard Beer-Hofmann",
  "ref":
- "pmb2871"},
+ "pmb10863"},
  {
  "persName":
  "Gilbert Otto Neumann-Hofer",
@@ -355,19 +345,14 @@
  "pmb12348"},
  {
  "persName":
- "Richard Beer-Hofmann",
+ "Theodor Entsch",
  "ref":
- "pmb10863"},
+ "pmb2871"},
  {
  "persName":
  "Fedor von Zobeltitz",
  "ref":
- "pmb5684"},
- {
- "persName":
- "Hugo von Hofmannsthal",
- "ref":
- "pmb11740"}],
+ "pmb5684"}],
  "listBibl":
   [
  {
@@ -375,6 +360,11 @@
  "Das Märchen. Schauspiel in drei Aufzügen",
  "ref":
  "pmb29823"}
+ ,  {
+ "title":
+ "Anatol",
+ "ref":
+ "pmb29935"}
  ,  {
  "title":
  "Abschiedssouper",
@@ -387,19 +377,9 @@
  "pmb40968"}
  ,  {
  "title":
- "Anatol",
+ "Camelias",
  "ref":
- "pmb29935"}
- ,  {
- "title":
- "Ohne Geläut",
- "ref":
- "pmb33530"}
- ,  {
- "title":
- "Novellen",
- "ref":
- "pmb32832"}
+ "pmb30177"}
  ,  {
  "title":
  "Das Kind",
@@ -407,23 +387,38 @@
  "pmb30437"}
  ,  {
  "title":
- "Camelias",
+ "Novellen",
  "ref":
- "pmb30177"}
+ "pmb32832"}
  ,  {
  "title":
- "[Meldung: Märchen im Lessingtheater]",
+ "Ohne Geläut",
  "ref":
- "pmb33532"}
+ "pmb33530"}
  ,  {
  "title":
  "Wiener Dichter",
  "ref":
  "pmb33444"}
+ ,  {
+ "title":
+ "[Meldung: Märchen im Lessingtheater]",
+ "ref":
+ "pmb33532"}
  ],
  "listPlace":
   [
  {
+ "placeName":
+ "Ramsauer Garni Café",
+ "ref":
+ "pmb1219"}
+ ,  {
+ "placeName":
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
+ "ref":
+ "pmb167782"}
+ ,  {
  "placeName":
  "Bad Ischl",
  "ref":
@@ -433,11 +428,6 @@
  "Wien",
  "ref":
  "pmb50"}
- ,  {
- "placeName":
- "Ramsauer Garni Café",
- "ref":
- "pmb1219"}
  ],
  "listOrg":
   [
@@ -521,19 +511,9 @@
   [
  {
  "placeName":
- "Dölsach",
+ "Wohnung und Ordination Arthur Schnitzler Grillparzerstraße 7/3. Stock",
  "ref":
- "pmb945"}
- ,  {
- "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
- "Lienz",
- "ref":
- "pmb897"}
+ "pmb167782"}
  ,  {
  "placeName":
  "Polen",
@@ -541,14 +521,24 @@
  "pmb313"}
  ,  {
  "placeName":
- "Toblach",
- "ref":
- "pmb987"}
- ,  {
- "placeName":
  "Cortina d’Ampezzo",
  "ref":
  "pmb34199"}
+ ,  {
+ "placeName":
+ "Lienz",
+ "ref":
+ "pmb897"}
+ ,  {
+ "placeName":
+ "Dölsach",
+ "ref":
+ "pmb945"}
+ ,  {
+ "placeName":
+ "Toblach",
+ "ref":
+ "pmb987"}
  ,  {
  "placeName":
  "Putzenbacher",

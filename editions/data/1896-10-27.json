@@ -109,11 +109,6 @@
   [
  {
  "placeName":
- "Wien",
- "ref":
- "pmb50"}
- ,  {
- "placeName":
  "Berlin",
  "ref":
  "pmb168"}
@@ -122,6 +117,11 @@
  "Schloss Schönbrunn",
  "ref":
  "pmb21799"}
+ ,  {
+ "placeName":
+ "Wien",
+ "ref":
+ "pmb50"}
  ],
  "listOrg":
   [
@@ -160,11 +160,6 @@
  "pmb2121"},
  {
  "persName":
- "Leopold Sonnemann",
- "ref":
- "pmb87771"},
- {
- "persName":
  "Henning von Brüsewitz",
  "ref":
  "pmb113878"},
@@ -175,17 +170,32 @@
  "pmb2914"},
  {
  "persName":
- "Theodor Siepmann",
+ "Leopold Sonnemann",
  "ref":
- "pmb114034"},
+ "pmb87771"},
  {
  "persName":
  "Otto Brahm",
  "ref":
- "pmb10986"}],
+ "pmb10986"},
+ {
+ "persName":
+ "Theodor Siepmann",
+ "ref":
+ "pmb114034"}],
  "listBibl":
   [
  {
+ "title":
+ "Current Literature",
+ "ref":
+ "pmb122323"}
+ ,  {
+ "title":
+ "Arthur Schnitzler. Dramatist of the Twilight Soul.",
+ "ref":
+ "pmb140867"}
+ ,  {
  "title":
  "Freiwild. Schauspiel in 3 Akten",
  "ref":
@@ -197,16 +207,6 @@
  "pmb33243"}
  ,  {
  "title":
- "Arthur Schnitzler. Dramatist of the Twilight Soul.",
- "ref":
- "pmb140867"}
- ,  {
- "title":
- "Current Literature",
- "ref":
- "pmb122323"}
- ,  {
- "title":
  "Frankfurter Zeitung",
  "ref":
  "pmb36344"}
@@ -215,9 +215,9 @@
   [
  {
  "placeName":
- "Paris",
+ "Deutschland",
  "ref":
- "pmb182"}
+ "pmb151"}
  ,  {
  "placeName":
  "Berlin",
@@ -225,14 +225,19 @@
  "pmb168"}
  ,  {
  "placeName":
+ "Paris",
+ "ref":
+ "pmb182"}
+ ,  {
+ "placeName":
  "rue Feydeau",
  "ref":
  "pmb42671"}
  ,  {
  "placeName":
- "Deutschland",
+ "Café Tannhäuser",
  "ref":
- "pmb151"}
+ "pmb114249"}
  ,  {
  "placeName":
  "Deutsches Theater Berlin",
@@ -243,11 +248,6 @@
  "Karlsruhe",
  "ref":
  "pmb871"}
- ,  {
- "placeName":
- "Café Tannhäuser",
- "ref":
- "pmb114249"}
  ],
  "listOrg":
   [
