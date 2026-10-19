@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Vienna, Austria</pubPlace>
-            <date>2026-10-06Z</date>
+            <date>2026-10-19Z</date>
             <idno type="URI">https://github.com/arthur-schnitzler/schnitzler-kultur/blob/main/data/editions/listevent.xml</idno>
             <idno type="handle">XXXX</idno>
          </publicationStmt>
@@ -26404,30 +26404,6 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208349.html</idno>
             </event>
             <event when-iso="1889-11-02">
-               <head>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</head>
-               <desc>
-                  <listOrg>
-                     <org role="veranstaltet von">
-                        <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                     </org>
-                  </listOrg>
-                  <listPerson>
-                     <person role="hat teilnehmend">
-                        <persName key="pmb2121">Schnitzler, Arthur</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place>
-                        <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
-                        <location>
-                           <geo>48,210333 16,37084</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </desc>
-               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
-            </event>
-            <event when-iso="1889-11-02">
                <head>Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</head>
                <desc>
                   <listOrg>
@@ -26453,6 +26429,7 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186720.html</idno>
+               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
             </event>
             <event when-iso="1889-11-03">
                <head>Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1889</head>
@@ -30954,9 +30931,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb730">Seidlgasse</placeName>
+                        <placeName role="veranstaltet in" key="pmb364746">Seidlgasse 30</placeName>
                         <location>
-                           <geo>48,206786325191 16,389660949005</geo>
+                           <geo>48,205599 16,388584</geo>
                         </location>
                      </place>
                   </listPlace>
@@ -33530,6 +33507,11 @@
             <event when-iso="1892-03-13">
                <head>22. Konzert des ersten Wiener Volksquartetts für classische Musik, 13.3.1892</head>
                <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb294057">Erstes Wiener Volksquartett für classische Musik</orgName>
+                     </org>
+                  </listOrg>
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -33784,6 +33766,32 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208546.html</idno>
+            </event>
+            <event when-iso="1892-03-29">
+               <head>Vereinsabend Verein für modernes Leben, 29.3.1892</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb89319">Verein für modernes Leben</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb10815">Bahr, Hermann</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb337">Hotel de France</placeName>
+                        <location>
+                           <geo>48,214527 16,362946</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
             </event>
             <event when-iso="1892-04-02">
                <head>Premiere von Die Ehre, 2.4.1892</head>
@@ -35385,7 +35393,7 @@
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142765.html</idno>
             </event>
             <event when-iso="1892-10-31">
-               <head>Premiere von Die Orientreise. Schwank in drei Akten, 31.10.1892</head>
+               <head>Premiere von Die Orientreise, 31.10.1892</head>
                <desc>
                   <listOrg>
                      <org role="veranstaltet von">
@@ -35401,6 +35409,9 @@
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb11988">Kraus, Karl</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -35635,6 +35646,29 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208586.html</idno>
             </event>
+            <event when-iso="1892-12-04">
+               <head>3. Abonnementkonzert, 4.12.1892</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb29378">Wiener Philharmoniker</orgName>
+                     </org>
+                  </listOrg>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                        <location>
+                           <geo>48,201265597319 16,372564182283</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
             <event when-iso="1892-12-05">
                <head>Aufführung von Don Giovanni, 5.12.1892</head>
                <desc>
@@ -35709,6 +35743,35 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208588.html</idno>
             </event>
+            <event when-iso="1892-12-14">
+               <head>Aufführung von Die Jüdin von Toledo, 14.12.1892</head>
+               <desc>
+                  <listOrg>
+                     <org role="veranstaltet von">
+                        <orgName key="pmb36247">Burgtheater</orgName>
+                     </org>
+                  </listOrg>
+                  <listBibl>
+                     <bibl>
+                        <title key="pmb34284">Die Jüdin von Toledo</title>
+                        <note type="relation-type">ist Aufführung von</note>
+                     </bibl>
+                  </listBibl>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                        <location>
+                           <geo>48,210333 16,361139</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
             <event when-iso="1892-12-20">
                <head>Private Lesung von Episode, 20.12.1892</head>
                <desc>
@@ -35754,6 +35817,24 @@
                   </listPlace>
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192651.html</idno>
+            </event>
+            <event when-iso="1892-12-29">
+               <head>?? [Theaterbesuch], 29.12.1892</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                        <location>
+                           <geo>48,208333 16,373056</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
             </event>
             <event when-iso="1893-01-03">
                <head>Dritter Kammermusikabend des Rosé-Quartetts, 3.1.1893</head>
@@ -44677,7 +44758,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb842">Karlsbad</placeName>
+                        <placeName role="veranstaltet in" key="pmb842">Karlovy Vary</placeName>
                         <location>
                            <geo>50,23271 12,87117</geo>
                         </location>
@@ -45268,6 +45349,30 @@
                </desc>
                <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208764.html</idno>
             </event>
+            <event when-iso="1895-08-11">
+               <head>Aufführung eines Marionettentheaters, 11.8.1895</head>
+               <desc>
+                  <listPerson>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb2167">Salten, Felix</persName>
+                     </person>
+                     <person role="hat teilnehmend">
+                        <persName key="pmb3784">Pohl-Glas, Charlotte</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place>
+                        <placeName role="veranstaltet in" key="pmb168273">Marionettentheater</placeName>
+                        <location>
+                           <geo>48,21753 16,39469</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </desc>
+            </event>
             <event when-iso="1895-08-12">
                <head>Aufführung von Hänsel und Grethel, 12.8.1895</head>
                <desc>
@@ -45432,6 +45537,9 @@
                   <listPerson>
                      <person role="hat teilnehmend">
                         <persName key="pmb2121">Schnitzler, Arthur</persName>
+                     </person>
+                     <person role="hat mitwirkend">
+                        <persName key="pmb4983">Conrad-Ramlo, Marie</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -71685,7 +71793,7 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb145165">Hauptstraße 56</placeName>
+                        <placeName role="veranstaltet in" key="pmb145165">Hauptstraße 56 [Hinterbrühl]</placeName>
                         <location>
                            <geo>48,08736 16,24924</geo>
                         </location>
@@ -101620,9 +101728,9 @@
                   </listPerson>
                   <listPlace>
                      <place>
-                        <placeName role="veranstaltet in" key="pmb90713">Giardini pubblici Indro Montanelli</placeName>
+                        <placeName role="veranstaltet in" key="pmb90711">Giardini Napoleonici</placeName>
                         <location>
-                           <geo>45,47446 9,19983</geo>
+                           <geo>45,42953 12,35645</geo>
                         </location>
                      </place>
                   </listPlace>
